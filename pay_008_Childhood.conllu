@@ -42,13 +42,14 @@
 2	pero	pero	PART	PRT	_	_	_	_	AlignBegin=11963|AlignEnd=13080|GE=[SPA_but]|Gloss=SPA_but|nWord=2|RX=[PRT]
 3	en	en	<NOT_SURE>	<NOT_SURE>	_	_	_	_	AlignBegin=13080|AlignEnd=14197|GE=[SPA_in]|Gloss=SPA_in|nWord=3|RX=[<NOT_SURE>]
 4	pesh	pesh	<NOT_SURE>	<NOT_SURE>	_	_	_	_	AlignBegin=14197|AlignEnd=15314|GE=[SPA_Pesh]|Gloss=SPA_Pesh|nWord=4|RX=[<NOT_SURE>]
+8	.	.	PUNCT	_	_	_	punct	_	AlignBegin=14197|AlignEnd=15314|nWord=5
 
 # sent_id = 003-004
 # speaker_id = @JH
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_008_Childhood_ToCoNLL_NEW.WAV
 # sent_timecode = 20533, 25673
 # morphemic_text = tas yeʔriʃ ye =rira =mã que significo yo que significo yo
-# text = tas yeʔriʃ ye rira mã que significo yo que significo yo ?.
+# text = tas yeʔriʃ ye rira mã que significo yo que significo yo ?
 # text_en =  Me, when I was a child What I mean, what I mean.
 # text_phrase-gls-de =  008.003_JH 008.004_JH
 # text_phrase-gls-es =  Yo cuando era niña que significo yo que significo yo
@@ -66,6 +67,7 @@
 9	que	que	<NOT_SURE>	<NOT_SURE>	_	_	_	_	AlignBegin=24637|AlignEnd=24896|GE=[SPA_that]|Gloss=SPA_that|nWord=9|RX=[<NOT_SURE>]
 10	significo	significo	<NOT_SURE>	<NOT_SURE>	_	_	_	_	AlignBegin=24896|AlignEnd=25155|GE=[SPA_mean]|Gloss=SPA_mean|nWord=10|RX=[<NOT_SURE>]
 11	yo	yo	<NOT_SURE>	<NOT_SURE>	_	_	_	_	AlignBegin=25155|AlignEnd=25414|GE=[SPA_I]|Gloss=SPA_I|nWord=11|RX=[<NOT_SURE>]
+8	?	?	PUNCT	_	_	_	punct	_	AlignBegin=14197|AlignEnd=15314|nWord=12
 
 # sent_id = 005-005
 # speaker_id = @CC
@@ -172,7 +174,7 @@
 # text_phrase-gls-it =  páʰpáʰkòˀ tá kàˀbɾùɾìˀ
 # text_phrase-gls-pro =  || páʰˈpáʰkòˀ (0.2s) || tá ˈkàˀbɾùɾìˀ (0.6s) ||
 # text_phrase-gls-wg =  straw:NMLZ say:HAB:PST:EXCL>3PL
-1	pahpah	pahpah	_	_	_	2	comp/m	_	_
+1	pahpah	pahpah	_	_	_	2	comp/m	_	AlignBegin=46600|AlignEnd=47246|GE=[tapuca].[tree].[sp]|Gloss=tapuca.tree.sp|nWord=1|RX=[N]
 2	-ko		N>N	N>N	_	3	comp:obl	_	AlignBegin=47246|AlignEnd=47570|GE=[NMLZ].[CONT]|Gloss=NMLZ.CONT|nWord=1|RX=[N>N]
 3	tV		VERB	VT	_	6	comp:aux/m	_	AlignBegin=47570|AlignEnd=47764|GE=say|Gloss=say|nWord=2|RX=[VT]
 4	ka-		PRON	V:ANY	_	3	comp:obj/m	_	AlignBegin=47764|AlignEnd=47958|GE=[O3PL]|Gloss=O3PL-|nWord=2|RX=[V:ANY]
@@ -391,14 +393,14 @@
 13	tũh	tũh	VERB	VT	_	15	comp:aux	_	AlignBegin=97710|AlignEnd=97874|GE=send|Gloss=send|nWord=10|RX=[VT]
 14	-er		PRON	V:ANY	_	15	subj	_	AlignBegin=97874|AlignEnd=98038|GE=[S3PL]|Gloss=-S3PL|nWord=10|RX=[V:ANY]
 15	-i		AUX	V:ANY	_	0	root	_	AlignBegin=98038|AlignEnd=98200|GE=[PST]|Gloss=-PST|nWord=10|RX=[V:ANY]
-16	ĩ	ĩ	PRON	PRO	_	20	comp:obj	_	AlignBegin=98886|AlignEnd=99244|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=1|RX=[PRO]
-17	=ɲa		PART	PRT	_	16	det	_	AlignBegin=99244|AlignEnd=99602|GE=[INDF]|Gloss==INDF|nWord=2|RX=[PRT]
-18	a-		PRON	VT:ANY	_	20	comp:obj/m	_	AlignBegin=99602|AlignEnd=99674|GE=[O3SG]|Gloss=O3SG-|nWord=3|RX=[VT:ANY]
-19	r-		V:ANY	V:ANY	_	20	comp	_	AlignBegin=99674|AlignEnd=99746|GE=[APPL].[P]|Gloss=APPL.P-|nWord=3|RX=[V:ANY]
-20	tʃuiʃ	tʃuiʃ	VERB	V	_	22	comp:aux	_	AlignBegin=99746|AlignEnd=99818|GE=learn|Gloss=learn|nWord=3|RX=[V]
-21	-bar		PRON	V:ANY	_	22	subj/m	_	AlignBegin=100892|AlignEnd=100964|Clusivity=Ex|GE=[S1PL].[EXCL]|Gloss=-S1PL.EXCL|nWord=6|RX=[V:ANY]
-22	-pi		AUX	V:ANY	_	23	comp:obj	_	AlignBegin=100964|AlignEnd=101034|GE=[FUT]|Gloss=-FUT|nWord=6|RX=[V:ANY]
-23	=ra		SCONJ	PRT	_	15	mod	_	AlignBegin=101034|AlignEnd=101393|GE=[PURP]|Gloss==PURP|nWord=7|RX=[PRT]
+16	ĩ	ĩ	PRON	PRO	_	20	comp:obj	_	AlignBegin=98886|AlignEnd=99244|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=11|RX=[PRO]
+17	=ɲa		PART	PRT	_	16	det	_	AlignBegin=99244|AlignEnd=99602|GE=[INDF]|Gloss==INDF|nWord=12|RX=[PRT]
+18	a-		PRON	VT:ANY	_	20	comp:obj/m	_	AlignBegin=99602|AlignEnd=99674|GE=[O3SG]|Gloss=O3SG-|nWord=13|RX=[VT:ANY]
+19	r-		V:ANY	V:ANY	_	20	comp	_	AlignBegin=99674|AlignEnd=99746|GE=[APPL].[P]|Gloss=APPL.P-|nWord=13|RX=[V:ANY]
+20	tʃuiʃ	tʃuiʃ	VERB	V	_	22	comp:aux	_	AlignBegin=99746|AlignEnd=99818|GE=learn|Gloss=learn|nWord=13|RX=[V]
+21	-bar		PRON	V:ANY	_	22	subj/m	_	AlignBegin=100892|AlignEnd=100964|Clusivity=Ex|GE=[S1PL].[EXCL]|Gloss=-S1PL.EXCL|nWord=13|RX=[V:ANY]
+22	-pi		AUX	V:ANY	_	23	comp:obj	_	AlignBegin=100964|AlignEnd=101034|GE=[FUT]|Gloss=-FUT|nWord=13|RX=[V:ANY]
+23	=ra		SCONJ	PRT	_	15	mod	_	AlignBegin=101034|AlignEnd=101393|GE=[PURP]|Gloss==PURP|nWord=14|RX=[PRT]
 
 # sent_id = 018-018
 # speaker_id = @JH

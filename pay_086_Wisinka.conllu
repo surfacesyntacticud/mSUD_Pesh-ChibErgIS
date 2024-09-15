@@ -1,5 +1,5 @@
 # sent_id = 086_01-02
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 2460, 10420
 # morphemic_text = ĩ =nã =s ʃa -Ø -ru -ri tiwi -ra pe Ø- pah -Ø -wa =kan tiwi -ra tVk Ø- -er -i =yã tiwi ĩ =ken
@@ -37,7 +37,7 @@
 25	=ken		ADP	POST	_	9	parataxis	_	AlignBegin=9773|AlignEnd=10420|GE=[LOC]|Gloss==LOC|nWord=14|RX=[POST]
 
 # sent_id = 086_03-03
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 11710, 17950
 # morphemic_text = ĩ nã -i -i paku akaya peʃ ʃok -a ĩ =ken
@@ -61,7 +61,7 @@
 11	=ken		ADP	POST	_	4	dislocated:lmod	_	AlignBegin=17170|AlignEnd=17950|GE=[LOC]|Gloss==LOC|nWord=8|RX=[POST]
 
 # sent_id = 086_04-04
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 19305, 21170
 # morphemic_text = nee ta -ha as na -i -wã ã =yã
@@ -82,7 +82,7 @@
 9	=yã		ADP	POST	_	7	comp:obl	_	AlignBegin=20860|AlignEnd=21170|GE=[LOC]|Gloss==LOC|nWord=6|RX=[POST]
 
 # sent_id = 086_05-05
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 21570, 22210
 # morphemic_text = pak =r -Ø -u -ri
@@ -100,7 +100,7 @@
 5	-ri		AUX	V:ANY	_	0	root	_	AlignBegin=22130|AlignEnd=22210|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
 
 # sent_id = 086_06-06
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 23610, 26230
 # morphemic_text = pak =r -Ø -u -ri ãma wiʃĩnka =ra ʃa -Ø -ru -ri
@@ -125,7 +125,7 @@
 12	-ri		AUX	V:ANY	_	5	parataxis	_	AlignBegin=26122|AlignEnd=26230|GE=[PST]|Gloss=-PST|nWord=6|RX=[V:ANY]
 
 # sent_id = 086_07-07
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 27120, 31030
 # morphemic_text = wisĩnka =ro tʃa -i -i toʔ =ken peʃ na teʃk -er -wa =ma ke
@@ -152,7 +152,7 @@
 14	ke	ke	ADV	ADV	_	7	mod:tmod	_	AlignBegin=30592|AlignEnd=31030|GE=already|Gloss=already|nWord=9|RX=[ADV]
 
 # sent_id = 086_08-08
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 32600, 38810
 # morphemic_text = ã ʃa teʔk -er -u -i =yã ɲĩhã pa- ta- ĩ ta- wa ʃere ka- ʃa -n -er -i na -er -wa =ma
@@ -188,7 +188,7 @@
 23	=ma		SCONJ	PRT	_	19	mod:tmod	_	AlignBegin=38120|AlignEnd=38810|GE=when|Gloss==when|nWord=9|RX=[PRT]
 
 # sent_id = 086_09-09
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 39580, 42000
 # morphemic_text = ta- õʃ ta- õʃ nẽ -er -u -ri
@@ -209,7 +209,7 @@
 8	-ri		AUX	V:ANY	_	0	root	_	AlignBegin=41800|AlignEnd=42000|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
 
 # sent_id = 086_10-10
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 43040, 44650
 # morphemic_text = ates =yã nẽ -er -wa
@@ -227,7 +227,7 @@
 5	-wa		AUX	V:ANY	_	0	root	_	AlignBegin=44472|AlignEnd=44650|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]
 
 # sent_id = 086_11-11
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 45840, 47370
 # morphemic_text = nẽ -er -i ta- õʃ
@@ -245,7 +245,7 @@
 5	õʃ	õʃ	VERB	VT	_	3	mod	_	AlignBegin=46987|AlignEnd=47370|GE=lose|Gloss=lose|nWord=2|RX=[VT]
 
 # sent_id = 086_12-12
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 48290, 50540
 # morphemic_text = ĩ =kan ĩ =kan nẽ kaperʃ teʔk -er -tV -w(a) =sa
@@ -270,7 +270,7 @@
 11	=sa		PART	PRT	_	10	mod	_	AlignBegin=50165|AlignEnd=50540|GE=[C].[Q]|Gloss==C.Q|nWord=6|RX=[PRT]
 
 # sent_id = 086_13-13
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 50980, 52400
 # morphemic_text = ĩ =kan teʃk -er -tV -wa =sa
@@ -290,7 +290,7 @@
 7	=sa		PART	PRT	_	6	mod	_	AlignBegin=52045|AlignEnd=52400|GE=[C].[Q]|Gloss==C.Q|nWord=4|RX=[PRT]
 
 # sent_id = 086_14-15
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 53580, 62430
 # morphemic_text = arõ ãm Ø- tʃa -er pek -er -Øwa =ma a to ta -ha nẽ teʃk -ir -u -ri =waʔ ala ã pak tʃa -Ø -wa =yã
@@ -329,7 +329,7 @@
 26	=yã		SCONJ	POST	_	13	mod:dislocated@relcl	_	AlignBegin=62038|AlignEnd=62430|GE=[LOC]|Gloss==LOC|nWord=13|RX=[POST]
 
 # sent_id = 086_16-16
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 64780, 70880
 # morphemic_text = pak pak tʃa -Ø -wa =yã ã =yã ã =yã ka- aũ toq -Ø -i ka- ka- pas toq -Ø -i
@@ -363,11 +363,11 @@
 21	-i		AUX	V:ANY	_	15	parataxis	_	AlignBegin=70780|AlignEnd=70880|GE=[PST]|Gloss=-PST|nWord=10|RX=[V:ANY]
 
 # sent_id = 086_17-18
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 71370, 74570
 # morphemic_text = ã nẽ -er -wa =ma ###, ãma aʃẽn nẽ teʃk -er -tV -ri
-# text = ã nẽ -er -wa =ma ### , ãma aʃẽn nẽ teʃk -er -tV -ri
+# text = ã nẽler ma ### , ãma aʃẽn nẽteʃkerturi
 # text_en =  When they went out ###, Um, they did not go through up to there.
 # text_phrase-gls-de =  086.17_VG 086.18_VG
 # text_phrase-gls-es =  cuando iban, esos no pasaban hasta ahí
@@ -380,21 +380,21 @@
 4	-wa		AUX	V:ANY	_	5	comp:obj	_	AlignBegin=71756|AlignEnd=71834|GE=[PFV]|Gloss=-PFV|nWord=2|RX=[V:ANY]
 5	=ma		SCONJ	PRT	_	14	mod:tmod	_	AlignBegin=71834|AlignEnd=72066|GE=when|Gloss==when|nWord=3|RX=[PRT]
 6	###	###	X	_	_	5	unk	_	AlignBegin=72066|AlignEnd=72300|nWord=4
-7	,	,	PUNCT	_	_	5	punct	_	AlignBegin=72066|AlignEnd=72300|nWord=4
-8	ãma	ãma	INTJ	PRT	_	14	discourse	_	AlignBegin=73290|AlignEnd=73717|GE=[HES]|Gloss=HES|nWord=5|RX=[PRT]
-9	aʃẽn	aʃẽn	ADV	ADV	_	11	comp:obl	_	AlignBegin=73717|AlignEnd=74144|GE=up.to|Gloss=up.to|nWord=6|RX=[ADV]
-10	nẽ	nẽ	VERB	VI	_	11	compound	_	AlignBegin=74144|AlignEnd=74229|GE=go|Gloss=go|nWord=7|RX=[VI]
-11	teʃk	teʃk	VERB	VI	_	13	comp:aux/m	_	AlignBegin=74229|AlignEnd=74314|GE=get.away|Gloss=get.away|nWord=7|RX=[VI]
-12	-er		PRON	V:ANY	_	13	subj/m	_	AlignBegin=74314|AlignEnd=74399|GE=[S3PL]|Gloss=-S3PL|nWord=7|RX=[V:ANY]
-13	-tV		AUX	V:ANY	_	14	comp:aux/m	_	AlignBegin=74399|AlignEnd=74484|GE=[NEG]|Gloss=-NEG|nWord=7|RX=[V:ANY]
-14	-ri		AUX	V:ANY	_	0	root	_	AlignBegin=74484|AlignEnd=74570|GE=[PST]|Gloss=-PST|nWord=7|RX=[V:ANY]
+7	,	,	PUNCT	_	_	5	punct	_	AlignBegin=72066|AlignEnd=72300|nWord=5
+8	ãma	ãma	INTJ	PRT	_	14	discourse	_	AlignBegin=73290|AlignEnd=73717|GE=[HES]|Gloss=HES|nWord=6|RX=[PRT]
+9	aʃẽn	aʃẽn	ADV	ADV	_	11	comp:obl	_	AlignBegin=73717|AlignEnd=74144|GE=up.to|Gloss=up.to|nWord=7|RX=[ADV]
+10	nẽ	nẽ	VERB	VI	_	11	compound	_	AlignBegin=74144|AlignEnd=74229|GE=go|Gloss=go|nWord=8|RX=[VI]
+11	teʃk	teʃk	VERB	VI	_	13	comp:aux/m	_	AlignBegin=74229|AlignEnd=74314|GE=get.away|Gloss=get.away|nWord=8|RX=[VI]
+12	-er		PRON	V:ANY	_	13	subj/m	_	AlignBegin=74314|AlignEnd=74399|GE=[S3PL]|Gloss=-S3PL|nWord=8|RX=[V:ANY]
+13	-tV		AUX	V:ANY	_	14	comp:aux/m	_	AlignBegin=74399|AlignEnd=74484|GE=[NEG]|Gloss=-NEG|nWord=8|RX=[V:ANY]
+14	-ri		AUX	V:ANY	_	0	root	_	AlignBegin=74484|AlignEnd=74570|GE=[PST]|Gloss=-PST|nWord=8|RX=[V:ANY]
 
 # sent_id = 086_19-19
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 74870, 76080
-# morphemic_text = ama aʃẽn nẽ teʃk -ir -wa ##.
-# text = ama aʃẽn nẽ teʃk -ir -wa ## .
+# morphemic_text = ama aʃẽn nẽ teʃk -ir -wa ###.
+# text = ama aʃẽn nẽteʃkira ### .
 # text_en =  Um, they went up to there ###.
 # text_phrase-gls-de =  086.19_VG
 # text_phrase-gls-es =  pasaban hasta ahí
@@ -407,11 +407,11 @@
 4	teʃk	teʃk	VERB	VI	_	6	comp:aux/m	_	AlignBegin=75550|AlignEnd=75626|GE=get.away|Gloss=get.away|nWord=3|RX=[VI]
 5	-ir		PRON	V:ANY	_	6	subj/m	_	AlignBegin=75626|AlignEnd=75702|GE=[S3PL]|Gloss=-S3PL|nWord=3|RX=[V:ANY]
 6	-wa		AUX	V:ANY	_	0	root	_	AlignBegin=75702|AlignEnd=75776|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]
-7	##	##	X	_	_	6	mod@scrap	_	AlignBegin=75776|AlignEnd=76080|nWord=4
-8	.	.	PUNCT	_	_	6	punct	_	AlignBegin=75776|AlignEnd=76080|nWord=4
+7	###	###	X	_	_	6	mod@scrap	_	AlignBegin=75776|AlignEnd=76080|nWord=4
+8	.	.	PUNCT	_	_	6	punct	_	AlignBegin=75776|AlignEnd=76080|nWord=5
 
 # sent_id = 086_20-20
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 77530, 80440
 # morphemic_text = ĩ =kan -ki ta- õʃk -er -wa =sa ĩ =kan -ka ta- õʃk -er -wa =sa
@@ -440,7 +440,7 @@
 16	=sa		PART	PRT	_	15	mod	_	AlignBegin=80078|AlignEnd=80440|GE=[C].[Q]|Gloss==C.Q|nWord=8|RX=[PRT]
 
 # sent_id = 086_21-21
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 82650, 96330
 # morphemic_text = Inaudible
@@ -452,7 +452,7 @@
 1	inaudible		X	_	_	0	root	_	_
 
 # sent_id = 086_22-22
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 98410, 104460
 # morphemic_text = naʔ qa ka- koyoʃ -bar -i Ø- ʃã ʃã -bar -Øwa to pak ĩ tV ka- -er -t -i
@@ -484,7 +484,7 @@
 19	-i		AUX	V:ANY	_	11	parataxis:insert	_	AlignBegin=104310|AlignEnd=104460|GE=[PST]|Gloss=-PST|nWord=8|RX=[V:ANY]
 
 # sent_id = 086_23-23
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 106310, 110630
 # morphemic_text = nã -par -(w)a ta- oʃ -par -Øwa =ma ates =i ompiʃ Ø- pa -Ø -tV -Øwa =ken
@@ -514,7 +514,7 @@
 17	=ken		SCONJ	POST	_	10	dislocated:pred	_	AlignBegin=110090|AlignEnd=110630|GE=[LOC]|Gloss==LOC|nWord=8|RX=[POST]
 
 # sent_id = 086_24-24
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 112680, 115030
 # morphemic_text = nã -er -i tV Ø- -er -wa ke tes San.Esteban Ø- mask -Ø -wa =ken
@@ -542,7 +542,7 @@
 15	=ken		SCONJ	POST	_	1	comp:obl	_	AlignBegin=114696|AlignEnd=115030|GE=[LOC]|Gloss==LOC|nWord=7|RX=[POST]
 
 # sent_id = 086_25-25
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 115150, 117350
 # morphemic_text = tiwi Ø- mask -Ø -wa =ken tex taweh -er -ta -i ã ʃoʔ
@@ -568,7 +568,7 @@
 13	ʃoʔ	ʃoʔ	NOUN	N	_	_	_	_	AlignBegin=117034|AlignEnd=117350|GE=hill|Gloss=hill|nWord=7|RX=[N]
 
 # sent_id = 086_26-26
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 117960, 121892
 # morphemic_text = ʃok -wa teʔ teweh -er -wa yara a- piʃ -t -er -a ###, mm
@@ -595,7 +595,7 @@
 14	mm	mm	INTERJ	INTERJ	_	_	_	_	AlignBegin=121235|AlignEnd=121892|GE=[INTERJ]|Gloss=INTERJ|nWord=6|RX=[INTERJ]
 
 # sent_id = 086_27-28
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 122950, 131710
 # morphemic_text = take =kan a- piʃk -Ø -i =ma
@@ -615,7 +615,7 @@
 7	=ma		SCONJ	PRT	_	_	_	_	AlignBegin=124066|AlignEnd=124440|GE=when|Gloss==when|nWord=4|RX=[PRT]
 
 # sent_id = 086_29-29
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 132760, 137480
 # morphemic_text = ke sentir iʃ -t -ir -i Ø- tʃã -er -wa =ma aso =ra crecer iʃ -t -Ø -i
@@ -646,7 +646,7 @@
 18	-i		AUX	V:ANY	_	_	_	_	AlignBegin=137344|AlignEnd=137480|GE=[PST]|Gloss=-PST|nWord=7|RX=[V:ANY]
 
 # sent_id = 086_30-30
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 138140, 141050
 # morphemic_text = ta- r- oʔk -ir -i teʃk -er -i tV Ø- -er -wa =pra kere =kan ates =ken
@@ -676,7 +676,7 @@
 17	=ken		ADP	POST	_	_	_	_	AlignBegin=140688|AlignEnd=141050|GE=[LOC]|Gloss==LOC|nWord=8|RX=[POST]
 
 # sent_id = 086_31-31
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 141780, 145460
 # morphemic_text = ʃok -a a- r- kapriʃ -Ø -i ʃok -a a- r- kapriʃ -Ø -i
@@ -703,7 +703,7 @@
 14	-i		AUX	V:ANY	_	_	_	_	AlignBegin=145276|AlignEnd=145460|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]
 
 # sent_id = 086_32-32
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 146510, 148480
 # morphemic_text = ã =kan =ri ãma ka- toq -t -i -tV -ri
@@ -726,7 +726,7 @@
 10	-ri		AUX	V:ANY	_	_	_	_	AlignBegin=148416|AlignEnd=148480|GE=[PST]|Gloss=-PST|nWord=5|RX=[V:ANY]
 
 # sent_id = 086_33-33
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 149070, 152520
 # morphemic_text = nẽ -er -wa =ma nẽ -er -wa =ma ke mẽymẽy ta- iʃk -a -ri tV Ø- -er -wa =pra
@@ -758,7 +758,7 @@
 19	=pra		PART	PRT	_	_	_	_	AlignBegin=152134|AlignEnd=152520|GE=[EMPH]|Gloss==EMPH|nWord=9|RX=[PRT]
 
 # sent_id = 086_34-34
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 152610, 156300
 # morphemic_text = akareke hm nẽ boh -n -er -i tV Ø- -er -wa =pra
@@ -783,7 +783,7 @@
 12	=pra		PART	PRT	_	_	_	_	AlignBegin=155562|AlignEnd=156300|GE=[EMPH]|Gloss==EMPH|nWord=5|RX=[PRT]
 
 # sent_id = 086_35-35
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 156620, 157400
 # morphemic_text = nẽ boh -n -er -wa
@@ -801,7 +801,7 @@
 5	-wa		AUX	V:ANY	_	_	_	_	AlignBegin=157244|AlignEnd=157400|GE=[PFV]|Gloss=-PFV|nWord=1|RX=[V:ANY]
 
 # sent_id = 086_36-36
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 158250, 161970
 # morphemic_text = ke ũ- ta- toq -tiʃk -Ø -wa ũ- ta- ã -tiʃk -Ø -wa wisĩnka
@@ -828,7 +828,7 @@
 14	wisĩnka	wisĩnka	NOUN	N	_	_	_	_	AlignBegin=161040|AlignEnd=161970|GE=wisinka|Gloss=wisinka|nWord=4|RX=[N]
 
 # sent_id = 086_37-37
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 162600, 164210
 # morphemic_text = puta yar =ʃona ã =r -Ø -iʔ
@@ -848,11 +848,11 @@
 7	-iʔ		AUX	V:ANY	_	_	_	_	AlignBegin=164102|AlignEnd=164210|GE=[PST]|Gloss=-PST|nWord=5|RX=[V:ANY]
 
 # sent_id = 086_38-38
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 165860, 169960
 # morphemic_text = ĩ ĩ =kan a- mask -a–pi -wa =sa tVk a- -er -i tV Ø- -er -wa
-# text = ĩ ĩ =kan a- mask -a -pi -wa =sa tVk a- -er -i tV Ø- -er -wa
+# text = ĩ ĩkan amaskapiwa sa tiakileri teroa
 # text_en =  "How will we kill it?", they asked each other, they say.
 # text_phrase-gls-de =  086.38_VG
 # text_phrase-gls-es =  ¿cómo la mataremos? dicen que se dijeron
@@ -878,11 +878,11 @@
 17	-wa		AUX	V:ANY	_	_	_	_	AlignBegin=169788|AlignEnd=169960|GE=[PFV]|Gloss=-PFV|nWord=6|RX=[V:ANY]
 
 # sent_id = 086_39-39
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 170186, 171970
 # morphemic_text = ĩ ĩ =kan a- mask -a–pi -wa =sa
-# text = ĩ ĩ =kan a- mask -a -pi -wa =sa
+# text = ĩ ĩkan amaskapiwa sa
 # text_en =  How will we kill it?
 # text_phrase-gls-de =  086.39_VG
 # text_phrase-gls-es =  ¿cómo la mataremos?
@@ -900,11 +900,11 @@
 9	=sa		PART	PRT	_	_	_	_	AlignBegin=171524|AlignEnd=171970|GE=[C].[Q]|Gloss==C.Q|nWord=4|RX=[PRT]
 
 # sent_id = 086_40-40
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 173920, 178660
 # morphemic_text = pi- ras =r -i–si =wa pa- ta- sa -ʔa ĩ =kan a- iʃ -par -wa
-# text = pi- ras =r -i -si =wa pa- ta- sa -ʔa ĩ =kan a- iʃ -par -wa
+# text = pira risi wa patasãʔa ĩk aĩʃparwa
 # text_en =  If you agree, let's tell our chief.
 # text_phrase-gls-de =  086.40_VG
 # text_phrase-gls-es =  si están de acuerdo, digámosle a nuestro jefe;
@@ -930,7 +930,7 @@
 16	-wa		AUX	V:ANY	_	_	_	_	AlignBegin=178464|AlignEnd=178660|GE=[PFV]|Gloss=-PFV|nWord=6|RX=[V:ANY]
 
 # sent_id = 086_41-41
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 179380, 181120
 # morphemic_text = ĩ =kan awa pa- ta- toq -Ø -pi =ʃona
@@ -952,7 +952,7 @@
 9	=ʃona		PART	PRT	_	_	_	_	AlignBegin=180772|AlignEnd=181120|GE=[HEM]|Gloss==HEM|nWord=5|RX=[PRT]
 
 # sent_id = 086_42-42
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 181410, 183990
 # morphemic_text = a- sa awah patak ka- ã -Ø -pi =ʃona
@@ -974,7 +974,7 @@
 9	=ʃona		PART	PRT	_	_	_	_	AlignBegin=183474|AlignEnd=183990|GE=[HEM]|Gloss==HEM|nWord=5|RX=[PRT]
 
 # sent_id = 086_43-44
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 185340, 200140
 # morphemic_text = eka Ø- yẽh -t -er -iʔ ĩ =kan =na sa tis Ø- sukuh -u -h =wa na -u -h =wa sa aka =pe ã =ma =hã ĩ =kan a- ʃa -ir -wa =pe
@@ -1020,7 +1020,7 @@
 33	=pe		PART	PRT	_	_	_	_	AlignBegin=199454|AlignEnd=200140|GE=only|Gloss==only|nWord=19|RX=[PRT]
 
 # sent_id = 086_45-45
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 200710, 202890
 # morphemic_text = pa a- kas- teʃ teʔk -u -h =wa
@@ -1041,7 +1041,7 @@
 8	=wa		PRON	PRO	_	_	_	_	AlignBegin=202164|AlignEnd=202890|GE=[2PL]|Gloss==2PL|nWord=3|RX=[PRO]
 
 # sent_id = 086_46-46
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 204810, 207170
 # morphemic_text = ã =yã tẽwã Ø- artiʃk -u -h =wa
@@ -1062,7 +1062,7 @@
 8	=wa		PRON	PRO	_	_	_	_	AlignBegin=206580|AlignEnd=207170|GE=[2PL]|Gloss==2PL|nWord=4|RX=[PRO]
 
 # sent_id = 086_47-47
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 208610, 210460
 # morphemic_text = Ø- patoʔk -u -pi =wa
@@ -1080,7 +1080,7 @@
 5	=wa		PRON	PRO	_	_	_	_	AlignBegin=209535|AlignEnd=210460|GE=[2PL]|Gloss==2PL|nWord=2|RX=[PRO]
 
 # sent_id = 086_48-48
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 212670, 215130
 # morphemic_text = sa =pe ĩ =kan
@@ -1098,7 +1098,7 @@
 4	=kan		PART	PRT	_	_	_	_	AlignBegin=214515|AlignEnd=215130|GE=[SIM]|Gloss==SIM|nWord=4|RX=[PRT]
 
 # sent_id = 086_49-49
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 215500, 219000
 # morphemic_text = Ø- ka -ya =ʃona
@@ -1115,7 +1115,7 @@
 4	=ʃona		PART	PRT	_	_	_	_	AlignBegin=217250|AlignEnd=219000|GE=[HEM]|Gloss==HEM|nWord=2|RX=[PRT]
 
 # sent_id = 086_50-51
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 219426, 221900
 # morphemic_text = Ø- ka -ir -i tV Ø- -er -wa =pra ã ʃoʔ =yã =hã
@@ -1141,7 +1141,7 @@
 13	=hã		PART	PRT	_	_	_	_	AlignBegin=221670|AlignEnd=221900|GE=[FOC]|Gloss==FOC|nWord=7|RX=[PRT]
 
 # sent_id = 086_52-52
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 223780, 229440
 # morphemic_text = Ø- ka -er -wa tẽwã Ø- tuk -er -wa ah sa =ma ĩ =ken Ø- ka -ir tuk -ir -i
@@ -1174,7 +1174,7 @@
 20	-i		AUX	V:ANY	_	_	_	_	AlignBegin=229337|AlignEnd=229440|GE=[PST]|Gloss=-PST|nWord=9|RX=[V:ANY]
 
 # sent_id = 086_53-53
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 231700, 233940
 # morphemic_text = teʔ nẽ -Ø -i pi ta- iʃk -Ø -wa
@@ -1196,7 +1196,7 @@
 9	-wa		AUX	V:ANY	_	_	_	_	AlignBegin=233716|AlignEnd=233940|GE=[PFV]|Gloss=-PFV|nWord=2|RX=[V:ANY]
 
 # sent_id = 086_54-54
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 234390, 237840
 # morphemic_text = nẽ -er -wa Ø- rodar ka -ir -i krih roh
@@ -1219,7 +1219,7 @@
 10	roh	roh	IDEO	IDEO	_	_	_	_	AlignBegin=236976|AlignEnd=237840|GE=[ID:roll]|Gloss=ID:roll|nWord=4|RX=[IDEO]
 
 # sent_id = 086_55-55
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 238370, 239950
 # morphemic_text = nẽ -er -wa rodar ka -er -wa
@@ -1239,7 +1239,7 @@
 7	-wa		AUX	V:ANY	_	_	_	_	AlignBegin=239754|AlignEnd=239950|GE=[PFV]|Gloss=-PFV|nWord=2|RX=[V:ANY]
 
 # sent_id = 086_56-56
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 240066, 246680
 # morphemic_text = ãma Ø- arask -er -wa =ma ãma aso laguna te nẽ -er -wa munwaʃt tõʃ tõʃ tõʃ tõʃ
@@ -1270,7 +1270,7 @@
 18	tõʃ	tõʃ	IDEO	IDEO	_	_	_	_	AlignBegin=246127|AlignEnd=246680|GE=[ID:boil]|Gloss=ID:boil|nWord=12|RX=[IDEO]
 
 # sent_id = 086_57-57
-# speaker_id = @SP2
+# speaker_id = @AM
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 246500, 247280
 # morphemic_text = toʔ ta- õʃ -Ø -i
@@ -1288,7 +1288,7 @@
 5	-i		AUX	V:ANY	_	_	_	_	AlignBegin=247184|AlignEnd=247280|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
 
 # sent_id = 086_58-58
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 247370, 249766
 # morphemic_text = a- tuh -weʃk -Ø -wa =ʃona
@@ -1307,7 +1307,7 @@
 6	=ʃona		PART	PRT	_	_	_	_	AlignBegin=248568|AlignEnd=249766|GE=[HEM]|Gloss==HEM|nWord=2|RX=[PRT]
 
 # sent_id = 086_59-59
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 249910, 254240
 # morphemic_text = ãma a- tuh -Ø -wa Ø- iʃ -Ø -wa ama tukuluk kluk kluk kluk ea
@@ -1335,7 +1335,7 @@
 15	ea	ea	INTERJ	INTERJ	_	_	_	_	AlignBegin=253758|AlignEnd=254240|GE=yep|Gloss=yep|nWord=9|RX=[INTERJ]
 
 # sent_id = 086_60-60
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 255230, 257370
 # morphemic_text = mas boh -n -Ø -i teʔk -Ø -wa =ma mm
@@ -1357,7 +1357,7 @@
 10	mm	mm	INTERJ	INTERJ	_	_	_	_	AlignBegin=256835|AlignEnd=257370|GE=[INTERJ]|Gloss=INTERJ|nWord=4|RX=[INTERJ]
 
 # sent_id = 086_61-61
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 258150, 261110
 # morphemic_text = ã =yã =ma yar mas boh -Ø -i teʔk -Ø -wa =ma
@@ -1382,7 +1382,7 @@
 12	=ma		SCONJ	PRT	_	_	_	_	AlignBegin=260615|AlignEnd=261110|GE=when|Gloss==when|nWord=6|RX=[PRT]
 
 # sent_id = 086_62-62
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 261670, 262880
 # morphemic_text = ĩ Ø- iʃ -Ø -tV -iʔ tV Ø- -er -wa =pra
@@ -1406,7 +1406,7 @@
 11	=pra		PART	PRT	_	_	_	_	AlignBegin=262576|AlignEnd=262880|GE=[EMPH]|Gloss==EMPH|nWord=4|RX=[PRT]
 
 # sent_id = 086_63-63
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 263130, 265580
 # morphemic_text = arʃa mas a- kas- tok -er -i
@@ -1426,7 +1426,7 @@
 7	-i		AUX	V:ANY	_	_	_	_	AlignBegin=265375|AlignEnd=265580|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
 
 # sent_id = 086_64-64
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 266670, 269040
 # morphemic_text = awa kapani ĩ =ken teʔk -Ø -wa ʃaʔ mm
@@ -1448,7 +1448,7 @@
 9	mm	mm	INTERJ	INTERJ	_	_	_	_	AlignBegin=268704|AlignEnd=269040|GE=[INTERJ]|Gloss=INTERJ|nWord=7|RX=[INTERJ]
 
 # sent_id = 086_65-65
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 269340, 272040
 # morphemic_text = ã =yã =mã sa akina Ø- ũ- we -er -wa Ø- tuk -er -i
@@ -1475,7 +1475,7 @@
 14	-i		AUX	V:ANY	_	_	_	_	AlignBegin=271926|AlignEnd=272040|GE=[PST]|Gloss=-PST|nWord=6|RX=[V:ANY]
 
 # sent_id = 086_66-66
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 272200, 276900
 # morphemic_text = mas a- kas- tok mas a- kas- tok =pe ʃere -er -i ata =ma teweh ta- peh -Ø -i
@@ -1507,7 +1507,7 @@
 19	-i		AUX	V:ANY	_	_	_	_	AlignBegin=276766|AlignEnd=276900|GE=[PST]|Gloss=-PST|nWord=7|RX=[V:ANY]
 
 # sent_id = 086_67-67
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 277830, 280060
 # morphemic_text = ke ya Ø- tʃã -er -wa =ma ke õ -na iʃ -t -i -ri
@@ -1534,7 +1534,7 @@
 14	-ri		AUX	V:ANY	_	_	_	_	AlignBegin=280000|AlignEnd=280060|GE=[PST]|Gloss=-PST|nWord=6|RX=[V:ANY]
 
 # sent_id = 086_68-68
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 280450, 284953
 # morphemic_text = aso Ø- patok -ʃe -er -wa ã laguna ã laguna =ro
@@ -1558,7 +1558,7 @@
 11	=ro		ADP	PRT	_	_	_	_	AlignBegin=284308|AlignEnd=284953|GE=[ABS]|Gloss==ABS|nWord=7|RX=[PRT]
 
 # sent_id = 086_69-69
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 285700, 292450
 # morphemic_text = ĩketa =ma yar =i joder ka -par -wa a- mas -par -wa tVk a- -ir -i tV Ø- -er -wa
@@ -1591,7 +1591,7 @@
 20	-wa		AUX	V:ANY	_	_	_	_	AlignBegin=292238|AlignEnd=292450|GE=[PFV]|Gloss=-PFV|nWord=8|RX=[V:ANY]
 
 # sent_id = 086_70-70
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 293135, 296460
 # morphemic_text = a- mas -par -wa yar teʔne
@@ -1610,7 +1610,7 @@
 6	teʔne	teʔne	IDEO	IDEO	_	_	_	_	AlignBegin=295351|AlignEnd=296460|GE=[ID:strike?]|Gloss=ID:strike?|nWord=3|RX=[IDEO]
 
 # sent_id = 086_71-71
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 297513, 300970
 # morphemic_text = a- mask -er -wa ke Ø- ʃa -ir -wa Ø- mas -per -wa tVk a- -er -i tV Ø- -er -wa
@@ -1644,11 +1644,11 @@
 21	-wa		AUX	V:ANY	_	_	_	_	AlignBegin=300825|AlignEnd=300970|GE=[PFV]|Gloss=-PFV|nWord=6|RX=[V:ANY]
 
 # sent_id = 086_72-72
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 301080, 308060
 # morphemic_text = ãma nã Ø- kisk -er -tV -i tV Ø- -er -i ʃaʔ ani teʔ Ø- ʃã nã -a–pi =hã as =na tʃa -i -wa =na
-# text = ãma nã Ø- kisk -er -tV -i tV Ø- -er -i ʃaʔ ani teʔ Ø- ʃã nã -a -pi =hã as =na tʃa -i -wa =na
+# text = ãma nãkiskerti tah ʃa ani teʔʃãnapẽ as na tʃwa na
 # text_en =  They did not go close, they say, "Later tomorrow, we come see it and go, in case there is one."
 # text_phrase-gls-de =  086.72_VG
 # text_phrase-gls-es =  no se acercaron, el dia siguiente (mañana) en la tarde, vendremos a verlo y nos iremos por si había alguno,
@@ -1683,7 +1683,7 @@
 26	=na		PART	PRT	_	_	_	_	AlignBegin=307362|AlignEnd=308060|GE=[INSC]|Gloss==INSC|nWord=10|RX=[PRT]
 
 # sent_id = 086_73-73
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 309530, 313460
 # morphemic_text = akreke teʔk -er -i semana =s ke =ma ã =ra tV Ø- -er -wa =ma
@@ -1712,7 +1712,7 @@
 15	=ma		PART	PRT	_	_	_	_	AlignBegin=313067|AlignEnd=313460|GE=[NOM]|Gloss==NOM|nWord=10|RX=[PRT]
 
 # sent_id = 086_74-74
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 314360, 316360
 # morphemic_text = ke Ø- tʃã -er -wa =ma ʃu =r -Ø -wa monoʔk -er -i
@@ -1738,7 +1738,7 @@
 13	-i		AUX	V:ANY	_	_	_	_	AlignBegin=316249|AlignEnd=316360|GE=[PST]|Gloss=-PST|nWord=6|RX=[V:ANY]
 
 # sent_id = 086_75-75
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 316620, 319453
 # morphemic_text = ah joder ka -par -i
@@ -1756,7 +1756,7 @@
 5	-i		AUX	V:ANY	_	_	_	_	AlignBegin=319098|AlignEnd=319453|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
 
 # sent_id = 086_76-76
-# speaker_id = @SP2
+# speaker_id = @AM
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 319200, 320090
 # morphemic_text = a- mask -ir -i
@@ -1773,7 +1773,7 @@
 4	-i		AUX	V:ANY	_	_	_	_	AlignBegin=319866|AlignEnd=320090|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]
 
 # sent_id = 086_77-77
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 320150, 321600
 # morphemic_text = a- mas -par -i =ʃona yar
@@ -1792,7 +1792,7 @@
 6	yar	yar	<NOT_SURE>	<NOT_SURE>	_	_	_	_	AlignBegin=321116|AlignEnd=321600|GE=true|Gloss=true|nWord=3|RX=[<NOT_SURE>]
 
 # sent_id = 086_78-78
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 321860, 324300
 # morphemic_text = akati -par -i tV Ø- -er -wa =pra
@@ -1813,7 +1813,7 @@
 8	=pra		PART	PRT	_	_	_	_	AlignBegin=323486|AlignEnd=324300|GE=[EMPH]|Gloss==EMPH|nWord=3|RX=[PRT]
 
 # sent_id = 086_79-79
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 324300, 328990
 # morphemic_text = ã wisĩnka =ĩ mm peʃ ãʔ -tah peʃ toq -tah
@@ -1836,7 +1836,7 @@
 10	-tah		V>N	V>N	_	_	_	_	AlignBegin=328696|AlignEnd=328990|GE=[AG].[NMLZ]|Gloss=-AG.NMLZ|nWord=8|RX=[V>N]
 
 # sent_id = 086_80-81
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 329510, 333100
 # morphemic_text = ã =yã ĩ =ra Ø- ʃã -er -i =sa ã =yã =hã ãma peʃwakwa =s ʃa -i -ri =yã =hã
@@ -1869,7 +1869,7 @@
 20	=hã		PART	PRT	_	_	_	_	AlignBegin=332815|AlignEnd=333100|GE=[FOC]|Gloss==FOC|nWord=13|RX=[PRT]
 
 # sent_id = 086_82-82
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 333800, 337500
 # morphemic_text = ãm õ -n -ʃe -er -i tV Ø- -er -wa awah ĩ =ɲã warko =l -er -t -ri
@@ -1900,7 +1900,7 @@
 18	-ri		AUX	V:ANY	_	_	_	_	AlignBegin=337370|AlignEnd=337500|GE=[PST]|Gloss=-PST|nWord=7|RX=[V:ANY]
 
 # sent_id = 086_83-83
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 338230, 344290
 # morphemic_text = a- bri =ma tʃa -Ø -i ʔey laguna a- ʃã -Ø -wa peʃ- nuʃt -a =pe
@@ -1929,7 +1929,7 @@
 16	=pe		PART	PRT	_	_	_	_	AlignBegin=343536|AlignEnd=344290|GE=only|Gloss==only|nWord=8|RX=[PRT]
 
 # sent_id = 086_84-84
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 344990, 347760
 # morphemic_text = ã =ma =ha peʃ- nuʃt -a =pe tV Ø- -er -u -wa
@@ -1954,7 +1954,7 @@
 12	-wa		AUX	V:ANY	_	_	_	_	AlignBegin=347622|AlignEnd=347760|GE=[PFV]|Gloss=-PFV|nWord=4|RX=[V:ANY]
 
 # sent_id = 086_85-85
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 348090, 350640
 # morphemic_text = valle =i =ʃona
@@ -1970,7 +1970,7 @@
 3	=ʃona		PART	PRT	_	_	_	_	AlignBegin=349790|AlignEnd=350640|GE=[HEM]|Gloss==HEM|nWord=3|RX=[PRT]
 
 # sent_id = 086_86-86
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 351160, 353420
 # morphemic_text = ã =yã Ø- tokk -Ø -i ta- õʃk -er -wa
@@ -1993,7 +1993,7 @@
 10	-wa		AUX	V:ANY	_	_	_	_	AlignBegin=353230|AlignEnd=353420|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]
 
 # sent_id = 086_87-87
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 353510, 356500
 # morphemic_text = õ -n -a a- mask -er -wa =ras aʃẽ a- iʃk -Ø -i tV Ø- -er -wa =pra
@@ -2024,7 +2024,7 @@
 18	=pra		PART	PRT	_	_	_	_	AlignBegin=356072|AlignEnd=356500|GE=[EMPH]|Gloss==EMPH|nWord=7|RX=[PRT]
 
 # sent_id = 086_88-88
-# speaker_id = @SP2
+# speaker_id = @AM
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 356210, 358300
 # morphemic_text = ã =yã ta- õʃ -Ø -i ta- õʃ -Ø -i ta- õʃ -Ø -i
@@ -2051,7 +2051,7 @@
 14	-i		AUX	V:ANY	_	_	_	_	AlignBegin=358169|AlignEnd=358300|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]
 
 # sent_id = 086_89-89
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 356880, 358893
 # morphemic_text = ta- õʃk -Ø -i
@@ -2068,7 +2068,7 @@
 4	-i		AUX	V:ANY	_	_	_	_	AlignBegin=358389|AlignEnd=358893|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]
 
 # sent_id = 086_90-90
-# speaker_id = @SP1
+# speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 359760, 360780
 # morphemic_text = aʃẽ ta- õʃk -Ø -i
