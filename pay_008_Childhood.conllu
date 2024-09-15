@@ -42,7 +42,7 @@
 2	pero	pero	PART	PRT	_	_	_	_	AlignBegin=11963|AlignEnd=13080|GE=[SPA_but]|Gloss=SPA_but|nWord=2|RX=[PRT]
 3	en	en	<NOT_SURE>	<NOT_SURE>	_	_	_	_	AlignBegin=13080|AlignEnd=14197|GE=[SPA_in]|Gloss=SPA_in|nWord=3|RX=[<NOT_SURE>]
 4	pesh	pesh	<NOT_SURE>	<NOT_SURE>	_	_	_	_	AlignBegin=14197|AlignEnd=15314|GE=[SPA_Pesh]|Gloss=SPA_Pesh|nWord=4|RX=[<NOT_SURE>]
-8	.	.	PUNCT	_	_	_	punct	_	AlignBegin=14197|AlignEnd=15314|nWord=5
+5	.	.	PUNCT	_	_	_	_	_	AlignBegin=14197|AlignEnd=15314|nWord=5
 
 # sent_id = 003-004
 # speaker_id = @JH
@@ -67,7 +67,7 @@
 9	que	que	<NOT_SURE>	<NOT_SURE>	_	_	_	_	AlignBegin=24637|AlignEnd=24896|GE=[SPA_that]|Gloss=SPA_that|nWord=9|RX=[<NOT_SURE>]
 10	significo	significo	<NOT_SURE>	<NOT_SURE>	_	_	_	_	AlignBegin=24896|AlignEnd=25155|GE=[SPA_mean]|Gloss=SPA_mean|nWord=10|RX=[<NOT_SURE>]
 11	yo	yo	<NOT_SURE>	<NOT_SURE>	_	_	_	_	AlignBegin=25155|AlignEnd=25414|GE=[SPA_I]|Gloss=SPA_I|nWord=11|RX=[<NOT_SURE>]
-8	?	?	PUNCT	_	_	_	punct	_	AlignBegin=14197|AlignEnd=15314|nWord=12
+12	?	?	PUNCT	_	_	_	_	_	AlignBegin=14197|AlignEnd=15314|nWord=12
 
 # sent_id = 005-005
 # speaker_id = @CC
