@@ -174,7 +174,7 @@
 # text_phrase-gls-it =  páʰpáʰkòˀ tá kàˀbɾùɾìˀ
 # text_phrase-gls-pro =  || páʰˈpáʰkòˀ (0.2s) || tá ˈkàˀbɾùɾìˀ (0.6s) ||
 # text_phrase-gls-wg =  straw:NMLZ say:HAB:PST:EXCL>3PL
-1	pahpah	pahpah	_	_	_	2	comp/m	_	AlignBegin=46600|AlignEnd=47246|GE=[tapuca].[tree].[sp]|Gloss=tapuca.tree.sp|nWord=1|RX=[N]
+1	pahpah	pahpah	<NOT_SURE>	_	_	2	comp/m	_	AlignBegin=46600|AlignEnd=47246|GE=[tapuca].[tree].[sp]|Gloss=tapuca.tree.sp|nWord=1|RX=[N]
 2	-ko	_	N>N	N>N	_	3	comp:obl	_	AlignBegin=47246|AlignEnd=47570|GE=[NMLZ].[CONT]|Gloss=NMLZ.CONT|nWord=1|RX=[N>N]
 3	tV	_	VERB	VT	_	6	comp:aux/m	_	AlignBegin=47570|AlignEnd=47764|GE=say|Gloss=say|nWord=2|RX=[VT]
 4	-ka	ka-	PRON	V:ANY	_	3	comp:obj/m	_	AlignBegin=47764|AlignEnd=47958|GE=[O3PL]|Gloss=O3PL-|nWord=2|RX=[V:ANY]|wordform=ka-
