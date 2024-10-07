@@ -451,6 +451,7 @@
 # text_phrase-gls-es =  En esta parte hay cinco intervenciones no audibles por causa del viento de una duración de 13.7s
 # text_phrase-gls-pro =  || ((there are five intonation units in the pause that follows, untranscribed because of the wind noise on the mic)) (18.0s) ||
 1	inaudible	_	X	_	_	0	root	_	_
+
 # sent_id = 086_22-22
 # speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
