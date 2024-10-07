@@ -117,7 +117,7 @@
 # text_phrase-gls-tl =  El  ()                   tio        tigre             a:::       ahora             mi        sobrino Conejo      ahora              te         agarrare     te comeré
 # text_phrase-gls-wg =  say:PFV:3>3 there LOC INTERJ uncle:3 uncle:3 tiger =ERG INTERJ now TOP nephew:1 rabbit now TOP grab:PFV:1>2 eat:FUT:1>2
 # text_phrase-gls-de =  165.04_FH
-1	tV	_	VERB	_	_	_	_	_	AlignBegin=16263|AlignEnd=16352|GE=say|Gloss=say|nWord=1|RX=[VT]|wordform=tW
+1	tV	_	VERB	_	_	4	comp:aux	_	AlignBegin=16263|AlignEnd=16352|GE=say|Gloss=say|nWord=1|RX=[VT]|wordform=tW
 2	-Ø	Ø-	PRON	_	_	1	comp:obj/m	_	AlignBegin=16352|AlignEnd=16441|GE=[O3SG]|Gloss=O3SG-|nWord=1|RX=[VT:ANY]|wordform=Ø-
 3	-Ø	_	PRON	_	_	4	subj/m	_	AlignBegin=16441|AlignEnd=16530|GE=[S3SG]|Gloss=-S3SG|nWord=1|RX=[V:ANY]
 4	-wa	_	AUX	_	_	_	_	_	AlignBegin=16530|AlignEnd=16620|GE=[PFV]|Gloss=-PFV|nWord=1|RX=[V:ANY]
@@ -131,9 +131,9 @@
 12	kore	kore	NOUN	_	_	_	_	_	AlignBegin=18940|AlignEnd=19119|GE=uncle|Gloss=uncle|nWord=8|RX=[N]
 13	,	_	PUNCT	_	_	12	punct	_	AlignBegin=19119|AlignEnd=19476|nWord=9
 14	a-	_	PRON	_	_	15	det:poss/m	_	AlignBegin=19476|AlignEnd=19654|GE=[POSS3SG]|Gloss=POSS3SG-|nWord=10|RX=[N:ANY]
-15	kore	kore	NOUN	_	_	_	_	_	AlignBegin=19654|AlignEnd=19833|GE=uncle|Gloss=uncle|nWord=10|RX=[N]
+15	kore	kore	NOUN	_	_	17	comp:obj	_	AlignBegin=19654|AlignEnd=19833|GE=uncle|Gloss=uncle|nWord=10|RX=[N]
 16	uʔ	uʔ	NOUN	_	_	15	mod	_	AlignBegin=19833|AlignEnd=20190|GE=tiger|Gloss=tiger|nWord=11|RX=[N]
-17	=ya	_	ADP	_	_	_	_	_	AlignBegin=20190|AlignEnd=20547|GE=[ERG]|Gloss==ERG|nWord=12|RX=[PRT]
+17	=ya	_	ADP	_	_	4	subj	_	AlignBegin=20190|AlignEnd=20547|GE=[ERG]|Gloss==ERG|nWord=12|RX=[PRT]
 18	,	_	PUNCT	_	_	17	punct	_	AlignBegin=20547|AlignEnd=20904|nWord=13
 19	ah	ah	INTJ	_	_	_	_	_	AlignBegin=20904|AlignEnd=21261|GE=[INTERJ]|Gloss=INTERJ|nWord=14|RX=[INTERJ]
 20	ẽkẽta	ẽkẽta	NOUN	_	_	21	comp:obj	_	AlignBegin=21261|AlignEnd=21618|GE=now|Gloss=now|nWord=15|RX=[N]

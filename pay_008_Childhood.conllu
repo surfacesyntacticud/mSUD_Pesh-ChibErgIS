@@ -166,8 +166,8 @@
 # speaker_id = @JH
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_008_Childhood_ToCoNLL_NEW.WAV
 # sent_timecode = 46600, 48540
-# morphemic_text = pahpah -ko tV ka- -bar -u -ri
-# text = pahpah -ko tV ka- -bar -u -ri
+# morphemic_text = pahpahko takabruri
+# text = pahpahko takabruri
 # text_en =  We used to call it straw (house).
 # text_phrase-gls-de =  008.009_JH
 # text_phrase-gls-es =  en paja le decíamos,
@@ -2349,7 +2349,7 @@
 7	ũ-	_	PRON	PRO:ANY	_	8	mod/m	_	AlignBegin=474197|AlignEnd=474467|Clusivity=Ex|GE=[EXCL]|Gloss=EXCL-|nWord=5|RX=[PRO:ANY]
 8	tas	tas	PRON	PRO	_	_	_	_	AlignBegin=474467|AlignEnd=474738|GE=[PRO1]|Gloss=PRO1|nWord=5|RX=[PRO]
 9	peʃ	peʃ	NOUN	N	_	10	comp:obj	_	AlignBegin=474738|AlignEnd=475279|GE=people|Gloss=people|nWord=6|RX=[N]
-10	=mã	_	ADP	PRT	_	_	_	_	AlignBegin=475279|AlignEnd=475820|GE=[TOP]|Gloss==TOP|nWord=7|RX=[PRT]
+10	=mã	_	ADP	PRT	_	13	subj	_	AlignBegin=475279|AlignEnd=475820|GE=[TOP]|Gloss==TOP|nWord=7|RX=[PRT]
 11	ũntah	ũntah	NOUN	N	_	12	comp:pred	_	AlignBegin=476986|AlignEnd=477487|GE=limited|Gloss=limited|nWord=8|RX=[N]
 12	=bar	_	AUX	COP	_	13	comp:aux	_	AlignBegin=477487|AlignEnd=477737|Clusivity=Ex|GE=[COP:S1PL].[EXCL]|Gloss==COP:S1PL.EXCL|nWord=9|RX=[COP]
 13	-wa	_	AUX	V:ANY	_	14	comp	_	AlignBegin=477737|AlignEnd=477988|GE=[PFV]|Gloss=-PFV|nWord=9|RX=[V:ANY]

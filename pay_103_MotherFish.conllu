@@ -673,7 +673,7 @@
 4	,	_	PUNCT	_	_	3	punct	_	AlignBegin=119285|AlignEnd=119649|nWord=3
 5	wiʃã	wiʃã	NOUN	_	_	7	comp:obj	_	AlignBegin=119649|AlignEnd=120013|GE=fish|Gloss=fish|nWord=4|RX=[N]
 6	aka	aka	NOUN	_	_	5	mod	_	AlignBegin=120013|AlignEnd=120377|GE=big|Gloss=big|nWord=5|RX=[N]
-7	=ya	_	ADP	_	_	_	_	_	AlignBegin=120377|AlignEnd=120741|GE=[ERG]|Gloss==ERG|nWord=6|RX=[PRT]
+7	=ya	_	ADP	_	_	11	subj	_	AlignBegin=120377|AlignEnd=120741|GE=[ERG]|Gloss==ERG|nWord=6|RX=[PRT]
 8	Ø-	_	PRON	_	_	9	comp:obj/m	_	AlignBegin=120741|AlignEnd=120832|GE=[O3SG]|Gloss=O3SG-|nWord=7|RX=[VT:ANY]
 9	pak	pak	VERB	_	_	11	comp:aux/m	_	AlignBegin=120832|AlignEnd=120923|GE=take|Gloss=take|nWord=7|RX=[VT]
 10	-Ø	_	PRON	_	_	11	subj/m	_	AlignBegin=120923|AlignEnd=121014|GE=[S3SG]|Gloss=-S3SG|nWord=7|RX=[V:ANY]
@@ -847,7 +847,7 @@
 8	-i	_	AUX	_	_	_	_	_	AlignBegin=146376|AlignEnd=146500|GE=[PST]|Gloss=-PST|nWord=5|RX=[V:ANY]
 9	=na	_	PART	_	_	_	_	_	AlignBegin=146500|AlignEnd=146999|GE=[REP]|Gloss==REP|nWord=6|RX=[PRT]
 10	arwã	arwã	NOUN	_	_	11	comp:obj	_	AlignBegin=146999|AlignEnd=147498|GE=man|Gloss=man|nWord=7|RX=[N]
-11	=ya	_	ADP	_	_	_	_	_	AlignBegin=147498|AlignEnd=147997|GE=[ERG]|Gloss==ERG|nWord=8|RX=[PRT]
+11	=ya	_	ADP	_	_	8	subj	_	AlignBegin=147498|AlignEnd=147997|GE=[ERG]|Gloss==ERG|nWord=8|RX=[PRT]
 12	,	_	PUNCT	_	_	11	punct	_	AlignBegin=147997|AlignEnd=148496|nWord=9
 13	toʔ	toʔ	PRON	_	_	14	comp:obj	_	AlignBegin=148496|AlignEnd=148995|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=10|RX=[PRO]
 14	=ma	_	PART	_	_	_	_	_	AlignBegin=148995|AlignEnd=149494|GE=[TOP]|Gloss==TOP|nWord=11|RX=[PRT]
@@ -912,7 +912,7 @@
 24	=na	_	PART	_	_	_	_	_	AlignBegin=162136|AlignEnd=162644|GE=[REP]|Gloss==REP|nWord=15|RX=[PRT]
 25	,	_	PUNCT	_	_	24	punct	_	AlignBegin=162644|AlignEnd=163152|nWord=16
 26	sirena	sirena	NOUN	_	_	27	comp:obj	_	AlignBegin=163152|AlignEnd=163660|GE=[SPA_mermaid]|Gloss=SPA_mermaid|nWord=17|RX=[N]
-27	=ya	_	ADP	_	_	_	_	_	AlignBegin=163660|AlignEnd=164168|GE=[ERG]|Gloss==ERG|nWord=18|RX=[PRT]
+27	=ya	_	ADP	_	_	23	subj	_	AlignBegin=163660|AlignEnd=164168|GE=[ERG]|Gloss==ERG|nWord=18|RX=[PRT]
 28	.	_	PUNCT	_	_	_	_	_	AlignBegin=164168|AlignEnd=164668|Gloss=.|nWord=19
 
 # sent_id = 103_31-31

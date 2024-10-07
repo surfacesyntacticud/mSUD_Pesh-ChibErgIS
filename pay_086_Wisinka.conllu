@@ -93,6 +93,7 @@
 # text_phrase-gls-it =  ˈpàkrùɾíʔ
 # text_phrase-gls-pro =  || ˈpàkrùˈɾíʔ. (1.4s) ||
 # text_phrase-gls-wg =  lake =COP:HAB:PST:3
+# tags = TOCHECK
 1	pak	pak	NOUN	N	_	4	subj	_	AlignBegin=21570|AlignEnd=21890|GE=lake|Gloss=lake|nWord=1|RX=[N]
 2	=r	_	AUX	COP	_	4	comp:aux/m	_	AlignBegin=21890|AlignEnd=21970|GE=[COP]|Gloss==COP|nWord=2|RX=[COP]
 3	-Ø	_	PRON	V:ANY	_	4	subj/m	_	AlignBegin=21970|AlignEnd=22050|GE=[S3SG]|Gloss=-S3SG|nWord=2|RX=[V:ANY]
@@ -533,7 +534,7 @@
 6	-er	_	PRON	V:ANY	_	7	subj/m	_	AlignBegin=113184|AlignEnd=113268|GE=[S3PL]|Gloss=-S3PL|nWord=2|RX=[V:ANY]
 7	-wa	_	AUX	V:ANY	_	3	parataxis:insert	_	AlignBegin=113268|AlignEnd=113352|GE=[PFV]|Gloss=-PFV|nWord=2|RX=[V:ANY]
 8	ke	ke	ADV	ADV	_	7	mod:tmod	_	AlignBegin=113352|AlignEnd=113688|GE=already|Gloss=already|nWord=3|RX=[ADV]
-9	tes	tes	X	_	_	_	_	_	AlignBegin=113688|AlignEnd=114024|nWord=4
+9	tes	tes	X	_	_	10	conj:dicto	_	AlignBegin=113688|AlignEnd=114024|nWord=4
 10	San.Esteban	San.Esteban	NPROP	NPROP	_	14	subj	_	AlignBegin=114024|AlignEnd=114360|GE=[San].[Esteban]|Gloss=San.Esteban|nWord=5|RX=[NPROP]
 11	Ø-	_	PRON	VT:ANY	_	12	comp:obj/m	_	AlignBegin=114360|AlignEnd=114444|GE=[O3SG]|Gloss=O3SG-|nWord=6|RX=[VT:ANY]
 12	mask	mask	VERB	VT	_	14	comp:aux/m	_	AlignBegin=114444|AlignEnd=114528|GE=hit|Gloss=hit|nWord=6|RX=[VT]
@@ -553,19 +554,19 @@
 # text_phrase-gls-it =  tè téˈwéléɾtí ã̀ˈʃōʔ
 # text_phrase-gls-pro =  || tìˈβí ˈmáskɔ̀kɛ̃́n tèʔ. (0.2s) || taˈwéléɾtí ã̀ˈʃōʔ. (0.6s) ||
 # text_phrase-gls-wg =  fodder hit:PFV:3>3 =SIM HES go.up:DUR:PST:3PL DEM.DIST hill
-1	tiwi	tiwi	NOUN	N	_	_	_	_	AlignBegin=115150|AlignEnd=115464|GE=fodder|Gloss=fodder|nWord=1|RX=[N]
+1	tiwi	tiwi	NOUN	N	_	3	comp:obj	_	AlignBegin=115150|AlignEnd=115464|GE=fodder|Gloss=fodder|nWord=1|RX=[N]
 2	Ø-	_	PRON	VT:ANY	_	3	comp:obj/m	_	AlignBegin=115464|AlignEnd=115542|GE=[O3SG]|Gloss=O3SG-|nWord=2|RX=[VT:ANY]
 3	mask	mask	VERB	VT	_	5	comp:aux/m	_	AlignBegin=115542|AlignEnd=115620|GE=hit|Gloss=hit|nWord=2|RX=[VT]
 4	-Ø	_	PRON	V:ANY	_	5	subj/m	_	AlignBegin=115620|AlignEnd=115698|GE=[S3SG]|Gloss=-S3SG|nWord=2|RX=[V:ANY]
 5	-wa	_	AUX	V:ANY	_	6	comp:obj	_	AlignBegin=115698|AlignEnd=115778|GE=[PFV]|Gloss=-PFV|nWord=2|RX=[V:ANY]
-6	=ken	_	PART	PRT	_	_	_	_	AlignBegin=115778|AlignEnd=116092|GE=[SIM]|Gloss==SIM|nWord=3|RX=[PRT]
-7	tex	tex	_	_	_	_	_	_	AlignBegin=116092|AlignEnd=116406|nWord=4
-8	taweh	taweh	VERB	VI	_	_	_	_	AlignBegin=116406|AlignEnd=116484|GE=go.up|Gloss=go.up|nWord=5|RX=[VI]
-9	-er	_	PRON	V:ANY	_	_	_	_	AlignBegin=116484|AlignEnd=116562|GE=[S3PL]|Gloss=-S3PL|nWord=5|RX=[V:ANY]
-10	-ta	_	N>???	N>???	_	_	_	_	AlignBegin=116562|AlignEnd=116640|GE=[DUR]|Gloss=-DUR|nWord=5|RX=[N>???]
-11	-i	_	AUX	V:ANY	_	_	_	_	AlignBegin=116640|AlignEnd=116720|GE=[PST]|Gloss=-PST|nWord=5|RX=[V:ANY]
+6	=ken	_	ADP	PRT	_	13	parataxis	_	AlignBegin=115778|AlignEnd=116092|GE=[SIM]|Gloss==LOC|nWord=3|RX=[PRT]
+7	tex	tex	X	_	_	8	conj:dicto	_	AlignBegin=116092|AlignEnd=116406|nWord=4
+8	taweh	taweh	VERB	VI	_	10	comp:aux/m	_	AlignBegin=116406|AlignEnd=116484|GE=go.up|Gloss=go.up|nWord=5|RX=[VI]
+9	-er	_	PRON	V:ANY	_	10	subj/m	_	AlignBegin=116484|AlignEnd=116562|GE=[S3PL]|Gloss=-S3PL|nWord=5|RX=[V:ANY]
+10	-ta	_	AUX	N>???	_	11	comp:aux/m	_	AlignBegin=116562|AlignEnd=116640|GE=[DUR]|Gloss=-DUR|nWord=5|RX=[N>???]
+11	-i	_	AUX	V:ANY	_	0	root	_	AlignBegin=116640|AlignEnd=116720|GE=[PST]|Gloss=-PST|nWord=5|RX=[V:ANY]
 12	ã	ã	PRON	PRO	_	13	det	_	AlignBegin=116720|AlignEnd=117034|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=6|RX=[PRO]
-13	ʃoʔ	ʃoʔ	NOUN	N	_	_	_	_	AlignBegin=117034|AlignEnd=117350|GE=hill|Gloss=hill|nWord=7|RX=[N]
+13	ʃoʔ	ʃoʔ	NOUN	N	_	8	comp:obl	_	AlignBegin=117034|AlignEnd=117350|GE=hill|Gloss=hill|nWord=7|RX=[N]
 
 # sent_id = 086_26-26
 # speaker_id = @VG
@@ -580,19 +581,19 @@
 # text_phrase-gls-pro =  || ˈʃóʔkʷātéʔ tuˈwēɾà, (0.4s) || ˈʝáɾà ˈpíʃtēɾā °###°. || <HI mːːːːːː HI> ((pointing the finger in a semi-circle)) (1.1s) ||
 # text_phrase-gls-wg =  hill:NMLZ come+go.up:PFV:3PL edge lay.down:REFL:DUR:PTCP:3PL mm
 1	ʃok	ʃok	NOUN	N	_	2	comp/m	_	AlignBegin=117960|AlignEnd=118288|GE=hill|Gloss=hill|nWord=1|RX=[N]
-2	-wa	_	AUX	V>N	_	_	_	_	AlignBegin=118288|AlignEnd=118615|GE=[NMLZ]|Gloss=-NMLZ|nWord=1|RX=[V>N]|TokenType=InflAff
-3	teʔ	teʔ	VERB	VI	_	_	_	_	AlignBegin=118615|AlignEnd=118779|GE=come|Gloss=come|nWord=2|RX=[VI]
+2	-wa	_	AUX	V>N	_	4	comp:obl	_	AlignBegin=118288|AlignEnd=118615|GE=[NMLZ]|Gloss=-NMLZ|nWord=1|RX=[V>N]|TokenType=InflAff
+3	teʔ	teʔ	VERB	VI	_	4	compound:svc	_	AlignBegin=118615|AlignEnd=118779|GE=come|Gloss=come|nWord=2|RX=[VI]
 4	teweh	teweh	VERB	VI	_	6	comp:aux/m	_	AlignBegin=118779|AlignEnd=118943|GE=go.up|Gloss=go.up|nWord=2|RX=[VI]
 5	-er	_	PRON	V:ANY	_	6	subj/m	_	AlignBegin=118943|AlignEnd=119107|GE=[S3PL]|Gloss=-S3PL|nWord=2|RX=[V:ANY]
-6	-wa	_	AUX	V:ANY	_	_	_	_	AlignBegin=119107|AlignEnd=119270|GE=[PFV]|Gloss=-PFV|nWord=2|RX=[V:ANY]
-7	yara	yara	NOUN	N	_	_	_	_	AlignBegin=119270|AlignEnd=119925|GE=edge|Gloss=edge|nWord=3|RX=[N]
+6	-wa	_	AUX	V:ANY	_	0	root	_	AlignBegin=119107|AlignEnd=119270|GE=[PFV]|Gloss=-PFV|nWord=2|RX=[V:ANY]
+7	yara	yara	NOUN	N	_	9	comp:obl	_	AlignBegin=119270|AlignEnd=119925|GE=edge|Gloss=edge|nWord=3|RX=[N]
 8	a-	_	AUX	VT>VI	Voice=Mid	9	comp/m	_	AlignBegin=119925|AlignEnd=120056|GE=[REFL]|Gloss=REFL-|nWord=4|RX=[VT>VI]
-9	piʃ	piʃ	VERB	VT	_	_	_	_	AlignBegin=120056|AlignEnd=120187|GE=lay.down|Gloss=lay.down|nWord=4|RX=[VT]
-10	-t	_	N>???	N>???	_	_	_	_	AlignBegin=120187|AlignEnd=120318|GE=[DUR]|Gloss=-DUR|nWord=4|RX=[N>???]
-11	-er	_	PRON	V:ANY	_	_	_	_	AlignBegin=120318|AlignEnd=120449|GE=[S3PL]|Gloss=-S3PL|nWord=4|RX=[V:ANY]
-12	-a	_	V>N	V>N	_	_	_	_	AlignBegin=120449|AlignEnd=120580|GE=[PTCP]|Gloss=PTCP|nWord=4|RX=[V>N]
-13	###,	_	_	_	_	_	_	_	AlignBegin=120580|AlignEnd=121235|nWord=5
-14	mm	mm	INTJ	INTERJ	_	_	_	_	AlignBegin=121235|AlignEnd=121892|GE=[INTERJ]|Gloss=INTERJ|nWord=6|RX=[INTERJ]
+9	piʃ	piʃ	VERB	VT	_	10	comp:aux/m	_	AlignBegin=120056|AlignEnd=120187|GE=lay.down|Gloss=lay.down|nWord=4|RX=[VT]
+10	-t	_	N>???	N>???	_	12	comp:aux/m	_	AlignBegin=120187|AlignEnd=120318|GE=[DUR]|Gloss=-DUR|nWord=4|RX=[N>???]
+11	-er	_	PRON	V:ANY	_	12	subj/m	_	AlignBegin=120318|AlignEnd=120449|GE=[S3PL]|Gloss=-S3PL|nWord=4|RX=[V:ANY]
+12	-a	_	AUX	V>N	_	6	mod	_	AlignBegin=120449|AlignEnd=120580|GE=[PTCP]|Gloss=PTCP|nWord=4|RX=[V>N]
+13	###,	_	_	_	_	12	punct	_	AlignBegin=120580|AlignEnd=121235|nWord=5
+14	mm	mm	INTJ	INTERJ	_	6	udep	_	AlignBegin=121235|AlignEnd=121892|GE=[INTERJ]|Gloss=INTERJ|nWord=6|RX=[INTERJ]
 
 # sent_id = 086_27-28
 # speaker_id = @VG
@@ -607,12 +608,12 @@
 # text_phrase-gls-pro =  || tàˈkèkɛ̃̄ àˈpìʃkì me, ((there are three intonation units in the pause that follows, untranscribed because of the wind noise on the mic)) (8.3s) ||
 # text_phrase-gls-wg =  sea =LOC lay.down:REFL:PST:3 =when
 1	take	take	NOUN	N	_	2	comp:obj	_	AlignBegin=122950|AlignEnd=123322|GE=sea|Gloss=sea|nWord=1|RX=[N]
-2	=kan	_	ADP	POST	_	_	_	_	AlignBegin=123322|AlignEnd=123694|GE=[LOC]|Gloss==LOC|nWord=2|RX=[POST]
+2	=kan	_	ADP	POST	_	4	mod:lmod	_	AlignBegin=123322|AlignEnd=123694|GE=[LOC]|Gloss==LOC|nWord=2|RX=[POST]
 3	a-	_	AUX	VT>VI	Voice=Mid	4	comp/m	_	AlignBegin=123694|AlignEnd=123787|GE=[REFL]|Gloss=REFL-|nWord=3|RX=[VT>VI]
 4	piʃk	piʃk	VERB	VT	_	6	comp:aux/m	_	AlignBegin=123787|AlignEnd=123880|GE=lay.down|Gloss=lay.down|nWord=3|RX=[VT]
 5	-Ø	_	PRON	V:ANY	_	6	subj/m	_	AlignBegin=123880|AlignEnd=123973|GE=[S3SG]|Gloss=-S3SG|nWord=3|RX=[V:ANY]
 6	-i	_	AUX	V:ANY	_	7	comp:obj	_	AlignBegin=123973|AlignEnd=124066|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]
-7	=ma	_	SCONJ	PRT	_	_	_	_	AlignBegin=124066|AlignEnd=124440|GE=when|Gloss==when|nWord=4|RX=[PRT]
+7	=ma	_	SCONJ	PRT	_	0	root	_	AlignBegin=124066|AlignEnd=124440|GE=when|Gloss==when|nWord=4|RX=[PRT]
 
 # sent_id = 086_29-29
 # speaker_id = @VG
@@ -626,24 +627,25 @@
 # text_phrase-gls-it =  kēːsenˈtiʃtīɾìʔ ˈʧêlèɾmà àsòˈɾé kɾeˈseʃ
 # text_phrase-gls-pro =  || kēːːːːːː, || senˈtiʃˈtīɾìʔ! (0.3s) || ˈʧêlèɾmà. (0.4s) || àsòˈɾé kɾeˈseʃ. (0.7s) ||
 # text_phrase-gls-wg =  already SPA_feel+make:DUR:PST:3PL see:PFV:3PL>3 =when water ABS SPA_grow+make:DUR:PST:3
-1	ke	ke	ADV	ADV	_	_	_	_	AlignBegin=132760|AlignEnd=133434|GE=already|Gloss=already|nWord=1|RX=[ADV]
-2	sentir	sentir	<NOT_SURE>	<NOT_SURE>	_	_	_	_	AlignBegin=133434|AlignEnd=133569|GE=[SPA_feel]|Gloss=SPA_feel|nWord=2|RX=[<NOT_SURE>]
-3	iʃ	iʃ	VERB	VT	_	_	_	_	AlignBegin=133569|AlignEnd=133704|GE=make|Gloss=make|nWord=2|RX=[VT]
-4	-t	_	N>???	N>???	_	_	_	_	AlignBegin=133704|AlignEnd=133839|GE=[DUR]|Gloss=-DUR|nWord=2|RX=[N>???]
+# tags = PASTtoPTCP
+1	ke	ke	ADV	ADV	_	6	mod:tmod	_	AlignBegin=132760|AlignEnd=133434|GE=already|Gloss=already|nWord=1|RX=[ADV]
+2	sentir	sentir	X	<NOT_SURE>	_	3	comp:pred	_	AlignBegin=133434|AlignEnd=133569|GE=[SPA_feel]|Gloss=SPA_feel|nWord=2|RX=[<NOT_SURE>]
+3	iʃ	iʃ	VERB	VT	_	4	comp:aux	_	AlignBegin=133569|AlignEnd=133704|GE=make|Gloss=make|nWord=2|RX=[VT]
+4	-t	_	AUX	N>???	_	6	comp:aux	_	AlignBegin=133704|AlignEnd=133839|GE=[DUR]|Gloss=-DUR|nWord=2|RX=[N>???]
 5	-ir	_	PRON	V:ANY	_	6	subj/m	_	AlignBegin=133839|AlignEnd=133974|GE=[S3PL]|Gloss=-S3PL|nWord=2|RX=[V:ANY]
-6	-i	_	AUX	V:ANY	_	_	_	_	AlignBegin=133974|AlignEnd=134108|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
+6	-i	_	AUX	V:ANY	_	0	root	_	AlignBegin=133974|AlignEnd=134108|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
 7	Ø-	_	PRON	VT:ANY	_	8	comp:obj/m	_	AlignBegin=134108|AlignEnd=134276|GE=[O3SG]|Gloss=O3SG-|nWord=3|RX=[VT:ANY]
 8	tʃã	tʃã	VERB	VT	_	10	comp:aux/m	_	AlignBegin=134276|AlignEnd=134444|GE=see|Gloss=see|nWord=3|RX=[VT]
 9	-er	_	PRON	V:ANY	_	10	subj/m	_	AlignBegin=134444|AlignEnd=134612|GE=[S3PL]|Gloss=-S3PL|nWord=3|RX=[V:ANY]
 10	-wa	_	AUX	V:ANY	_	11	comp:obj	_	AlignBegin=134612|AlignEnd=134782|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]
-11	=ma	_	SCONJ	PRT	_	_	_	_	AlignBegin=134782|AlignEnd=135456|GE=when|Gloss==when|nWord=4|RX=[PRT]
+11	=ma	_	SCONJ	PRT	_	6	comp:tmod	_	AlignBegin=134782|AlignEnd=135456|GE=when|Gloss==when|nWord=4|RX=[PRT]
 12	aso	aso	NOUN	N	_	13	comp:obj	_	AlignBegin=135456|AlignEnd=136130|GE=water|Gloss=water|nWord=5|RX=[N]
-13	=ra	_	ADP	PRT	_	_	_	_	AlignBegin=136130|AlignEnd=136804|GE=[ABS]|Gloss==ABS|nWord=6|RX=[PRT]
-14	crecer	crecer	<NOT_SURE>	<NOT_SURE>	_	_	_	_	AlignBegin=136804|AlignEnd=136939|GE=[SPA_grow]|Gloss=SPA_grow|nWord=7|RX=[<NOT_SURE>]
-15	iʃ	iʃ	VERB	VT	_	_	_	_	AlignBegin=136939|AlignEnd=137074|GE=make|Gloss=make|nWord=7|RX=[VT]
-16	-t	_	N>???	N>???	_	_	_	_	AlignBegin=137074|AlignEnd=137209|GE=[DUR]|Gloss=-DUR|nWord=7|RX=[N>???]
+13	=ra	_	ADP	PRT	_	14	subj	_	AlignBegin=136130|AlignEnd=136804|GE=[ABS]|Gloss==ABS|nWord=6|RX=[PRT]
+14	crecer	crecer	X	<NOT_SURE>	_	15	comp:pred	_	AlignBegin=136804|AlignEnd=136939|GE=[SPA_grow]|Gloss=SPA_grow|nWord=7|RX=[<NOT_SURE>]
+15	iʃ	iʃ	VERB	VT	_	16	comp:aux	_	AlignBegin=136939|AlignEnd=137074|GE=make|Gloss=make|nWord=7|RX=[VT]
+16	-t	_	AUX	N>???	_	18	comp:aux	_	AlignBegin=137074|AlignEnd=137209|GE=[DUR]|Gloss=-DUR|nWord=7|RX=[N>???]
 17	-Ø	_	PRON	V:ANY	_	18	subj/m	_	AlignBegin=137209|AlignEnd=137344|GE=[S3SG]|Gloss=-S3SG|nWord=7|RX=[V:ANY]
-18	-i	_	AUX	V:ANY	_	_	_	_	AlignBegin=137344|AlignEnd=137480|GE=[PST]|Gloss=-PST|nWord=7|RX=[V:ANY]
+18	-i	_	AUX	V:ANY	_	8	comp:obj	_	AlignBegin=137344|AlignEnd=137480|GE=[PST]|Gloss=-PST|nWord=7|RX=[V:ANY]
 
 # sent_id = 086_30-30
 # speaker_id = @VG
@@ -657,23 +659,23 @@
 # text_phrase-gls-it =  ˈtɾóːkì tèʃˈkɾíʔ téˈɾùmpɾà ˈkɾéɣàŋ àˈtèskɛ̄ʔ
 # text_phrase-gls-pro =  || ˈtɾóːkì tèʃˈkɾíʔ téˈɾùmpɾà. || ˈkɾé[ʔɣàŋ] àˈtèskɛ̄ʔ. || ((AM; [mm])) (0.7s) ||
 # text_phrase-gls-wg =  run:MID:APPL:PST:3PL get.away:PST:3PL say:PFV:3PL>3 EMPH at.front LOC further =LOC
-1	ta-	_	AUX	VT>VI	Voice=Mid	_	_	_	AlignBegin=138140|AlignEnd=138213|GE=[MID]|Gloss=MID-|nWord=1|RX=[VT>VI]
+1	ta-	_	AUX	VT>VI	Voice=Mid	2	comp:pred	_	AlignBegin=138140|AlignEnd=138213|GE=[MID]|Gloss=MID-|nWord=1|RX=[VT>VI]
 2	r-	_	AUX	V:ANY	Voice=Appl	5	comp:aux/m	_	AlignBegin=138213|AlignEnd=138286|GE=[APPL].[P]|Gloss=APPL.P-|nWord=1|RX=[V:ANY]
 3	oʔk	oʔk	VERB	V	_	2	comp:aux/m	_	AlignBegin=138286|AlignEnd=138359|GE=run|Gloss=run|nWord=1|RX=[V]
 4	-ir	_	PRON	V:ANY	_	5	subj/m	_	AlignBegin=138359|AlignEnd=138432|GE=[S3PL]|Gloss=-S3PL|nWord=1|RX=[V:ANY]
-5	-i	_	AUX	V:ANY	_	_	_	_	AlignBegin=138432|AlignEnd=138504|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]
+5	-i	_	AUX	V:ANY	_	12	comp:obj	_	AlignBegin=138432|AlignEnd=138504|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]
 6	teʃk	teʃk	VERB	VI	_	8	comp:aux/m	_	AlignBegin=138504|AlignEnd=138625|GE=get.away|Gloss=get.away|nWord=2|RX=[VI]
 7	-er	_	PRON	V:ANY	_	8	subj/m	_	AlignBegin=138625|AlignEnd=138746|GE=[S3PL]|Gloss=-S3PL|nWord=2|RX=[V:ANY]
-8	-i	_	AUX	V:ANY	_	_	_	_	AlignBegin=138746|AlignEnd=138868|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
-9	tV	_	VERB	VT	_	_	_	_	AlignBegin=138868|AlignEnd=138959|GE=say|Gloss=say|nWord=3|RX=[VT]
+8	-i	_	AUX	V:ANY	_	5	conj:coord	_	AlignBegin=138746|AlignEnd=138868|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
+9	tV	_	VERB	VT	_	12	comp:aux	_	AlignBegin=138868|AlignEnd=138959|GE=say|Gloss=say|nWord=3|RX=[VT]
 10	-Ø	Ø-	PRON	VT:ANY	_	9	comp:obj/m	_	AlignBegin=138959|AlignEnd=139050|GE=[O3SG]|Gloss=O3SG-|nWord=3|RX=[VT:ANY]|wordform=Ø-
 11	-er	_	PRON	V:ANY	_	12	subj/m	_	AlignBegin=139050|AlignEnd=139141|GE=[S3PL]|Gloss=-S3PL|nWord=3|RX=[V:ANY]
-12	-wa	_	AUX	V:ANY	_	_	_	_	AlignBegin=139141|AlignEnd=139232|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]
-13	=pra	_	PART	PRT	_	_	_	_	AlignBegin=139232|AlignEnd=139596|GE=[EMPH]|Gloss==EMPH|nWord=4|RX=[PRT]
+12	-wa	_	AUX	V:ANY	_	0	root	_	AlignBegin=139141|AlignEnd=139232|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]
+13	=pra	_	PART	PRT	_	12	mod	_	AlignBegin=139232|AlignEnd=139596|GE=[EMPH]|Gloss==EMPH|nWord=4|RX=[PRT]
 14	kere	kere	NOUN	N	_	15	comp:obj	_	AlignBegin=139596|AlignEnd=139960|GE=at.front|Gloss=at.front|nWord=5|RX=[N]
-15	=kan	_	ADP	POST	_	_	_	_	AlignBegin=139960|AlignEnd=140324|GE=[LOC]|Gloss==LOC|nWord=6|RX=[POST]
+15	=kan	_	ADP	POST	_	5	mod:lmod	_	AlignBegin=139960|AlignEnd=140324|GE=[LOC]|Gloss==LOC|nWord=6|RX=[POST]
 16	ates	ates	ADV	ADV	_	17	comp:obj	_	AlignBegin=140324|AlignEnd=140688|GE=further|Gloss=further|nWord=7|RX=[ADV]
-17	=ken	_	ADP	POST	_	_	_	_	AlignBegin=140688|AlignEnd=141050|GE=[LOC]|Gloss==LOC|nWord=8|RX=[POST]
+17	=ken	_	ADP	POST	_	15	conj:coord	_	AlignBegin=140688|AlignEnd=141050|GE=[LOC]|Gloss==LOC|nWord=8|RX=[POST]
 
 # sent_id = 086_31-31
 # speaker_id = @VG
@@ -688,19 +690,19 @@
 # text_phrase-gls-pro =  || ˈʃokeˈʔar káˈpɾìʃːː!. (1.2s) || ˈʃōɣāɾ káˈpɾìʃ. (1.0s) ||
 # text_phrase-gls-wg =  hill:NMLZ go.across:APPL:PST:3>3 hill:NMLZ go.across:APPL:PST:3>3
 1	ʃok	ʃok	NOUN	N	_	2	comp/m	_	AlignBegin=141780|AlignEnd=142240|GE=hill|Gloss=hill|nWord=1|RX=[N]
-2	-a	_	AUX	V>N	_	_	_	_	AlignBegin=142240|AlignEnd=142700|GE=[NMLZ]|Gloss=-NMLZ|nWord=1|RX=[V>N]|TokenType=InflAff
+2	-a	_	AUX	V>N	_	4	comp:obj@appl	_	AlignBegin=142240|AlignEnd=142700|GE=[NMLZ]|Gloss=-NMLZ|nWord=1|RX=[V>N]|TokenType=InflAff
 3	a-	_	PRON	VT:ANY	_	4	comp:obj@appl/m	_	AlignBegin=142700|AlignEnd=142884|GE=[O3SG]|Gloss=O3SG-|nWord=2|RX=[VT:ANY]
 4	r-	_	AUX	V:ANY	Voice=Appl	7	comp:aux/m	_	AlignBegin=142884|AlignEnd=143068|GE=[APPL].[P]|Gloss=APPL.P-|nWord=2|RX=[V:ANY]
 5	kapriʃ	kapriʃ	VERB	VI	_	4	comp:aux/m	_	AlignBegin=143068|AlignEnd=143252|GE=go.across|Gloss=go.across|nWord=2|RX=[VI]
 6	-Ø	_	PRON	V:ANY	_	7	subj/m	_	AlignBegin=143252|AlignEnd=143436|GE=[S3SG]|Gloss=-S3SG|nWord=2|RX=[V:ANY]
-7	-i	_	AUX	V:ANY	_	_	_	_	AlignBegin=143436|AlignEnd=143620|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
+7	-i	_	AUX	V:ANY	_	0	root	_	AlignBegin=143436|AlignEnd=143620|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]
 8	ʃok	ʃok	NOUN	N	_	9	comp/m	_	AlignBegin=143620|AlignEnd=144080|GE=hill|Gloss=hill|nWord=3|RX=[N]
-9	-a	_	AUX	V>N	_	_	_	_	AlignBegin=144080|AlignEnd=144540|GE=[NMLZ]|Gloss=-NMLZ|nWord=3|RX=[V>N]|TokenType=InflAff
+9	-a	_	AUX	V>N	_	11	comp:obj@appl	_	AlignBegin=144080|AlignEnd=144540|GE=[NMLZ]|Gloss=-NMLZ|nWord=3|RX=[V>N]|TokenType=InflAff
 10	a-	_	PRON	VT:ANY	_	11	comp:obj@appl/m	_	AlignBegin=144540|AlignEnd=144724|GE=[O3SG]|Gloss=O3SG-|nWord=4|RX=[VT:ANY]
 11	r-	_	AUX	V:ANY	Voice=Appl	14	comp:aux/m	_	AlignBegin=144724|AlignEnd=144908|GE=[APPL].[P]|Gloss=APPL.P-|nWord=4|RX=[V:ANY]
 12	kapriʃ	kapriʃ	VERB	VI	_	11	comp:aux/m	_	AlignBegin=144908|AlignEnd=145092|GE=go.across|Gloss=go.across|nWord=4|RX=[VI]
 13	-Ø	_	PRON	V:ANY	_	14	subj/m	_	AlignBegin=145092|AlignEnd=145276|GE=[S3SG]|Gloss=-S3SG|nWord=4|RX=[V:ANY]
-14	-i	_	AUX	V:ANY	_	_	_	_	AlignBegin=145276|AlignEnd=145460|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]
+14	-i	_	AUX	V:ANY	_	7	parataxis	_	AlignBegin=145276|AlignEnd=145460|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]
 
 # sent_id = 086_32-32
 # speaker_id = @VG
@@ -716,14 +718,14 @@
 # text_phrase-gls-wg =  DEM.DIST =SIM MDT HES drink:DUR:NEG:PST:3>3PL
 1	ã	ã	PRON	PRO	_	2	comp:obj	_	AlignBegin=146510|AlignEnd=146904|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=1|RX=[PRO]
 2	=kan	_	PART	PRT	_	3	comp:obj	_	AlignBegin=146904|AlignEnd=147298|GE=[SIM]|Gloss==SIM|nWord=2|RX=[PRT]
-3	=ri	_	ADP	POST	_	_	_	_	AlignBegin=147298|AlignEnd=147692|GE=[MDT]|Gloss==MDT|nWord=3|RX=[POST]
-4	ãma	ãma	PART	PRT	_	_	_	_	AlignBegin=147692|AlignEnd=148086|GE=[HES]|Gloss=HES|nWord=4|RX=[PRT]
+3	=ri	_	ADP	POST	_	10	mod	_	AlignBegin=147298|AlignEnd=147692|GE=[MDT]|Gloss==MDT|nWord=3|RX=[POST]
+4	ãma	ãma	PART	PRT	_	10	discourse	_	AlignBegin=147692|AlignEnd=148086|GE=[HES]|Gloss=HES|nWord=4|RX=[PRT]
 5	ka-	_	PRON	V:ANY	_	6	comp:obj/m	_	AlignBegin=148086|AlignEnd=148152|GE=[O3PL]|Gloss=O3PL-|nWord=5|RX=[V:ANY]
-6	toq	toq	VERB	VT	_	_	_	_	AlignBegin=148152|AlignEnd=148218|GE=drink|Gloss=drink|nWord=5|RX=[VT]
-7	-t	_	N>???	N>???	_	_	_	_	AlignBegin=148218|AlignEnd=148284|GE=[DUR]|Gloss=-DUR|nWord=5|RX=[N>???]
+6	toq	toq	VERB	VT	_	7	comp:aux	_	AlignBegin=148152|AlignEnd=148218|GE=drink|Gloss=drink|nWord=5|RX=[VT]
+7	-t	_	AUX	N>???	_	9	comp:aux	_	AlignBegin=148218|AlignEnd=148284|GE=[DUR]|Gloss=-DUR|nWord=5|RX=[N>???]
 8	-i	_	PRON	V:ANY	_	9	subj/m	_	AlignBegin=148284|AlignEnd=148350|GE=[S3SG]|Gloss=-S3SG|nWord=5|RX=[V:ANY]
-9	-tV	_	AUX	V:ANY	_	_	_	_	AlignBegin=148350|AlignEnd=148416|GE=[NEG]|Gloss=-NEG|nWord=5|RX=[V:ANY]
-10	-ri	_	AUX	V:ANY	_	_	_	_	AlignBegin=148416|AlignEnd=148480|GE=[PST]|Gloss=-PST|nWord=5|RX=[V:ANY]
+9	-tV	_	AUX	V:ANY	_	10	comp:aux	_	AlignBegin=148350|AlignEnd=148416|GE=[NEG]|Gloss=-NEG|nWord=5|RX=[V:ANY]
+10	-ri	_	AUX	V:ANY	_	0	root	_	AlignBegin=148416|AlignEnd=148480|GE=[PST]|Gloss=-PST|nWord=5|RX=[V:ANY]
 
 # sent_id = 086_33-33
 # speaker_id = @VG
@@ -740,22 +742,22 @@
 1	nẽ	nẽ	VERB	VI	_	3	comp:aux/m	_	AlignBegin=149070|AlignEnd=149198|GE=go|Gloss=go|nWord=1|RX=[VI]
 2	-er	_	PRON	V:ANY	_	3	subj/m	_	AlignBegin=149198|AlignEnd=149326|GE=[S3PL]|Gloss=-S3PL|nWord=1|RX=[V:ANY]
 3	-wa	_	AUX	V:ANY	_	4	comp:obj	_	AlignBegin=149326|AlignEnd=149453|GE=[PFV]|Gloss=-PFV|nWord=1|RX=[V:ANY]
-4	=ma	_	SCONJ	PRT	_	_	_	_	AlignBegin=149453|AlignEnd=149836|GE=when|Gloss==when|nWord=2|RX=[PRT]
+4	=ma	_	SCONJ	PRT	_	8	conj:dicto	_	AlignBegin=149453|AlignEnd=149836|GE=when|Gloss==when|nWord=2|RX=[PRT]
 5	nẽ	nẽ	VERB	VI	_	7	comp:aux/m	_	AlignBegin=149836|AlignEnd=149964|GE=go|Gloss=go|nWord=3|RX=[VI]
 6	-er	_	PRON	V:ANY	_	7	subj/m	_	AlignBegin=149964|AlignEnd=150092|GE=[S3PL]|Gloss=-S3PL|nWord=3|RX=[V:ANY]
 7	-wa	_	AUX	V:ANY	_	8	comp:obj	_	AlignBegin=150092|AlignEnd=150219|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]
-8	=ma	_	SCONJ	PRT	_	_	_	_	AlignBegin=150219|AlignEnd=150602|GE=when|Gloss==when|nWord=4|RX=[PRT]
-9	ke	ke	ADV	ADV	_	_	_	_	AlignBegin=150602|AlignEnd=150985|GE=already|Gloss=already|nWord=5|RX=[ADV]
-10	mẽymẽy	mẽymẽy	<NOT_SURE>	<NOT_SURE>	_	_	_	_	AlignBegin=150985|AlignEnd=151368|GE=weak|Gloss=weak|nWord=6|RX=[<NOT_SURE>]
+8	=ma	_	SCONJ	PRT	_	14	mod:tmod	_	AlignBegin=150219|AlignEnd=150602|GE=when|Gloss==when|nWord=4|RX=[PRT]
+9	ke	ke	ADV	ADV	_	7	mod:tmod	_	AlignBegin=150602|AlignEnd=150985|GE=already|Gloss=already|nWord=5|RX=[ADV]
+10	mẽymẽy	mẽymẽy	NOUN	<NOT_SURE>	_	11	comp:pred	_	AlignBegin=150985|AlignEnd=151368|GE=weak|Gloss=weak|nWord=6|RX=[<NOT_SURE>]
 11	ta-	_	AUX	VT>VI	Voice=Mid	12	comp/m	_	AlignBegin=151368|AlignEnd=151464|GE=[MID]|Gloss=MID-|nWord=7|RX=[VT>VI]
 12	iʃk	iʃk	VERB	VT	_	14	comp:aux/m	_	AlignBegin=151464|AlignEnd=151560|GE=make|Gloss=make|nWord=7|RX=[VT]
 13	-a	_	PRON	PRO:ANY	_	14	subj/m	_	AlignBegin=151560|AlignEnd=151656|GE=[S1SG]|Gloss=-S1SG|nWord=7|RX=[PRO:ANY]
-14	-ri	_	AUX	V:ANY	_	_	_	_	AlignBegin=151656|AlignEnd=151751|GE=[PST]|Gloss=-PST|nWord=7|RX=[V:ANY]
-15	tV	_	VERB	VT	_	_	_	_	AlignBegin=151751|AlignEnd=151847|GE=say|Gloss=say|nWord=8|RX=[VT]
+14	-ri	_	AUX	V:ANY	_	18	comp:obj	_	AlignBegin=151656|AlignEnd=151751|GE=[PST]|Gloss=-PST|nWord=7|RX=[V:ANY]
+15	tV	_	VERB	VT	_	18	comp:aux	_	AlignBegin=151751|AlignEnd=151847|GE=say|Gloss=say|nWord=8|RX=[VT]
 16	-Ø	Ø-	PRON	VT:ANY	_	15	comp:obj/m	_	AlignBegin=151847|AlignEnd=151943|GE=[O3SG]|Gloss=O3SG-|nWord=8|RX=[VT:ANY]|wordform=Ø-
 17	-er	_	PRON	V:ANY	_	18	subj/m	_	AlignBegin=151943|AlignEnd=152039|GE=[S3PL]|Gloss=-S3PL|nWord=8|RX=[V:ANY]
-18	-wa	_	AUX	V:ANY	_	_	_	_	AlignBegin=152039|AlignEnd=152134|GE=[PFV]|Gloss=-PFV|nWord=8|RX=[V:ANY]
-19	=pra	_	PART	PRT	_	_	_	_	AlignBegin=152134|AlignEnd=152520|GE=[EMPH]|Gloss==EMPH|nWord=9|RX=[PRT]
+18	-wa	_	AUX	V:ANY	_	0	root	_	AlignBegin=152039|AlignEnd=152134|GE=[PFV]|Gloss=-PFV|nWord=8|RX=[V:ANY]
+19	=pra	_	PART	PRT	_	18	mod	_	AlignBegin=152134|AlignEnd=152520|GE=[EMPH]|Gloss==EMPH|nWord=9|RX=[PRT]
 
 # sent_id = 086_34-34
 # speaker_id = @VG
