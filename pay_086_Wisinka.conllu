@@ -306,7 +306,7 @@
 1	arõ	arõ	INTJ	PRT	_	9	discourse	_	AlignBegin=53580|AlignEnd=54734|GE=[HES]|Gloss=HES|nWord=1|RX=[PRT]|TokenType=Root|Word=arõ
 2	ãm	ãm	INTJ	PRT	_	1	conj:coord	_	AlignBegin=54734|AlignEnd=55888|GE=[HES]|Gloss=HES|nWord=2|RX=[PRT]|TokenType=Root|Word=ãm
 3	Ø-	_	PRON	VT:ANY	_	4	comp:obj/m	_	AlignBegin=55888|AlignEnd=56080|GE=[O3SG]|Gloss=O3SG-|nWord=3|RX=[VT:ANY]|TokenType=InflAff|Word=tʃelerpeker
-4	tʃa	tʃa	VERB	VT	_	6	compoud:svc	_	AlignBegin=56080|AlignEnd=56272|GE=see|Gloss=see|nWord=3|RX=[VT]|TokenType=Root|Word=tʃelerpeker
+4	tʃa	tʃa	VERB	VT	_	6	compound:svc	_	AlignBegin=56080|AlignEnd=56272|GE=see|Gloss=see|nWord=3|RX=[VT]|TokenType=Root|Word=tʃelerpeker
 5	-er	_	PRON	V:ANY	_	4	subj/m	_	AlignBegin=56272|AlignEnd=56464|GE=[S3PL]|Gloss=-S3PL|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=tʃelerpeker
 6	pek	pek	VERB	VT	_	8	comp:aux	_	AlignBegin=56464|AlignEnd=56656|GE=bring|Gloss=bring|nWord=3|RX=[VT]|TokenType=Root|Word=tʃelerpeker
 7	-er	_	PRON	V:ANY	_	8	subj/m	_	AlignBegin=56656|AlignEnd=56848|GE=[S3PL]|Gloss=-S3PL|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=tʃelerpeker

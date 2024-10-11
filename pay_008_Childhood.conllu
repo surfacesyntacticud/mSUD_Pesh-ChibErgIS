@@ -593,7 +593,7 @@
 27	ũ-	_	PRON	PRO:ANY	Clusivity=Ex	28	mod/m	_	AlignBegin=139599|AlignEnd=139837|GE=[EXCL]|Gloss=EXCL-|nWord=16|RX=[PRO:ANY]|TokenType=InflAff|Word=ũtasuwa
 28	ta-	_	PRON	N:ANY	_	29	det:poss	_	AlignBegin=139837|AlignEnd=140075|GE=[POSS1]|Gloss=POSS1-|nWord=16|RX=[N:ANY]|TokenType=InflAff|Word=ũtasuwa
 29	suwa	suwa	NOUN	N	_	30	comp:obj	_	AlignBegin=140075|AlignEnd=140312|GE=grandmother|Gloss=grandmother|nWord=16|RX=[N]|TokenType=Root|Word=ũtasuwa
-30	=ma	_	PART	PRT	_	26	:appos	_	AlignBegin=140312|AlignEnd=141026|GE=[TOP]|Gloss==TOP|nWord=17|RX=[PRT]|TokenType=Clit|Word=ma
+30	=ma	_	PART	PRT	_	26	conj:appos	_	AlignBegin=140312|AlignEnd=141026|GE=[TOP]|Gloss==TOP|nWord=17|RX=[PRT]|TokenType=Clit|Word=ma
 
 # sent_id = 008_026-026
 # speaker_id = @JH
@@ -2315,7 +2315,7 @@
 # text_phrase-gls-pro =  || ˈkàpùˈɾùpìʃˈpã́mã̀ || ˈkàːpùɾù ˈpɨ́ʃkə̀ ʃɛ̀ˈwāˀ (0.4s) ||
 # text_phrase-gls-wg =  lean.on+lay.down:(help)FUT:1>3PL when lean.on+lay.down(help):PFV:1>3PL be.there:PFV:3
 1	ka-	_	PRON	V:ANY	_	2	comp:obj/m	_	AlignBegin=469286|AlignEnd=469435|GE=[O3PL]|Gloss=O3PL-|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=kapurupiʃpã
-2	puru	puru	VERB	VT	_	3	compoud:svc	_	AlignBegin=469435|AlignEnd=469584|GE=lean.on|Gloss=lean.on|nWord=1|RX=[VT]|TokenType=Root|Word=kapurupiʃpã
+2	puru	puru	VERB	VT	_	3	compound:svc	_	AlignBegin=469435|AlignEnd=469584|GE=lean.on|Gloss=lean.on|nWord=1|RX=[VT]|TokenType=Root|Word=kapurupiʃpã
 3	piʃ	piʃ	VERB	VT	_	4	comp:aux	_	AlignBegin=469584|AlignEnd=469733|GE=lay.down|Gloss=lay.down|nWord=1|RX=[VT]|TokenType=Root|Word=kapurupiʃpã
 4	-pa	_	AUX	V:ANY	Person=1	5	comp:obj	_	AlignBegin=469733|AlignEnd=469881|GE=[S1SG:FUT]|Gloss=-S1SG:FUT|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=kapurupiʃpã
 5	=mã	_	SCONJ	PRT	_	13	mod	_	AlignBegin=469881|AlignEnd=470476|GE=when|Gloss==when|nWord=2|RX=[PRT]|TokenType=Clit|Word=mã
