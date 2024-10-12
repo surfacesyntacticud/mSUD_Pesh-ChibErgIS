@@ -2090,32 +2090,3 @@
 4	-Ø	_	PRON	V:ANY	_	5	subj/m	_	AlignBegin=360526|AlignEnd=360654|GE=[S3SG]|Gloss=-S3SG|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=tõʃki
 5	-i	_	AUX	V:ANY	_	0	root	_	AlignBegin=360654|AlignEnd=360780|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=tõʃki
 
-# sent_id = 008_029-029
-# speaker_id = @JH
-# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_008_Childhood_ToCoNLL_NEW.WAV
-# sent_timecode = 154100, 157533
-# morphemic_text = ka- r- weʃ -a awikãwã a- r- weʃ -a =rina a- r- tʃuiʃ -a -tV -ri
-# text = karweʃa awikãwã arweʃ rina artʃuiʃtari
-# text_en =  To read books, I did not learn to read books.
-# text_phrase-gls-de =  008.029_JH
-# text_phrase-gls-es =  Leer libros no aprendí tampoco a leer
-# text_phrase-gls-it =  kāwēʃà àwíkã́wã̀ˀ àwéʃɾĩ́nã́ˀ (àˀ) àʰt͡ʃṹʃtáàɾìˀ
-# text_phrase-gls-pro =  || kāˈwēʃà àˈwí ˈkã́wã̀ˀ || àˈwéʃɾĩ́ˈnã̄ˀ (.) || àeˀ-- (.) || àʰˈt͡ʃṹʃtáˈɾìˀ (0.4s) ||
-# text_phrase-gls-wg =  hear:APPL:INF:3PL.O book hear:APPL:INF:3O also learn:NEG:PST:1>3
-1	ka-	_	PRON	V:ANY	_	2	comp:obj@appl/m	_	AlignBegin=154100|AlignEnd=154272|GE=[O3PL]|Gloss=O3PL-|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=karweʃa
-2	r-	_	AUX	V:ANY	Voice=Appl	4	comp/m	_	AlignBegin=154272|AlignEnd=154444|GE=[APPL].[P]|Gloss=APPL.P-|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=karweʃa
-3	weʃ	weʃ	VERB	VT	_	2	comp:aux/m	_	AlignBegin=154444|AlignEnd=154616|GE=hear|Gloss=hear|nWord=1|RX=[VT]|TokenType=Root|verbform=Inf|Word=karweʃa
-4	-a	_	V>N	V>N	_	9	conj:dicto	_	AlignBegin=154616|AlignEnd=154787|DerPos=NOUN|GE=[INF]|Gloss=INF|nWord=1|RX=[V>N]|TokenType=DerAff|Word=karweʃa
-5	awikãwã	awikãwã	NOUN	N	_	2	comp:obj@appl	_	AlignBegin=154787|AlignEnd=155474|GE=book|Gloss=book|nWord=2|RX=[N]|TokenType=Root|Word=awikãwã
-6	a-	_	PRON	VT:ANY	_	7	comp:obj@appl/m	_	AlignBegin=155474|AlignEnd=155646|GE=[O3SG]|Gloss=O3SG-|nWord=3|RX=[VT:ANY]|TokenType=InflAff|Word=arweʃ
-7	r-	_	AUX	V:ANY	Voice=Appl	9	comp/m	_	AlignBegin=155646|AlignEnd=155818|GE=[APPL].[P]|Gloss=APPL.P-|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=arweʃ
-8	weʃ	weʃ	VERB	VT	_	7	comp:aux/m	_	AlignBegin=155818|AlignEnd=155990|GE=hear|Gloss=hear|nWord=3|RX=[VT]|TokenType=Root|verbform=Inf|Word=arweʃ
-9	-a	_	AUX	V>N	_	12	comp:obj	_	AlignBegin=155990|AlignEnd=156161|DerPos=NOUN|GE=[INF]|Gloss=INF|nWord=3|RX=[V>N]|TokenType=DerAff|Word=arweʃ
-10	=rina	_	ADV	COORDCONN	_	9	mod	_	AlignBegin=156161|AlignEnd=156848|GE=also|Gloss==also|nWord=4|RX=[COORDCONN]|TokenType=Clit|Word=rina
-11	a-	_	PRON	VT:ANY	_	12	comp:obj@appl/m	_	AlignBegin=156848|AlignEnd=156962|GE=[O3SG]|Gloss=O3SG-|nWord=5|RX=[VT:ANY]|TokenType=InflAff|Word=artʃuiʃtari
-12	r-	_	AUX	V:ANY	Voice=Appl	16	comp:aux	_	AlignBegin=156962|AlignEnd=157076|GE=[APPL].[P]|Gloss=APPL.P-|nWord=5|RX=[V:ANY]|TokenType=InflAff|Word=artʃuiʃtari
-13	tʃuiʃ	tʃuiʃ	VERB	V	_	12	comp:aux/m	_	AlignBegin=157076|AlignEnd=157190|GE=learn|Gloss=learn|nWord=5|RX=[V]|TokenType=Root|Word=artʃuiʃtari
-14	-a	_	PRON	PRO:ANY	_	15	subj/m	_	AlignBegin=157190|AlignEnd=157304|GE=[S1SG]|Gloss=-S1SG|nWord=5|RX=[PRO:ANY]|TokenType=InflAff|Word=artʃuiʃtari
-15	-tV	_	AUX	V:ANY	_	16	comp:aux/m	_	AlignBegin=157304|AlignEnd=157418|GE=[NEG]|Gloss=-NEG|nWord=5|RX=[V:ANY]|TokenType=InflAff|Word=artʃuiʃtari
-16	-ri	_	AUX	V:ANY	_	0	root	_	AlignBegin=157418|AlignEnd=157533|GE=[PST]|Gloss=-PST|nWord=5|RX=[V:ANY]|TokenType=InflAff|Word=artʃuiʃtari
-
