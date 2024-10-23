@@ -838,7 +838,7 @@
 # text_phrase-gls-wg =  DEM.MED man:1 COM hand+grab(marry):PST:1>N
 1	toʔ	toʔ	PRON	PRO	_	2	det	_	AlignBegin=183287|AlignEnd=183917|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=toʔ
 2	ta-	_	PRON	N:ANY	_	3	det:poss	_	AlignBegin=183917|AlignEnd=184232|GE=[POSS1]|Gloss=POSS1-|nWord=2|RX=[N:ANY]|TokenType=InflAff|Word=taarwã
-3	arwã	arwã	NOUN	N	Animacy=Hum 	4	comp:obj	_	AlignBegin=184232|AlignEnd=184547|GE=man|Gloss=man|nWord=2|RX=[N]|TokenType=Root|Word=taarwã
+3	arwã	arwã	NOUN	N	Animacy=Hum	4	comp:obj	_	AlignBegin=184232|AlignEnd=184547|GE=man|Gloss=man|nWord=2|RX=[N]|TokenType=Root|Word=taarwã
 4	=yo	_	ADP	POST	_	6	comp:obl	_	AlignBegin=184547|AlignEnd=185177|GE=[COM]|Gloss==COM|nWord=3|RX=[POST]|TokenType=Clit|Word=yo
 5	sawa	sawa	NOUN	N	_	6	comp:obj@lvc	_	AlignBegin=185177|AlignEnd=185334|GE=hand|Gloss=hand|nWord=4|RX=[N]|TokenType=Root|Word=soasukuhari
 6	sukuh	sukuh	VERB	VT	_	8	comp:aux	_	AlignBegin=185334|AlignEnd=185491|GE=grab|Gloss=grab|nWord=4|RX=[VT]|TokenType=Root|Word=soasukuhari
