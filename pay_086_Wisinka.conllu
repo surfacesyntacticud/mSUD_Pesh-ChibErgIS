@@ -119,7 +119,7 @@
 5	-ri	_	AUX	V:ANY	_	0	root	_	AlignBegin=24374|AlignEnd=24484|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=ruri
 6	ãma	ãma	PART	PRT	_	12	discourse	_	AlignBegin=24484|AlignEnd=24921|GE=[HES]|Gloss=HES|nWord=3|RX=[PRT]|TokenType=Root|Word=ãma
 7	wiʃĩnka	wiʃĩnka	NOUN	N	_	8	comp:obj	_	AlignBegin=24921|AlignEnd=25358|GE=wisinka|Gloss=wisinka|nWord=4|RX=[N]|TokenType=Root|Word=wiʃĩnka
-8	=ra	_	ADP	PRT	_	11	subj	_	AlignBegin=25358|AlignEnd=25795|GE=[ABS]|Gloss==ABS|nWord=5|RX=[PRT]|TokenType=Clit|Word=ra
+8	=ra	_	ADP	PRT	Case=Abs	11	subj	_	AlignBegin=25358|AlignEnd=25795|GE=[ABS]|Gloss==ABS|nWord=5|RX=[PRT]|TokenType=Clit|Word=ra
 9	ʃa	ʃa	AUX	VI	_	11	comp:aux/m	_	AlignBegin=25795|AlignEnd=25904|GE=be.there|Gloss=be.there|nWord=6|RX=[VI]|TokenType=Root|Word=ʃururi
 10	-Ø	_	PRON	V:ANY	_	11	subj/m	_	AlignBegin=25904|AlignEnd=26013|GE=[S3SG]|Gloss=-S3SG|nWord=6|RX=[V:ANY]|TokenType=InflAff|Word=ʃururi
 11	-ru	_	AUX	N:ANY	_	12	comp:aux/m	_	AlignBegin=26013|AlignEnd=26122|GE=[HAB]|Gloss=-HAB|nWord=6|RX=[N:ANY]|TokenType=InflAff|Word=ʃururi
@@ -138,7 +138,7 @@
 # text_phrase-gls-pro =  || ˈwùsɘ̀ŋ ˈkàɾé ʃíì!, (1.0s) || tòˈkẽ́ pèʃ ˈnɛ́tèʔʃkèɾméʲ kég, (1.6s) ||
 # text_phrase-gls-wg =  wisinka =ABS be.there:PST:3 DEM.MED =LOC people go+get.away:PFV:3PL =when already
 1	wisĩnka	wisĩnka	NOUN	N	_	2	comp:obj	_	AlignBegin=27120|AlignEnd=27554|GE=wisinka|Gloss=wisinka|nWord=1|RX=[N]|TokenType=Root|Word=wisĩnka
-2	=ro	_	ADP	PRT	_	5	subj	_	AlignBegin=27554|AlignEnd=27988|GE=[ABS]|Gloss==ABS|nWord=2|RX=[PRT]|TokenType=Clit|Word=re
+2	=ro	_	ADP	PRT	Case=Abs	5	subj	_	AlignBegin=27554|AlignEnd=27988|GE=[ABS]|Gloss==ABS|nWord=2|RX=[PRT]|TokenType=Clit|Word=re
 3	tʃa	tʃa	AUX	VI	_	5	comp:aux/m	_	AlignBegin=27988|AlignEnd=28133|GE=be.there|Gloss=be.there|nWord=3|RX=[VI]|TokenType=Root|Word=tʃii
 4	-i	_	PRON	V:ANY	_	5	subj/m	_	AlignBegin=28133|AlignEnd=28278|GE=[S3SG]|Gloss=-S3SG|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=tʃii
 5	-i	_	AUX	V:ANY	_	0	root	_	AlignBegin=28278|AlignEnd=28422|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=tʃii
@@ -641,7 +641,7 @@
 10	-wa	_	AUX	V:ANY	_	11	comp:obj	_	AlignBegin=134612|AlignEnd=134782|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=tʃãler
 11	=ma	_	SCONJ	PRT	_	6	comp:tmod	_	AlignBegin=134782|AlignEnd=135456|GE=when|Gloss==when|nWord=4|RX=[PRT]|TokenType=Clit|Word=ma
 12	aso	aso	NOUN	N	_	13	comp:obj	_	AlignBegin=135456|AlignEnd=136130|GE=water|Gloss=water|nWord=5|RX=[N]|TokenType=Root|Word=aso
-13	=ra	_	ADP	PRT	_	14	subj	_	AlignBegin=136130|AlignEnd=136804|GE=[ABS]|Gloss==ABS|nWord=6|RX=[PRT]|TokenType=Clit|Word=ra
+13	=ra	_	ADP	PRT	Case=Abs	14	subj	_	AlignBegin=136130|AlignEnd=136804|GE=[ABS]|Gloss==ABS|nWord=6|RX=[PRT]|TokenType=Clit|Word=ra
 14	crecer	crecer	X	<NOT_SURE>	_	15	comp:pred	_	AlignBegin=136804|AlignEnd=136939|GE=[SPA_grow]|Gloss=SPA_grow|nWord=7|RX=[<NOT_SURE>]|TokenType=Root|Word=kreseʃti
 15	iʃ	iʃ	VERB	VT	_	16	comp:aux	_	AlignBegin=136939|AlignEnd=137074|GE=make|Gloss=make|nWord=7|RX=[VT]|TokenType=Root|Word=kreseʃti
 16	-t	_	AUX	N>???	_	18	comp:aux	_	AlignBegin=137074|AlignEnd=137209|GE=[DUR]|Gloss=-DUR|nWord=7|RX=[N>???]|TokenType=InflAff|Word=kreseʃti
@@ -1214,7 +1214,7 @@
 1	nẽ	nẽ	VERB	VI	_	3	comp:aux/m	_	AlignBegin=234390|AlignEnd=234677|GE=go|Gloss=go|nWord=1|RX=[VI]|TokenType=Root|Word=nẽra
 2	-er	_	PRON	V:ANY	_	3	subj/m	_	AlignBegin=234677|AlignEnd=234964|GE=[S3PL]|Gloss=-S3PL|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=nẽra
 3	-wa	_	AUX	V:ANY	_	0	root	_	AlignBegin=234964|AlignEnd=235252|GE=[PFV]|Gloss=-PFV|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=nẽra
-4	Ø-	_	PRON	VT:ANY	_	5	comp:obj	_	AlignBegin=235252|AlignEnd=235424|GE=[O3SG]|Gloss=O3SG-|nWord=2|RX=[VT:ANY]|TokenType=InflAff|Word=rodakiri
+4	Ø-	_	PRON	VT:ANY	_	5	comp:obj/m	_	AlignBegin=235252|AlignEnd=235424|GE=[O3SG]|Gloss=O3SG-|nWord=2|RX=[VT:ANY]|TokenType=InflAff|Word=rodakiri
 5	rodar	rodar	X	<NOT_SURE>	_	6	compound@lvc	_	AlignBegin=235424|AlignEnd=235596|GE=[SPA_roll]|Gloss=SPA_roll|nWord=2|RX=[<NOT_SURE>]|TokenType=Root|Word=rodakiri
 6	ka	ka	VERB	VT	_	8	comp:aux/m	_	AlignBegin=235596|AlignEnd=235768|GE=make|Gloss=make|nWord=2|RX=[VT]|TokenType=Root|Word=rodakiri
 7	-ir	_	PRON	V:ANY	_	8	subj/m	_	AlignBegin=235768|AlignEnd=235940|GE=[S3PL]|Gloss=-S3PL|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=rodakiri
@@ -1490,7 +1490,7 @@
 # text_phrase-gls-it =  ˈmāsàkàstòʔ ˈmāsàkàstòʔ ˈʃɛ̀lēɾē àˈtāmà ˈtʷētàpɘ̀ĩ́
 # text_phrase-gls-pro =  || ˈmāsàkàstòʔ °ˈmāsàkàstòʔ meː° (0.5s) || ˈʃɛ̀lēɾē °ˈtāmà° ˈtuwēˈtàpeʔĩ́ (0.9s) ||
 # text_phrase-gls-wg =  hit+enter:APPL:3O(BARE) hit+enter:APPL:3O(BARE) =only go.down:PST:3PL other.side TOP go.up+hang:MID:PST:3
-1	mas	mas	VERB	VT	_	4	comp	_	AlignBegin=272200|AlignEnd=272368|GE=hit|Gloss=hit|nWord=1|RX=[VT]|TokenType=Root|Word=masakastok
+1	mas	mas	VERB	VT	_	4	compound	_	AlignBegin=272200|AlignEnd=272368|GE=hit|Gloss=hit|nWord=1|RX=[VT]|TokenType=Root|Word=masakastok
 2	a-	_	PRON	VT:ANY	_	3	comp:obj@appl/m	_	AlignBegin=272368|AlignEnd=272536|GE=[O3SG]|Gloss=O3SG-|nWord=1|RX=[VT:ANY]|TokenType=InflAff|Word=masakastok
 3	kas-	_	AUX	V>VT	Voice=Appl	7	conj:dicto	_	AlignBegin=272536|AlignEnd=272704|GE=[APPL].[R]|Gloss=APPL.R-|nWord=1|RX=[V>VT]|TokenType=InflAff|Word=masakastok
 4	tok	tok	VERB	V	_	3	comp:aux/m	_	AlignBegin=272704|AlignEnd=272871|GE=enter|Gloss=enter|nWord=1|RX=[V]|TokenType=Root|Word=masakastok
@@ -1559,7 +1559,7 @@
 8	laguna	laguna	X	<NOT_SURE>	_	11	conj:dicto	_	AlignBegin=282379|AlignEnd=283022|GE=[SPA_lake]|Gloss=SPA_lake|nWord=4|RX=[<NOT_SURE>]|TokenType=Root|Word=laguna
 9	ã	ã	PRON	PRO	_	10	det	_	AlignBegin=283022|AlignEnd=283665|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=5|RX=[PRO]|TokenType=Root|Word=ã
 10	laguna	laguna	X	<NOT_SURE>	_	11	comp:obj	_	AlignBegin=283665|AlignEnd=284308|GE=[SPA_lake]|Gloss=SPA_lake|nWord=6|RX=[<NOT_SURE>]|TokenType=Root|Word=laguna
-11	=ro	_	ADP	PRT	_	3	comp:obj	_	AlignBegin=284308|AlignEnd=284953|GE=[ABS]|Gloss==ABS|nWord=7|RX=[PRT]|TokenType=Clit|Word=ro
+11	=ro	_	ADP	PRT	Case=Abs	3	comp:obj	_	AlignBegin=284308|AlignEnd=284953|GE=[ABS]|Gloss==ABS|nWord=7|RX=[PRT]|TokenType=Clit|Word=ro
 
 # sent_id = 086_69-69
 # speaker_id = @VG
@@ -1709,7 +1709,7 @@
 7	ke	ke	ADV	ADV	_	8	comp:obj	_	AlignBegin=311102|AlignEnd=311495|GE=already|Gloss=already|nWord=5|RX=[ADV]|TokenType=Root|Word=ke
 8	=ma	_	PART	PRT	_	5	mod	_	AlignBegin=311495|AlignEnd=311888|GE=[TOP]|Gloss==TOP|nWord=6|RX=[PRT]|TokenType=Clit|Word=ma
 9	ã	ã	PRON	PRO	_	10	comp:obj	_	AlignBegin=311888|AlignEnd=312281|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=7|RX=[PRO]|TokenType=Root|Word=ã
-10	=ra	_	ADP	PRT	_	11	comp:obj	_	AlignBegin=312281|AlignEnd=312674|GE=[ABS]|Gloss==ABS|nWord=8|RX=[PRT]|TokenType=Clit|Word=raʔ
+10	=ra	_	ADP	PRT	Case=Abs	11	comp:obj	_	AlignBegin=312281|AlignEnd=312674|GE=[ABS]|Gloss==ABS|nWord=8|RX=[PRT]|TokenType=Clit|Word=raʔ
 11	tV	_	VERB	VT	_	14	comp:aux	_	AlignBegin=312674|AlignEnd=312772|GE=say|Gloss=say|nWord=9|RX=[VT]|TokenType=Root|Word=ter
 12	-Ø	_	PRON	VT:ANY	_	11	comp:obj/m	_	AffLemma=Ø-|AlignBegin=312772|AlignEnd=312870|GE=[O3SG]|Gloss=O3SG-|nWord=9|RX=[VT:ANY]|TokenType=InflAff|Word=ter|wordform=Ø-
 13	-er	_	PRON	V:ANY	_	14	subj/m	_	AlignBegin=312870|AlignEnd=312968|GE=[S3PL]|Gloss=-S3PL|nWord=9|RX=[V:ANY]|TokenType=InflAff|Word=ter
@@ -1855,7 +1855,7 @@
 1	ã	ã	PRON	PRO	_	2	comp:obj	_	AlignBegin=329510|AlignEnd=329624|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=ãɲã
 2	=yã	_	ADP	POST	_	8	mod:lmod	_	AlignBegin=329624|AlignEnd=329739|GE=[LOC]|Gloss==LOC|nWord=1|RX=[POST]|TokenType=Clit|Word=ãɲã
 3	ĩ	ĩ	PRON	PRO	_	4	comp:obj	_	AlignBegin=329739|AlignEnd=329968|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=2|RX=[PRO]|TokenType=Root|Word=ĩ
-4	=ra	_	ADP	PRT	_	6	comp:obj	_	AlignBegin=329968|AlignEnd=330197|GE=[ABS]|Gloss==ABS|nWord=3|RX=[PRT]|TokenType=Clit|Word=ri
+4	=ra	_	ADP	PRT	Case=Abs	6	comp:obj	_	AlignBegin=329968|AlignEnd=330197|GE=[ABS]|Gloss==ABS|nWord=3|RX=[PRT]|TokenType=Clit|Word=ri
 5	Ø-	_	PRON	VT:ANY	_	6	comp:obj/m	_	AlignBegin=330197|AlignEnd=330254|GE=[O3SG]|Gloss=O3SG-|nWord=4|RX=[VT:ANY]|TokenType=InflAff|Word=ʃãri
 6	ʃã	ʃã	VERB	VT	_	8	comp:aux/m	_	AlignBegin=330254|AlignEnd=330311|GE=see|Gloss=see|nWord=4|RX=[VT]|TokenType=Root|Word=ʃãri
 7	-er	_	PRON	V:ANY	_	8	subj/m	_	AlignBegin=330311|AlignEnd=330368|GE=[S3PL]|Gloss=-S3PL|nWord=4|RX=[V:ANY]|TokenType=InflAff|Word=ʃãri

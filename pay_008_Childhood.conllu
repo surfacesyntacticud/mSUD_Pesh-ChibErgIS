@@ -2702,7 +2702,7 @@
 4	=ras	_	PART	PRT	_	2	compound	_	AlignBegin=548989|AlignEnd=549490|GE=[REAS]|Gloss==REAS|nWord=4|RX=[PRT]|TokenType=Clit|Word=ras
 5	Ø-	_	PRON	VT:ANY	_	6	comp:obj/m	_	AlignBegin=549490|AlignEnd=549591|GE=[O3SG]|Gloss=O3SG-|nWord=5|RX=[VT:ANY]|TokenType=InflAff|Word=kaparkiʃkawa
 6	kapark	kapark	VERB	VT	_	7	comp:obj	_	AlignBegin=549591|AlignEnd=549692|GE=thank|Gloss=thank|nWord=5|RX=[VT]|TokenType=Root|Word=kaparkiʃkawa
-7	-iʃk	_	VERB	VERB	_	9	comp:aux	_	AlignBegin=549692|AlignEnd=549793|GE=[DES]|Gloss=-DES|nWord=5|RX=[VERB]|TokenType=InflAff|Word=kaparkiʃkawa
+7	-iʃk	_	AUX	VERB	_	9	comp:aux	_	AlignBegin=549692|AlignEnd=549793|GE=[DES]|Gloss=-DES|nWord=5|RX=[VERB]|TokenType=InflAff|Word=kaparkiʃkawa
 8	-a	_	PRON	PRO:ANY	_	9	subj/m	_	AlignBegin=549793|AlignEnd=549894|GE=[S1SG]|Gloss=-S1SG|nWord=5|RX=[PRO:ANY]|TokenType=InflAff|Word=kaparkiʃkawa
 9	-wa	_	AUX	V:ANY	_	0	root	_	AlignBegin=549894|AlignEnd=549993|GE=[PFV]|Gloss=-PFV|nWord=5|RX=[V:ANY]|TokenType=InflAff|Word=kaparkiʃkawa
 
