@@ -52,7 +52,7 @@
 2	nã	nã	VERB	VI	_	4	comp:aux/m	_	AlignBegin=12490|AlignEnd=12750|GE=go|Gloss=go|nWord=2|RX=[VI]|TokenType=Root|Word=nẽĩ
 3	-i	_	PRON	V:ANY	_	4	subj/m	_	AlignBegin=12750|AlignEnd=13010|GE=[S3SG]|Gloss=-S3SG|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=nẽĩ
 4	-i	_	AUX	V:ANY	_	0	root	_	AlignBegin=13010|AlignEnd=13270|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=nẽĩ
-5	paku	paku	NOUN	N	_	4	subj:dislocated	_	AlignBegin=13270|AlignEnd=14050|GE=coyote|Gloss=coyote|nWord=3|RX=[N]|TokenType=Root|Word=pakw
+5	paku	paku	NOUN	N	_	4	dislocated:subj	_	AlignBegin=13270|AlignEnd=14050|GE=coyote|Gloss=coyote|nWord=3|RX=[N]|TokenType=Root|Word=pakw
 6	akaya	akaya	NOUN	N	_	5	mod	_	AlignBegin=14050|AlignEnd=14830|GE=tame|Gloss=tame|nWord=4|RX=[N]|TokenType=Root|Word=akaya
 7	peʃ	peʃ	NOUN	N	_	8	mod:poss	_	AlignBegin=14830|AlignEnd=15610|GE=people|Gloss=people|nWord=5|RX=[N]|TokenType=Root|Word=peʃ
 8	ʃok	ʃok	NOUN	N	_	9	comp/m	_	AlignBegin=15610|AlignEnd=16000|GE=hill|Gloss=hill|nWord=6|RX=[N]|TokenType=Root|Word=ʃokaʔ
@@ -328,7 +328,7 @@
 23	tʃa	tʃa	VERB	VI	_	25	comp:aux/m	_	AlignBegin=61642|AlignEnd=61774|GE=be.there|Gloss=be.there|nWord=12|RX=[VI]|TokenType=Root|Word=tʃu
 24	-Ø	_	PRON	V:ANY	_	25	subj/m	_	AlignBegin=61774|AlignEnd=61906|GE=[S3SG]|Gloss=-S3SG|nWord=12|RX=[V:ANY]|TokenType=InflAff|Word=tʃu
 25	-wa	_	AUX	V:ANY	_	26	comp:obj	_	AlignBegin=61906|AlignEnd=62038|GE=[PFV]|Gloss=-PFV|nWord=12|RX=[V:ANY]|TokenType=InflAff|Word=tʃu
-26	=yã	_	SCONJ	POST	_	13	mod:dislocated@relcl	_	AlignBegin=62038|AlignEnd=62430|GE=[LOC]|Gloss==LOC|nWord=13|RX=[POST]|TokenType=Clit|Word=ɲã
+26	=yã	_	SCONJ	POST	_	13	dislocated:mod@relcl	_	AlignBegin=62038|AlignEnd=62430|GE=[LOC]|Gloss==LOC|nWord=13|RX=[POST]|TokenType=Clit|Word=ɲã
 
 # sent_id = 086_16-16
 # speaker_id = @VG
@@ -1930,7 +1930,7 @@
 12	-wa	_	AUX	V:ANY	_	6	parataxis	_	AlignBegin=342590|AlignEnd=342778|GE=[PFV]|Gloss=-PFV|nWord=6|RX=[V:ANY]|TokenType=InflAff|Word=aʃãwa
 13	peʃ-	_	PRON	N:ANY	_	14	det:poss/m	_	AlignBegin=342778|AlignEnd=343031|GE=[POSS3PL]|Gloss=POSS3PL|nWord=7|RX=[N:ANY]|TokenType=InflAff|Word=peʃnuʃta
 14	nuʃt	nuʃt	VERB	V	_	15	comp/m	_	AlignBegin=343031|AlignEnd=343284|GE=play|Gloss=play|nWord=7|RX=[V]|TokenType=Root|Word=peʃnuʃta
-15	-a	_	SCONJ	V>N	_	12	subj:dislocated@pass	_	AlignBegin=343284|AlignEnd=343536|DerPos=NOUN|GE=[NMLZ]|Gloss=-NMLZ|nWord=7|RX=[V>N]|TokenType=DerAff|Word=peʃnuʃta
+15	-a	_	SCONJ	V>N	_	12	dislocated:subj@pass	_	AlignBegin=343284|AlignEnd=343536|DerPos=NOUN|GE=[NMLZ]|Gloss=-NMLZ|nWord=7|RX=[V>N]|TokenType=DerAff|Word=peʃnuʃta
 16	=pe	_	PART	PRT	_	15	mod	_	AlignBegin=343536|AlignEnd=344290|GE=only|Gloss==only|nWord=8|RX=[PRT]|TokenType=Clit|Word=pe
 
 # sent_id = 086_84-84
