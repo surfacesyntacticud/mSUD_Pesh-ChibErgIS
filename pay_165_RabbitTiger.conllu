@@ -717,7 +717,7 @@
 1	akarʃkwa	akarʃkwa	PART	_	_	26	mod	_	AlignBegin=76061|AlignEnd=76383|GE=then|Gloss=then|nWord=1|RX=[PRT]|TokenType=Root|Word=akarʃkwa
 2	ãma	ãma	PART	_	_	26	discourse	_	AlignBegin=76383|AlignEnd=76705|GE=[HES]|Gloss=HES|nWord=2|RX=[PRT]|TokenType=Root|Word=ãma
 3	,	_	PUNCT	_	_	2	punct	_	AlignBegin=76705|AlignEnd=77027|nWord=3|Word=,
-4	ah	ah	INTJ	_	_	6	conj:dicto	_	AlignBegin=77027|AlignEnd=77349|GE=[INTERJ]|Gloss=INTERJ|nWord=4|RX=[INTERJ]|TokenType=Root|Word=aa
+4	ah	ah	INTJ	_	_	26	conj:discourse	_	AlignBegin=77027|AlignEnd=77349|GE=[INTERJ]|Gloss=INTERJ|nWord=4|RX=[INTERJ]|TokenType=Root|Word=aa
 5	,	_	PUNCT	_	_	4	punct	_	AlignBegin=77349|AlignEnd=77671|nWord=5|Word=,
 6	ã	ã	PRON	_	_	7	det	_	AlignBegin=77671|AlignEnd=77993|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=6|RX=[PRO]|TokenType=Root|Word=ã
 7	peʃ	peʃ	NOUN	_	_	13	conj:dicto	_	AlignBegin=77993|AlignEnd=78315|GE=people|Gloss=people|nWord=7|RX=[N]|TokenType=Root|Word=peʃ
@@ -908,7 +908,7 @@
 37	,	_	PUNCT	_	_	36	punct	_	AlignBegin=101799|AlignEnd=102105|nWord=17|Word=,
 38	ã	ã	PRON	_	_	39	det	_	AlignBegin=102105|AlignEnd=102411|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=18|RX=[PRO]|TokenType=Root|Word=ã
 39	nĩhã	nĩhã	PART	_	_	35	comp:obl	_	AlignBegin=102411|AlignEnd=102717|GE=[HES]|Gloss=HES|nWord=19|RX=[PRT]|TokenType=Root|Word=nĩhã
-40	=ɲãh	=ɲãh	PART	_	_	39	det	_	AlignBegin=102717|AlignEnd=103023|GE=[INDF]|Gloss==INDF|nWord=20|RX=[PRT]|TokenType=Clit|Word=ɲãh
+40	=ɲãh	=ɲãh	DET	_	_	39	det	_	AlignBegin=102717|AlignEnd=103023|GE=[INDF]|Gloss==INDF|nWord=20|RX=[PRT]|TokenType=Clit|Word=ɲãh
 41	,	_	PUNCT	_	_	40	punct	_	AlignBegin=103023|AlignEnd=103329|nWord=21|Word=,
 42	ʔãʔãʔã	ʔãʔãʔã	X	_	_	43	discourse	_	AlignBegin=103329|AlignEnd=103635|nWord=22|Word=ʔãʔãʔã
 43	nẽʔã	nẽʔã	PART	_	_	39	conj:dicto	_	AlignBegin=103635|AlignEnd=103941|GE=[HES]|Gloss=HES|nWord=23|RX=[PRT]|TokenType=Root|Word=nẽʔã
@@ -1118,7 +1118,7 @@
 1	pa	pa	PRON	_	_	2	comp:obj	_	AlignBegin=122310|AlignEnd=122554|GE=[PRO2]|Gloss=PRO2|nWord=1|RX=[PRO]|TokenType=Root|Word=pa
 2	=ma	=ma	PART	_	_	7	subj	_	AlignBegin=122554|AlignEnd=122798|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
 3	Ø-	_	PRON	_	_	4	comp:obj/m	_	AlignBegin=122798|AlignEnd=122847|GE=[O3SG]|Gloss=O3SG-|nWord=3|RX=[VT:ANY]|TokenType=InflAff|Word=tokkakuh
-4	tokk	tokk	VERB	_	_	5	comp:aux/m	_	AlignBegin=122847|AlignEnd=122896|GE=drink|Gloss=drink|nWord=3|RX=[VT]|TokenType=Root|Word=tokkakuh
+4	tokk	tokk	VERB	_	_	5	compound:svc	_	AlignBegin=122847|AlignEnd=122896|GE=drink|Gloss=drink|nWord=3|RX=[VT]|TokenType=Root|Word=tokkakuh
 5	ak	ak	VERB	_	_	7	comp:aux/m	_	AlignBegin=122896|AlignEnd=122945|GE=be.in.state|Gloss=be.in.state|nWord=3|RX=[VI]|TokenType=Root|Word=tokkakuh
 6	-u	_	PRON	_	_	7	subj/m	_	AlignBegin=122945|AlignEnd=122994|GE=[S2]|Gloss=-S2|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=tokkakuh
 7	-h	_	AUX	_	_	0	root	_	AlignBegin=122994|AlignEnd=123042|GE=[PROX].[FUT]|Gloss=-PROX.FUT|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=tokkakuh
@@ -1554,7 +1554,7 @@
 13	-Ø	_	PRON	_	_	14	subj/m	_	AlignBegin=157628|AlignEnd=157690|GE=[S3SG]|Gloss=-S3SG|nWord=8|RX=[V:ANY]|TokenType=InflAff|Word=kiaki
 14	-i	_	AUX	_	_	6	conj	_	AlignBegin=157690|AlignEnd=157750|GE=[PST]|Gloss=-PST|nWord=8|RX=[V:ANY]|TokenType=InflAff|Word=kiaki
 15	,	_	PUNCT	_	_	14	punct	_	AlignBegin=157750|AlignEnd=157996|nWord=9|Word=,
-16	ah	ah	INTJ	_	_	18	conj:dicto	_	AlignBegin=157996|AlignEnd=158242|GE=[INTERJ]|Gloss=INTERJ|nWord=10|RX=[INTERJ]|TokenType=Root|Word=aa
+16	ah	ah	INTJ	_	_	14	discourse	_	AlignBegin=157996|AlignEnd=158242|GE=[INTERJ]|Gloss=INTERJ|nWord=10|RX=[INTERJ]|TokenType=Root|Word=aa
 17	,	_	PUNCT	_	_	16	punct	_	AlignBegin=158242|AlignEnd=158488|nWord=11|Word=,
 18	ã	ã	PRON	_	_	19	det	_	AlignBegin=158488|AlignEnd=158734|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=12|RX=[PRO]|TokenType=Root|Word=ã
 19	manih	manih	NOUN	_	_	20	comp:obj	_	AlignBegin=158734|AlignEnd=158980|GE=rabbit|Gloss=rabbit|nWord=13|RX=[N]|TokenType=Root|Word=manih

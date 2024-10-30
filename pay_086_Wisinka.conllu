@@ -11,7 +11,7 @@
 # text_phrase-gls-pro =  || ˈɲã́ʔã́ ˈʃùɾùˈɾíʔ, (0.5s) || || ɛ̃ːːːː, (0.1s) || tìˈwíɾà ˈpɛ́pɔ̀kʷɘ̃̀, (1.1s) || tìˈwíɾà ˈtíkéléɾˈɲáʔ, (0.1s) || tìˈwíʔ. (1.5s) || ĩ̀ˈkẽ́ʔ. (1.3s) ||
 # text_phrase-gls-wg =  PROX.DEM INDF INDF.ART be.there:HAB:PST:3 fodder:NMLZ.field a.lot move:PFV:3>3 =LOC fodder:NMLZ.field say:PST:3PL>3 LOC fodder DEM.PROX =LOC
 1	ĩ	ĩ	PRON	PRO	_	6	subj	_	AlignBegin=2460|AlignEnd=2705|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=ɲĩ
-2	=nã	=nã	PART	PRT	_	1	compound	_	AlignBegin=2705|AlignEnd=2950|GE=[INDF]|Gloss==INDF|nWord=2|RX=[PRT]|TokenType=Clit|Word=nã
+2	=nã	=nã	DET	PRT	_	1	compound	_	AlignBegin=2705|AlignEnd=2950|GE=[INDF]|Gloss==INDF|nWord=2|RX=[PRT]|TokenType=Clit|Word=nã
 3	=s	=s	DET	DET	_	1	det	_	AlignBegin=2950|AlignEnd=3195|GE=[INDF].[ART]|Gloss==INDF.ART|nWord=3|RX=[DET]|TokenType=Clit|Word=s
 4	ʃa	ʃa	AUX	VI	_	6	comp:aux/m	_	AlignBegin=3195|AlignEnd=3256|GE=be.there|Gloss=be.there|nWord=4|RX=[VI]|TokenType=Root|Word=ʃururi
 5	-Ø	_	PRON	V:ANY	_	6	subj/m	_	AlignBegin=3256|AlignEnd=3317|GE=[S3SG]|Gloss=-S3SG|nWord=4|RX=[V:ANY]|TokenType=InflAff|Word=ʃururi
@@ -322,7 +322,7 @@
 17	-u	_	AUX	N:ANY	_	18	comp:aux/m	_	AlignBegin=60256|AlignEnd=60322|GE=[HAB]|Gloss=-HAB|nWord=8|RX=[N:ANY]|TokenType=InflAff|Word=nẽteʃkuriaro
 18	-ri	_	AUX	V:ANY	_	19	comp:obj	_	AlignBegin=60322|AlignEnd=60388|GE=[PST]|Gloss=-PST|nWord=8|RX=[V:ANY]|TokenType=InflAff|Word=nẽteʃkuriaro
 19	=waʔ	=waʔ	SCONJ	PRT	_	9	mod:tmod	_	AlignBegin=60388|AlignEnd=60454|GE=[SIMT]|Gloss==SIMT|nWord=8|RX=[PRT]|TokenType=Clit|Word=nẽteʃkuriaro
-20	ala	ala	X	_	_	19	det@scrap	_	AlignBegin=60454|AlignEnd=60850|nWord=9|TokenType=Root|Word=ala
+20	ala	ala	X	_	_	22	conj:dicto	_	AlignBegin=60454|AlignEnd=60850|nWord=9|TokenType=Root|Word=ala
 21	ã	ã	PRON	PRO	_	22	det	_	AlignBegin=60850|AlignEnd=61246|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=10|RX=[PRO]|TokenType=Root|Word=ã
 22	pak	pak	NOUN	N	_	25	subj	_	AlignBegin=61246|AlignEnd=61642|GE=lake|Gloss=lake|nWord=11|RX=[N]|TokenType=Root|Word=pak
 23	tʃa	tʃa	VERB	VI	_	25	comp:aux/m	_	AlignBegin=61642|AlignEnd=61774|GE=be.there|Gloss=be.there|nWord=12|RX=[VI]|TokenType=Root|Word=tʃu
@@ -1680,7 +1680,7 @@
 19	-pi	_	AUX	V:ANY	_	11	comp:obj	_	AffLemma=-pi|AlignBegin=305034|AlignEnd=305150|GE=[S1PL].[INCL-FUT]|Gloss=-FUT|nWord=6|RX=[V:ANY]|TokenType=InflAff|Word=teʔʃãnapẽ
 20	=hã	=hã	PART	PRT	_	19	discourse	_	AlignBegin=305150|AlignEnd=305268|GE=[FOC]|Gloss==FOC|nWord=6|RX=[PRT]|TokenType=Clit|Word=teʔʃãnapẽ
 21	as	as	NUM	N	_	25	subj	_	AlignBegin=305268|AlignEnd=305966|GE=one|Gloss=one|nWord=7|RX=[N]|TokenType=Root|Word=as
-22	=na	=na	PART	PRT	_	21	det	_	AlignBegin=305966|AlignEnd=306664|GE=[INDF]|Gloss==INDF|nWord=8|RX=[PRT]|TokenType=Clit|Word=na
+22	=na	=na	DET	PRT	_	21	det	_	AlignBegin=305966|AlignEnd=306664|GE=[INDF]|Gloss==INDF|nWord=8|RX=[PRT]|TokenType=Clit|Word=na
 23	tʃa	tʃa	VERB	VI	_	25	comp:aux/m	_	AlignBegin=306664|AlignEnd=306897|GE=be.there|Gloss=be.there|nWord=9|RX=[VI]|TokenType=Root|Word=tʃwa
 24	-i	_	PRON	V:ANY	_	25	subj/m	_	AlignBegin=306897|AlignEnd=307130|GE=[S3SG]|Gloss=-S3SG|nWord=9|RX=[V:ANY]|TokenType=InflAff|Word=tʃwa
 25	-wa	_	AUX	V:ANY	_	19	mod	_	AlignBegin=307130|AlignEnd=307362|GE=[PFV]|Gloss=-PFV|nWord=9|RX=[V:ANY]|TokenType=InflAff|Word=tʃwa
@@ -1897,7 +1897,7 @@
 10	-wa	_	AUX	V:ANY	_	0	root	_	AlignBegin=335254|AlignEnd=335387|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=terwa
 11	awah	awah	ADV	ADV	_	10	mod	_	AlignBegin=335387|AlignEnd=335916|GE=also|Gloss=also|nWord=4|RX=[ADV]|TokenType=Root|Word=awah
 12	ĩ	ĩ	PRON	PRO	_	15	comp:pred	_	AlignBegin=335916|AlignEnd=336180|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=5|RX=[PRO]|TokenType=Root|Word=ĩɲã
-13	=ɲã	=ɲã	PART	PRT	_	12	compound	_	AlignBegin=336180|AlignEnd=336445|GE=[INDF]|Gloss==INDF|nWord=5|RX=[PRT]|TokenType=Clit|Word=ĩɲã
+13	=ɲã	=ɲã	DET	PRT	_	12	compound	_	AlignBegin=336180|AlignEnd=336445|GE=[INDF]|Gloss==INDF|nWord=5|RX=[PRT]|TokenType=Clit|Word=ĩɲã
 14	warko	warko	NOUN	N	_	13	mod	_	AlignBegin=336445|AlignEnd=336974|GE=bad|Gloss=bad|nWord=6|RX=[N]|TokenType=Root|Word=warko
 15	=l	=l	VERB	COP	_	17	comp:aux/m	_	AlignBegin=336974|AlignEnd=337106|GE=[COP]|Gloss==COP|nWord=7|RX=[COP]|TokenType=Clit|Word=lertiri
 16	-er	_	PRON	V:ANY	_	17	subj/m	_	AlignBegin=337106|AlignEnd=337238|GE=[S3PL]|Gloss=-S3PL|nWord=7|RX=[V:ANY]|TokenType=InflAff|Word=lertiri
