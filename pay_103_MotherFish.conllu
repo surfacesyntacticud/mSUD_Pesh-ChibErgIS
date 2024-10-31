@@ -39,7 +39,7 @@
 2	,	_	PUNCT	_	_	1	punct	_	AlignBegin=7261|AlignEnd=7762|nWord=2|Word=,
 3	to	to	PRON	_	_	4	det	_	AlignBegin=7762|AlignEnd=8263|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=3|RX=[PRO]|TokenType=Root|Word=to
 4	arwã	arwã	NOUN	_	_	5	comp:obj	_	AlignBegin=8263|AlignEnd=8764|GE=man|Gloss=man|nWord=4|RX=[N]|TokenType=Root|Word=arwã
-5	=ma	=ma	ADP	_	_	13	dislocated:subj	_	AlignBegin=8764|AlignEnd=9265|GE=[TOP]|Gloss==TOP|nWord=5|RX=[PRT]|TokenType=Clit|Word=ma
+5	=ma	=ma	ADP	_	_	11	dislocated:subj	_	AlignBegin=8764|AlignEnd=9265|GE=[TOP]|Gloss==TOP|nWord=5|RX=[PRT]|TokenType=Clit|Word=ma
 6	,	_	PUNCT	_	_	5	punct	_	AlignBegin=9265|AlignEnd=9766|nWord=6|Word=,
 7	wiʃã	wiʃã	NOUN	_	_	8	comp:obj	_	AlignBegin=9766|AlignEnd=10267|GE=fish|Gloss=fish|nWord=7|RX=[N]|TokenType=Root|Word=wiʃã
 8	kapor	kapor	VERB	_	_	9	comp/m	_	AlignBegin=10267|AlignEnd=10434|GE=spear|Gloss=spear|nWord=8|RX=[VT]|TokenType=Root|Word=kaportaru
@@ -165,13 +165,13 @@
 # text_phrase-gls-wg =  DEM.MED TOP eye+water LOC eye+water LOC go:PST:3PL
 # text_phrase-gls-de =  Madre_peces_006_DL
 1	toʔ	toʔ	PRON	_	_	2	comp:obj	_	AlignBegin=37870|AlignEnd=38314|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=toʔ
-2	=ma	=ma	ADP	_	_	14	dislocated:subj	_	AlignBegin=38314|AlignEnd=38758|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
+2	=ma	=ma	ADP	_	_	12	dislocated:subj	_	AlignBegin=38314|AlignEnd=38758|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
 3	,	_	PUNCT	_	_	2	punct	_	AlignBegin=38758|AlignEnd=39202|nWord=3|Word=,
 4	aso	aso	NOUN	_	_	7	comp:obj	_	AlignBegin=39202|AlignEnd=39350|GE=water|Gloss=water|nWord=4|RX=[N]|TokenType=Root|Word=asowawa
 5	wa	wa	NOUN	_	_	4	mod	_	AlignBegin=39350|AlignEnd=39498|GE=eye|Gloss=eye|nWord=4|RX=[N]|TokenType=Root|Word=asowawa
 6	wa	wa	NOUN	_	_	5	mod	_	AlignBegin=39498|AlignEnd=39646|GE=eye|Gloss=eye|nWord=4|RX=[N]|TokenType=Root|Word=asowawa
 7	=yã	=yã	ADP	_	_	11	conj:dicto	_	AlignBegin=39646|AlignEnd=40090|GE=[LOC]|Gloss==LOC|nWord=5|RX=[POST]|TokenType=Clit|Word=ɲã
-8	,	_	PUNCT	_	_	7	dislocated	_	AlignBegin=40090|AlignEnd=40534|nWord=6|Word=,
+8	,	_	PUNCT	_	_	7	punct	_	AlignBegin=40090|AlignEnd=40534|nWord=6|Word=,
 9	aso	aso	NOUN	_	_	11	comp:obj	_	AlignBegin=40534|AlignEnd=40756|GE=water|Gloss=water|nWord=7|RX=[N]|TokenType=Root|Word=asowa
 10	wa	wa	NOUN	_	_	9	mod	_	AlignBegin=40756|AlignEnd=40978|GE=eye|Gloss=eye|nWord=7|RX=[N]|TokenType=Root|Word=asowa
 11	=yã	=yã	ADP	_	_	14	mod:lmod	_	AlignBegin=40978|AlignEnd=41422|GE=[LOC]|Gloss==LOC|nWord=8|RX=[POST]|TokenType=Clit|Word=ɲã
@@ -619,7 +619,7 @@
 # text_phrase-gls-wg =  PRO1 TOP one only come:PFV:1 say:PST:3>3 REP
 # text_phrase-gls-de =  Madre_peces_024_DL
 1	tas	tas	PRON	_	_	2	comp:obj	_	AlignBegin=114350|AlignEnd=114652|GE=[PRO1]|Gloss=PRO1|nWord=1|RX=[PRO]|TokenType=Root|Word=tas
-2	=ma	=ma	PART	_	_	8	dislocated:subj	_	AlignBegin=114652|AlignEnd=114954|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
+2	=ma	=ma	PART	_	_	6	dislocated:subj	_	AlignBegin=114652|AlignEnd=114954|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
 3	,	_	PUNCT	_	_	2	punct	_	AlignBegin=114954|AlignEnd=115256|nWord=3|Word=,
 4	as	as	NUM	_	_	8	comp:pred	_	AlignBegin=115256|AlignEnd=115558|GE=one|Gloss=one|nWord=4|RX=[N]|TokenType=Root|Word=as
 5	=pe	=pe	PART	_	_	4	mod	_	AlignBegin=115558|AlignEnd=115860|GE=only|Gloss==only|nWord=5|RX=[PRT]|TokenType=Clit|Word=pe

@@ -1707,7 +1707,7 @@
 15	-pi	_	AUX	_	_	9	conj	_	AlignBegin=175709|AlignEnd=175741|GE=[FUT]|Gloss=-FUT|nWord=5|RX=[V:ANY]|TokenType=InflAff|Word=patamastʃepi
 16	,	_	PUNCT	_	_	15	punct	_	AlignBegin=175741|AlignEnd=175943|nWord=6|Word=,
 17	ĩ	ĩ	PRON	_	_	18	comp:obj	_	AlignBegin=175943|AlignEnd=176145|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=7|RX=[PRO]|TokenType=Root|Word=ĩ
-18	=ma	=ma	PART	_	_	25	subj@pass	_	AlignBegin=176145|AlignEnd=176347|GE=[TOP]|Gloss==TOP|nWord=8|RX=[PRT]|TokenType=Clit|Word=ma
+18	=ma	=ma	PART	_	_	23	subj@pass	_	AlignBegin=176145|AlignEnd=176347|GE=[TOP]|Gloss==TOP|nWord=8|RX=[PRT]|TokenType=Clit|Word=ma
 19	wa	wa	ADV	_	_	20	comp:obj	_	AlignBegin=176347|AlignEnd=176549|GE=also|Gloss=also|nWord=9|RX=[ADV]|TokenType=Root|Word=wa
 20	=ma	=ma	PART	_	_	18	mod	_	AlignBegin=176549|AlignEnd=176751|GE=[TOP]|Gloss==TOP|nWord=10|RX=[PRT]|TokenType=Clit|Word=ma
 21	,	_	PUNCT	_	_	20	punct	_	AlignBegin=176751|AlignEnd=176953|nWord=11|Word=,

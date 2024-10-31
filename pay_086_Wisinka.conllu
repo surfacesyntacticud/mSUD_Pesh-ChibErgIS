@@ -164,7 +164,7 @@
 # text_phrase-gls-it =  àˈʃátèʔkùɾʲòʰ níhʲàʔà paˈtẽ́ʲtàwā ʃèˈɾé kàˈʃèŋ nɛ́lèɾmà
 # text_phrase-gls-pro =  || àːˈʃátèʔkùɾʲòʰ ˈníhʲàʔà (2.0s) || paˈtẽ́ʲtàwā ʃèˈɾé kàˈʃèleɾeŋ, || ˈnɛ́lèɾmà. (0.8s) ||
 # text_phrase-gls-wg =  DEM.DIST be.there+come:HAB:PST:3PL LOC here family:INCL POSS.PRO1 go.down+see:DUR:PST:3PL>3PL go:PFV:3PL =when
-1	ã	ã	PRON	PRO	_	19	dislocated:obj	_	AlignBegin=32600|AlignEnd=33290|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=ã
+1	ã	ã	PRON	PRO	_	16	dislocated:obj	_	AlignBegin=32600|AlignEnd=33290|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=ã
 2	ʃa	ʃa	VERB	VI	_	3	mod	_	AlignBegin=33290|AlignEnd=33428|GE=be.there|Gloss=be.there|nWord=2|RX=[VI]|TokenType=Root|Word=ʃateʔkur
 3	teʔk	teʔk	VERB	VI	_	5	comp:aux/m	_	AlignBegin=33428|AlignEnd=33566|GE=come|Gloss=come|nWord=2|RX=[VI]|TokenType=Root|Word=ʃateʔkur
 4	-er	_	PRON	V:ANY	_	5	subj/m	_	AlignBegin=33566|AlignEnd=33704|GE=[S3PL]|Gloss=-S3PL|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=ʃateʔkur
@@ -1923,14 +1923,14 @@
 5	-Ø	_	PRON	V:ANY	_	6	subj/m	_	AlignBegin=339999|AlignEnd=340252|GE=[S3SG]|Gloss=-S3SG|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=ʃi
 6	-i	_	AUX	V:ANY	_	0	root	_	AlignBegin=340252|AlignEnd=340504|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=ʃi
 7	ʔey	ʔey	X	_	_	8	conj:dicto	_	AlignBegin=340504|AlignEnd=341262|nWord=4|Word=ʔey
-8	laguna	laguna	X	<NOT_SURE>	_	12	subj@pass	_	AlignBegin=341262|AlignEnd=342020|GE=[SPA_lake]|Gloss=SPA_lake|nWord=5|RX=[<NOT_SURE>]|TokenType=Root|Word=laguna
+8	laguna	laguna	X	<NOT_SURE>	_	10	subj@pass	_	AlignBegin=341262|AlignEnd=342020|GE=[SPA_lake]|Gloss=SPA_lake|nWord=5|RX=[<NOT_SURE>]|TokenType=Root|Word=laguna
 9	a-	_	AUX	VT>VI	Voice=Mid	10	comp/m	_	AlignBegin=342020|AlignEnd=342210|GE=[REFL]|Gloss=REFL-|nWord=6|RX=[VT>VI]|TokenType=InflAff|Word=aʃãwa
 10	ʃã	ʃã	VERB	VT	_	12	comp:aux/m	_	AlignBegin=342210|AlignEnd=342400|GE=see|Gloss=see|nWord=6|RX=[VT]|TokenType=Root|Word=aʃãwa
 11	-Ø	_	PRON	V:ANY	_	12	subj/m	_	AlignBegin=342400|AlignEnd=342590|GE=[S3SG]|Gloss=-S3SG|nWord=6|RX=[V:ANY]|TokenType=InflAff|Word=aʃãwa
 12	-wa	_	AUX	V:ANY	_	6	parataxis	_	AlignBegin=342590|AlignEnd=342778|GE=[PFV]|Gloss=-PFV|nWord=6|RX=[V:ANY]|TokenType=InflAff|Word=aʃãwa
 13	peʃ-	_	PRON	N:ANY	_	14	det:poss/m	_	AlignBegin=342778|AlignEnd=343031|GE=[POSS3PL]|Gloss=POSS3PL|nWord=7|RX=[N:ANY]|TokenType=InflAff|Word=peʃnuʃta
 14	nuʃt	nuʃt	VERB	V	_	15	comp/m	_	AlignBegin=343031|AlignEnd=343284|GE=play|Gloss=play|nWord=7|RX=[V]|TokenType=Root|Word=peʃnuʃta
-15	-a	_	SCONJ	V>N	_	12	dislocated:subj@pass	_	AlignBegin=343284|AlignEnd=343536|DerPos=NOUN|GE=[NMLZ]|Gloss=-NMLZ|nWord=7|RX=[V>N]|TokenType=DerAff|Word=peʃnuʃta
+15	-a	_	SCONJ	V>N	_	10	dislocated:subj@pass	_	AlignBegin=343284|AlignEnd=343536|DerPos=NOUN|GE=[NMLZ]|Gloss=-NMLZ|nWord=7|RX=[V>N]|TokenType=DerAff|Word=peʃnuʃta
 16	=pe	=pe	PART	PRT	_	15	mod	_	AlignBegin=343536|AlignEnd=344290|GE=only|Gloss==only|nWord=8|RX=[PRT]|TokenType=Clit|Word=pe
 
 # sent_id = 086_84-84
