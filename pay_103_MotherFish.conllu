@@ -136,7 +136,7 @@
 3	=yo	=yo	ADP	_	_	6	comp:obl	_	AlignBegin=33063|AlignEnd=33374|GE=[INS]|Gloss==INS|nWord=3|RX=[POST]|TokenType=Clit|Word=yo
 4	,	_	PUNCT	_	_	3	punct	_	AlignBegin=33374|AlignEnd=33685|nWord=4|Word=,
 5	pok	pok	NUM	_	_	6	comp:pred	_	AlignBegin=33685|AlignEnd=33996|GE=two|Gloss=two|nWord=5|RX=[N]|TokenType=Root|Word=pok
-6	=l	=l	AUX	_	_	8	comp:aux	_	AlignBegin=33996|AlignEnd=34100|GE=[COP]|Gloss==COP|nWord=6|RX=[COP]|TokenType=Clit|Word=lerri
+6	=l	=r	AUX	_	_	8	comp:aux	_	AlignBegin=33996|AlignEnd=34100|GE=[COP]|Gloss==COP|nWord=6|RX=[COP]|TokenType=Clit|Word=lerri
 7	-er	_	PRON	_	_	8	subj/m	_	AlignBegin=34100|AlignEnd=34204|GE=[S3PL]|Gloss=-S3PL|nWord=6|RX=[V:ANY]|TokenType=InflAff|Word=lerri
 8	-ri	_	AUX	_	_	0	root	_	AlignBegin=34204|AlignEnd=34307|GE=[PST]|Gloss=-PST|nWord=6|RX=[V:ANY]|TokenType=InflAff|Word=lerri
 9	ta	ta	NOUN	_	_	10	comp/m	_	AlignBegin=34307|AlignEnd=34463|GE=path|Gloss=path|nWord=7|RX=[N]|TokenType=Root|Word=tah
@@ -947,7 +947,7 @@
 5	-Ø	_	PRON	_	_	6	subj/m	_	AlignBegin=165888|AlignEnd=165969|GE=[S3SG]|Gloss=-S3SG|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=tʃu
 6	-wa	_	AUX	_	_	7	comp:obj	_	AlignBegin=165969|AlignEnd=166051|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=tʃu
 7	=na	=na	PART	_	_	8	comp:pred	_	AlignBegin=166051|AlignEnd=166295|GE=[REP]|Gloss==REP|nWord=4|RX=[PRT]|TokenType=Clit|Word=na
-8	=hi	=hi	AUX	_	_	0	root	_	AlignBegin=166295|AlignEnd=166539|GE=[COP:S3SG:PFV]|Gloss==COP:S3SG:PFV|nWord=5|RX=[COP]|TokenType=Clit|Word=hi
+8	=hi	=r	AUX	_	_	0	root	_	AlignBegin=166295|AlignEnd=166539|GE=[COP:S3SG:PFV]|Gloss==COP:S3SG:PFV|nWord=5|RX=[COP]|TokenType=Clit|Word=hi
 9	.	_	PUNCT	_	_	8	punct	_	AlignBegin=166539|AlignEnd=166785|Gloss=.|nWord=6|Word=.
 
 # sent_id = 103_32-32
@@ -984,7 +984,7 @@
 1	ke	ke	ADV	_	_	12	discourse	_	AlignBegin=170711|AlignEnd=171190|GE=already|Gloss=already|nWord=1|RX=[ADV]|TokenType=Root|Word=ke
 2	yar	yar	NOUN	_	_	3	comp:pred	_	AlignBegin=171190|AlignEnd=171430|GE=true|Gloss=true|nWord=2|RX=[<NOT_SURE>]|TokenType=Root|Word=yarn
 3	-n	_	AUX	_	_	4	comp:aux	_	AlignBegin=171430|AlignEnd=171669|GE=[IT]|Gloss=-IT|nWord=2|RX=[N>???]|TokenType=InflAff|Word=yarn
-4	=ĩ	=ĩ	AUX	_	_	5	comp:obj	_	AlignBegin=171669|AlignEnd=172148|GE=[COP:S3SG:PFV]|Gloss==COP:S3SG:PFV|nWord=3|RX=[COP]|TokenType=Clit|Word=ĩ
+4	=ĩ	=r	AUX	_	_	5	comp:obj	_	AlignBegin=171669|AlignEnd=172148|GE=[COP:S3SG:PFV]|Gloss==COP:S3SG:PFV|nWord=3|RX=[COP]|TokenType=Clit|Word=ĩ
 5	=ma	=ma	SCONJ	_	_	12	comp:obj	_	AlignBegin=172148|AlignEnd=172627|GE=[NOM]|Gloss==NOM|nWord=4|RX=[PRT]|TokenType=Clit|Word=ma
 6	toʔ	toʔ	PRON	_	_	7	det	_	AlignBegin=172627|AlignEnd=173106|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=5|RX=[PRO]|TokenType=Root|Word=toʔ
 7	arwã	arwã	NOUN	_	_	8	comp:obj	_	AlignBegin=173106|AlignEnd=173585|GE=man|Gloss=man|nWord=6|RX=[N]|TokenType=Root|Word=arwã
