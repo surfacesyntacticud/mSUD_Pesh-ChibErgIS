@@ -1910,7 +1910,7 @@
 8	ta-	_	PRON	N:ANY	_	9	det:poss/m	_	AlignBegin=379080|AlignEnd=379200|GE=[POSS1]|Gloss=POSS1-|nWord=7|RX=[N:ANY]|TokenType=InflAff|Word=pataya
 9	ya	ya	NOUN	N	_	10	comp:obj	_	AlignBegin=379200|AlignEnd=379320|GE=belly|Gloss=belly|nWord=7|RX=[N]|TokenType=Root|Word=pataya
 10	sa	sa	ADP	POST	_	11	comp:obj	_	AlignBegin=379320|AlignEnd=379680|GE=in|Gloss=in|nWord=8|RX=[POST]|TokenType=Root|Word=sa
-11	=yã	=yã	ADP	POST	_	12	comp:pred	_	AlignBegin=379680|AlignEnd=380040|GE=[LOC]|Gloss==LOC|nWord=9|RX=[POST]|TokenType=Clit|Word=yã
+11	=yã	=yã	ADP	POST	_	12	udep	_	AlignBegin=379680|AlignEnd=380040|GE=[LOC]|Gloss==LOC|nWord=9|RX=[POST]|TokenType=Clit|Word=yã
 12	tʃa	tʃa	AUX	VI	_	14	comp:aux	_	AlignBegin=380040|AlignEnd=380130|GE=be.there|Gloss=be.there|nWord=10|RX=[VI]|TokenType=Root|Word=tʃũ
 13	-Ø	_	PRON	V:ANY	_	14	subj/m	_	AlignBegin=380130|AlignEnd=380220|GE=[S3SG]|Gloss=-S3SG|nWord=10|RX=[V:ANY]|TokenType=InflAff|Word=tʃũ
 14	-u	_	AUX	N:ANY	_	15	comp:aux	_	AlignBegin=380220|AlignEnd=380310|GE=[HAB]|Gloss=-HAB|nWord=10|RX=[N:ANY]|TokenType=InflAff|Word=tʃũ
