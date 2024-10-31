@@ -1372,14 +1372,14 @@
 1	Ø-	_	PRON	_	_	2	comp:obj/m	_	AlignBegin=141958|AlignEnd=142003|GE=[O3SG]|Gloss=O3SG-|nWord=1|RX=[VT:ANY]|TokenType=InflAff|Word=tokkuakuh
 2	tokk	tokk	VERB	_	_	4	comp:aux	_	AlignBegin=142003|AlignEnd=142048|GE=drink|Gloss=drink|nWord=1|RX=[VT]|TokenType=Root|Word=tokkuakuh
 3	-u	_	PRON	_	_	2	subj	_	AlignBegin=142048|AlignEnd=142093|GE=[S2]|Gloss=-S2|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=tokkuakuh
-4	ak	ak	VERB	_	_	6	comp:aux/m	_	AlignBegin=142093|AlignEnd=142138|GE=be.in.state|Gloss=be.in.state|nWord=1|RX=[VI]|TokenType=Root|Word=tokkuakuh
+4	ak	ak	AUX	_	_	6	comp:aux/m	_	AlignBegin=142093|AlignEnd=142138|GE=be.in.state|Gloss=be.in.state|nWord=1|RX=[VI]|TokenType=Root|Word=tokkuakuh
 5	-u	_	PRON	_	_	6	subj/m	_	AlignBegin=142138|AlignEnd=142183|GE=[S2]|Gloss=-S2|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=tokkuakuh
 6	-h	_	AUX	_	_	13	conj:dicto	_	AlignBegin=142183|AlignEnd=142230|GE=[PROX].[FUT]|Gloss=-PROX.FUT|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=tokkuakuh
 7	=pe	=pe	PART	_	_	6	mod	_	AlignBegin=142230|AlignEnd=142502|GE=only|Gloss==only|nWord=2|RX=[PRT]|TokenType=Clit|Word=pe
 8	Ø-	_	PRON	_	_	9	comp:obj/m	_	AlignBegin=142502|AlignEnd=142547|GE=[O3SG]|Gloss=O3SG-|nWord=3|RX=[VT:ANY]|TokenType=InflAff|Word=tokkuakuh
 9	tokk	tokk	VERB	_	_	11	comp:aux	_	AlignBegin=142547|AlignEnd=142592|GE=drink|Gloss=drink|nWord=3|RX=[VT]|TokenType=Root|Word=tokkuakuh
 10	-u	_	PRON	_	_	9	subj	_	AlignBegin=142592|AlignEnd=142637|GE=[S2]|Gloss=-S2|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=tokkuakuh
-11	ak	ak	VERB	_	_	13	comp:aux/m	_	AlignBegin=142637|AlignEnd=142682|GE=be.in.state|Gloss=be.in.state|nWord=3|RX=[VI]|TokenType=Root|Word=tokkuakuh
+11	ak	ak	AUX	_	_	13	comp:aux/m	_	AlignBegin=142637|AlignEnd=142682|GE=be.in.state|Gloss=be.in.state|nWord=3|RX=[VI]|TokenType=Root|Word=tokkuakuh
 12	-u	_	PRON	_	_	13	subj/m	_	AlignBegin=142682|AlignEnd=142727|GE=[S2]|Gloss=-S2|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=tokkuakuh
 13	-h	_	AUX	_	_	15	comp:obj	_	AlignBegin=142727|AlignEnd=142774|GE=[PROX].[FUT]|Gloss=-PROX.FUT|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=tokkuakuh
 14	=pe	=pe	PART	_	_	13	mod	_	AlignBegin=142774|AlignEnd=143046|GE=only|Gloss==only|nWord=4|RX=[PRT]|TokenType=Clit|Word=pe

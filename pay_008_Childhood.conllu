@@ -509,7 +509,7 @@
 1	ta-	_	PRON	N:ANY	_	2	det:poss	_	AlignBegin=124106|AlignEnd=124311|GE=[POSS1]|Gloss=POSS1-|nWord=1|RX=[N:ANY]|TokenType=InflAff|Word=takaki
 2	kaki	kaki	NOUN	N	_	3	comp:obj	_	AlignBegin=124311|AlignEnd=124516|GE=mother|Gloss=mother|nWord=1|RX=[N]|TokenType=Root|Word=takaki
 3	=mã	=mã	PART	PRT	_	7	conj:dicto	_	AlignBegin=124516|AlignEnd=124926|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit|Word=mã
-4	ausiʔ	ausiʔ	NOUN	N	_	3	comp:pred@scrap	_	AlignBegin=124926|AlignEnd=125336|GE=poor|Gloss=poor|nWord=3|RX=[N]|TokenType=Root|Word=ausiʔ
+4	ausiʔ	ausiʔ	NOUN	N	_	2	comp:pred@scrap	_	AlignBegin=124926|AlignEnd=125336|GE=poor|Gloss=poor|nWord=3|RX=[N]|TokenType=Root|Word=ausiʔ
 5	ta-	_	PRON	N:ANY	_	6	det:poss	_	AlignBegin=125336|AlignEnd=125541|GE=[POSS1]|Gloss=POSS1-|nWord=4|RX=[N:ANY]|TokenType=InflAff|Word=tatus
 6	tus	tus	NOUN	N	_	7	comp:obj	_	AlignBegin=125541|AlignEnd=125746|GE=father|Gloss=father|nWord=4|RX=[N]|TokenType=Root|Word=tatus
 7	=mã	=mã	PART	PRT	_	9	conj:dicto	_	AlignBegin=125746|AlignEnd=126156|GE=[TOP]|Gloss==TOP|nWord=5|RX=[PRT]|TokenType=Clit|Word=man
@@ -652,7 +652,7 @@
 # text_phrase-gls-pro =  || kàˈkósm àʰˈt͡ʃũʃbã́rˈtĩ́ (.) || àʰˈt͡ʃṹʲʃtáˈɾì tàsˈmà (0.9s) ||
 # text_phrase-gls-wg =  write:APPL:INF TOP learn:APPL:NEG:PST:EXCL>3 learn:NEG:PST:1>3 PRO1 TOP
 1	ka-	_	AUX	V>VT	Voice=Appl	3	comp/m	_	AlignBegin=150153|AlignEnd=150321|GE=[APPL].[R]|Gloss=APPL.R-|nWord=1|RX=[V>VT]|TokenType=InflAff|Word=kakors
-2	kors	kors	VERB	VT	VerbForm=Inf	1	comp:aux/m	_	AlignBegin=150321|AlignEnd=150489|GE=write|Gloss=write|nWord=1|RX=[VT]|TokenType=Root|Word=kakors
+2	kors	kors	VERB	VT	_	1	comp:aux/m	_	AlignBegin=150321|AlignEnd=150489|GE=write|Gloss=write|nWord=1|RX=[VT]|TokenType=Root|Word=kakors
 3	-a	_	AUX	V>N	VerbForm=Inf	4	comp:obj	_	AlignBegin=150489|AlignEnd=150657|DerPos=NOUN|GE=[INF]|Gloss=INF|nWord=1|RX=[V>N]|TokenType=DerAff|Word=kakors
 4	=ma	=ma	SCONJ	PRT	_	7	comp:obj	_	AlignBegin=150657|AlignEnd=151161|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
 5	a-	_	PRON	VT:ANY	_	6	comp:obj@appl/m	_	AlignBegin=151161|AlignEnd=151245|GE=[O3SG]|Gloss=O3SG-|nWord=3|RX=[VT:ANY]|TokenType=InflAff|Word=artʃuiʃbarti
@@ -1722,7 +1722,7 @@
 2	=yã	=yã	ADP	POST	_	9	mod:tmod	_	AlignBegin=345365|AlignEnd=345957|GE=[LOC]|Gloss==LOC|nWord=2|RX=[POST]|TokenType=Clit|Word=yã
 3	ĩsi	ĩsi	NOUN	N	_	5	dislocated:obj	_	AlignBegin=345957|AlignEnd=346549|GE=medicine|Gloss=medicine|nWord=3|RX=[N]|TokenType=Root|Word=ĩsĩ
 4	Ø-	_	PRON	VT:ANY	_	5	comp:obj/m	_	AlignBegin=346549|AlignEnd=346647|GE=[O3SG]|Gloss=O3SG-|nWord=4|RX=[VT:ANY]|TokenType=InflAff|Word=porkakãwã
-5	pork	pork	VERB	VT	_	9	comp:aux	_	AlignBegin=346647|AlignEnd=346745|GE=sink.in|Gloss=sink.in|nWord=4|RX=[VT]|TokenType=Root|Word=porkakãwã
+5	pork	pork	VERB	VT	_	7	comp:obj@lvc	_	AlignBegin=346647|AlignEnd=346745|GE=sink.in|Gloss=sink.in|nWord=4|RX=[VT]|TokenType=Root|Word=porkakãwã
 6	-a	_	PRON	PRO:ANY	_	5	subj/m	_	AlignBegin=346745|AlignEnd=346843|GE=[S1SG]|Gloss=-S1SG|nWord=4|RX=[PRO:ANY]|TokenType=InflAff|Word=porkakãwã
 7	ka	ka	VERB	VT	_	9	comp:aux	_	AlignBegin=346843|AlignEnd=346941|GE=make|Gloss=make|nWord=4|RX=[VT]|TokenType=Root|Word=porkakãwã
 8	-a	_	PRON	PRO:ANY	_	9	subj/m	_	AlignBegin=346941|AlignEnd=347039|GE=[S1SG]|Gloss=-S1SG|nWord=4|RX=[PRO:ANY]|TokenType=InflAff|Word=porkakãwã
@@ -1905,7 +1905,7 @@
 3	as	as	DET	DET	_	2	det	_	AlignBegin=377520|AlignEnd=377880|GE=[INDF].[ART]|Gloss=INDF.ART|nWord=3|RX=[DET]|TokenType=Root|Word=as
 4	pa-	_	PRON	N:ANY	Clusivity=In	5	mod	_	AlignBegin=378240|AlignEnd=378360|GE=[INCL]|Gloss=INCL-|nWord=5|RX=[N:ANY]|TokenType=InflAff|Word=patasã
 5	ta-	_	PRON	N:ANY	_	6	det:poss	_	AlignBegin=378360|AlignEnd=378480|GE=[POSS1]|Gloss=POSS1-|nWord=5|RX=[N:ANY]|TokenType=InflAff|Word=patasã
-6	sã	sã	NOUN	N	_	10	conj:dicto	_	AlignBegin=378480|AlignEnd=378600|GE=head|Gloss=head|nWord=5|RX=[N]|TokenType=Root|Word=patasã
+6	sã	sã	NOUN	N	_	9	conj:dicto	_	AlignBegin=378480|AlignEnd=378600|GE=head|Gloss=head|nWord=5|RX=[N]|TokenType=Root|Word=patasã
 7	pa-	_	PRON	N:ANY	Clusivity=In	8	mod	_	AlignBegin=378960|AlignEnd=379080|GE=[INCL]|Gloss=INCL-|nWord=7|RX=[N:ANY]|TokenType=InflAff|Word=pataya
 8	ta-	_	PRON	N:ANY	_	9	det:poss/m	_	AlignBegin=379080|AlignEnd=379200|GE=[POSS1]|Gloss=POSS1-|nWord=7|RX=[N:ANY]|TokenType=InflAff|Word=pataya
 9	ya	ya	NOUN	N	_	10	comp:obj	_	AlignBegin=379200|AlignEnd=379320|GE=belly|Gloss=belly|nWord=7|RX=[N]|TokenType=Root|Word=pataya
@@ -2910,7 +2910,7 @@
 # text_phrase-gls-wg =  HES true people other say:NMLZ INS speak:PFV:EXCL>3
 1	ãma	ãma	PART	PRT	_	11	discourse	_	AlignBegin=586320|AlignEnd=586814|GE=[HES]|Gloss=HES|nWord=1|RX=[PRT]|TokenType=Root|Word=ãma
 2	yeis	yeis	NOUN	<NOT_SURE>	_	11	mod	_	AlignBegin=586814|AlignEnd=587308|GE=true|Gloss=true|nWord=2|RX=[<NOT_SURE>]|TokenType=Root|Word=yeis
-3	peʃ	peʃ	NOUN	N	_	5	det:poss	_	AlignBegin=587308|AlignEnd=587802|GE=people|Gloss=people|nWord=3|RX=[N]|TokenType=Root|Word=peʃ
+3	peʃ	peʃ	NOUN	N	_	5	udep:poss	_	AlignBegin=587308|AlignEnd=587802|GE=people|Gloss=people|nWord=3|RX=[N]|TokenType=Root|Word=peʃ
 4	akwa	akwa	NOUN	N	_	3	mod	_	AlignBegin=587802|AlignEnd=588296|GE=other|Gloss=other|nWord=4|RX=[N]|TokenType=Root|Word=ako
 5	yãh	yãh	VERB	VT	_	6	comp/m	_	AlignBegin=588296|AlignEnd=588543|GE=say|Gloss=say|nWord=5|RX=[VT]|TokenType=Root|Word=yãha
 6	-ha	_	SCONJ	V>N	_	7	comp	_	AlignBegin=588543|AlignEnd=588790|DerPos=NOUN|GE=[NMLZ]|Gloss=-NMLZ|nWord=5|RX=[V>N]|TokenType=DerAff|Word=yãha

@@ -507,7 +507,7 @@
 6	Ø-	_	PRON	_	_	7	comp:obj/m	_	AlignBegin=101009|AlignEnd=101077|GE=[O3SG]|Gloss=O3SG-|nWord=6|RX=[VT:ANY]|TokenType=InflAff|Word=ʃẽaku
 7	ʃã	ʃã	VERB	_	_	9	comp:aux	_	AlignBegin=101077|AlignEnd=101145|GE=see|Gloss=see|nWord=6|RX=[VT]|TokenType=Root|Word=ʃẽaku
 8	-Ø	_	PRON	_	_	7	subj/m	_	AlignBegin=101145|AlignEnd=101213|GE=[S3SG]|Gloss=-S3SG|nWord=6|RX=[V:ANY]|TokenType=InflAff|Word=ʃẽaku
-9	ak	ak	VERB	_	_	11	comp:aux/m	_	AlignBegin=101213|AlignEnd=101281|GE=be.in.state|Gloss=be.in.state|nWord=6|RX=[VI]|TokenType=Root|Word=ʃẽaku
+9	ak	ak	AUX	_	_	11	comp:aux/m	_	AlignBegin=101213|AlignEnd=101281|GE=be.in.state|Gloss=be.in.state|nWord=6|RX=[VI]|TokenType=Root|Word=ʃẽaku
 10	-Ø	_	PRON	_	_	11	subj/m	_	AlignBegin=101281|AlignEnd=101349|GE=[S3SG]|Gloss=-S3SG|nWord=6|RX=[V:ANY]|TokenType=InflAff|Word=ʃẽaku
 11	-wa	_	AUX	_	_	12	comp:obj	_	AlignBegin=101349|AlignEnd=101417|GE=[PFV]|Gloss=-PFV|nWord=6|RX=[V:ANY]|TokenType=InflAff|Word=ʃẽaku
 12	=mã	=mã	SCONJ	_	_	16	mod:tmod	_	AlignBegin=101417|AlignEnd=101825|GE=when|Gloss==when|nWord=7|RX=[PRT]|TokenType=Clit|Word=mã
@@ -922,7 +922,7 @@
 21	ka	ka	VERB	_	_	23	comp:aux/m	_	AlignBegin=161755|AlignEnd=161882|GE=make|Gloss=make|nWord=14|RX=[VT]|TokenType=Root|Word=ki
 22	-Ø	_	PRON	_	_	23	subj/m	_	AlignBegin=161882|AlignEnd=162009|GE=[S3SG]|Gloss=-S3SG|nWord=14|RX=[V:ANY]|TokenType=InflAff|Word=ki
 23	-i	_	AUX	_	_	24	comp:obj	_	AlignBegin=162009|AlignEnd=162136|GE=[PST]|Gloss=-PST|nWord=14|RX=[V:ANY]|TokenType=InflAff|Word=ki
-24	=na	=na	PART	_	_	2	comp:pred	_	AlignBegin=162136|AlignEnd=162644|GE=[REP]|Gloss==REP|nWord=15|RX=[PRT]|TokenType=Clit|Word=na
+24	=na	=na	PART	_	_	8	udep	_	AlignBegin=162136|AlignEnd=162644|GE=[REP]|Gloss==REP|nWord=15|RX=[PRT]|TokenType=Clit|Word=na
 25	,	_	PUNCT	_	_	24	punct	_	AlignBegin=162644|AlignEnd=163152|nWord=16|Word=,
 26	sirena	sirena	NOUN	_	_	27	comp:obj	_	AlignBegin=163152|AlignEnd=163660|GE=[SPA_mermaid]|Gloss=SPA_mermaid|nWord=17|RX=[N]|TokenType=Root|Word=sirena
 27	=ya	=ya	ADP	_	Case=Erg	21	subj	_	AlignBegin=163660|AlignEnd=164168|GE=[ERG]|Gloss==ERG|nWord=18|RX=[PRT]|TokenType=Clit|Word=ɲa

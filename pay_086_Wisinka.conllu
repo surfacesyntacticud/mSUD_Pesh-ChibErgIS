@@ -570,11 +570,11 @@
 13	ʃoʔ	ʃoʔ	NOUN	N	_	8	comp:obl	_	AlignBegin=117034|AlignEnd=117350|GE=hill|Gloss=hill|nWord=7|RX=[N]|TokenType=Root|Word=ʃoʔ
 
 # sent_id = 086_26-26
+# text = ʃoʔkwa teʔtuwera yara apiʃtera ###, mm
 # speaker_id = @VG
 # sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
 # sent_timecode = 117960, 121892
 # morphemic_text = ʃok -wa teʔ teweh -er -wa yara a- piʃ -t -er -a ###, mm
-# text = ʃoʔkwa teʔtuwera yara apiʃtera ###, mm
 # text_en =  They went up the hill. They laid down at the edge, mm (pointing the finger making a semi-circle).
 # text_phrase-gls-de =  086.26_VG
 # text_phrase-gls-es =  subieron a la cima del cerro, estuvieron
@@ -593,8 +593,9 @@
 10	-t	_	AUX	N>???	_	12	comp:aux/m	_	AlignBegin=120187|AlignEnd=120318|GE=[DUR]|Gloss=-DUR|nWord=4|RX=[N>???]|TokenType=InflAff|Word=apiʃtera
 11	-er	_	PRON	V:ANY	_	12	subj/m	_	AlignBegin=120318|AlignEnd=120449|GE=[S3PL]|Gloss=-S3PL|nWord=4|RX=[V:ANY]|TokenType=InflAff|Word=apiʃtera
 12	-a	_	SCONJ	V>N	_	6	mod	_	AlignBegin=120449|AlignEnd=120580|DerPos=NOUN|GE=[PTCP]|Gloss=PTCP|nWord=4|RX=[V>N]|TokenType=DerAff|Word=apiʃtera
-13	###,	_	X	_	_	12	punct	_	AlignBegin=120580|AlignEnd=121235|nWord=5|Word=###,
-14	mm	mm	INTJ	INTERJ	_	6	udep	_	AlignBegin=121235|AlignEnd=121892|GE=[INTERJ]|Gloss=INTERJ|nWord=6|RX=[INTERJ]|TokenType=Root|Word=mm
+13	###	###	X	_	_	12	unk	_	AlignBegin=120580|AlignEnd=121235|nWord=5|Word=###,
+14	,	,	PUNCT	_	_	12	punct	_	AlignBegin=120580|AlignEnd=121235|nWord=6|Word=###,
+15	mm	mm	INTJ	INTERJ	_	6	udep	_	AlignBegin=121235|AlignEnd=121892|GE=[INTERJ]|Gloss=INTERJ|nWord=7|RX=[INTERJ]|TokenType=Root|Word=mm
 
 # sent_id = 086_27-28
 # speaker_id = @VG
