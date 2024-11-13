@@ -386,7 +386,7 @@
 6	=kan	=kan	PART	PRT	_	13	mod	_	AlignBegin=94098|AlignEnd=94919|GE=[SIM]|Gloss==SIM|nWord=6|RX=[PRT]|TokenType=Clit|Word=kan
 7	ũ-	_	PRON	PRO:ANY	Clusivity=Ex	8	mod/m	_	AlignBegin=94919|AlignEnd=95329|GE=[EXCL]|Gloss=EXCL-|nWord=7|RX=[PRO:ANY]|TokenType=InflAff|Word=ũtãs
 8	tas	tas	PRON	PRO	_	9	comp	_	AlignBegin=95329|AlignEnd=95740|GE=[PRO1]|Gloss=PRO1|nWord=7|RX=[PRO]|TokenType=Root|Word=ũtãs
-9	=mã	=mã	PART	PRT	_	13	dislocated:subj	_	AlignBegin=95740|AlignEnd=96561|GE=[TOP]|Gloss==TOP|nWord=8|RX=[PRT]|TokenType=Clit|Word=mã
+9	=mã	=mã	PART	PRT	_	13	dislocated:obj	_	AlignBegin=95740|AlignEnd=96561|GE=[TOP]|Gloss==TOP|nWord=8|RX=[PRT]|TokenType=Clit|Word=mã
 10	nĩhã	nĩhã	PART	PRT	_	9	discourse	_	AlignBegin=96561|AlignEnd=97382|GE=[HES]|Gloss=HES|nWord=9|RX=[PRT]|TokenType=Root|Word=nĩhã
 11	ũ-	_	PRON	PRO:ANY	Clusivity=Ex	13	comp:obj/m	_	AlignBegin=97382|AlignEnd=97546|GE=[EXCL]|Gloss=EXCL-|nWord=10|RX=[PRO:ANY]|TokenType=InflAff|Word=ũtatõhri
 12	ta-	_	PRON	VT:ANY	_	13	comp:obj/m	_	AlignBegin=97546|AlignEnd=97710|GE=[O1]|Gloss=O1-|nWord=10|RX=[VT:ANY]|TokenType=InflAff|Word=ũtatõhri

@@ -1504,7 +1504,7 @@
 11	-er	_	PRON	V:ANY	_	12	subj/m	_	AlignBegin=274437|AlignEnd=274661|GE=[S3PL]|Gloss=-S3PL|nWord=4|RX=[V:ANY]|TokenType=InflAff|Word=ʃeleri
 12	-i	_	AUX	V:ANY	_	0	root	_	AlignBegin=274661|AlignEnd=274884|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]|TokenType=InflAff|Word=ʃeleri
 13	ata	ata	NOUN	N	_	14	comp:obj	_	AlignBegin=274884|AlignEnd=275555|GE=other.side|Gloss=other.side|nWord=5|RX=[N]|TokenType=Root|Word=ata
-14	=ma	=ma	PART	PRT	_	12	mod:tmod	_	AlignBegin=275555|AlignEnd=276226|GE=[TOP]|Gloss==TOP|nWord=6|RX=[PRT]|TokenType=Clit|Word=ma
+14	=ma	=ma	PART	PRT	_	12	mod:lmod	_	AlignBegin=275555|AlignEnd=276226|GE=[TOP]|Gloss==TOP|nWord=6|RX=[PRT]|TokenType=Clit|Word=ma
 15	teweh	teweh	VERB	VI	_	17	compound:svc	_	AlignBegin=276226|AlignEnd=276361|GE=go.up|Gloss=go.up|nWord=7|RX=[VI]|TokenType=Root|Word=twẽtapehĩ
 16	ta-	_	AUX	VT>VI	Voice=Mid	17	comp/m	_	AlignBegin=276361|AlignEnd=276496|GE=[MID]|Gloss=MID-|nWord=7|RX=[VT>VI]|TokenType=InflAff|Word=twẽtapehĩ
 17	peh	peh	VERB	V	_	19	comp:aux/m	_	AlignBegin=276496|AlignEnd=276631|GE=hang|Gloss=hang|nWord=7|RX=[V]|TokenType=Root|Word=twẽtapehĩ
