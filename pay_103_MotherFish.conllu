@@ -4,12 +4,12 @@
 # sent_timecode = 1970, 4350
 # morphemic_text = ki =ri =s , ki =ri =s arwã tʃa -i -ri .
 # text = ki ris , ki ris arwã tʃiri .
-# text_en =  Once upon a time, there was a man.
-# text_phrase-gls-es =  Había una vez un hombre
-# text_phrase-gls-pro =  || DL; kɨˈɾísːː (0.6s) || kɨˈɾís ˈárwaˈʔã́ tʃìˈɾí (2.4s) ||
-# text_phrase-gls-it =  kìɾís krís árwã́ tʃìɾí
-# text_phrase-gls-wg =  before TEMP:INDF before TEMP:INDF man be.there:PST:3
-# text_phrase-gls-de =  Madre_peces_001_DL
+# text_en = Once upon a time, there was a man.
+# text_phrase-gls-es = Había una vez un hombre
+# text_phrase-gls-pro = || DL; kɨˈɾísːː (0.6s) || kɨˈɾís ˈárwaˈʔã́ tʃìˈɾí (2.4s) ||
+# text_phrase-gls-it = kìɾís krís árwã́ tʃìɾí
+# text_phrase-gls-wg = before TEMP:INDF before TEMP:INDF man be.there:PST:3
+# text_phrase-gls-de = Madre_peces_001_DL
 1	ki	ki	ADV	_	_	2	comp:obj	_	AlignBegin=1970|AlignEnd=2268|GE=before|Gloss=before|nWord=1|RX=[ADV]|TokenType=Root|Word=ki
 2	=ri	=ri	ADP	_	_	6	conj:dicto	_	AlignBegin=2268|AlignEnd=2417|GE=[TEMP]|Gloss==TEMP|nWord=2|RX=[POST]|TokenType=Clit|Word=ris
 3	=s	=s	DET	_	_	2	det	_	AlignBegin=2417|AlignEnd=2566|GE=[INDF].[ART]|Gloss==INDF.ART|nWord=2|RX=[DET]|TokenType=Clit|Word=ris
@@ -29,12 +29,12 @@
 # sent_timecode = 6760, 11770
 # morphemic_text = toʔ , to arwã =ma , wiʃã kapor -ta -ru =r -Ø -i .
 # text = toʔ , to arwã ma , wiʃã kaportaru ri .
-# text_en =  That man was the spearer of fish.
-# text_phrase-gls-es =  Ese hombre era clavador de peces
-# text_phrase-gls-pro =  || tóʔ (0.5s) || tòːː ˈárhwã́ˈmàːːː (1.5s) || gwìˈʃã̀ kàˈpórtàɾùˈrí (0.6s) ||
-# text_phrase-gls-it =  tóʔ tò árwã́mà wìʃã̀ kàpórtàɾùrí
-# text_phrase-gls-wg =  DEM.MED DEM.MED man TOP fish spear:AG:HAB COP:PST:3
-# text_phrase-gls-de =  Madre_peces_002_DL
+# text_en = That man was the spearer of fish.
+# text_phrase-gls-es = Ese hombre era clavador de peces
+# text_phrase-gls-pro = || tóʔ (0.5s) || tòːː ˈárhwã́ˈmàːːː (1.5s) || gwìˈʃã̀ kàˈpórtàɾùˈrí (0.6s) ||
+# text_phrase-gls-it = tóʔ tò árwã́mà wìʃã̀ kàpórtàɾùrí
+# text_phrase-gls-wg = DEM.MED DEM.MED man TOP fish spear:AG:HAB COP:PST:3
+# text_phrase-gls-de = Madre_peces_002_DL
 1	toʔ	toʔ	PRON	_	_	3	conj:dicto	_	AlignBegin=6760|AlignEnd=7261|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=toʔ
 2	,	_	PUNCT	_	_	1	punct	_	AlignBegin=7261|AlignEnd=7762|nWord=2|Word=,
 3	to	to	PRON	_	_	4	det	_	AlignBegin=7762|AlignEnd=8263|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=3|RX=[PRO]|TokenType=Root|Word=to
@@ -56,12 +56,12 @@
 # sent_timecode = 12370, 20331
 # morphemic_text = wiʃã , wiʃã =pero , nã proh teʔ wa -er -u -ri , teʔ -er -i Ø- ã -er -pi =ro , tʃaʔ =yo .
 # text = wiʃã , wiʃã pero , nãprohteʔwaruri , teʔer ãrpi ro , tʃaʔ yo .
-# text_en =  They went and came looking for fish only to eat with sasal.
-# text_phrase-gls-es =  Buscaba peces para comer con sasal
-# text_phrase-gls-pro =  || ˈgwìtʃã̀ːː (0.8s) || ˈgwìʃã̀ˈpéròːːː (1.3s) || nã̀ˈpróhˈtèʔkwarùˈrīːːː (0.1s) || tɛ̃̀ʔb̚ (0.3s) || ˈʔã̀ ʔɛ̃̀ʔˈpīrōːː (0.3s) || ˈtʃàʔˈjó (0.9s) ||
-# text_phrase-gls-it =  wìt͡ʃã̀ː wìʃã̀péròː nã̀próhtèʔwarùrīː tɛ̃̀ʔr (ʔã̀) ɛ̃̀ʔpīrōː tʃàʔyó
-# text_phrase-gls-wg =  fish fish only go+look.for+come+collect:HAB:PST:3PL come:PST:3PL eat:FUT:3>3 PURP sasal INS
-# text_phrase-gls-de =  Madre_peces_003_DL
+# text_en = They went and came looking for fish only to eat with sasal.
+# text_phrase-gls-es = Buscaba peces para comer con sasal
+# text_phrase-gls-pro = || ˈgwìtʃã̀ːː (0.8s) || ˈgwìʃã̀ˈpéròːːː (1.3s) || nã̀ˈpróhˈtèʔkwarùˈrīːːː (0.1s) || tɛ̃̀ʔb̚ (0.3s) || ˈʔã̀ ʔɛ̃̀ʔˈpīrōːː (0.3s) || ˈtʃàʔˈjó (0.9s) ||
+# text_phrase-gls-it = wìt͡ʃã̀ː wìʃã̀péròː nã̀próhtèʔwarùrīː tɛ̃̀ʔr (ʔã̀) ɛ̃̀ʔpīrōː tʃàʔyó
+# text_phrase-gls-wg = fish fish only go+look.for+come+collect:HAB:PST:3PL come:PST:3PL eat:FUT:3>3 PURP sasal INS
+# text_phrase-gls-de = Madre_peces_003_DL
 1	wiʃã	wiʃã	NOUN	_	_	3	conj:dicto	_	AlignBegin=12370|AlignEnd=12939|GE=fish|Gloss=fish|nWord=1|RX=[N]|TokenType=Root|Word=wiʃã
 2	,	_	PUNCT	_	_	1	punct	_	AlignBegin=12939|AlignEnd=13508|nWord=2|Word=,
 3	wiʃã	wiʃã	NOUN	_	_	7	comp:obj	_	AlignBegin=13508|AlignEnd=14077|GE=fish|Gloss=fish|nWord=3|RX=[N]|TokenType=Root|Word=wiʃã
@@ -94,12 +94,12 @@
 # sent_timecode = 21244, 30846
 # morphemic_text = toʔ =kari =ni , toʔ arwã =ma , ãʔ ãs , ãʔ ãs Ø- sukuh -er -(w)a .
 # text = toʔ kari ni , toʔ arwã ma , ãʔ ãs , ãʔ ãs sukuhlera .
-# text_en =  For that reason, one day, they caught the man.
-# text_phrase-gls-es =  Un día agarraron al  hombre
-# text_phrase-gls-pro =  || tóʔˈkāríˈníː (1.9s) || tóʔ ˈárhwã́̃́ˈmàːːː (1.8s) || ʔã̀nhã́ʃːːːːːːːːːːː (0.5s) || ʔã̀hã́s sùkùhlēɾàːː (1.6s) ||
-# text_phrase-gls-it =  tóʔkāríní tóʔ árwɔ̃́màː ã̀hã́sːːː ã̀ʔã́s sùkùhēɾà
-# text_phrase-gls-wg =  DEM.MED ADVS TEMP DEM.MED man TOP day INDF.ART day INDF.ART grab:PFV:3PL>3
-# text_phrase-gls-de =  Madre_peces_004_DL
+# text_en = For that reason, one day, they caught the man.
+# text_phrase-gls-es = Un día agarraron al  hombre
+# text_phrase-gls-pro = || tóʔˈkāríˈníː (1.9s) || tóʔ ˈárhwã́̃́ˈmàːːː (1.8s) || ʔã̀nhã́ʃːːːːːːːːːːː (0.5s) || ʔã̀hã́s sùkùhlēɾàːː (1.6s) ||
+# text_phrase-gls-it = tóʔkāríní tóʔ árwɔ̃́màː ã̀hã́sːːː ã̀ʔã́s sùkùhēɾà
+# text_phrase-gls-wg = DEM.MED ADVS TEMP DEM.MED man TOP day INDF.ART day INDF.ART grab:PFV:3PL>3
+# text_phrase-gls-de = Madre_peces_004_DL
 1	toʔ	toʔ	PRON	_	_	2	comp:obj	_	AlignBegin=21244|AlignEnd=21884|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=toʔ
 2	=kari	=kari	PART	_	_	3	comp:obj	_	AlignBegin=21884|AlignEnd=22524|GE=[ADVS]|Gloss==ADVS|nWord=2|RX=[PRT]|TokenType=Clit|Word=kari
 3	=ni	=ni	ADP	_	_	17	mod	_	AlignBegin=22524|AlignEnd=23164|GE=[TEMP]|Gloss==TEMP|nWord=3|RX=[POST]|TokenType=Clit|Word=ni
@@ -125,12 +125,12 @@
 # sent_timecode = 32441, 37110
 # morphemic_text = arwã as =yo , pok =l -er -ri ta -ha nã -er -i , wiʃã , wiʃã kapor =yã .
 # text = arwã as yo , pok lerri tah nẽri , wiʃã , wiʃã kapor yã .
-# text_en =  There were two men with the other man, they went to spear fish.
-# text_phrase-gls-es =  Eran dos hombres, se fueron a clavar peces
-# text_phrase-gls-pro =  || ˈárwã́ ˈásjóʔo ˈpókːlèˈɾí ˈtàt nẽ̀ˈríːːː || ˈwìtʃà (0.4s) || ˈwìtʃà kàˈpórhjã́ (0.8s) ||
-# text_phrase-gls-it =  árwã́ ásyó póːklèɾí tàt nẽ̀ríʔ wìtʃà wìtʃà kàpóryã́
-# text_phrase-gls-wg =  man one INS two COP:PST:3PL path:NMLZ go:PST:3PL fish fish spear LOC
-# text_phrase-gls-de =  Madre_peces_005_DL
+# text_en = There were two men with the other man, they went to spear fish.
+# text_phrase-gls-es = Eran dos hombres, se fueron a clavar peces
+# text_phrase-gls-pro = || ˈárwã́ ˈásjóʔo ˈpókːlèˈɾí ˈtàt nẽ̀ˈríːːː || ˈwìtʃà (0.4s) || ˈwìtʃà kàˈpórhjã́ (0.8s) ||
+# text_phrase-gls-it = árwã́ ásyó póːklèɾí tàt nẽ̀ríʔ wìtʃà wìtʃà kàpóryã́
+# text_phrase-gls-wg = man one INS two COP:PST:3PL path:NMLZ go:PST:3PL fish fish spear LOC
+# text_phrase-gls-de = Madre_peces_005_DL
 1	arwã	arwã	NOUN	_	_	3	comp:obj	_	AlignBegin=32441|AlignEnd=32752|GE=man|Gloss=man|nWord=1|RX=[N]|TokenType=Root|Word=arwã
 2	as	as	NUM	_	_	1	mod	_	AlignBegin=32752|AlignEnd=33063|GE=one|Gloss=one|nWord=2|RX=[N]|TokenType=Root|Word=as
 3	=yo	=yo	ADP	_	_	6	comp:obl	_	AlignBegin=33063|AlignEnd=33374|GE=[INS]|Gloss==INS|nWord=3|RX=[POST]|TokenType=Clit|Word=yo
@@ -158,12 +158,12 @@
 # sent_timecode = 37870, 42313
 # morphemic_text = toʔ =ma , aso wa wa =yã , aso wa =yã nã -er -i .
 # text = toʔ ma , asowawa ɲã , asowa ɲã nẽri .
-# text_en =  They went to the sheltered place in the river.
-# text_phrase-gls-es =  eso Se fueron (?) al río
-# text_phrase-gls-pro =  || ˈtòkmàʔaː (1.0s) || àˈsòˈwáʔwáʔˈɲá (0.4s) || àˈsō ˈwáɲá nẽ̀ˈríg̚ (1.3s) ||
-# text_phrase-gls-it =  tòʔmà àsòwáʔwáːɲáʔ, àsō wáɲá nẽ̀ríʔ
-# text_phrase-gls-wg =  DEM.MED TOP eye+water LOC eye+water LOC go:PST:3PL
-# text_phrase-gls-de =  Madre_peces_006_DL
+# text_en = They went to the sheltered place in the river.
+# text_phrase-gls-es = eso Se fueron (?) al río
+# text_phrase-gls-pro = || ˈtòkmàʔaː (1.0s) || àˈsòˈwáʔwáʔˈɲá (0.4s) || àˈsō ˈwáɲá nẽ̀ˈríg̚ (1.3s) ||
+# text_phrase-gls-it = tòʔmà àsòwáʔwáːɲáʔ, àsō wáɲá nẽ̀ríʔ
+# text_phrase-gls-wg = DEM.MED TOP eye+water LOC eye+water LOC go:PST:3PL
+# text_phrase-gls-de = Madre_peces_006_DL
 1	toʔ	toʔ	PRON	_	_	2	comp:obj	_	AlignBegin=37870|AlignEnd=38314|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=toʔ
 2	=ma	=ma	ADP	_	_	12	dislocated:subj	_	AlignBegin=38314|AlignEnd=38758|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
 3	,	_	PUNCT	_	_	2	punct	_	AlignBegin=38758|AlignEnd=39202|nWord=3|Word=,
@@ -186,12 +186,12 @@
 # sent_timecode = 43601, 51521
 # morphemic_text = toʔ =kari , nẽ -er -Øwa =mã , =pe wiʃã aka as =pe Ø- ʃã -er -i .
 # text = toʔ kari , nẽler mã , pe wiʃã ak as pe ʃẽri .
-# text_en =  But, going further, they only saw a big fish.
-# text_phrase-gls-es =  Por eso cuando van dicen que vieron un pez grande
-# text_phrase-gls-pro =  || ˈtòʔkāˈɾīːːː (0.9s) || ˈnẽ̀lèɾmã̀ː (2.9s) || ((clears throat)) (0.2s) || pè ˈwìʃã̀ ʔã̀ˈkã́s (0.3s) p tʃɛ̃̀ˈɾĩ́ʔ (0.8s) ||
-# text_phrase-gls-it =  tòʔkāɾī nẽ̀lèɾmã̀ pè wìʃã̀ ã̀kã́sp tʃɛ̃̀ɾĩ́ʔ
-# text_phrase-gls-wg =  DEM.MED ADVS go:PFV:3PL when only fish big one only see:PST:3PL>3
-# text_phrase-gls-de =  Madre_peces_007_DL
+# text_en = But, going further, they only saw a big fish.
+# text_phrase-gls-es = Por eso cuando van dicen que vieron un pez grande
+# text_phrase-gls-pro = || ˈtòʔkāˈɾīːːː (0.9s) || ˈnẽ̀lèɾmã̀ː (2.9s) || ((clears throat)) (0.2s) || pè ˈwìʃã̀ ʔã̀ˈkã́s (0.3s) p tʃɛ̃̀ˈɾĩ́ʔ (0.8s) ||
+# text_phrase-gls-it = tòʔkāɾī nẽ̀lèɾmã̀ pè wìʃã̀ ã̀kã́sp tʃɛ̃̀ɾĩ́ʔ
+# text_phrase-gls-wg = DEM.MED ADVS go:PFV:3PL when only fish big one only see:PST:3PL>3
+# text_phrase-gls-de = Madre_peces_007_DL
 1	toʔ	toʔ	PRON	_	_	2	comp:obj	_	AlignBegin=43601|AlignEnd=44210|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=toʔ
 2	=kari	=kari	PART	_	_	17	udep	_	AlignBegin=44210|AlignEnd=44819|GE=[ADVS]|Gloss==ADVS|nWord=2|RX=[PRT]|TokenType=Clit|Word=kari
 3	,	_	PUNCT	_	_	2	punct	_	AlignBegin=44819|AlignEnd=45428|nWord=3|Word=,
@@ -217,14 +217,14 @@
 # sent_timecode = 52315, 53785
 # morphemic_text = toʔ =ma a- par =pero Ø- ʃã -er -i =na .
 # text = toʔ ma apar pero ʃẽri na .
-# text_en =  It is said that they only saw the tail.
-# text_phrase-gls-es =  Dicen que solo le vieron la cola
-# text_phrase-gls-pro =  || tòʔˈmàʔpàrˈpēɾò ʃɛ̃̄ɾìˈnã̄ (2.4s) ||
-# text_phrase-gls-it =  tòʔmà àpàrpēɾò tʃɛ̃̄ɾìnã̄
-# text_phrase-gls-wg =  DEM.MED TOP tail:3 only see:PST:3PL>3 REP
-# text_phrase-gls-de =  Madre_peces_008_DL
+# text_en = It is said that they only saw the tail.
+# text_phrase-gls-es = Dicen que solo le vieron la cola
+# text_phrase-gls-pro = || tòʔˈmàʔpàrˈpēɾò ʃɛ̃̄ɾìˈnã̄ (2.4s) ||
+# text_phrase-gls-it = tòʔmà àpàrpēɾò tʃɛ̃̄ɾìnã̄
+# text_phrase-gls-wg = DEM.MED TOP tail:3 only see:PST:3PL>3 REP
+# text_phrase-gls-de = Madre_peces_008_DL
 1	toʔ	toʔ	PRON	_	_	2	comp:obj	_	AlignBegin=52315|AlignEnd=52525|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=toʔ
-2	=ma	=ma	PART	_	_	4	det	_	AlignBegin=52525|AlignEnd=52735|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
+2	=ma	=ma	PART	_	_	7	subj	_	AlignBegin=52525|AlignEnd=52735|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
 3	a-	_	PRON	_	_	4	det:poss/m	_	AlignBegin=52735|AlignEnd=52840|GE=[POSS3SG]|Gloss=POSS3SG-|nWord=3|RX=[N:ANY]|TokenType=InflAff|Word=apar
 4	par	par	NOUN	_	_	7	comp:obj	_	AlignBegin=52840|AlignEnd=52945|GE=tail|Gloss=tail|nWord=3|RX=[N]|TokenType=Root|Word=apar
 5	=pero	=pero	PART	_	_	4	mod	_	AlignBegin=52945|AlignEnd=53155|GE=only|Gloss==only|nWord=4|RX=[PRT]|TokenType=Clit|Word=pero
@@ -241,12 +241,12 @@
 # sent_timecode = 56184, 59853
 # morphemic_text = toʔ arwã =mã Ø- yẽh -Ø -i =na este =ma este =ma tas =ma tas =ya Ø- kapor -pa .
 # text = toʔ arwã mã ɲẽhi na este ma este ma tas ma tas ya kaporpa .
-# text_en =  That man said, "This one, I will spear this one."
-# text_phrase-gls-es =  Dijo el hombre "este yo lo clavaré"
-# text_phrase-gls-pro =  || ˈtóʔ ˈárhwɔ̃́ˈmã̄ ɲɛ̃̄hìˈná ˈéstamà ˈéstamà ˈtāsmã̀ ˈtàsjà kàˈpórpá (0.2s) ||
-# text_phrase-gls-it =  tóʔ árwɔ̃́mã̄, ɲɛ̃̄hìná éstèmà éstèmà tāsmã̀ tàsyà kàpórpá
-# text_phrase-gls-wg =  DEM.MED man TOP say:PST:3>3 REP SPA_this TOP SPA_this TOP PRO1 TOP PRO1 ERG spear:FUT:1
-# text_phrase-gls-de =  Madre_peces_009_DL
+# text_en = That man said, "This one, I will spear this one."
+# text_phrase-gls-es = Dijo el hombre "este yo lo clavaré"
+# text_phrase-gls-pro = || ˈtóʔ ˈárhwɔ̃́ˈmã̄ ɲɛ̃̄hìˈná ˈéstamà ˈéstamà ˈtāsmã̀ ˈtàsjà kàˈpórpá (0.2s) ||
+# text_phrase-gls-it = tóʔ árwɔ̃́mã̄, ɲɛ̃̄hìná éstèmà éstèmà tāsmã̀ tàsyà kàpórpá
+# text_phrase-gls-wg = DEM.MED man TOP say:PST:3>3 REP SPA_this TOP SPA_this TOP PRO1 TOP PRO1 ERG spear:FUT:1
+# text_phrase-gls-de = Madre_peces_009_DL
 1	toʔ	toʔ	PRON	_	_	2	det	_	AlignBegin=56184|AlignEnd=56429|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=toʔ
 2	arwã	arwã	NOUN	_	_	3	comp:obj	_	AlignBegin=56429|AlignEnd=56674|GE=man|Gloss=man|nWord=2|RX=[N]|TokenType=Root|Word=arwã
 3	=mã	=mã	PART	_	_	5	subj	_	AlignBegin=56674|AlignEnd=56919|GE=[TOP]|Gloss==TOP|nWord=3|RX=[PRT]|TokenType=Clit|Word=mã
@@ -274,12 +274,12 @@
 # sent_timecode = 60006, 60558
 # morphemic_text = Ø- yẽh -Ø -i =na .
 # text = ɲẽhi na .
-# text_en =  It is said that he said.
-# text_phrase-gls-es =  Dijo el hombre "este yo lo clavaré"
-# text_phrase-gls-pro =  || ˈɲɛ̃̀hìˈná (0.8s) ||
-# text_phrase-gls-it =  ɲɛ̃̀hìná
-# text_phrase-gls-wg =  say:PST:3>3 REP
-# text_phrase-gls-de =  Madre_peces_010_DL
+# text_en = It is said that he said.
+# text_phrase-gls-es = Dijo el hombre "este yo lo clavaré"
+# text_phrase-gls-pro = || ˈɲɛ̃̀hìˈná (0.8s) ||
+# text_phrase-gls-it = ɲɛ̃̀hìná
+# text_phrase-gls-wg = say:PST:3>3 REP
+# text_phrase-gls-de = Madre_peces_010_DL
 1	Ø-	_	PRON	_	_	2	comp:obj/m	_	AlignBegin=60006|AlignEnd=60052|GE=[O3SG]|Gloss=O3SG-|nWord=1|RX=[VT:ANY]|TokenType=InflAff|Word=ɲẽhi
 2	yẽh	yẽh	VERB	_	_	4	comp:aux/m	_	AlignBegin=60052|AlignEnd=60098|GE=say|Gloss=say|nWord=1|RX=[VT]|TokenType=Root|Word=ɲẽhi
 3	-Ø	_	PRON	_	_	4	subj/m	_	AlignBegin=60098|AlignEnd=60144|GE=[S3SG]|Gloss=-S3SG|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=ɲẽhi
@@ -293,13 +293,13 @@
 # sent_timecode = 61373, 66932
 # morphemic_text = y toʔ =kari , nã -Ø -i =na , niyopoʔa , wiʃã kapor -ka =yo .
 # text = i toʔ kari , nẽy na , niyopoʔa , wiʃã kaporka yo .
-# text_en =  But it is said that he went ###, with the fishing harpoon.
-# text_phrase-gls-es =  Tomó su arpón y se fue
-# text_phrase-gls-pro =  || ʔiʔi (0.5s) || ˈtóʔkāˈrīː (1.2s) || ˈnẽ̀jnāʔa niˈjopoˈɣa || =wìˈtʃã̀ kāˈpórkàˈjó (0.5s) ||
-# text_phrase-gls-it =  tóʔkārīː nẽ̀ynā wìʃã̀ kāpórkàyó
-# text_phrase-gls-tl =  CHECK what niˈjopoˈɣa could mean (non transcribed or translated)
-# text_phrase-gls-wg =  SPA_and DEM.MED ADVS go:PST:3 REP CHECK? fish spear:NMLZ INS
-# text_phrase-gls-de =  Madre_peces_011_DL-Madre_peces_012_DL
+# text_en = But it is said that he went ###, with the fishing harpoon.
+# text_phrase-gls-es = Tomó su arpón y se fue
+# text_phrase-gls-pro = || ʔiʔi (0.5s) || ˈtóʔkāˈrīː (1.2s) || ˈnẽ̀jnāʔa niˈjopoˈɣa || =wìˈtʃã̀ kāˈpórkàˈjó (0.5s) ||
+# text_phrase-gls-it = tóʔkārīː nẽ̀ynā wìʃã̀ kāpórkàyó
+# text_phrase-gls-tl = CHECK what niˈjopoˈɣa could mean (non transcribed or translated)
+# text_phrase-gls-wg = SPA_and DEM.MED ADVS go:PST:3 REP CHECK? fish spear:NMLZ INS
+# text_phrase-gls-de = Madre_peces_011_DL-Madre_peces_012_DL
 1	y	y	X	_	_	8	udep	_	AlignBegin=61373|AlignEnd=61801|GE=[SPA_and]|Gloss=SPA_and|nWord=1|RX=[<NOT_SURE>]|TokenType=Root|Word=i
 2	toʔ	toʔ	PRON	_	_	3	comp:obj	_	AlignBegin=61801|AlignEnd=62229|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=2|RX=[PRO]|TokenType=Root|Word=toʔ
 3	=kari	=kari	PART	_	_	8	udep	_	AlignBegin=62229|AlignEnd=62657|GE=[ADVS]|Gloss==ADVS|nWord=3|RX=[PRT]|TokenType=Clit|Word=kari
@@ -323,12 +323,12 @@
 # sent_timecode = 67435, 70392
 # morphemic_text = nã -Ø -wa nã -Ø -i , Ø- kapork -Ø -i =na , a- par =yã .
 # text = nẽõ nẽy , kaporki na , apar yã .
-# text_en =  It is said that he speared it in the tail.
-# text_phrase-gls-es =  Dicen que fue y lo clavó en la cola
-# text_phrase-gls-pro =  || ˈnēʔwō ˈnẽ́ːjʔi (0.2s) || kàˈpórhkíˈná (0.3s) || ˈàpàrhˈjã́ (1.3s) ||
-# text_phrase-gls-it =  nēō nẽ́ỹ kàpórkíná àpàryã́
-# text_phrase-gls-wg =  go:PFV:3 go:PST:3 spear:PST:3>3 REP tail:3 LOC
-# text_phrase-gls-de =  Madre_peces_013_DL
+# text_en = It is said that he speared it in the tail.
+# text_phrase-gls-es = Dicen que fue y lo clavó en la cola
+# text_phrase-gls-pro = || ˈnēʔwō ˈnẽ́ːjʔi (0.2s) || kàˈpórhkíˈná (0.3s) || ˈàpàrhˈjã́ (1.3s) ||
+# text_phrase-gls-it = nēō nẽ́ỹ kàpórkíná àpàryã́
+# text_phrase-gls-wg = go:PFV:3 go:PST:3 spear:PST:3>3 REP tail:3 LOC
+# text_phrase-gls-de = Madre_peces_013_DL
 1	nã	nã	VERB	_	_	3	comp:aux/m	_	AlignBegin=67435|AlignEnd=67545|GE=go|Gloss=go|nWord=1|RX=[VI]|TokenType=Root|Word=nẽõ
 2	-Ø	_	PRON	_	_	3	subj/m	_	AlignBegin=67545|AlignEnd=67655|GE=[S3SG]|Gloss=-S3SG|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=nẽõ
 3	-wa	_	AUX	_	_	6	conj:dicto	_	AlignBegin=67655|AlignEnd=67764|GE=[PFV]|Gloss=-PFV|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=nẽõ
@@ -353,12 +353,12 @@
 # sent_timecode = 71717, 75895
 # morphemic_text = y toʔ a arwã =s =ma , Ø- ʃã -Ø -i akina toʔ arwã , a- r- ka -iʃk -Ø -wa =ro .
 # text = i toʔ a arwãs ma , ʃẽy akina toʔ arwã , arkiiʃkwa ro .
-# text_en =  The man quickly saw what she wanted to do to that man (his brother).
-# text_phrase-gls-es =  El otro hombre vio lo que iba a hacer su hermano
-# text_phrase-gls-pro =  || ˈìː ˈtóʔ || ʔā ˈʔárhuˈwã́smà || ˈʃɛ̃́ːjɲàkìˈnā ˈtòː ˈāɾhuwã̄ || ʔàɾˈkìːʃkwàˈɾó (1.9s) ||
-# text_phrase-gls-it =  ì tóʔ ā árwã́smà ʃɛ̃́j àkìnā tò āɾʰwã̄ àɾkì ìʃkʷàɾó
-# text_phrase-gls-wg =  SPA_and DEM.MED HES man:INDF TOP see:PST:3>3 a.little DEM.MED man make:BEN:DES:PFV:3>3 ABS
-# text_phrase-gls-de =  Madre_peces_014_DL
+# text_en = The man quickly saw what she wanted to do to that man (his brother).
+# text_phrase-gls-es = El otro hombre vio lo que iba a hacer su hermano
+# text_phrase-gls-pro = || ˈìː ˈtóʔ || ʔā ˈʔárhuˈwã́smà || ˈʃɛ̃́ːjɲàkìˈnā ˈtòː ˈāɾhuwã̄ || ʔàɾˈkìːʃkwàˈɾó (1.9s) ||
+# text_phrase-gls-it = ì tóʔ ā árwã́smà ʃɛ̃́j àkìnā tò āɾʰwã̄ àɾkì ìʃkʷàɾó
+# text_phrase-gls-wg = SPA_and DEM.MED HES man:INDF TOP see:PST:3>3 a.little DEM.MED man make:BEN:DES:PFV:3>3 ABS
+# text_phrase-gls-de = Madre_peces_014_DL
 1	y	y	X	_	_	11	udep	_	AlignBegin=71717|AlignEnd=72015|GE=[SPA_and]|Gloss=SPA_and|nWord=1|RX=[<NOT_SURE>]|TokenType=Root|Word=i
 2	toʔ	toʔ	PRON	_	_	3	det	_	AlignBegin=72015|AlignEnd=72313|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=2|RX=[PRO]|TokenType=Root|Word=toʔ
 3	a	a	INTJ	_	_	4	conj:dicto	_	AlignBegin=72313|AlignEnd=72611|nWord=3|TokenType=Root|Word=a
@@ -389,12 +389,12 @@
 # sent_timecode = 77760, 82576
 # morphemic_text = Ø- ʃã -Ø -wa =mã , ta- õʃ -Ø -wa ke =narina to , toʔ arwã .
 # text = ʃãwa mã , tõʃwa ke narina to , toʔ arwã .
-# text_en =  When he saw him, that man was already getting lost.
-# text_phrase-gls-es =  El hombre esta(ba?) perdiéndose
-# text_phrase-gls-pro =  || ˈʃɛ̃́ŋwã̀ˈmã̀ːː (1.1s) || ˈtṍʃːwàˈkēnàɾìˈnā tòːː (0.7s) || ˈtòwāɾˈhɔ̃́ː (1.4s) ||
-# text_phrase-gls-it =  ʃɛ̃́wã̀mã̀ tṍʃkʷàkēnàɾìnā (tò) tò āɾʰwɔ̃́
-# text_phrase-gls-wg =  see:PFV:3>3 when lose:MID:PFV already =also DEM.MED DEM.MED man
-# text_phrase-gls-de =  Madre_peces_015_DL
+# text_en = When he saw him, that man was already getting lost.
+# text_phrase-gls-es = El hombre esta(ba?) perdiéndose
+# text_phrase-gls-pro = || ˈʃɛ̃́ŋwã̀ˈmã̀ːː (1.1s) || ˈtṍʃːwàˈkēnàɾìˈnā tòːː (0.7s) || ˈtòwāɾˈhɔ̃́ː (1.4s) ||
+# text_phrase-gls-it = ʃɛ̃́wã̀mã̀ tṍʃkʷàkēnàɾìnā (tò) tò āɾʰwɔ̃́
+# text_phrase-gls-wg = see:PFV:3>3 when lose:MID:PFV already =also DEM.MED DEM.MED man
+# text_phrase-gls-de = Madre_peces_015_DL
 1	Ø-	_	PRON	_	_	2	comp:obj/m	_	AlignBegin=77760|AlignEnd=77870|GE=[O3SG]|Gloss=O3SG-|nWord=1|RX=[VT:ANY]|TokenType=InflAff|Word=ʃãwa
 2	ʃã	ʃã	VERB	_	_	4	comp:aux/m	_	AlignBegin=77870|AlignEnd=77980|GE=see|Gloss=see|nWord=1|RX=[VT]|TokenType=Root|Word=ʃãwa
 3	-Ø	_	PRON	_	_	4	subj/m	_	AlignBegin=77980|AlignEnd=78090|GE=[S3SG]|Gloss=-S3SG|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=ʃãwa
@@ -419,12 +419,12 @@
 # sent_timecode = 83969, 85926
 # morphemic_text = toʔ wiʃã =ma wiʃã ẽka =tWh =r -Ø -i .
 # text = toʔ wiʃã ma wiʃã ẽka tãh ri .
-# text_en =  That fish was not an ordinary fish.
-# text_phrase-gls-es =  Este pez no era un pez común
-# text_phrase-gls-pro =  || ˈtò wìˈʃã̀mã̀ ˈwìʃã̄ ˈʔɛ̃́ʔkà ˈtã́hɾĩ́ (0.1s) ||
-# text_phrase-gls-it =  tò wìʃã̀mã̀ wìʃã̄ ɛ̃́ʔkà tã́ʰɾĩ́
-# text_phrase-gls-wg =  DEM.MED fish TOP fish PRO3 =NEG COP:PST:3
-# text_phrase-gls-de =  Madre_peces_016_DL
+# text_en = That fish was not an ordinary fish.
+# text_phrase-gls-es = Este pez no era un pez común
+# text_phrase-gls-pro = || ˈtò wìˈʃã̀mã̀ ˈwìʃã̄ ˈʔɛ̃́ʔkà ˈtã́hɾĩ́ (0.1s) ||
+# text_phrase-gls-it = tò wìʃã̀mã̀ wìʃã̄ ɛ̃́ʔkà tã́ʰɾĩ́
+# text_phrase-gls-wg = DEM.MED fish TOP fish PRO3 =NEG COP:PST:3
+# text_phrase-gls-de = Madre_peces_016_DL
 1	toʔ	toʔ	PRON	_	_	2	det	_	AlignBegin=83969|AlignEnd=84214|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=toʔ
 2	wiʃã	wiʃã	NOUN	_	_	3	comp:obj	_	AlignBegin=84214|AlignEnd=84459|GE=fish|Gloss=fish|nWord=2|RX=[N]|TokenType=Root|Word=wiʃã
 3	=ma	=ma	ADP	_	_	7	subj	_	AlignBegin=84459|AlignEnd=84704|GE=[TOP]|Gloss==TOP|nWord=3|RX=[PRT]|TokenType=Clit|Word=ma
@@ -437,20 +437,20 @@
 10	.	_	PUNCT	_	_	9	punct	_	AlignBegin=85684|AlignEnd=85926|Gloss=.|nWord=8|Word=.
 
 # sent_id = 103_16-16
+# text = toʔ ma wiʃã , wiʃã akaki riʔ , pataɲãh yo ma , pataa .
 # speaker_id = @DL
 # sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
 # sent_timecode = 86023, 95404
 # morphemic_text = toʔ =ma wiʃã , wiʃã a- kaki =r -Ø -iʔ , pa- ta- yãh -a =yo =ma , pataa .
-# text = toʔ ma wiʃã , wiʃã akaki riʔ , pataɲãh yo ma , pataa .
-# text_en =  That fish was the Mother of the fish, in our language.
-# text_phrase-gls-es =  Era la mamá de los peces
-# text_phrase-gls-pro =  || ˈtóʔmà ˈwìtʃã̀ːˈʔa (2.0s) || ˈwìtʃã̀ˈʔa kàˈkàʔkīˈɾíʔ (1.3s) || pàˈtàːɲāhˈjómàːː (1.6s) || pàˈtàːːː (0.4s) ||
-# text_phrase-gls-it =  tóʔmà wìtʃã̀ wìtʃã̀ àkàkīɾíʔ pàtàːɲāyómàː pàtàː
-# text_phrase-gls-wg =  DEM.MED TOP fish fish mother:3 COP:PST:3 say:NMLZ:INCL INS TOP HES
-# text_phrase-gls-de =  Madre_peces_017_DL
+# text_en = That one was the Mother of the fish, in our language.
+# text_phrase-gls-es = Era la mamá de los peces
+# text_phrase-gls-pro = || ˈtóʔmà ˈwìtʃã̀ːˈʔa (2.0s) || ˈwìtʃã̀ˈʔa kàˈkàʔkīˈɾíʔ (1.3s) || pàˈtàːɲāhˈjómàːː (1.6s) || pàˈtàːːː (0.4s) ||
+# text_phrase-gls-it = tóʔmà wìtʃã̀ wìtʃã̀ àkàkīɾíʔ pàtàːɲāyómàː pàtàː
+# text_phrase-gls-wg = DEM.MED TOP fish fish mother:3 COP:PST:3 say:NMLZ:INCL INS TOP HES
+# text_phrase-gls-de = Madre_peces_017_DL
 1	toʔ	toʔ	PRON	_	_	2	comp:obj	_	AlignBegin=86023|AlignEnd=86693|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=toʔ
-2	=ma	=ma	PART	_	_	3	det	_	AlignBegin=86693|AlignEnd=87363|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
-3	wiʃã	wiʃã	NOUN	_	_	8	subj	_	AlignBegin=87363|AlignEnd=88033|GE=fish|Gloss=fish|nWord=3|RX=[N]|TokenType=Root|Word=wiʃã
+2	=ma	=ma	PART	_	_	8	subj	_	AlignBegin=86693|AlignEnd=87363|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
+3	wiʃã	wiʃã	NOUN	_	_	5	conj:dicto	_	AlignBegin=87363|AlignEnd=88033|GE=fish|Gloss=fish|nWord=3|RX=[N]|TokenType=Root|Word=wiʃã
 4	,	_	PUNCT	_	_	3	punct	_	AlignBegin=88033|AlignEnd=88703|nWord=4|Word=,
 5	wiʃã	wiʃã	NOUN	_	_	7	mod:poss	_	AlignBegin=88703|AlignEnd=89373|GE=fish|Gloss=fish|nWord=5|RX=[N]|TokenType=Root|Word=wiʃã
 6	a-	_	PRON	_	_	7	det:poss/m	_	AlignBegin=89373|AlignEnd=89708|GE=[POSS3SG]|Gloss=POSS3SG-|nWord=6|RX=[N:ANY]|TokenType=InflAff|Word=akaki
@@ -475,12 +475,12 @@
 # sent_timecode = 95822, 97177
 # morphemic_text = en español es sirena .
 # text = en español es sirena .
-# text_en =  In Spanish, it is a mermaid.
-# text_phrase-gls-es =  La sirena en pesh se llama madre de los peces
-# text_phrase-gls-pro =  || en español es siɾena (1.8s) ||
-# text_phrase-gls-it =  {en español es "siɾena"}
-# text_phrase-gls-wg =  SPA_in SPA_Spanish SPA_is mermaid.SPA
-# text_phrase-gls-de =  Madre_peces_018_DL
+# text_en = In Spanish, it is a mermaid.
+# text_phrase-gls-es = La sirena en pesh se llama madre de los peces
+# text_phrase-gls-pro = || en español es siɾena (1.8s) ||
+# text_phrase-gls-it = {en español es "siɾena"}
+# text_phrase-gls-wg = SPA_in SPA_Spanish SPA_is mermaid.SPA
+# text_phrase-gls-de = Madre_peces_018_DL
 1	en	en	X	_	_	3	udep	_	AlignBegin=95822|AlignEnd=96093|GE=[SPA_in]|Gloss=SPA_in|nWord=1|RX=[<NOT_SURE>]|TokenType=Root|Word=en
 2	español	español	X	_	_	1	udep	_	AlignBegin=96093|AlignEnd=96364|GE=[SPA_Spanish]|Gloss=SPA_Spanish|nWord=2|RX=[<NOT_SURE>]|TokenType=Root|Word=español
 3	es	es	X	_	_	0	root	_	AlignBegin=96364|AlignEnd=96635|GE=[SPA_is]|Gloss=SPA_is|nWord=3|RX=[<NOT_SURE>]|TokenType=Root|Word=es
@@ -493,12 +493,12 @@
 # sent_timecode = 98969, 103870
 # morphemic_text = y toʔ =kari =ni , Ø- ʃã -Ø ak -Ø -wa =mã ta- õʃk -Ø -i =n arwã =ma .
 # text = i toʔ kari ni , ʃẽaku mã tõʃki n arwã ma .
-# text_en =  But, when he was watching, it is said that he disappeared, the man.
-# text_phrase-gls-es =  Cuando estaba viendo, desapareció el hombre
-# text_phrase-gls-pro =  || ˈĩ́ tòʔˈkāɾìˈnìːːː (1.7s) || ˈʃɛ̃́jˈɲākũ̀ˈmã̀ ˈtṍːʃkíˈn āɾhwã̄ˈma (0.1s) ||
-# text_phrase-gls-it =  ĩ́ tòʔkāɾìnìː ʃɛ̃́j ākũ̀mã̀ a tṍʃkín āɾʰwã̄m
-# text_phrase-gls-wg =  SPA_and DEM.MED ADVS TEMP see+be:PFV:3>3 when lose:MID:PST:3 =REP man TOP
-# text_phrase-gls-de =  Madre_peces_019_DL-Madre_peces_020_DL
+# text_en = But, when he was watching, it is said that he disappeared, the man.
+# text_phrase-gls-es = Cuando estaba viendo, desapareció el hombre
+# text_phrase-gls-pro = || ˈĩ́ tòʔˈkāɾìˈnìːːː (1.7s) || ˈʃɛ̃́jˈɲākũ̀ˈmã̀ ˈtṍːʃkíˈn āɾhwã̄ˈma (0.1s) ||
+# text_phrase-gls-it = ĩ́ tòʔkāɾìnìː ʃɛ̃́j ākũ̀mã̀ a tṍʃkín āɾʰwã̄m
+# text_phrase-gls-wg = SPA_and DEM.MED ADVS TEMP see+be:PFV:3>3 when lose:MID:PST:3 =REP man TOP
+# text_phrase-gls-de = Madre_peces_019_DL-Madre_peces_020_DL
 1	y	y	X	_	_	17	udep	_	AlignBegin=98969|AlignEnd=99377|GE=[SPA_and]|Gloss=SPA_and|nWord=1|RX=[<NOT_SURE>]|TokenType=Root|Word=i
 2	toʔ	toʔ	PRON	_	_	3	comp:obj	_	AlignBegin=99377|AlignEnd=99785|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=2|RX=[PRO]|TokenType=Root|Word=toʔ
 3	=kari	=kari	PART	_	_	4	comp:obj	_	AlignBegin=99785|AlignEnd=100193|GE=[ADVS]|Gloss==ADVS|nWord=3|RX=[PRT]|TokenType=Clit|Word=kari
@@ -526,12 +526,12 @@
 # sent_timecode = 103938, 105349
 # morphemic_text = pi =ken Ø- pak -Ø -i =ken Ø- ʃã -Ø -tW -i =na .
 # text = pi kẽ paki kẽ ʃãni na .
-# text_en =  It is said that he didn’t see where she took him.
-# text_phrase-gls-es =  No supo por dónde se fue aquel hombre
-# text_phrase-gls-pro =  || ˈpìkẽ́ ˈpāɣɔ̀ˈkẽ́ ʃɛ̃́ˈnĩ́ːnã́ (1.9s) ||
-# text_phrase-gls-it =  pìkẽ́ pāɣɔ̀kẽ́ ʃɛ̃́nĩ́nã́
-# text_phrase-gls-wg =  place =SIM take:PST:3>3 =LOC see:NEG:PST:3>3 REP
-# text_phrase-gls-de =  Madre_peces_021_DL
+# text_en = It is said that he didn’t see where she took him.
+# text_phrase-gls-es = No supo por dónde se fue aquel hombre
+# text_phrase-gls-pro = || ˈpìkẽ́ ˈpāɣɔ̀ˈkẽ́ ʃɛ̃́ˈnĩ́ːnã́ (1.9s) ||
+# text_phrase-gls-it = pìkẽ́ pāɣɔ̀kẽ́ ʃɛ̃́nĩ́nã́
+# text_phrase-gls-wg = place =SIM take:PST:3>3 =LOC see:NEG:PST:3>3 REP
+# text_phrase-gls-de = Madre_peces_021_DL
 1	pi	pi	NOUN	_	_	2	comp:obj	_	AlignBegin=103938|AlignEnd=104140|GE=place|Gloss=place|nWord=1|RX=[N]|TokenType=Root|Word=pi
 2	=ken	=ken	PART	_	_	6	mod:lmod	_	AlignBegin=104140|AlignEnd=104342|GE=[SIM]|Gloss==SIM|nWord=2|RX=[PRT]|TokenType=Clit|Word=kẽ
 3	Ø-	_	PRON	_	_	4	comp:obj/m	_	AlignBegin=104342|AlignEnd=104392|GE=[O3SG]|Gloss=O3SG-|nWord=3|RX=[VT:ANY]|TokenType=InflAff|Word=paki
@@ -553,12 +553,12 @@
 # sent_timecode = 107250, 111450
 # morphemic_text = y toʔ arwã =ma teʔk -Ø -i =na , a- kaʔo =ken a- ʔiʃ -Ø -pi =ro a a- kawa .
 # text = i toʔ arwã ma teʔki na , ako ke aʔiʃpi ro a akawa .
-# text_en =  That man came back to his house to tell the spouse (of the other man).
-# text_phrase-gls-es =  El otro se regresó a su casa para contar la noticia (a su esposa?)
-# text_phrase-gls-pro =  || ˈì tōʔ ˈáɾhwɔ̃́ˈmād̚ (0.3s) || ˈtéʔkíˈnáː || ˈàkòˈkéʔ àjʃˈpíɾɔ́ ˈàːːːːː (0.2s) || ˈàkàˈwá (0.4s) ||
-# text_phrase-gls-it =  ì tōʔ áɾʰwɔ̃́mā téʔkíná àkòkéʔ àjʃpíɾɔ́ àː àkàwá
-# text_phrase-gls-wg =  SPA_and DEM.MED man TOP come:PST:3 REP house:3 =LOC tell:FUT:3>3 PURP HES spouse:3
-# text_phrase-gls-de =  Madre_peces_022_DL
+# text_en = That man came back to his house to tell the spouse (of the other man).
+# text_phrase-gls-es = El otro se regresó a su casa para contar la noticia (a su esposa?)
+# text_phrase-gls-pro = || ˈì tōʔ ˈáɾhwɔ̃́ˈmād̚ (0.3s) || ˈtéʔkíˈnáː || ˈàkòˈkéʔ àjʃˈpíɾɔ́ ˈàːːːːː (0.2s) || ˈàkàˈwá (0.4s) ||
+# text_phrase-gls-it = ì tōʔ áɾʰwɔ̃́mā téʔkíná àkòkéʔ àjʃpíɾɔ́ àː àkàwá
+# text_phrase-gls-wg = SPA_and DEM.MED man TOP come:PST:3 REP house:3 =LOC tell:FUT:3>3 PURP HES spouse:3
+# text_phrase-gls-de = Madre_peces_022_DL
 1	y	y	X	_	_	8	udep	_	AlignBegin=107250|AlignEnd=107550|GE=[SPA_and]|Gloss=SPA_and|nWord=1|RX=[<NOT_SURE>]|TokenType=Root|Word=i
 2	toʔ	toʔ	PRON	_	_	3	det	_	AlignBegin=107550|AlignEnd=107850|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=2|RX=[PRO]|TokenType=Root|Word=toʔ
 3	arwã	arwã	NOUN	_	_	4	comp:obj	_	AlignBegin=107850|AlignEnd=108150|GE=man|Gloss=man|nWord=3|RX=[N]|TokenType=Root|Word=arwã
@@ -587,12 +587,12 @@
 # sent_timecode = 111810, 113521
 # morphemic_text = teʔ a- ʔiʃk -Ø -wa =mã , a- ʔiʃk -Ø -i =na .
 # text = teʔaʔiʃku mã , aʔiʃki na .
-# text_en =  When he arrived to tell her, it is said he told her.
-# text_phrase-gls-es =  Dicen que le dijo que venía solo
-# text_phrase-gls-pro =  || téˈʔàjʃkũ̀ˈmã̀ː (0.4s) || ʔàˈʔijʃɣìˈnāk̚ (0.8s) ||
-# text_phrase-gls-it =  téʔàjʃkũ̀mã̀ː àjʃɣìnā
-# text_phrase-gls-wg =  come+tell:PFV:3>3 when tell:PST:3>3 REP
-# text_phrase-gls-de =  Madre_peces_023_DL
+# text_en = When he arrived to tell her, it is said he told her.
+# text_phrase-gls-es = Dicen que le dijo que venía solo
+# text_phrase-gls-pro = || téˈʔàjʃkũ̀ˈmã̀ː (0.4s) || ʔàˈʔijʃɣìˈnāk̚ (0.8s) ||
+# text_phrase-gls-it = téʔàjʃkũ̀mã̀ː àjʃɣìnā
+# text_phrase-gls-wg = come+tell:PFV:3>3 when tell:PST:3>3 REP
+# text_phrase-gls-de = Madre_peces_023_DL
 1	teʔ	teʔ	VERB	_	_	3	compound	_	AlignBegin=111810|AlignEnd=111867|GE=come|Gloss=come|nWord=1|RX=[VI]|TokenType=Root|Word=teʔaʔiʃku
 2	a-	_	PRON	_	_	3	comp:obj/m	_	AlignBegin=111867|AlignEnd=111924|GE=[O3SG]|Gloss=O3SG-|nWord=1|RX=[VT:ANY]|TokenType=InflAff|Word=teʔaʔiʃku
 3	ʔiʃk	ʔiʃk	VERB	_	_	5	comp:aux/m	_	AlignBegin=111924|AlignEnd=111981|GE=tell|Gloss=tell|nWord=1|RX=[VT]|TokenType=Root|Word=teʔaʔiʃku
@@ -613,11 +613,11 @@
 # sent_timecode = 114350, 117068
 # morphemic_text = tas =ma , as =pe teʔk -a -wa tWk Ø- -Ø -i =na .
 # text = tas ma , as pe teʔkawa tiki na .
-# text_en =  "I come alone," it is said he said.
-# text_phrase-gls-pro =  || ˈtàsmàː (0.7s) || ˈàspé ˈtéʔkàˈwá tīˈɣíˈná (0.4s) ||
-# text_phrase-gls-it =  tàsmàː àspé téʔkàwá |
-# text_phrase-gls-wg =  PRO1 TOP one only come:PFV:1 say:PST:3>3 REP
-# text_phrase-gls-de =  Madre_peces_024_DL
+# text_en = "I come alone," it is said he said.
+# text_phrase-gls-pro = || ˈtàsmàː (0.7s) || ˈàspé ˈtéʔkàˈwá tīˈɣíˈná (0.4s) ||
+# text_phrase-gls-it = tàsmàː àspé téʔkàwá |
+# text_phrase-gls-wg = PRO1 TOP one only come:PFV:1 say:PST:3>3 REP
+# text_phrase-gls-de = Madre_peces_024_DL
 1	tas	tas	PRON	_	_	2	comp:obj	_	AlignBegin=114350|AlignEnd=114652|GE=[PRO1]|Gloss=PRO1|nWord=1|RX=[PRO]|TokenType=Root|Word=tas
 2	=ma	=ma	PART	_	_	6	dislocated:subj	_	AlignBegin=114652|AlignEnd=114954|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
 3	,	_	PUNCT	_	_	2	punct	_	AlignBegin=114954|AlignEnd=115256|nWord=3|Word=,
@@ -639,12 +639,12 @@
 # sent_timecode = 117068, 118196
 # morphemic_text = ĩ =ken , tW Ø- -t -Ø -i .
 # text = ĩ ken , titi .
-# text_en =  "How?" she said.
-# text_phrase-gls-es =  (Y?) le dice "¿cómo?"
-# text_phrase-gls-pro =  || =ˈhĩ̄nkē °ˈtɨ̃tɨ̃° ||
-# text_phrase-gls-it =  tīɣíná hĩ̄ʰkē
-# text_phrase-gls-wg =  DEM.PROX SIM say:IT:PST:3>3
-# text_phrase-gls-de =  Madre_peces_025_DL
+# text_en = "How?" she said.
+# text_phrase-gls-es = (Y?) le dice "¿cómo?"
+# text_phrase-gls-pro = || =ˈhĩ̄nkē °ˈtɨ̃tɨ̃° ||
+# text_phrase-gls-it = tīɣíná hĩ̄ʰkē
+# text_phrase-gls-wg = DEM.PROX SIM say:IT:PST:3>3
+# text_phrase-gls-de = Madre_peces_025_DL
 1	ĩ	ĩ	PRON	_	_	2	comp:obj	_	AlignBegin=117068|AlignEnd=117294|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=ĩ
 2	=ken	=ken	ADP	_	_	4	comp:obj	_	AlignBegin=117294|AlignEnd=117520|GE=[SIM]|Gloss==SIM|nWord=2|RX=[PRT]|TokenType=Clit|Word=ken
 3	,	_	PUNCT	_	_	2	punct	_	AlignBegin=117520|AlignEnd=117746|nWord=3|Word=,
@@ -661,12 +661,12 @@
 # sent_timecode = 118557, 124018
 # morphemic_text = ta- arki =ma , wiʃã aka =ya Ø- pak -Ø -i tWk Ø- -Ø -i =na , wiʃã a- kakiʔ , sirena .
 # text = taarki ma , wiʃã aka ya paki tiki na , wiʃã akakiʔ , sirena .
-# text_en =  "My brother was taken by the Big fish, the Mother of the fish, the mermaid."
-# text_phrase-gls-es =  El pez grande se llevó a mi hermano, la mamá de los peces, la sirena (?)
-# text_phrase-gls-pro =  || tà àɾkìmàː (0.5s) || wìʃã̀ àkájà pàːkíʔ tīɣìnà || wīʃã̀ àkáʔkíʔ (0.9s) || siɾena (1.0s) ||
-# text_phrase-gls-it =  tà àɾkìmàː wìʃã̀ àkájà pàːkíʔ tīɣìnà wīʃã̀ àkáʔkíʔ {siɾena}
-# text_phrase-gls-wg =  brother:1 TOP fish big ERG take:PST:3>3 say:PST:3>3 REP fish mother:3 mermaid.SPA
-# text_phrase-gls-de =  Madre_peces_026_DL
+# text_en = "My brother was taken by the Big fish, the Mother of the fish, the mermaid."
+# text_phrase-gls-es = El pez grande se llevó a mi hermano, la mamá de los peces, la sirena (?)
+# text_phrase-gls-pro = || tà àɾkìmàː (0.5s) || wìʃã̀ àkájà pàːkíʔ tīɣìnà || wīʃã̀ àkáʔkíʔ (0.9s) || siɾena (1.0s) ||
+# text_phrase-gls-it = tà àɾkìmàː wìʃã̀ àkájà pàːkíʔ tīɣìnà wīʃã̀ àkáʔkíʔ {siɾena}
+# text_phrase-gls-wg = brother:1 TOP fish big ERG take:PST:3>3 say:PST:3>3 REP fish mother:3 mermaid.SPA
+# text_phrase-gls-de = Madre_peces_026_DL
 1	ta-	_	PRON	_	_	2	det:poss/m	_	AlignBegin=118557|AlignEnd=118739|GE=[POSS1]|Gloss=POSS1-|nWord=1|RX=[N:ANY]|TokenType=InflAff|Word=taarki
 2	arki	arki	NOUN	_	_	3	comp:obj	_	AlignBegin=118739|AlignEnd=118921|GE=brother|Gloss=brother|nWord=1|RX=[N]|TokenType=Root|Word=taarki
 3	=ma	=ma	PART	_	_	9	dislocated:obj	_	AlignBegin=118921|AlignEnd=119285|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
@@ -697,12 +697,12 @@
 # sent_timecode = 124993, 127760
 # morphemic_text = ah tWk Ø- -Ø -i =na , nã Ø- proh -a -pe tWk Ø- -Ø -i =na .
 # text = aa tiki na , nãprohape tiki na .
-# text_en =  It is said that she said, "Ah, I have to go to look for him."
-# text_phrase-gls-es =  Dicen que le dijo "lo vamos a buscar"
-# text_phrase-gls-pro =  || ʔáːːː tìɣìnəe (0.5s) || nāpɾóhàpɛ̃́ tīɣìnà ||
-# text_phrase-gls-it =  áː (tìɣìnà) nāpɾóhàpɛ̃́ tīɣìnà
-# text_phrase-gls-wg =  INTERJ say:PST:3>3 REP go+look.for:FUT:1>3 say:PST:3>3 REP
-# text_phrase-gls-de =  Madre_peces_027_DL
+# text_en = It is said that she said, "Ah, I have to go to look for him."
+# text_phrase-gls-es = Dicen que le dijo "lo vamos a buscar"
+# text_phrase-gls-pro = || ʔáːːː tìɣìnəe (0.5s) || nāpɾóhàpɛ̃́ tīɣìnà ||
+# text_phrase-gls-it = áː (tìɣìnà) nāpɾóhàpɛ̃́ tīɣìnà
+# text_phrase-gls-wg = INTERJ say:PST:3>3 REP go+look.for:FUT:1>3 say:PST:3>3 REP
+# text_phrase-gls-de = Madre_peces_027_DL
 1	ah	ah	INTJ	_	_	2	comp:obj	_	AlignBegin=124993|AlignEnd=125339|GE=[INTERJ]|Gloss=INTERJ|nWord=1|RX=[INTERJ]|TokenType=Root|Word=aa
 2	tVk	tV	VERB	_	_	5	comp:aux	_	AlignBegin=125339|AlignEnd=125425|GE=say|Gloss=say|nWord=2|RX=[VT]|TokenType=Root|Word=tiki|wordform=tWk
 3	-Ø	_	PRON	_	_	2	comp:obj/m	_	AffLemma=Ø-|AlignBegin=125425|AlignEnd=125511|GE=[O3SG]|Gloss=O3SG-|nWord=2|RX=[VT:ANY]|TokenType=InflAff|Word=tiki|wordform=Ø-
@@ -728,12 +728,12 @@
 # sent_timecode = 127760, 130551
 # morphemic_text = nã Ø- proh -ir -i nã Ø- proh -er -Øwa =mã , ĩ Ø- pãsk -er -tW -i .
 # text = nãprohliri nãprohler mã , ĩ pãskerti .
-# text_en =  When they went to look for him, they didn’t find him.
-# text_phrase-gls-es =  Al buscarlo no lo encontraron
-# text_phrase-gls-pro =  || nāpɾóhlīɾī nāpɾóhlɛ̃̀ɾmã̀ || ĩ́pã́́skértí (1.0s) ||
-# text_phrase-gls-it =  nāpɾóʰlīβī nāpɾóʰlɛ̃̀ɾmã̀ ĩ́pã́́skértí
-# text_phrase-gls-wg =  go+look.for:PST:3PL>3 go+look.for:PFV:3PL>3 when DEM.PROX take.out(find):PST:NEG:3PL>3
-# text_phrase-gls-de =  Madre_peces_028_DL
+# text_en = When they went to look for him, they didn’t find him.
+# text_phrase-gls-es = Al buscarlo no lo encontraron
+# text_phrase-gls-pro = || nāpɾóhlīɾī nāpɾóhlɛ̃̀ɾmã̀ || ĩ́pã́́skértí (1.0s) ||
+# text_phrase-gls-it = nāpɾóʰlīβī nāpɾóʰlɛ̃̀ɾmã̀ ĩ́pã́́skértí
+# text_phrase-gls-wg = go+look.for:PST:3PL>3 go+look.for:PFV:3PL>3 when DEM.PROX take.out(find):PST:NEG:3PL>3
+# text_phrase-gls-de = Madre_peces_028_DL
 1	nã	nã	VERB	_	_	3	compound	_	AlignBegin=127760|AlignEnd=127840|GE=go|Gloss=go|nWord=1|RX=[VI]|TokenType=Root|Word=nãprohliri
 2	Ø-	_	PRON	_	_	3	comp:obj/m	_	AlignBegin=127840|AlignEnd=127920|GE=[O3SG]|Gloss=O3SG-|nWord=1|RX=[VT:ANY]|TokenType=InflAff|Word=nãprohliri
 3	proh	proh	VERB	_	_	5	comp:aux/m	_	AlignBegin=127920|AlignEnd=128000|GE=look.for|Gloss=look.for|nWord=1|RX=[VT]|TokenType=Root|Word=nãprohliri
@@ -760,12 +760,12 @@
 # sent_timecode = 131575, 137705
 # morphemic_text = pero , ʃã eɲã Ø- ka -er -Øwa =ma , toʔ arwã =ma , Ø- pak -Ø ak -Ø -i =na toʔ , wiʃã a- kaki =ya .
 # text = pero , ʃã eɲ kiler ma , toʔ arwã ma , pakaki na toʔ , wiʃã akaki ɲa .
-# text_en =  But when looking thoroughly, that man, it is said she had already taken him, the Mother of the fish.
-# text_phrase-gls-es =  Viendo bien la mamá de los peces se lo llevó, la sirena
-# text_phrase-gls-pro =  || pèɾòː (1.3s) || ʃàéŋ kìlèɾmà (0.1s) || tóʔ āɾhwɔ̃̄mà (0.5s) || pàːkwákíná tòː || wìʃã̀ àkákíɲá (2.3s) ||
-# text_phrase-gls-it =  pèɾòː ʃàén kìlèɾmà tóʔ āɾʰwɔ̃̄mà pàkʷákíná tò wìʃã̀ àkákíɲá
-# text_phrase-gls-wg =  but see(BARE) well make:PFV:3PL>3 =when DEM.MED man TOP take+state:PST:3>3 REP DEM.MED fish mother:3 =ERG
-# text_phrase-gls-de =  Madre_peces_029_DL-Madre_peces_030_DL
+# text_en = But when looking thoroughly, that man, it is said she had already taken him, the Mother of the fish.
+# text_phrase-gls-es = Viendo bien la mamá de los peces se lo llevó, la sirena
+# text_phrase-gls-pro = || pèɾòː (1.3s) || ʃàéŋ kìlèɾmà (0.1s) || tóʔ āɾhwɔ̃̄mà (0.5s) || pàːkwákíná tòː || wìʃã̀ àkákíɲá (2.3s) ||
+# text_phrase-gls-it = pèɾòː ʃàén kìlèɾmà tóʔ āɾʰwɔ̃̄mà pàkʷákíná tò wìʃã̀ àkákíɲá
+# text_phrase-gls-wg = but see(BARE) well make:PFV:3PL>3 =when DEM.MED man TOP take+state:PST:3>3 REP DEM.MED fish mother:3 =ERG
+# text_phrase-gls-de = Madre_peces_029_DL-Madre_peces_030_DL
 1	pero	pero	X	_	_	9	discourse	_	AlignBegin=131575|AlignEnd=131898|GE=[SPA_but]|Gloss=SPA_but|nWord=1|RX=[PRT]|TokenType=Root|Word=pero
 2	,	_	PUNCT	_	_	1	punct	_	AlignBegin=131898|AlignEnd=132221|nWord=2|Word=,
 3	ʃã	ʃã	VERB	_	_	6	comp:obj@lvc	_	AlignBegin=132221|AlignEnd=132544|GE=see|Gloss=see|nWord=3|RX=[VT]|TokenType=Root|Word=ʃã
@@ -801,12 +801,12 @@
 # sent_timecode = 139993, 143410
 # morphemic_text = toʔ nã -er -i nã -er proh -er -i nunca Ø- pãsk -er -tW -i =na .
 # text = toʔ nẽr nẽrproher nuŋka pãskerti na .
-# text_en =  They went to look for him, they never found him, it is said.
-# text_phrase-gls-es =  Lo buscaron nunca lo encontraron
-# text_phrase-gls-pro =  || tóʔ || nēːːːːh || nēpɾóhr (0.1s) || nːːúŋkà páskéɾtīːnā (0.6s) ||
-# text_phrase-gls-it =  tóʔ nēː nēpɾóhr núŋkà páskéɾtīːnā
-# text_phrase-gls-wg =  DEM.MED go:PST:3PL go+look.for:PST:3PL never.SPA take.out(find):PST:NEG:3PL>3 REP
-# text_phrase-gls-de =  Madre_peces_031_DL
+# text_en = They went to look for him, they never found him, it is said.
+# text_phrase-gls-es = Lo buscaron nunca lo encontraron
+# text_phrase-gls-pro = || tóʔ || nēːːːːh || nēpɾóhr (0.1s) || nːːúŋkà páskéɾtīːnā (0.6s) ||
+# text_phrase-gls-it = tóʔ nēː nēpɾóhr núŋkà páskéɾtīːnā
+# text_phrase-gls-wg = DEM.MED go:PST:3PL go+look.for:PST:3PL never.SPA take.out(find):PST:NEG:3PL>3 REP
+# text_phrase-gls-de = Madre_peces_031_DL
 1	toʔ	toʔ	PRON	_	_	7	comp:obj	_	AlignBegin=139993|AlignEnd=140481|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=toʔ
 2	nã	nã	VERB	_	_	4	comp:aux/m	_	AlignBegin=140481|AlignEnd=140644|GE=go|Gloss=go|nWord=2|RX=[VI]|TokenType=Root|Word=nẽr
 3	-er	_	PRON	_	_	4	subj/m	_	AlignBegin=140644|AlignEnd=140807|GE=[S3PL]|Gloss=-S3PL|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=nẽr
@@ -831,12 +831,12 @@
 # sent_timecode = 144005, 154975
 # morphemic_text = y toʔ =kari , Ø- yẽh -Ø -i =na arwã =ya , toʔ =ma , tas =ma ta- ka- tʃa -Ø -tW -i ,
 # text = i toʔ kari , ɲẽhi na arwã ɲa , toʔ ma , tas ma takatʃtwi ,
-# text_en =  But, it is said that the man said, "I do not have--"
-# text_phrase-gls-es =  El compañero dijo "yo no lo tengo"
-# text_phrase-gls-pro =  || ì tóʔkárì (1.6s) || ɲɛ̃̄hĩ̀nà áɾhwɔ̃́ɲá (1.0s) || tòʔmà (0.1s) || tāsmàː (0.7s) || tàkàtʃuwíː (1.7s) ||
-# text_phrase-gls-it =  ì tóʔkárì ɲɛ̃̄hĩ̀nà áɾʰwɔ̃́ɲá tòʔmà tāsmàː tàkàt͡ʃʷí
-# text_phrase-gls-wg =  SPA_and DEM.MED ADVS say:PST:3>3 REP man =ERG DEM.MED TOP PRO1 TOP be.there:APPL:NEG:PST:3>1
-# text_phrase-gls-de =  Madre_peces_032_DL
+# text_en = But, it is said that the man said, "I do not have--"
+# text_phrase-gls-es = El compañero dijo "yo no lo tengo"
+# text_phrase-gls-pro = || ì tóʔkárì (1.6s) || ɲɛ̃̄hĩ̀nà áɾhwɔ̃́ɲá (1.0s) || tòʔmà (0.1s) || tāsmàː (0.7s) || tàkàtʃuwíː (1.7s) ||
+# text_phrase-gls-it = ì tóʔkárì ɲɛ̃̄hĩ̀nà áɾʰwɔ̃́ɲá tòʔmà tāsmàː tàkàt͡ʃʷí
+# text_phrase-gls-wg = SPA_and DEM.MED ADVS say:PST:3>3 REP man =ERG DEM.MED TOP PRO1 TOP be.there:APPL:NEG:PST:3>1
+# text_phrase-gls-de = Madre_peces_032_DL
 1	y	y	X	_	_	9	discourse	_	AlignBegin=144005|AlignEnd=144504|GE=[SPA_and]|Gloss=SPA_and|nWord=1|RX=[<NOT_SURE>]|TokenType=Root|Word=i
 2	toʔ	toʔ	PRON	_	_	3	comp:obj	_	AlignBegin=144504|AlignEnd=145003|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=2|RX=[PRO]|TokenType=Root|Word=toʔ
 3	=kari	=kari	PART	_	_	9	discourse	_	AlignBegin=145003|AlignEnd=145502|GE=[ADVS]|Gloss==ADVS|nWord=3|RX=[PRT]|TokenType=Clit|Word=kari
@@ -869,7 +869,7 @@
 # morphemic_text = tas =ma akatĩʔ -a -tW -wa Ø- yẽh -Ø -i =na .
 # text = tas ma akatĩʔatawa ɲẽhi na .
 # text_en = "I am not afraid," it is said that he said.
-# text_phrase-gls-es =  El compañero dijo "yo no lo tengo"
+# text_phrase-gls-es = El compañero dijo "yo no lo tengo"
 # text_phrase-gls-pro = || tàsmà || àkātĩ́ʔtã̄wã̄ àɲɛ̃̀hĩ̀mà ||
 # text_phrase-gls-it = tàsmà àkātĩ́ʔtã̄wã̄ àɲɛ̃̀hĩ̀mà
 # text_phrase-gls-wg = PRO1 TOP be.afraid:NEG:PFV:1 say:PST:3>3 REP
@@ -893,12 +893,12 @@
 # sent_timecode = 155024, 164668
 # morphemic_text = toʔ =riʃ , Ø- pak -Ø -i =na , toʔ , Ø- yẽh -er -wa =ma , ã arwã Ø- ka -Ø -i =na , sirena =ya .
 # text = toʔ riʃ , paki na , toʔ , ɲẽheru ma , ã arwã ki na , sirena ɲa .
-# text_en =  It is said that this is the reason why she took him, what they said, um, the mermaid is said to have done to the man.
-# text_phrase-gls-es =  La sirena se lo llevó
-# text_phrase-gls-pro =  || túɾíʃ (1.4s) || pàːkìná (0.7s) || tòː ɲéhléɾúmà (1.6s) || àːːː (0.9s) || àː áɾhwɔ̃́ kìːná || sìɾénàɲā (0.7s) ||
-# text_phrase-gls-it =  túɾíʃ pàːkìná tòː ɲéʰléɾúmà àː áɾʰwɔ̃́ kìːná sìɾénànā
-# text_phrase-gls-wg =  DEM.MED =REAS take:PST:3>3 REP DEM.MED say:PFV:3PL>3 NOM DEM.DIST man make:PST:3>3 REP mermaid.SPA =ERG
-# text_phrase-gls-de =  Madre_peces_034_DL-Madre_peces_035_DL
+# text_en = It is said that this is the reason why she took him, what they said, um, the mermaid is said to have done to the man.
+# text_phrase-gls-es = La sirena se lo llevó
+# text_phrase-gls-pro = || túɾíʃ (1.4s) || pàːkìná (0.7s) || tòː ɲéhléɾúmà (1.6s) || àːːː (0.9s) || àː áɾhwɔ̃́ kìːná || sìɾénàɲā (0.7s) ||
+# text_phrase-gls-it = túɾíʃ pàːkìná tòː ɲéʰléɾúmà àː áɾʰwɔ̃́ kìːná sìɾénànā
+# text_phrase-gls-wg = DEM.MED =REAS take:PST:3>3 REP DEM.MED say:PFV:3PL>3 NOM DEM.DIST man make:PST:3>3 REP mermaid.SPA =ERG
+# text_phrase-gls-de = Madre_peces_034_DL-Madre_peces_035_DL
 1	toʔ	toʔ	PRON	_	_	2	comp:obj	_	AlignBegin=155024|AlignEnd=155532|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=toʔ
 2	=riʃ	=riʃ	PART	_	_	7	mod	_	AlignBegin=155532|AlignEnd=156040|GE=[REAS]|Gloss==REAS|nWord=2|RX=[PRT]|TokenType=Clit|Word=riʃ
 3	,	_	PUNCT	_	_	2	punct	_	AlignBegin=156040|AlignEnd=156548|nWord=3|Word=,
@@ -934,12 +934,12 @@
 # sent_timecode = 165319, 166785
 # morphemic_text = aso wa =yã tʃa -Ø -wa =na =hi .
 # text = asowa yã tʃu na hi .
-# text_en =  It is said that she lives in the sheltered place in the river.
-# text_phrase-gls-es =  Vive en el río (?)
-# text_phrase-gls-pro =  || àsòwájá tʃùná hi (0.7s) ||
-# text_phrase-gls-it =  àsòwájá t͡ʃùná
-# text_phrase-gls-wg =  eye+water LOC be.there:PFV:3 REP COP:PFV:3
-# text_phrase-gls-de =  Madre_peces_036_DL
+# text_en = It is said that she lives in the sheltered place in the river.
+# text_phrase-gls-es = Vive en el río (?)
+# text_phrase-gls-pro = || àsòwájá tʃùná hi (0.7s) ||
+# text_phrase-gls-it = àsòwájá t͡ʃùná
+# text_phrase-gls-wg = eye+water LOC be.there:PFV:3 REP COP:PFV:3
+# text_phrase-gls-de = Madre_peces_036_DL
 1	aso	aso	NOUN	_	_	3	comp:obj	_	AlignBegin=165319|AlignEnd=165441|GE=water|Gloss=water|nWord=1|RX=[N]|TokenType=Root|Word=asowa
 2	wa	wa	NOUN	_	_	1	compound	_	AlignBegin=165441|AlignEnd=165563|GE=eye|Gloss=eye|nWord=1|RX=[N]|TokenType=Root|Word=asowa
 3	=yã	=yã	ADP	_	_	4	comp:pred	_	AlignBegin=165563|AlignEnd=165807|GE=[LOC]|Gloss==LOC|nWord=2|RX=[POST]|TokenType=Clit|Word=yã
@@ -956,12 +956,12 @@
 # sent_timecode = 167502, 168920
 # morphemic_text = toʔ =yã nã -Ø -i .
 # text = toʔ yã nẽy .
-# text_en =  There, he went.
-# text_phrase-gls-es =  ---
-# text_phrase-gls-pro =  || tòʔjāː || néʔi (1.8s) ||
-# text_phrase-gls-it =  tòʔjāː néj
-# text_phrase-gls-wg =  DEM.MED LOC go:PST:3
-# text_phrase-gls-de =  Madre_peces_037_DL
+# text_en = There, he went.
+# text_phrase-gls-es = ---
+# text_phrase-gls-pro = || tòʔjāː || néʔi (1.8s) ||
+# text_phrase-gls-it = tòʔjāː néj
+# text_phrase-gls-wg = DEM.MED LOC go:PST:3
+# text_phrase-gls-de = Madre_peces_037_DL
 1	toʔ	toʔ	PRON	_	_	2	comp:obj	_	AlignBegin=167502|AlignEnd=167856|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=toʔ
 2	=yã	=yã	ADP	_	_	3	comp:obl	_	AlignBegin=167856|AlignEnd=168210|GE=[LOC]|Gloss==LOC|nWord=2|RX=[POST]|TokenType=Clit|Word=yã
 3	nã	nã	VERB	_	_	5	comp:aux/m	_	AlignBegin=168210|AlignEnd=168328|GE=go|Gloss=go|nWord=3|RX=[VI]|TokenType=Root|Word=nẽy
@@ -975,12 +975,12 @@
 # sent_timecode = 170711, 177411
 # morphemic_text = ke yar -n =ĩ =ma toʔ arwã =ma tʃa -Ø -wa =na tewataʔ toʔ a- kawa =na .
 # text = ke yarn ĩ ma toʔ arwã ma tʃu na tewataʔ toʔ akawa na .
-# text_en =  Already, what is true, it is said the man is alive, still, it is said her spouse.
-# text_phrase-gls-es =  Hasta la vez vive este  hombre
-# text_phrase-gls-pro =  || kèːː (0.6s) || jāɾhnĩ́màː (0.9s) || tòʔ āɾhwɔ̃̄mā tʃùná (0.1s) || téwátáʔ (1.2s) || ˈtōʔ aˈkàwáˈná (3.3s) ||
-# text_phrase-gls-it =  (kèː) jāɾʰnĩ́màː tòʔ āɾʰwɔ̃̄mā t͡ʃùná téwátáʔ tōʔ akaàwáná
-# text_phrase-gls-wg =  already true:IT COP:PFV:3 NOM DEM.MED man TOP be.there:PFV:3 REP still DEM.MED spouse:3 REP
-# text_phrase-gls-de =  Madre_peces_038_DL-Madre_peces_039_DL
+# text_en = Already, what is true, it is said the man is alive, still, it is said her spouse.
+# text_phrase-gls-es = Hasta la vez vive este  hombre
+# text_phrase-gls-pro = || kèːː (0.6s) || jāɾhnĩ́màː (0.9s) || tòʔ āɾhwɔ̃̄mā tʃùná (0.1s) || téwátáʔ (1.2s) || ˈtōʔ aˈkàwáˈná (3.3s) ||
+# text_phrase-gls-it = (kèː) jāɾʰnĩ́màː tòʔ āɾʰwɔ̃̄mā t͡ʃùná téwátáʔ tōʔ akaàwáná
+# text_phrase-gls-wg = already true:IT COP:PFV:3 NOM DEM.MED man TOP be.there:PFV:3 REP still DEM.MED spouse:3 REP
+# text_phrase-gls-de = Madre_peces_038_DL-Madre_peces_039_DL
 1	ke	ke	ADV	_	_	12	discourse	_	AlignBegin=170711|AlignEnd=171190|GE=already|Gloss=already|nWord=1|RX=[ADV]|TokenType=Root|Word=ke
 2	yar	yar	NOUN	_	_	3	comp:pred	_	AlignBegin=171190|AlignEnd=171430|GE=true|Gloss=true|nWord=2|RX=[<NOT_SURE>]|TokenType=Root|Word=yarn
 3	-n	_	AUX	_	_	4	comp:aux	_	AlignBegin=171430|AlignEnd=171669|GE=[IT]|Gloss=-IT|nWord=2|RX=[N>???]|TokenType=InflAff|Word=yarn
@@ -1006,12 +1006,12 @@
 # sent_timecode = 178923, 183351
 # morphemic_text = y toʔ =yã teʔ na boh -n -Ø -wa toʔ , cuento =ma .
 # text = i toʔ yã teʔnabohna toʔ , kwento ma .
-# text_en =  Here that story has ended.
-# text_phrase-gls-es =  ---
-# text_phrase-gls-pro =  || ʔiːː || nːːː || tóʔjá téːː || nábóná tòː (0.5s) || kwéntoma (2.1s) ||
-# text_phrase-gls-it =  tóʔjá téː nábóná tò kʷént
-# text_phrase-gls-wg =  SPA_and DEM.MED LOC come+go+leave:DUR:PFV:3 DEM.MED story.SPA TOP
-# text_phrase-gls-de =  Madre_peces_040_DL
+# text_en = Here that story has ended.
+# text_phrase-gls-es = ---
+# text_phrase-gls-pro = || ʔiːː || nːːː || tóʔjá téːː || nábóná tòː (0.5s) || kwéntoma (2.1s) ||
+# text_phrase-gls-it = tóʔjá téː nábóná tò kʷént
+# text_phrase-gls-wg = SPA_and DEM.MED LOC come+go+leave:DUR:PFV:3 DEM.MED story.SPA TOP
+# text_phrase-gls-de = Madre_peces_040_DL
 1	y	y	X	_	_	9	discourse	_	AlignBegin=178923|AlignEnd=179415|GE=[SPA_and]|Gloss=SPA_and|nWord=1|RX=[<NOT_SURE>]|TokenType=Root|Word=i
 2	toʔ	toʔ	PRON	_	_	3	comp:obj	_	AlignBegin=179415|AlignEnd=179907|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=2|RX=[PRO]|TokenType=Root|Word=toʔ
 3	=yã	=yã	ADP	_	_	9	mod:lmod	_	AlignBegin=179907|AlignEnd=180399|GE=[LOC]|Gloss==LOC|nWord=3|RX=[POST]|TokenType=Clit|Word=yã
@@ -1033,10 +1033,10 @@
 # sent_timecode = 185460, 186233
 # morphemic_text = hasta ahí no más .
 # text = hasta ahí no más .
-# text_en =  This is all.
-# text_phrase-gls-pro =  || ʔastajimomah ||
-# text_phrase-gls-wg =  SPA_up.to SPA_there HES SPA_more
-# text_phrase-gls-de =  Madre_peces_041_DL
+# text_en = This is all.
+# text_phrase-gls-pro = || ʔastajimomah ||
+# text_phrase-gls-wg = SPA_up.to SPA_there HES SPA_more
+# text_phrase-gls-de = Madre_peces_041_DL
 1	hasta	hasta	X	_	_	0	root	_	AlignBegin=185460|AlignEnd=185615|GE=[SPA_up].[to]|Gloss=SPA_up.to|nWord=1|RX=[<NOT_SURE>]|TokenType=Root|Word=hasta
 2	ahí	ahí	X	_	_	1	udep	_	AlignBegin=185615|AlignEnd=185770|nWord=2|TokenType=Root|Word=ahí
 3	no	no	X	_	_	4	udep	_	AlignBegin=185770|AlignEnd=185925|nWord=3|TokenType=Root|Word=no
