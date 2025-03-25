@@ -1,4 +1,4 @@
-# Beja-Autogramm
+# mSUD_Pesh-ChibErgIS
 
 This repository contains the [SUD](https://surfacesyntacticud.github.io/) annotation of the **Pesh-ChibErgIS** corpus.
 The files at the root levels are annotated at the morph level (format mSUD).
