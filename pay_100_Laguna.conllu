@@ -1096,7 +1096,7 @@
 5	wayka	wayka	NOUN	_	_	8	subj	_	AlignBegin=177472|AlignEnd=177960|GE=new|Gloss=new|nWord=5|RX=[N]|TokenType=Root
 6	=pero		PART	_	_	5	mod	_	AlignBegin=177960|AlignEnd=178448|GE=only|Gloss==only|nWord=6|RX=[PRT]|TokenType=Clit
 7	ta-		AUX	_	Voice=Mid	8	comp/m	_	AlignBegin=178448|AlignEnd=178546|GE=[MID]|Gloss=MID-|nWord=7|RX=[VT>VI]|TokenType=DerAff
-8	war	war	VERB	_	_	9	compoud:svc	_	AlignBegin=178546|AlignEnd=178644|GE=remain|Gloss=remain|nWord=7|RX=[VT]|TokenType=Root
+8	war	war	VERB	_	_	9	compound:svc	_	AlignBegin=178546|AlignEnd=178644|GE=remain|Gloss=remain|nWord=7|RX=[VT]|TokenType=Root
 9	nã	nã	VERB	_	_	11	comp:aux/m	_	AlignBegin=178644|AlignEnd=178742|GE=go|Gloss=go|nWord=7|RX=[VI]|TokenType=Root
 10	-Ø		PRON	_	_	11	subj/m	_	AlignBegin=178742|AlignEnd=178840|GE=[S3SG]|Gloss=-S3SG|nWord=7|RX=[V:ANY]|TokenType=InflAff
 11	-wa		AUX	_	_	0	root	_	AlignBegin=178840|AlignEnd=178936|GE=[PFV]|Gloss=-PFV|nWord=7|RX=[V:ANY]|TokenType=InflAff
@@ -1315,7 +1315,7 @@
 # text_phrase-gls-de = Laguna_036_NG
 1	kuk	kuk	NOUN	_	_	3	comp:pred	_	AlignBegin=206163|AlignEnd=206441|GE=earth|Gloss=earth|nWord=1|RX=[N]|TokenType=Root
 2	akwa	akwa	NOUN	_	_	1	mod	_	AlignBegin=206441|AlignEnd=206719|GE=other|Gloss=other|nWord=2|RX=[N]|TokenType=Root
-3	ʃa	ʃa	VERB	_	_	5	compoud:svc	_	AlignBegin=206719|AlignEnd=206775|GE=be.there|Gloss=be.there|nWord=3|RX=[VI]|TokenType=Root
+3	ʃa	ʃa	VERB	_	_	5	compound:svc	_	AlignBegin=206719|AlignEnd=206775|GE=be.there|Gloss=be.there|nWord=3|RX=[VI]|TokenType=Root
 4	-ir		PRON	_	_	3	subj/m	_	AlignBegin=206775|AlignEnd=206831|GE=[S3PL]|Gloss=-S3PL|nWord=3|RX=[V:ANY]|TokenType=InflAff
 5	teʔk	teʔk	VERB	_	_	7	comp:aux/m	_	AlignBegin=206831|AlignEnd=206887|GE=come|Gloss=come|nWord=3|RX=[VI]|TokenType=Root
 6	-er		PRON	_	_	7	subj/m	_	AlignBegin=206887|AlignEnd=206943|GE=[S3PL]|Gloss=-S3PL|nWord=3|RX=[V:ANY]|TokenType=InflAff

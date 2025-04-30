@@ -14,7 +14,7 @@
 1	ta-		PRON	_	_	2	udep:poss/m	_	AlignBegin=4200|AlignEnd=4553|GE=[POSS1]|Gloss=POSS1-|nWord=1|RX=[N:ANY]|TokenType=Root
 2	arki	arki	NOUN	_	_	3	comp:obj	_	AlignBegin=4553|AlignEnd=4906|GE=brother|Gloss=brother|nWord=1|RX=[N]|TokenType=Root
 3	=yo		ADP	_	_	8	comp:obl	_	AlignBegin=4906|AlignEnd=5612|GE=[COM]|Gloss==COM|nWord=2|RX=[POST]|TokenType=Clit
-4	invitar	invitar	X	_	_	6	compoud@lvc	_	AlignBegin=5612|AlignEnd=6318|GE=[SPA_invite]|Gloss=SPA_invite|nWord=3|RX=[<NOT_SURE>]|TokenType=Root
+4	invitar	invitar	X	_	_	6	compound@lvc	_	AlignBegin=5612|AlignEnd=6318|GE=[SPA_invite]|Gloss=SPA_invite|nWord=3|RX=[<NOT_SURE>]|TokenType=Root
 5	ta-		PRON	_	_	6	comp:obj/m	_	AlignBegin=6318|AlignEnd=6494|GE=[O1]|Gloss=O1-|nWord=4|RX=[VT:ANY]|TokenType=Root
 6	ka	ka	VERB	_	_	8	comp:aux/m	_	AlignBegin=6494|AlignEnd=6670|GE=make|Gloss=make|nWord=4|RX=[VT]|TokenType=Root
 7	-i		PRON	_	_	8	subj/m	_	AlignBegin=6670|AlignEnd=6846|GE=[S3SG]|Gloss=-S3SG|nWord=4|RX=[V:ANY]|TokenType=InflAff
@@ -34,8 +34,8 @@
 # text_phrase-gls-tl = INTR_V Y_1+2 TF_na+we+te_go+wander+come%-PXF ; SAY_V Y_3h>1 SayF_tik_say%-PST-PFV
 # text_phrase-gls-wg = go+wander+come:PROX:FUT:INCL say:PST:PFV:3>1
 # text_phrase-gls-de = Cacería.002
-1	nã	nã	VERB	_	_	2	compoud:svc	_	AlignBegin=10880|AlignEnd=11044|GE=go|Gloss=go|nWord=1|RX=[VI]|TokenType=Root
-2	we	we	VERB	_	_	3	compoud:svc	_	AlignBegin=11044|AlignEnd=11208|GE=wander|Gloss=wander|nWord=1|RX=[VI]|TokenType=Root
+1	nã	nã	VERB	_	_	2	compound:svc	_	AlignBegin=10880|AlignEnd=11044|GE=go|Gloss=go|nWord=1|RX=[VI]|TokenType=Root
+2	we	we	VERB	_	_	3	compound:svc	_	AlignBegin=11044|AlignEnd=11208|GE=wander|Gloss=wander|nWord=1|RX=[VI]|TokenType=Root
 3	te	te	VERB	_	_	5	comp:aux/m	_	AlignBegin=11208|AlignEnd=11372|GE=come|Gloss=come|nWord=1|RX=[VI]|TokenType=Root
 4	-par		PRON	_	Clusivity=In	5	subj/m	_	AlignBegin=11372|AlignEnd=11536|GE=[S1PL].[INCL]|Gloss=-S1PL.INCL|nWord=1|RX=[V:ANY]|TokenType=InflAff
 5	-h		AUX	_	_	7	udep	_	AlignBegin=11536|AlignEnd=11700|GE=[PROX].[FUT]|Gloss=-PROX.FUT|nWord=1|RX=[V:ANY]|TokenType=InflAff
@@ -111,7 +111,7 @@
 # text_phrase-gls-de = Cacería.004a
 1	as	as	NUM	_	_	3	comp:obj	_	AlignBegin=19720|AlignEnd=20053|GE=one|Gloss=one|nWord=1|RX=[N]|TokenType=Root
 2	Ø-		PRON	_	_	3	comp:obj/m	_	AlignBegin=20053|AlignEnd=20120|GE=[O3SG]|Gloss=O3SG-|nWord=2|RX=[VT:ANY]|TokenType=Root
-3	prestar	prestar	X	_	_	4	compoud@lvc	_	AlignBegin=20120|AlignEnd=20187|GE=[SPA_lend]|Gloss=SPA_lend|nWord=2|RX=[<NOT_SURE>]|TokenType=Root
+3	prestar	prestar	X	_	_	4	compound@lvc	_	AlignBegin=20120|AlignEnd=20187|GE=[SPA_lend]|Gloss=SPA_lend|nWord=2|RX=[<NOT_SURE>]|TokenType=Root
 4	iʃ	iʃ	VERB	_	_	5	comp:aux/m	_	AlignBegin=20187|AlignEnd=20254|GE=make|Gloss=make|nWord=2|RX=[VT]|TokenType=Root
 5	-pa		AUX	_	Person=1	8	udep	_	AlignBegin=20254|AlignEnd=20321|GE=[S1SG:FUT]|Gloss=-S1SG:FUT|nWord=2|RX=[V:ANY]|TokenType=InflAff
 6	=hãʔ		PART	_	_	5	mod	_	AlignBegin=20321|AlignEnd=20386|GE=[FOC]|Gloss==FOC|nWord=2|RX=[PRT]|TokenType=Clit
@@ -140,7 +140,7 @@
 2	=ro		ADP	_	Case=Abs	5	comp:obj	_	AlignBegin=23263|AlignEnd=23846|GE=[ABS]|Gloss==ABS|nWord=2|RX=[PRT]|TokenType=Clit
 3	,		PUNCT	_	_	2	punct	_	AlignBegin=23846|AlignEnd=24429|nWord=3
 4	Ø-		PRON	_	_	5	comp:obj/m	_	AlignBegin=24429|AlignEnd=24546|GE=[O3SG]|Gloss=O3SG-|nWord=4|RX=[VT:ANY]|TokenType=Root
-5	prestar	prestar	X	_	_	6	compoud@lvc	_	AlignBegin=24546|AlignEnd=24663|GE=[SPA_lend]|Gloss=SPA_lend|nWord=4|RX=[<NOT_SURE>]|TokenType=Root
+5	prestar	prestar	X	_	_	6	compound@lvc	_	AlignBegin=24546|AlignEnd=24663|GE=[SPA_lend]|Gloss=SPA_lend|nWord=4|RX=[<NOT_SURE>]|TokenType=Root
 6	iʃk	iʃk	VERB	_	_	8	comp:aux/m	_	AlignBegin=24663|AlignEnd=24780|GE=make|Gloss=make|nWord=4|RX=[VT]|TokenType=Root
 7	-Ø		PRON	_	_	8	subj/m	_	AlignBegin=24780|AlignEnd=24897|GE=[S3SG]|Gloss=-S3SG|nWord=4|RX=[V:ANY]|TokenType=InflAff
 8	-i		AUX	_	_	0	root	_	AlignBegin=24897|AlignEnd=25012|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]|TokenType=InflAff
@@ -1116,7 +1116,7 @@
 # text_phrase-gls-de = Cacería.021a
 1	as	as	NUM	_	_	3	comp:obj	_	AlignBegin=158745|AlignEnd=159052|GE=one|Gloss=one|nWord=1|RX=[N]|TokenType=Root
 2	Ø-		PRON	_	_	3	comp:obj/m	_	AlignBegin=159052|AlignEnd=159103|GE=[O3SG]|Gloss=O3SG-|nWord=2|RX=[VT:ANY]|TokenType=Root
-3	prestar	prestar	X	_	_	5	compoud@lvc	_	AlignBegin=159103|AlignEnd=159154|GE=[SPA_lend]|Gloss=SPA_lend|nWord=2|RX=[<NOT_SURE>]|TokenType=Root
+3	prestar	prestar	X	_	_	5	compound@lvc	_	AlignBegin=159103|AlignEnd=159154|GE=[SPA_lend]|Gloss=SPA_lend|nWord=2|RX=[<NOT_SURE>]|TokenType=Root
 4	ta-		PRON	_	_	5	comp:obj/m	_	AlignBegin=159154|AlignEnd=159205|GE=[O1]|Gloss=O1-|nWord=2|RX=[VT:ANY]|TokenType=Root
 5	ka	ka	VERB	_	_	7	comp:aux/m	_	AlignBegin=159205|AlignEnd=159256|GE=make|Gloss=make|nWord=2|RX=[VT]|TokenType=Root
 6	-u		PRON	_	_	7	subj/m	_	AlignBegin=159256|AlignEnd=159307|GE=[S2]|Gloss=-S2|nWord=2|RX=[V:ANY]|TokenType=InflAff
@@ -1227,7 +1227,7 @@
 3	=kan		PART	_	_	5	conj:dicto	_	AlignBegin=169767|AlignEnd=170063|GE=[SIM]|Gloss==SIM|nWord=3|RX=[PRT]|TokenType=Clit
 4	ĩ	ĩ	PRON	_	_	5	comp:obj	_	AlignBegin=170063|AlignEnd=170359|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=4|RX=[PRO]|TokenType=Root
 5	=kan		PART	_	_	6	mod	_	AlignBegin=170359|AlignEnd=170655|GE=[SIM]|Gloss==SIM|nWord=5|RX=[PRT]|TokenType=Clit
-6	pasar	pasar	X	_	_	8	compoud@lvc	_	AlignBegin=170655|AlignEnd=170714|GE=[SPA_happen]|Gloss=SPA_happen|nWord=6|RX=[<NOT_SURE>]|TokenType=Root
+6	pasar	pasar	X	_	_	8	compound@lvc	_	AlignBegin=170655|AlignEnd=170714|GE=[SPA_happen]|Gloss=SPA_happen|nWord=6|RX=[<NOT_SURE>]|TokenType=Root
 7	ta-		PRON	_	_	8	comp:obj/m	_	AlignBegin=170714|AlignEnd=170773|GE=[O1]|Gloss=O1-|nWord=6|RX=[VT:ANY]|TokenType=Root
 8	ka	ka	VERB	_	_	10	comp:aux/m	_	AlignBegin=170773|AlignEnd=170832|GE=make|Gloss=make|nWord=6|RX=[VT]|TokenType=Root
 9	-i		PRON	_	_	10	subj/m	_	AlignBegin=170832|AlignEnd=170891|GE=[S3SG]|Gloss=-S3SG|nWord=6|RX=[V:ANY]|TokenType=InflAff
@@ -1371,7 +1371,7 @@
 # text_phrase-gls-it = nẽ́tétṍt͡ʃȳt͡ʃí (tītʲkə̃̀ː)
 # text_phrase-gls-wg = go+come+lose:MID:PROX.PST:3 say:PST:3>1
 # text_phrase-gls-de = Cacería.024c
-1	nẽ	nẽ	VERB	_	_	2	compoud:svc	_	AlignBegin=190780|AlignEnd=190876|GE=go|Gloss=go|nWord=1|RX=[VI]|TokenType=Root
+1	nẽ	nẽ	VERB	_	_	2	compound:svc	_	AlignBegin=190780|AlignEnd=190876|GE=go|Gloss=go|nWord=1|RX=[VI]|TokenType=Root
 2	teʔ	teʔ	VERB	_	_	4	compound	_	AlignBegin=190876|AlignEnd=190972|GE=come|Gloss=come|nWord=1|RX=[VI]|TokenType=Root
 3	ta-		AUX	_	Voice=Mid	4	comp/m	_	AlignBegin=190972|AlignEnd=191068|GE=[MID]|Gloss=MID-|nWord=1|RX=[VT>VI]|TokenType=DerAff
 4	õʃk	õʃk	VERB	_	_	6	comp:aux/m	_	AlignBegin=191068|AlignEnd=191164|GE=lose|Gloss=lose|nWord=1|RX=[VT]|TokenType=Root
@@ -1736,7 +1736,7 @@
 # text_phrase-gls-wg = grab+put.in:PST:1>3 SPA_bag:1
 # text_phrase-gls-de = Cacería.032a
 1	Ø-		PRON	_	_	2	comp:obj/m	_	AlignBegin=249090|AlignEnd=249176|GE=[O3SG]|Gloss=O3SG-|nWord=1|RX=[VT:ANY]|TokenType=Root
-2	sukuh	sukuh	VERB	_	_	3	compoud:svc	_	AlignBegin=249176|AlignEnd=249262|GE=grab|Gloss=grab|nWord=1|RX=[VT]|TokenType=Root
+2	sukuh	sukuh	VERB	_	_	3	compound:svc	_	AlignBegin=249176|AlignEnd=249262|GE=grab|Gloss=grab|nWord=1|RX=[VT]|TokenType=Root
 3	atʃah	atʃah	VERB	_	_	5	comp:aux/m	_	AlignBegin=249262|AlignEnd=249348|GE=put.in|Gloss=put.in|nWord=1|RX=[VT]|TokenType=Root
 4	-a		PRON	_	_	5	subj/m	_	AlignBegin=249348|AlignEnd=249434|GE=[S1SG]|Gloss=-S1SG|nWord=1|RX=[PRO:ANY]|TokenType=InflAff
 5	-ri		AUX	_	_	0	root	_	AlignBegin=249434|AlignEnd=249522|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]|TokenType=InflAff
@@ -1757,7 +1757,7 @@
 # text_phrase-gls-wg = HES come+go.down+be.there:PFV:1 say:PST:PFV:1>3
 # text_phrase-gls-de = Cacería.032b
 1	nẽtet	nẽtet	X	_	_	2	conj:dicto	_	AlignBegin=250635|AlignEnd=251137|nWord=1
-2	te	te	VERB	_	_	3	compoud:svc	_	AlignBegin=251137|AlignEnd=251237|GE=come|Gloss=come|nWord=2|RX=[VI]|TokenType=Root
+2	te	te	VERB	_	_	3	compound:svc	_	AlignBegin=251137|AlignEnd=251237|GE=come|Gloss=come|nWord=2|RX=[VI]|TokenType=Root
 3	tʃere	tʃere	VERB	_	_	4	comp:aux	_	AlignBegin=251237|AlignEnd=251337|GE=go.down|Gloss=go.down|nWord=2|RX=[VI]|TokenType=Root
 4	ʃa	ʃa	AUX	_	_	6	comp:aux/m	_	AlignBegin=251337|AlignEnd=251437|GE=be.there|Gloss=be.there|nWord=2|RX=[VI]|TokenType=Root
 5	-a		PRON	_	_	6	subj/m	_	AlignBegin=251437|AlignEnd=251537|GE=[S1SG]|Gloss=-S1SG|nWord=2|RX=[PRO:ANY]|TokenType=InflAff
@@ -2147,7 +2147,7 @@
 # text_phrase-gls-wg = SPA_lend+make:IMP:2>1 and deer =ABS also SPA_hammer+make:PST:3 INS DEM.DIST also DEM.PROX
 # text_phrase-gls-de = Cacería.038c
 1	Ø-		PRON	_	_	2	comp:obj/m	_	AlignBegin=304435|AlignEnd=304503|GE=[O3SG]|Gloss=O3SG-|nWord=1|RX=[VT:ANY]|TokenType=Root
-2	prestar	prestar	X	_	_	4	compoud@lvc	_	AlignBegin=304503|AlignEnd=304571|GE=[SPA_lend]|Gloss=SPA_lend|nWord=1|RX=[<NOT_SURE>]|TokenType=Root
+2	prestar	prestar	X	_	_	4	compound@lvc	_	AlignBegin=304503|AlignEnd=304571|GE=[SPA_lend]|Gloss=SPA_lend|nWord=1|RX=[<NOT_SURE>]|TokenType=Root
 3	ta-		PRON	_	_	4	comp:obj/m	_	AlignBegin=304571|AlignEnd=304639|GE=[O1]|Gloss=O1-|nWord=1|RX=[VT:ANY]|TokenType=Root
 4	ka	ka	VERB	_	_	6	comp:aux/m	_	AlignBegin=304639|AlignEnd=304707|GE=make|Gloss=make|nWord=1|RX=[VT]|TokenType=Root
 5	-u		PRON	_	_	6	subj/m	_	AlignBegin=304707|AlignEnd=304775|GE=[S2]|Gloss=-S2|nWord=1|RX=[V:ANY]|TokenType=InflAff
@@ -2157,7 +2157,7 @@
 9	=ra		ADP	_	Case=Abs	12	comp:obj	_	AlignBegin=305653|AlignEnd=306059|GE=[ABS]|Gloss==ABS|nWord=4|RX=[PRT]|TokenType=Clit
 10	ãwãh	ãwãh	ADV	_	_	9	mod	_	AlignBegin=306059|AlignEnd=306465|GE=also|Gloss=also|nWord=5|RX=[ADV]|TokenType=Root
 11	a-		PRON	_	_	12	comp:obj/m	_	AlignBegin=306465|AlignEnd=306546|GE=[O3SG]|Gloss=O3SG-|nWord=6|RX=[VT:ANY]|TokenType=Root
-12	martillar	martillar	X	_	_	13	compoud@lvc	_	AlignBegin=306546|AlignEnd=306627|GE=[SPA_hammer]|Gloss=SPA_hammer|nWord=6|RX=[<NOT_SURE>]|TokenType=Root
+12	martillar	martillar	X	_	_	13	compound@lvc	_	AlignBegin=306546|AlignEnd=306627|GE=[SPA_hammer]|Gloss=SPA_hammer|nWord=6|RX=[<NOT_SURE>]|TokenType=Root
 13	ka	ka	VERB	_	_	15	comp:aux/m	_	AlignBegin=306627|AlignEnd=306708|GE=make|Gloss=make|nWord=6|RX=[VT]|TokenType=Root
 14	-Ø		PRON	_	_	15	subj/m	_	AlignBegin=306708|AlignEnd=306789|GE=[S3SG]|Gloss=-S3SG|nWord=6|RX=[V:ANY]|TokenType=InflAff
 15	-i		AUX	_	_	16	comp:obj	_	AlignBegin=306789|AlignEnd=306871|GE=[PST]|Gloss=-PST|nWord=6|RX=[V:ANY]|TokenType=InflAff
