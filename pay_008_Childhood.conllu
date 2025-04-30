@@ -222,7 +222,7 @@
 7	=ma	=ma	PART	PRT	_	2	subj	_	AlignBegin=53917|AlignEnd=54438|GE=[TOP]|Gloss==TOP|nWord=5|RX=[PRT]|TokenType=Clit|Word=ma
 8	pẽh	pẽh	NOUN	N	_	11	comp:obj	_	AlignBegin=54438|AlignEnd=54959|GE=wood|Gloss=wood|nWord=6|RX=[N]|TokenType=Root|Word=pẽh
 9	krah	krah	VERB	VT	_	10	comp:obj	_	AlignBegin=54959|AlignEnd=55219|GE=break|Gloss=break|nWord=7|RX=[VT]|TokenType=Root|Word=krãhã
-10	-ã	_	SCONJ	V>N	_	8	mod	_	AlignBegin=55219|AlignEnd=55480|DerPos=NOUN|GE=[PTCP]|Gloss=PTCP|nWord=7|RX=[V>N]|TokenType=DerAff|Word=krãhã
+10	-ã	_	SCONJ	V>N	DerPos=NOUN	8	mod	_	AlignBegin=55219|AlignEnd=55480|GE=[PTCP]|Gloss=PTCP|nWord=7|RX=[V>N]|TokenType=DerAff|Word=krãhã
 11	=yo	=yo	ADP	POST	_	7	mod	_	AlignBegin=55480|AlignEnd=56000|GE=[INS]|Gloss==INS|nWord=8|RX=[POST]|TokenType=Clit|Word=yo
 
 # sent_id = 008_012-012
@@ -328,7 +328,7 @@
 1	ã	ã	PRON	PRO	_	2	comp:obj	_	AlignBegin=79320|AlignEnd=79604|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=ã
 2	=yã	=yã	ADP	POST	_	3	comp:pred	_	AlignBegin=79604|AlignEnd=79888|GE=[LOC]|Gloss==LOC|nWord=2|RX=[POST]|TokenType=Clit|Word=ɲã
 3	tʃa	tʃa	AUX	VI	_	4	comp:aux	_	AlignBegin=79888|AlignEnd=80030|GE=be.there|Gloss=be.there|nWord=3|RX=[VI]|TokenType=Root|Word=tʃa
-4	-a	_	SCONJ	V>N	_	9	mod	_	AlignBegin=80030|AlignEnd=80172|DerPos=NOUN|GE=[PTCP]|Gloss=PTCP|nWord=3|RX=[V>N]|TokenType=DerAff|Word=tʃa
+4	-a	_	SCONJ	V>N	DerPos=NOUN	9	mod	_	AlignBegin=80030|AlignEnd=80172|GE=[PTCP]|Gloss=PTCP|nWord=3|RX=[V>N]|TokenType=DerAff|Word=tʃa
 5	aka	aka	NOUN	N	_	6	comp:pred	_	AlignBegin=80172|AlignEnd=80456|GE=big|Gloss=big|nWord=4|RX=[N]|TokenType=Root|Word=aka
 6	ta-	_	AUX	VT>VI	Voice=Mid	7	comp/m	_	AlignBegin=80456|AlignEnd=80527|GE=[MID]|Gloss=MID-|nWord=5|RX=[VT>VI]|TokenType=InflAff|Word=tiʃkri
 7	iʃk	iʃk	VERB	VT	_	9	comp:aux	_	AlignBegin=80527|AlignEnd=80598|GE=make|Gloss=make|nWord=5|RX=[VT]|TokenType=Root|Word=tiʃkri
@@ -578,7 +578,7 @@
 12	r-	_	AUX	V:ANY	Voice=Appl	14	compound:svc	_	AlignBegin=136839|AlignEnd=136908|GE=[APPL].[P]|Gloss=APPL.P-|nWord=11|RX=[V:ANY]|TokenType=InflAff|Word=artʃuiʃnãa
 13	tʃuiʃ	tʃuiʃ	VERB	V	VerbForm=Inf	12	comp:aux/m	_	AlignBegin=136908|AlignEnd=136977|GE=learn|Gloss=learn|nWord=11|RX=[V]|TokenType=Root|Word=artʃuiʃnãa
 14	nã	nã	VERB	VI	_	15	comp:aux	_	AlignBegin=136977|AlignEnd=137046|GE=go|Gloss=go|nWord=11|RX=[VI]|TokenType=Root|Word=artʃuiʃnãa
-15	-a	_	AUX	V>N	_	16	comp:obj	_	AlignBegin=137046|AlignEnd=137117|DerPos=NOUN|GE=[INF]|Gloss=INF|nWord=11|RX=[V>N]|TokenType=DerAff|Word=artʃuiʃnãa
+15	-a	_	AUX	V>N	DerPos=NOUN	16	comp:obj	_	AlignBegin=137046|AlignEnd=137117|GE=[INF]|Gloss=INF|nWord=11|RX=[V>N]|TokenType=DerAff|Word=artʃuiʃnãa
 16	=ma	=ma	SCONJ	PRT	_	22	mod	_	AlignBegin=137117|AlignEnd=137460|GE=[TOP]|Gloss==TOP|nWord=12|RX=[PRT]|TokenType=Clit|Word=ma
 17	ũ-	_	PRON	PRO:ANY	Clusivity=Ex	18	mod/m	_	AlignBegin=137460|AlignEnd=137579|GE=[EXCL]|Gloss=EXCL-|nWord=13|RX=[PRO:ANY]|TokenType=InflAff|Word=ũtatõhtĩhĩ
 18	ta-	_	PRON	VT:ANY	_	19	comp:obj/m	_	AlignBegin=137579|AlignEnd=137698|GE=[O1]|Gloss=O1-|nWord=13|RX=[VT:ANY]|TokenType=InflAff|Word=ũtatõhtĩhĩ
@@ -653,7 +653,7 @@
 # text_phrase-gls-wg = write:APPL:INF TOP learn:APPL:NEG:PST:EXCL>3 learn:NEG:PST:1>3 PRO1 TOP
 1	ka-	_	AUX	V>VT	Voice=Appl	3	comp/m	_	AlignBegin=150153|AlignEnd=150321|GE=[APPL].[R]|Gloss=APPL.R-|nWord=1|RX=[V>VT]|TokenType=InflAff|Word=kakors
 2	kors	kors	VERB	VT	_	1	comp:aux/m	_	AlignBegin=150321|AlignEnd=150489|GE=write|Gloss=write|nWord=1|RX=[VT]|TokenType=Root|Word=kakors
-3	-a	_	AUX	V>N	VerbForm=Inf	4	comp:obj	_	AlignBegin=150489|AlignEnd=150657|DerPos=NOUN|GE=[INF]|Gloss=INF|nWord=1|RX=[V>N]|TokenType=DerAff|Word=kakors
+3	-a	_	AUX	V>N	DerPos=NOUN|VerbForm=Inf	4	comp:obj	_	AlignBegin=150489|AlignEnd=150657|GE=[INF]|Gloss=INF|nWord=1|RX=[V>N]|TokenType=DerAff|Word=kakors
 4	=ma	=ma	SCONJ	PRT	_	7	comp:obj	_	AlignBegin=150657|AlignEnd=151161|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
 5	a-	_	PRON	VT:ANY	_	6	comp:obj@appl/m	_	AlignBegin=151161|AlignEnd=151245|GE=[O3SG]|Gloss=O3SG-|nWord=3|RX=[VT:ANY]|TokenType=InflAff|Word=artʃuiʃbarti
 6	r-	_	AUX	V:ANY	Voice=Appl	9	comp:aux/m	_	AlignBegin=151245|AlignEnd=151329|GE=[APPL].[P]|Gloss=APPL.P-|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=artʃuiʃbarti
@@ -685,12 +685,12 @@
 1	ka-	_	PRON	V:ANY	_	2	comp:obj@appl/m	_	AlignBegin=154100|AlignEnd=154272|GE=[O3PL]|Gloss=O3PL-|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=karweʃa
 2	r-	_	AUX	V:ANY	Voice=Appl	4	comp/m	_	AlignBegin=154272|AlignEnd=154444|GE=[APPL].[P]|Gloss=APPL.P-|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=karweʃa
 3	weʃ	weʃ	VERB	VT	VerbForm=Inf	2	comp:aux/m	_	AlignBegin=154444|AlignEnd=154616|GE=hear|Gloss=hear|nWord=1|RX=[VT]|TokenType=Root|Word=karweʃa
-4	-a	_	AUX	V>N	_	9	conj:dicto	_	AlignBegin=154616|AlignEnd=154787|DerPos=NOUN|GE=[INF]|Gloss=INF|nWord=1|RX=[V>N]|TokenType=DerAff|Word=karweʃa
+4	-a	_	AUX	V>N	DerPos=NOUN	9	conj:dicto	_	AlignBegin=154616|AlignEnd=154787|GE=[INF]|Gloss=INF|nWord=1|RX=[V>N]|TokenType=DerAff|Word=karweʃa
 5	awikãwã	awikãwã	NOUN	N	_	2	comp:obj@appl	_	AlignBegin=154787|AlignEnd=155474|GE=book|Gloss=book|nWord=2|RX=[N]|TokenType=Root|Word=awikãwã
 6	a-	_	PRON	VT:ANY	_	7	comp:obj@appl/m	_	AlignBegin=155474|AlignEnd=155646|GE=[O3SG]|Gloss=O3SG-|nWord=3|RX=[VT:ANY]|TokenType=InflAff|Word=arweʃ
 7	r-	_	AUX	V:ANY	Voice=Appl	9	comp/m	_	AlignBegin=155646|AlignEnd=155818|GE=[APPL].[P]|Gloss=APPL.P-|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=arweʃ
 8	weʃ	weʃ	VERB	VT	VerbForm=Inf	7	comp:aux/m	_	AlignBegin=155818|AlignEnd=155990|GE=hear|Gloss=hear|nWord=3|RX=[VT]|TokenType=Root|Word=arweʃ
-9	-a	_	AUX	V>N	_	13	comp:obj	_	AlignBegin=155990|AlignEnd=156161|DerPos=NOUN|GE=[INF]|Gloss=INF|nWord=3|RX=[V>N]|TokenType=DerAff|Word=arweʃ
+9	-a	_	AUX	V>N	DerPos=NOUN	13	comp:obj	_	AlignBegin=155990|AlignEnd=156161|GE=[INF]|Gloss=INF|nWord=3|RX=[V>N]|TokenType=DerAff|Word=arweʃ
 10	=rina	=rina	ADV	COORDCONN	_	9	mod	_	AlignBegin=156161|AlignEnd=156848|GE=also|Gloss==also|nWord=4|RX=[COORDCONN]|TokenType=Clit|Word=rina
 11	a-	_	PRON	VT:ANY	_	12	comp:obj@appl/m	_	AlignBegin=156848|AlignEnd=156962|GE=[O3SG]|Gloss=O3SG-|nWord=5|RX=[VT:ANY]|TokenType=InflAff|Word=artʃuiʃtari
 12	r-	_	AUX	V:ANY	Voice=Appl	16	comp:aux	_	AlignBegin=156962|AlignEnd=157076|GE=[APPL].[P]|Gloss=APPL.P-|nWord=5|RX=[V:ANY]|TokenType=InflAff|Word=artʃuiʃtari
@@ -818,7 +818,7 @@
 1	ã	ã	PRON	PRO	_	2	comp:obj	_	AlignBegin=181233|AlignEnd=181643|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=ã
 2	=yã	=yã	ADP	POST	_	8	dislocated:mod	_	AlignBegin=181643|AlignEnd=182053|GE=[LOC]|Gloss==LOC|nWord=2|RX=[POST]|TokenType=Clit|Word=ɲã
 3	teʃk	teʃk	VERB	VI	_	4	comp	_	AlignBegin=182053|AlignEnd=182258|GE=get.away|Gloss=get.away|nWord=3|RX=[VI]|TokenType=Root|Word=teʃka
-4	-a	_	SCONJ	V>N	_	8	mod	_	AlignBegin=182258|AlignEnd=182463|DerPos=NOUN|GE=[PTCP]|Gloss=PTCP|nWord=3|RX=[V>N]|TokenType=DerAff|Word=teʃka
+4	-a	_	SCONJ	V>N	DerPos=NOUN	8	mod	_	AlignBegin=182258|AlignEnd=182463|GE=[PTCP]|Gloss=PTCP|nWord=3|RX=[V>N]|TokenType=DerAff|Word=teʃka
 5	sawa	sawa	NOUN	N	_	6	comp:obj@lvc	_	AlignBegin=182463|AlignEnd=182566|GE=hand|Gloss=hand|nWord=4|RX=[N]|TokenType=Root|Word=soasukuhari
 6	sukuh	sukuh	VERB	VT	_	8	comp:aux	_	AlignBegin=182566|AlignEnd=182669|GE=grab|Gloss=grab|nWord=4|RX=[VT]|TokenType=Root|Word=soasukuhari
 7	-a	_	PRON	PRO:ANY	_	8	subj/m	_	AlignBegin=182669|AlignEnd=182772|GE=[S1SG]|Gloss=-S1SG|nWord=4|RX=[PRO:ANY]|TokenType=InflAff|Word=soasukuhari
@@ -861,7 +861,7 @@
 2	=yã	=yã	ADP	POST	_	8	mod:lmod	_	AlignBegin=188088|AlignEnd=188476|GE=[LOC]|Gloss==LOC|nWord=2|RX=[POST]|TokenType=Clit|Word=yã
 3	sawa	sawa	NOUN	N	_	4	comp:obj@lvc	_	AlignBegin=188476|AlignEnd=188605|GE=hand|Gloss=hand|nWord=3|RX=[N]|TokenType=Root|Word=soasukuha
 4	sukuh	sukuh	VERB	VT	_	5	comp	_	AlignBegin=188605|AlignEnd=188734|GE=grab|Gloss=grab|nWord=3|RX=[VT]|TokenType=Root|Word=soasukuha
-5	-a	_	SCONJ	V>N	_	8	mod:tmod	_	AlignBegin=188734|AlignEnd=188864|DerPos=NOUN|GE=[PTCP]|Gloss=PTCP|nWord=3|RX=[V>N]|TokenType=DerAff|Word=soasukuha
+5	-a	_	SCONJ	V>N	DerPos=NOUN	8	mod:tmod	_	AlignBegin=188734|AlignEnd=188864|GE=[PTCP]|Gloss=PTCP|nWord=3|RX=[V>N]|TokenType=DerAff|Word=soasukuha
 6	teʃk	teʃk	VERB	VI	_	8	comp:aux	_	AlignBegin=188864|AlignEnd=188994|GE=get.away|Gloss=get.away|nWord=4|RX=[VI]|TokenType=Root|Word=teʃkar
 7	-a	_	PRON	PRO:ANY	_	8	subj/m	_	AlignBegin=188994|AlignEnd=189124|GE=[S1SG]|Gloss=-S1SG|nWord=4|RX=[PRO:ANY]|TokenType=InflAff|Word=teʃkar
 8	-ri	_	AUX	V:ANY	_	0	root	_	AlignBegin=189124|AlignEnd=189253|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]|TokenType=InflAff|Word=teʃkar
@@ -913,7 +913,7 @@
 5	tas	tas	PRON	PRO	_	2	subj	_	AlignBegin=197491|AlignEnd=198436|GE=[PRO1]|Gloss=PRO1|nWord=2|RX=[PRO]|TokenType=Root|Word=tas
 6	sawa	sawa	NOUN	N	_	7	comp:pred	_	AlignBegin=198436|AlignEnd=198751|GE=hand|Gloss=hand|nWord=3|RX=[N]|TokenType=Root|Word=soasukuha
 7	sukuh	sukuh	VERB	VT	_	8	comp	_	AlignBegin=198751|AlignEnd=199066|GE=grab|Gloss=grab|nWord=3|RX=[VT]|TokenType=Root|Word=soasukuha
-8	-a	_	SCONJ	V>N	_	4	mod:tmod	_	AlignBegin=199066|AlignEnd=199381|DerPos=NOUN|GE=[PTCP]|Gloss=PTCP|nWord=3|RX=[V>N]|TokenType=DerAff|Word=soasukuha
+8	-a	_	SCONJ	V>N	DerPos=NOUN	4	mod:tmod	_	AlignBegin=199066|AlignEnd=199381|GE=[PTCP]|Gloss=PTCP|nWord=3|RX=[V>N]|TokenType=DerAff|Word=soasukuha
 9	toko	toko	X	_	_	8	conj:dicto	_	AlignBegin=199381|AlignEnd=200326|GE=[HES]|Gloss=HES|nWord=4|TokenType=Root|Word=toko
 10	ʔãã	ʔãã	INTJ	<NOT_SURE>	_	9	discourse	_	AlignBegin=200326|AlignEnd=201273|GE=[HES]|Gloss=HES|nWord=5|RX=[<NOT_SURE>]|TokenType=Root|Word=ʔãã
 
@@ -1043,10 +1043,10 @@
 6	pa-	_	PRON	N:ANY	Clusivity=In	7	mod	_	AlignBegin=228527|AlignEnd=228690|GE=[INCL]|Gloss=INCL-|nWord=5|RX=[N:ANY]|TokenType=InflAff|Word=patatiʃta
 7	ta-	_	PRON	N:ANY	_	8	det:poss	_	AlignBegin=228690|AlignEnd=228853|GE=[POSS1]|Gloss=POSS1-|nWord=5|RX=[N:ANY]|TokenType=InflAff|Word=patatiʃta
 8	tiʃ	tiʃ	VERB	VT	_	9	comp:obj/m	_	AlignBegin=228853|AlignEnd=229016|GE=sow|Gloss=sow|nWord=5|RX=[VT]|TokenType=Root|Word=patatiʃta
-9	-ta	_	SCONJ	V>N	_	12	udep	_	AlignBegin=229016|AlignEnd=229179|DerPos=NOUN|GE=[AG].[NMLZ]|Gloss=-AG.NMLZ|nWord=5|RX=[V>N]|TokenType=DerAff|Word=patatiʃta
+9	-ta	_	SCONJ	V>N	DerPos=NOUN	12	udep	_	AlignBegin=229016|AlignEnd=229179|GE=[AG].[NMLZ]|Gloss=-AG.NMLZ|nWord=5|RX=[V>N]|TokenType=DerAff|Word=patatiʃta
 10	a-	_	PRON	N:ANY	_	11	det:poss	_	AlignBegin=229179|AlignEnd=229396|GE=[POSS3SG]|Gloss=POSS3SG-|nWord=6|RX=[N:ANY]|TokenType=InflAff|Word=ayãhhã
 11	yãh	yãh	VERB	VT	_	12	comp:obj/m	_	AlignBegin=229396|AlignEnd=229613|GE=say|Gloss=say|nWord=6|RX=[VT]|TokenType=Root|Word=ayãhhã
-12	-ha	_	SCONJ	V>N	_	14	comp:obj	_	AlignBegin=229613|AlignEnd=229831|DerPos=NOUN|GE=[NMLZ]|Gloss=-NMLZ|nWord=6|RX=[V>N]|TokenType=DerAff|Word=ayãhhã
+12	-ha	_	SCONJ	V>N	DerPos=NOUN	14	comp:obj	_	AlignBegin=229613|AlignEnd=229831|GE=[NMLZ]|Gloss=-NMLZ|nWord=6|RX=[V>N]|TokenType=DerAff|Word=ayãhhã
 13	Ø-	_	PRON	VT:ANY	_	14	comp:obj/m	_	AlignBegin=229831|AlignEnd=229993|GE=[O3SG]|Gloss=O3SG-|nWord=7|RX=[VT:ANY]|TokenType=InflAff|Word=paki
 14	pak	pak	VERB	VT	_	16	comp:aux	_	AlignBegin=229993|AlignEnd=230155|GE=take|Gloss=take|nWord=7|RX=[VT]|TokenType=Root|Word=paki
 15	-Ø	_	PRON	V:ANY	_	16	subj/m	_	AlignBegin=230155|AlignEnd=230317|GE=[S3SG]|Gloss=-S3SG|nWord=7|RX=[V:ANY]|TokenType=InflAff|Word=paki
@@ -1070,10 +1070,10 @@
 4	pa-	_	PRON	N:ANY	Clusivity=In	5	mod	_	AlignBegin=233056|AlignEnd=233229|GE=[INCL]|Gloss=INCL-|nWord=4|RX=[N:ANY]|TokenType=InflAff|Word=patatiʃta
 5	ta-	_	PRON	N:ANY	_	6	det:poss	_	AlignBegin=233229|AlignEnd=233402|GE=[POSS1]|Gloss=POSS1-|nWord=4|RX=[N:ANY]|TokenType=InflAff|Word=patatiʃta
 6	tiʃ	tiʃ	VERB	VT	_	7	comp:obj/m	_	AlignBegin=233402|AlignEnd=233575|GE=sow|Gloss=sow|nWord=4|RX=[VT]|TokenType=Root|Word=patatiʃta
-7	-ta	_	SCONJ	V>N	_	10	udep	_	AlignBegin=233575|AlignEnd=233748|DerPos=NOUN|GE=[AG].[NMLZ]|Gloss=-AG.NMLZ|nWord=4|RX=[V>N]|TokenType=DerAff|Word=patatiʃta
+7	-ta	_	SCONJ	V>N	DerPos=NOUN	10	udep	_	AlignBegin=233575|AlignEnd=233748|GE=[AG].[NMLZ]|Gloss=-AG.NMLZ|nWord=4|RX=[V>N]|TokenType=DerAff|Word=patatiʃta
 8	a-	_	PRON	N:ANY	_	9	det:poss	_	AlignBegin=233748|AlignEnd=233979|GE=[POSS3SG]|Gloss=POSS3SG-|nWord=5|RX=[N:ANY]|TokenType=InflAff|Word=ayãhhã
 9	yãh	yãh	VERB	VT	_	10	comp:obj	_	AlignBegin=233979|AlignEnd=234210|GE=say|Gloss=say|nWord=5|RX=[VT]|TokenType=Root|Word=ayãhhã
-10	-ha	_	SCONJ	V>N	_	11	comp:obj	_	AlignBegin=234210|AlignEnd=234440|DerPos=NOUN|GE=[NMLZ]|Gloss=-NMLZ|nWord=5|RX=[V>N]|TokenType=DerAff|Word=ayãhhã
+10	-ha	_	SCONJ	V>N	DerPos=NOUN	11	comp:obj	_	AlignBegin=234210|AlignEnd=234440|GE=[NMLZ]|Gloss=-NMLZ|nWord=5|RX=[V>N]|TokenType=DerAff|Word=ayãhhã
 11	=yo	=yo	ADP	POST	_	13	comp:obl	_	AlignBegin=234440|AlignEnd=235132|GE=[INS]|Gloss==INS|nWord=6|RX=[POST]|TokenType=Clit|Word=yo
 12	Ø-	_	PRON	VT:ANY	_	13	comp:obj/m	_	AlignBegin=235132|AlignEnd=235305|GE=[O3SG]|Gloss=O3SG-|nWord=7|RX=[VT:ANY]|TokenType=InflAff|Word=kapaʃbra
 13	kapaʃ	kapaʃ	VERB	VT	_	15	comp:aux	_	AlignBegin=235305|AlignEnd=235478|GE=speak|Gloss=speak|nWord=7|RX=[VT]|TokenType=Root|Word=kapaʃbra
@@ -1878,7 +1878,7 @@
 2	peʃ-	_	PRON	N:ANY	_	3	det:poss	_	AlignBegin=374279|AlignEnd=374439|GE=[POSS3PL]|Gloss=POSS3PL|nWord=2|RX=[N:ANY]|TokenType=InflAff|Word=peʃya
 3	ya	ya	NOUN	N	_	7	subj	_	AlignBegin=374439|AlignEnd=374598|GE=belly|Gloss=belly|nWord=2|RX=[N]|TokenType=Root|Word=peʃya
 4	pah	pah	VERB	V	_	5	comp/m	_	AlignBegin=374598|AlignEnd=374758|GE=hurt|Gloss=hurt|nWord=3|RX=[V]|TokenType=Root|Word=pahnõ
-5	-nu	_	SCONJ	V>N	_	7	comp:pred	_	AlignBegin=374758|AlignEnd=374917|DerPos=NOUN|GE=[NMLZ].[bad]|Gloss=NMLZ.bad|nWord=3|RX=[V>N]|TokenType=DerAff|Word=pahnõ
+5	-nu	_	SCONJ	V>N	DerPos=NOUN	7	comp:pred	_	AlignBegin=374758|AlignEnd=374917|GE=[NMLZ].[bad]|Gloss=NMLZ.bad|nWord=3|RX=[V>N]|TokenType=DerAff|Word=pahnõ
 6	Ø-	_	PRON	VT:ANY	_	7	comp:obj/m	_	AlignBegin=374917|AlignEnd=374997|GE=[O3SG]|Gloss=O3SG-|nWord=4|RX=[VT:ANY]|TokenType=InflAff|Word=ki
 7	ka	ka	VERB	VT	_	9	comp:aux	_	AlignBegin=374997|AlignEnd=375077|GE=make|Gloss=make|nWord=4|RX=[VT]|TokenType=Root|Word=ki
 8	-Ø	_	PRON	V:ANY	_	9	subj/m	_	AlignBegin=375077|AlignEnd=375157|GE=[S3SG]|Gloss=-S3SG|nWord=4|RX=[V:ANY]|TokenType=InflAff|Word=ki
@@ -2016,13 +2016,13 @@
 1	ũ-	_	PRON	PRO:ANY	Clusivity=Ex	2	mod/m	_	AlignBegin=405186|AlignEnd=405359|GE=[EXCL]|Gloss=EXCL-|nWord=1|RX=[PRO:ANY]|TokenType=InflAff|Word=ũtayãha
 2	ta-	_	PRON	N:ANY	_	3	det:poss/m	_	AlignBegin=405359|AlignEnd=405532|GE=[POSS1]|Gloss=POSS1-|nWord=1|RX=[N:ANY]|TokenType=InflAff|Word=ũtayãha
 3	yãh	yãh	VERB	VT	_	4	comp/m	_	AlignBegin=405532|AlignEnd=405705|GE=say|Gloss=say|nWord=1|RX=[VT]|TokenType=Root|Word=ũtayãha
-4	-a	_	SCONJ	V>N	_	13	comp:obj	_	AlignBegin=405705|AlignEnd=405879|DerPos=NOUN|GE=[NMLZ]|Gloss=-NMLZ|nWord=1|RX=[V>N]|TokenType=DerAff|Word=ũtayãha
+4	-a	_	SCONJ	V>N	DerPos=NOUN	13	comp:obj	_	AlignBegin=405705|AlignEnd=405879|GE=[NMLZ]|Gloss=-NMLZ|nWord=1|RX=[V>N]|TokenType=DerAff|Word=ũtayãha
 5	oriah	oriah	NOUN	N	_	4	conj:coord	_	AlignBegin=405879|AlignEnd=406572|GE=culture|Gloss=culture|nWord=2|RX=[N]|TokenType=Root|Word=ohria
 6	=rina	=rina	CCONJ	COORDCONN	_	5	cc	_	AlignBegin=406572|AlignEnd=407265|GE=also|Gloss==also|nWord=3|RX=[COORDCONN]|TokenType=Clit|Word=rina
 7	pa-	_	PRON	N:ANY	Clusivity=In	8	mod/m	_	AlignBegin=407265|AlignEnd=407438|GE=[INCL]|Gloss=INCL-|nWord=4|RX=[N:ANY]|TokenType=InflAff|Word=patayãha
 8	ta-	_	PRON	N:ANY	_	9	det:poss/m	_	AlignBegin=407438|AlignEnd=407611|GE=[POSS1]|Gloss=POSS1-|nWord=4|RX=[N:ANY]|TokenType=InflAff|Word=patayãha
 9	yãh	yãh	VERB	VT	_	10	comp/m	_	AlignBegin=407611|AlignEnd=407784|GE=say|Gloss=say|nWord=4|RX=[VT]|TokenType=Root|Word=patayãha
-10	-ha	_	SCONJ	V>N	_	5	conj:coord	_	AlignBegin=407784|AlignEnd=407958|DerPos=NOUN|GE=[NMLZ]|Gloss=-NMLZ|nWord=4|RX=[V>N]|TokenType=DerAff|Word=patayãha
+10	-ha	_	SCONJ	V>N	DerPos=NOUN	5	conj:coord	_	AlignBegin=407784|AlignEnd=407958|GE=[NMLZ]|Gloss=-NMLZ|nWord=4|RX=[V>N]|TokenType=DerAff|Word=patayãha
 11	=rina	=rina	CCONJ	COORDCONN	_	10	cc	_	AlignBegin=407958|AlignEnd=408651|GE=also|Gloss==also|nWord=5|RX=[COORDCONN]|TokenType=Clit|Word=rina
 12	Ø-	_	PRON	VT:ANY	_	13	comp:obj/m	_	AlignBegin=408651|AlignEnd=408790|GE=[O3SG]|Gloss=O3SG-|nWord=6|RX=[VT:ANY]|TokenType=InflAff|Word=õʃata
 13	õʃ	õʃ	VERB	VT	_	15	comp:aux	_	AlignBegin=408790|AlignEnd=408929|GE=lose|Gloss=lose|nWord=6|RX=[VT]|TokenType=Root|Word=õʃata
@@ -2209,12 +2209,12 @@
 12	ũ-	_	PRON	PRO:ANY	Clusivity=Ex	13	mod/m	_	AlignBegin=456973|AlignEnd=457155|GE=[EXCL]|Gloss=EXCL-|nWord=8|RX=[PRO:ANY]|TokenType=InflAff|Word=ũtayãha
 13	ta-	_	PRON	N:ANY	_	14	det:poss/m	_	AlignBegin=457155|AlignEnd=457337|GE=[POSS1]|Gloss=POSS1-|nWord=8|RX=[N:ANY]|TokenType=InflAff|Word=ũtayãha
 14	yãh	yãh	VERB	VT	_	15	comp/m	_	AlignBegin=457337|AlignEnd=457519|GE=say|Gloss=say|nWord=8|RX=[VT]|TokenType=Root|Word=ũtayãha
-15	-a	_	SCONJ	V>N	_	16	comp:obj	_	AlignBegin=457519|AlignEnd=457700|DerPos=NOUN|GE=[NMLZ]|Gloss=-NMLZ|nWord=8|RX=[V>N]|TokenType=DerAff|Word=ũtayãha
+15	-a	_	SCONJ	V>N	DerPos=NOUN	16	comp:obj	_	AlignBegin=457519|AlignEnd=457700|GE=[NMLZ]|Gloss=-NMLZ|nWord=8|RX=[V>N]|TokenType=DerAff|Word=ũtayãha
 16	=yo	=yo	ADP	POST	_	23	comp:obl	_	AlignBegin=457700|AlignEnd=458427|GE=[INS]|Gloss==INS|nWord=9|RX=[POST]|TokenType=Clit|Word=yo
 17	pa-	_	PRON	N:ANY	Clusivity=In	18	mod	_	AlignBegin=458427|AlignEnd=458609|GE=[INCL]|Gloss=INCL-|nWord=10|RX=[N:ANY]|TokenType=InflAff|Word=patatiʃta
 18	ta-	_	PRON	N:ANY	_	19	det:poss/m	_	AlignBegin=458609|AlignEnd=458791|GE=[POSS1]|Gloss=POSS1-|nWord=10|RX=[N:ANY]|TokenType=InflAff|Word=patatiʃta
 19	tiʃ	tiʃ	VERB	VT	_	20	comp	_	AlignBegin=458791|AlignEnd=458973|GE=sow|Gloss=sow|nWord=10|RX=[VT]|TokenType=Root|Word=patatiʃta
-20	-ta	_	SCONJ	V>N	_	23	subj	_	AlignBegin=458973|AlignEnd=459154|DerPos=NOUN|GE=[AG].[NMLZ]|Gloss=-AG.NMLZ|nWord=10|RX=[V>N]|TokenType=DerAff|Word=patatiʃta
+20	-ta	_	SCONJ	V>N	DerPos=NOUN	23	subj	_	AlignBegin=458973|AlignEnd=459154|GE=[AG].[NMLZ]|Gloss=-AG.NMLZ|nWord=10|RX=[V>N]|TokenType=DerAff|Word=patatiʃta
 21	ũ-	_	PRON	PRO:ANY	Clusivity=Ex	22	mod/m	_	AlignBegin=459154|AlignEnd=459299|GE=[EXCL]|Gloss=EXCL-|nWord=11|RX=[PRO:ANY]|TokenType=InflAff|Word=ũtẽyĩ
 22	ta-	_	PRON	VT:ANY	_	23	comp:obj/m	_	AlignBegin=459299|AlignEnd=459444|GE=[O1]|Gloss=O1-|nWord=11|RX=[VT:ANY]|TokenType=InflAff|Word=ũtẽyĩ
 23	ãyh	ãyh	VERB	VT	_	25	comp:aux	_	AlignBegin=459444|AlignEnd=459589|GE=[give:O1:2]|Gloss=give:O1:2|nWord=11|RX=[VT]|TokenType=Root|Word=ũtẽyĩ
@@ -2721,7 +2721,7 @@
 1	pa-	_	PRON	N:ANY	Clusivity=In	2	mod/m	_	AlignBegin=550493|AlignEnd=550677|GE=[INCL]|Gloss=INCL-|nWord=1|RX=[N:ANY]|TokenType=InflAff|Word=patatiʃta
 2	ta-	_	PRON	N:ANY	_	3	det:poss/m	_	AlignBegin=550677|AlignEnd=550861|GE=[POSS1]|Gloss=POSS1-|nWord=1|RX=[N:ANY]|TokenType=InflAff|Word=patatiʃta
 3	tiʃ	tiʃ	VERB	VT	_	4	comp/m	_	AlignBegin=550861|AlignEnd=551045|GE=sow|Gloss=sow|nWord=1|RX=[VT]|TokenType=Root|Word=patatiʃta
-4	-ta	_	SCONJ	V>N	_	9	dislocated:subj	_	AlignBegin=551045|AlignEnd=551231|DerPos=NOUN|GE=[AG].[NMLZ]|Gloss=-AG.NMLZ|nWord=1|RX=[V>N]|TokenType=DerAff|Word=patatiʃta
+4	-ta	_	SCONJ	V>N	DerPos=NOUN	9	dislocated:subj	_	AlignBegin=551045|AlignEnd=551231|GE=[AG].[NMLZ]|Gloss=-AG.NMLZ|nWord=1|RX=[V>N]|TokenType=DerAff|Word=patatiʃta
 5	ta-	_	PRON	N:ANY	_	6	det:poss	_	AlignBegin=551231|AlignEnd=551600|GE=[POSS1]|Gloss=POSS1-|nWord=2|RX=[N:ANY]|TokenType=InflAff|Word=tasãmã
 6	sãmã	sãmã	NOUN	N	_	7	comp:obj	_	AlignBegin=551600|AlignEnd=551969|GE=mind|Gloss=mind|nWord=2|RX=[N]|TokenType=Root|Word=tasãmã
 7	=yã	=yã	ADP	POST	_	11	mod:lmod	_	AlignBegin=551969|AlignEnd=552707|GE=[LOC]|Gloss==LOC|nWord=3|RX=[POST]|TokenType=Clit|Word=yã
@@ -2913,7 +2913,7 @@
 3	peʃ	peʃ	NOUN	N	_	5	udep:poss	_	AlignBegin=587308|AlignEnd=587802|GE=people|Gloss=people|nWord=3|RX=[N]|TokenType=Root|Word=peʃ
 4	akwa	akwa	NOUN	N	_	3	mod	_	AlignBegin=587802|AlignEnd=588296|GE=other|Gloss=other|nWord=4|RX=[N]|TokenType=Root|Word=ako
 5	yãh	yãh	VERB	VT	_	6	comp/m	_	AlignBegin=588296|AlignEnd=588543|GE=say|Gloss=say|nWord=5|RX=[VT]|TokenType=Root|Word=yãha
-6	-ha	_	SCONJ	V>N	_	7	comp	_	AlignBegin=588543|AlignEnd=588790|DerPos=NOUN|GE=[NMLZ]|Gloss=-NMLZ|nWord=5|RX=[V>N]|TokenType=DerAff|Word=yãha
+6	-ha	_	SCONJ	V>N	DerPos=NOUN	7	comp	_	AlignBegin=588543|AlignEnd=588790|GE=[NMLZ]|Gloss=-NMLZ|nWord=5|RX=[V>N]|TokenType=DerAff|Word=yãha
 7	=yo	=yo	ADP	POST	_	9	comp:obl	_	AlignBegin=588790|AlignEnd=589284|GE=[INS]|Gloss==INS|nWord=6|RX=[POST]|TokenType=Clit|Word=yo
 8	Ø-	_	PRON	VT:ANY	_	9	comp:obj/m	_	AlignBegin=589284|AlignEnd=589408|GE=[O3SG]|Gloss=O3SG-|nWord=7|RX=[VT:ANY]|TokenType=InflAff|Word=kapaʃbra
 9	kapaʃ	kapaʃ	VERB	VT	_	11	comp:aux	_	AlignBegin=589408|AlignEnd=589532|GE=speak|Gloss=speak|nWord=7|RX=[VT]|TokenType=Root|Word=kapaʃbra
@@ -2937,7 +2937,7 @@
 2	=kan	=kan	PART	PRT	_	10	mod	_	AlignBegin=590485|AlignEnd=590977|GE=[SIM]|Gloss==SIM|nWord=2|RX=[PRT]|TokenType=Clit|Word=kan
 3	ta-	_	PRON	N:ANY	_	4	det:poss/m	_	AlignBegin=590977|AlignEnd=591141|GE=[POSS1]|Gloss=POSS1-|nWord=3|RX=[N:ANY]|TokenType=InflAff|Word=taɲãha
 4	yãh	yãh	VERB	VT	_	5	comp/m	_	AlignBegin=591141|AlignEnd=591305|GE=say|Gloss=say|nWord=3|RX=[VT]|TokenType=Root|Word=taɲãha
-5	-a	_	SCONJ	V>N	_	6	comp	_	AlignBegin=591305|AlignEnd=591469|DerPos=NOUN|GE=[NMLZ]|Gloss=-NMLZ|nWord=3|RX=[V>N]|TokenType=DerAff|Word=taɲãha
+5	-a	_	SCONJ	V>N	DerPos=NOUN	6	comp	_	AlignBegin=591305|AlignEnd=591469|GE=[NMLZ]|Gloss=-NMLZ|nWord=3|RX=[V>N]|TokenType=DerAff|Word=taɲãha
 6	=yo	=yo	ADP	POST	_	8	comp:obl	_	AlignBegin=591469|AlignEnd=591961|GE=[INS]|Gloss==INS|nWord=4|RX=[POST]|TokenType=Clit|Word=yo
 7	Ø-	_	PRON	VT:ANY	_	8	comp:obj/m	_	AlignBegin=591961|AlignEnd=592084|GE=[O3SG]|Gloss=O3SG-|nWord=5|RX=[VT:ANY]|TokenType=InflAff|Word=ɲãhwã
 8	yãh	yãh	VERB	VT	_	10	comp:aux	_	AlignBegin=592084|AlignEnd=592207|GE=say|Gloss=say|nWord=5|RX=[VT]|TokenType=Root|Word=ɲãhwã
@@ -3083,7 +3083,7 @@
 8	ta-	_	PRON	N:ANY	_	9	det:poss	_	AlignBegin=617101|AlignEnd=617430|GE=[POSS1]|Gloss=POSS1-|nWord=7|RX=[N:ANY]|TokenType=InflAff|Word=takaya
 9	kaya	kaya	NOUN	N	_	10	compound	_	AlignBegin=617430|AlignEnd=617759|GE=history|Gloss=history|nWord=7|RX=[N]|TokenType=Root|Word=takaya
 10	yãh	yãh	VERB	VT	_	11	comp/m	_	AlignBegin=617759|AlignEnd=618088|GE=say|Gloss=say|nWord=8|RX=[VT]|TokenType=Root|Word=ɲãhã
-11	-a	_	SCONJ	V>N	_	14	comp:obj	_	AlignBegin=618088|AlignEnd=618417|DerPos=NOUN|GE=[NMLZ]|Gloss=-NMLZ|nWord=8|RX=[V>N]|TokenType=DerAff|Word=ɲãhã
+11	-a	_	SCONJ	V>N	DerPos=NOUN	14	comp:obj	_	AlignBegin=618088|AlignEnd=618417|GE=[NMLZ]|Gloss=-NMLZ|nWord=8|RX=[V>N]|TokenType=DerAff|Word=ɲãhã
 12	a-	_	PRON	VT:ANY	_	13	comp:obj@appl/m	_	AlignBegin=618417|AlignEnd=618548|GE=[O3SG]|Gloss=O3SG-|nWord=9|RX=[VT:ANY]|TokenType=InflAff|Word=akasteʃkawa
 13	kas-	_	AUX	V>VT	Voice=Appl	16	comp:aux	_	AlignBegin=618548|AlignEnd=618679|GE=[APPL].[R]|Gloss=APPL.R-|nWord=9|RX=[V>VT]|TokenType=InflAff|Word=akasteʃkawa
 14	teʃk	teʃk	VERB	VI	_	13	comp:aux/m	_	AlignBegin=618679|AlignEnd=618810|GE=get.away|Gloss=get.away|nWord=9|RX=[VI]|TokenType=Root|Word=akasteʃkawa

@@ -43,7 +43,7 @@
 6	,	_	PUNCT	_	_	5	punct	_	AlignBegin=9265|AlignEnd=9766|nWord=6|Word=,
 7	wiʃã	wiʃã	NOUN	_	_	8	comp:obj	_	AlignBegin=9766|AlignEnd=10267|GE=fish|Gloss=fish|nWord=7|RX=[N]|TokenType=Root|Word=wiʃã
 8	kapor	kapor	VERB	_	_	9	comp/m	_	AlignBegin=10267|AlignEnd=10434|GE=spear|Gloss=spear|nWord=8|RX=[VT]|TokenType=Root|Word=kaportaru
-9	-ta	_	SCONJ	_	_	10	comp:pred	_	AlignBegin=10434|AlignEnd=10601|DerPos=NOUN|GE=[AG].[NMLZ]|Gloss=-AG.NMLZ|nWord=8|RX=[V>N]|TokenType=DerAff|Word=kaportaru
+9	-ta	_	SCONJ	_	DerPos=NOUN	10	comp:pred	_	AlignBegin=10434|AlignEnd=10601|GE=[AG].[NMLZ]|Gloss=-AG.NMLZ|nWord=8|RX=[V>N]|TokenType=DerAff|Word=kaportaru
 10	-ru	_	AUX	_	_	11	comp:aux	_	AlignBegin=10601|AlignEnd=10768|GE=[HAB]|Gloss=-HAB|nWord=8|RX=[N:ANY]|TokenType=InflAff|Word=kaportaru
 11	=r	r	AUX	_	_	13	comp:aux	_	AlignBegin=10768|AlignEnd=10935|GE=[COP]|Gloss==COP|nWord=9|RX=[COP]|TokenType=Clit|Word=ri
 12	-Ø	_	PRON	_	_	13	subj/m	_	AlignBegin=10935|AlignEnd=11102|GE=[S3SG]|Gloss=-S3SG|nWord=9|RX=[V:ANY]|TokenType=InflAff|Word=ri
@@ -313,7 +313,7 @@
 11	,	_	PUNCT	_	_	10	punct	_	AlignBegin=64797|AlignEnd=65225|nWord=9|Word=,
 12	wiʃã	wiʃã	NOUN	_	_	13	comp:obj	_	AlignBegin=65225|AlignEnd=65653|GE=fish|Gloss=fish|nWord=10|RX=[N]|TokenType=Root|Word=wiʃã
 13	kapor	kapor	VERB	_	_	14	comp/m	_	AlignBegin=65653|AlignEnd=65867|GE=spear|Gloss=spear|nWord=11|RX=[VT]|TokenType=Root|Word=kaporka
-14	-ka	_	SCONJ	_	_	15	comp:obj	_	AlignBegin=65867|AlignEnd=66081|DerPos=NOUN|GE=[NMLZ]|Gloss=-NMLZ|nWord=11|RX=[V>N]|TokenType=DerAff|Word=kaporka
+14	-ka	_	SCONJ	_	DerPos=NOUN	15	comp:obj	_	AlignBegin=65867|AlignEnd=66081|GE=[NMLZ]|Gloss=-NMLZ|nWord=11|RX=[V>N]|TokenType=DerAff|Word=kaporka
 15	=yo	=yo	ADP	_	_	5	comp:obl	_	AlignBegin=66081|AlignEnd=66509|GE=[INS]|Gloss==INS|nWord=12|RX=[POST]|TokenType=Clit|Word=yo
 16	.	_	PUNCT	_	_	8	punct	_	AlignBegin=66509|AlignEnd=66932|Gloss=.|nWord=13|Word=.
 
@@ -462,7 +462,7 @@
 12	pa-	_	PRON	_	Clusivity=In	13	mod/m	_	AlignBegin=91383|AlignEnd=91551|GE=[INCL]|Gloss=INCL-|nWord=9|RX=[N:ANY]|TokenType=InflAff|Word=pataɲãh
 13	ta-	_	PRON	_	_	14	det:poss	_	AlignBegin=91551|AlignEnd=91719|GE=[POSS1]|Gloss=POSS1-|nWord=9|RX=[N:ANY]|TokenType=InflAff|Word=pataɲãh
 14	yãh	yãh	VERB	_	_	15	comp/m	_	AlignBegin=91719|AlignEnd=91887|GE=say|Gloss=say|nWord=9|RX=[VT]|TokenType=Root|Word=pataɲãh
-15	-a	_	SCONJ	_	_	16	comp:obj	_	AlignBegin=91887|AlignEnd=92053|DerPos=NOUN|GE=[NMLZ]|Gloss=-NMLZ|nWord=9|RX=[V>N]|TokenType=DerAff|Word=pataɲãh
+15	-a	_	SCONJ	_	DerPos=NOUN	16	comp:obj	_	AlignBegin=91887|AlignEnd=92053|GE=[NMLZ]|Gloss=-NMLZ|nWord=9|RX=[V>N]|TokenType=DerAff|Word=pataɲãh
 16	=yo	=yo	ADP	_	_	17	comp:obj	_	AlignBegin=92053|AlignEnd=92723|GE=[INS]|Gloss==INS|nWord=10|RX=[POST]|TokenType=Clit|Word=yo
 17	=ma	=ma	PART	_	_	10	comp:obl	_	AlignBegin=92723|AlignEnd=93393|GE=[TOP]|Gloss==TOP|nWord=11|RX=[PRT]|TokenType=Clit|Word=ma
 18	,	_	PUNCT	_	_	17	punct	_	AlignBegin=93393|AlignEnd=94063|nWord=12|Word=,
@@ -789,7 +789,7 @@
 21	=na	=na	PART	_	_	0	root	_	AlignBegin=135451|AlignEnd=135774|GE=[REP]|Gloss==REP|nWord=13|RX=[PRT]|TokenType=Clit|Word=na
 22	toʔ	toʔ	PRON	_	_	26	det	_	AlignBegin=135774|AlignEnd=136097|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=14|RX=[PRO]|TokenType=Root|Word=toʔ
 23	,	_	PUNCT	_	_	22	punct	_	AlignBegin=136097|AlignEnd=136420|nWord=15|Word=,
-24	wiʃã	wiʃã	NOUN	_	_	26	mod	_	AlignBegin=136420|AlignEnd=136743|GE=fish|Gloss=fish|nWord=16|RX=[N]|TokenType=Root|Word=wiʃã
+24	wiʃã	wiʃã	NOUN	_	_	26	udep:poss	_	AlignBegin=136420|AlignEnd=136743|GE=fish|Gloss=fish|nWord=16|RX=[N]|TokenType=Root|Word=wiʃã
 25	a-	_	PRON	_	_	26	det:poss/m	_	AlignBegin=136743|AlignEnd=136905|GE=[POSS3SG]|Gloss=POSS3SG-|nWord=17|RX=[N:ANY]|TokenType=InflAff|Word=akaki
 26	kaki	kaki	NOUN	_	_	27	comp:obj	_	AlignBegin=136905|AlignEnd=137066|GE=mother|Gloss=mother|nWord=17|RX=[N]|TokenType=Root|Word=akaki
 27	=ya	=ya	ADP	_	Case=Erg	16	subj	_	AlignBegin=137066|AlignEnd=137389|GE=[ERG]|Gloss==ERG|nWord=18|RX=[PRT]|TokenType=Clit|Word=ɲa

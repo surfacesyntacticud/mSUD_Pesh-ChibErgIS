@@ -4,13 +4,13 @@
 # sent_timecode = 1940, 8380
 # morphemic_text = Ø- yẽh -er -wa =ma , kaya =s Ø- yẽh -er -wa =ma , ã manih =ri manih =ri karʃwĩka uʔ =ri .
 # text = ɲẽher ma , kaya s ɲẽher ma , ã minih ri manih ri karʃwĩka uʔ ri .
-# text_en =  The one they say, the story they say about Rabbit and then about Tiger.
-# text_phrase-gls-es =  lo que dicen una historia lo que dicen, ese el conejo y el conejo entonces así y el tigre
-# text_phrase-gls-pro =  FH; || ˈɲéːɾérmã̀h (0.9s) || ˈkájás ˈɲẽ̀ːɾˈmã̀ (0.5s) || ˈʔā mīˈnìhɾìː (0.3s) || mã̄ˈnĩ̀hɾĩ̀ ˈkáɾʃβ ĩ́ˈkàː (0.1s) || ˈʔúʔɾì (1.4s) ||
-# text_phrase-gls-it =  ɲéhɾérmã̀h kájás ɲẽ̀ːɾmã̀ ā mīnìhɾì mã̄nĩ̀hɾĩ̀
-# text_phrase-gls-tl =  Dicen           una historia     dicen             el    conejo        el       conejo      Entonces          el tigre
-# text_phrase-gls-wg =  say:PFV:3PL>3 NOM history INDF.ART say:PFV:3PL>3 NOM DEM.DIST rabbit COORD rabbit COORD then tiger COORD
-# text_phrase-gls-de =  165.01_FH
+# text_en = The one they say, the story they say about Rabbit and then about Tiger.
+# text_phrase-gls-es = lo que dicen una historia lo que dicen, ese el conejo y el conejo entonces así y el tigre
+# text_phrase-gls-pro = FH; || ˈɲéːɾérmã̀h (0.9s) || ˈkájás ˈɲẽ̀ːɾˈmã̀ (0.5s) || ˈʔā mīˈnìhɾìː (0.3s) || mã̄ˈnĩ̀hɾĩ̀ ˈkáɾʃβ ĩ́ˈkàː (0.1s) || ˈʔúʔɾì (1.4s) ||
+# text_phrase-gls-it = ɲéhɾérmã̀h kájás ɲẽ̀ːɾmã̀ ā mīnìhɾì mã̄nĩ̀hɾĩ̀
+# text_phrase-gls-tl = Dicen           una historia     dicen             el    conejo        el       conejo      Entonces          el tigre
+# text_phrase-gls-wg = say:PFV:3PL>3 NOM history INDF.ART say:PFV:3PL>3 NOM DEM.DIST rabbit COORD rabbit COORD then tiger COORD
+# text_phrase-gls-de = 165.01_FH
 1	Ø-	_	PRON	_	_	2	comp:obj/m	_	AlignBegin=1940|AlignEnd=2035|GE=[O3SG]|Gloss=O3SG-|nWord=1|RX=[VT:ANY]|TokenType=InflAff|Word=ɲẽher
 2	yẽh	yẽh	VERB	_	_	4	comp:aux/m	_	AlignBegin=2035|AlignEnd=2130|GE=say|Gloss=say|nWord=1|RX=[VT]|TokenType=Root|Word=ɲẽher
 3	-er	_	PRON	_	_	4	subj/m	_	AlignBegin=2130|AlignEnd=2225|GE=[S3PL]|Gloss=-S3PL|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=ɲẽher
@@ -41,13 +41,13 @@
 # sent_timecode = 9717, 14900
 # morphemic_text = kris ã akwa tWk Ø- -Ø -i , ah , pi- ã -pa pi -ah pi -ah =ʔã , a- tʃ -Ø -i ta -ha =yã nã -Ø -wa .
 # text = kris ã akwa tiki , aa , piãpa pyah pyah ʔã , atʃi tah yã nẽwa .
-# text_en =  One day, um, Tiger said "I will eat you wherever you are, I go the path he is on".
-# text_phrase-gls-es =  un día de estos le dijo (al conejo) “te comeré sea donde sea” ese (conejo) estaba sentado en el camino, iba,
-# text_phrase-gls-pro =  || kɾīsjāʔkwā tèkīʔ (0.4s) || ʔæ̃ːː (0.7s) || pīāˈpã́ː ˈpjə̃́h pjə̃́ ˈʔaːː (0.1s) || àˈt͡ʃì tàh ˈjẽ́ nẽ̀ˈwə̃̄h (0.1s) ||
-# text_phrase-gls-it =  káɾʃkw ĩ́kàːʔ úʔɾì kʲɾīsjāʔkwā tèkīʔ ə̃̀ː pīāpã́ pjə̃́h pjə̃́ ã́ːh àt͡ʃì tàh jẽ́ nẽ̀wə̃̄h
-# text_phrase-gls-tl =  un dia          le dijo       te         comeré       donde,  donde ()  estaba sentedo    camino  alli        iba          sentado      lo encontro
-# text_phrase-gls-wg =  time day other say:PST:3>3 INTERJ eat:FUT:1>2 place:NMLZ place:NMLZ =FOC sit:REFL:SIT:3 path:NMLZ LOC go:PFV:3
-# text_phrase-gls-de =  165.02_FH
+# text_en = One day, um, Tiger said "I will eat you wherever you are, I go the path he is on".
+# text_phrase-gls-es = un día de estos le dijo (al conejo) “te comeré sea donde sea” ese (conejo) estaba sentado en el camino, iba,
+# text_phrase-gls-pro = || kɾīsjāʔkwā tèkīʔ (0.4s) || ʔæ̃ːː (0.7s) || pīāˈpã́ː ˈpjə̃́h pjə̃́ ˈʔaːː (0.1s) || àˈt͡ʃì tàh ˈjẽ́ nẽ̀ˈwə̃̄h (0.1s) ||
+# text_phrase-gls-it = káɾʃkw ĩ́kàːʔ úʔɾì kʲɾīsjāʔkwā tèkīʔ ə̃̀ː pīāpã́ pjə̃́h pjə̃́ ã́ːh àt͡ʃì tàh jẽ́ nẽ̀wə̃̄h
+# text_phrase-gls-tl = un dia          le dijo       te         comeré       donde,  donde ()  estaba sentedo    camino  alli        iba          sentado      lo encontro
+# text_phrase-gls-wg = time day other say:PST:3>3 INTERJ eat:FUT:1>2 place:NMLZ place:NMLZ =FOC sit:REFL:SIT:3 path:NMLZ LOC go:PFV:3
+# text_phrase-gls-de = 165.02_FH
 # tags = Problem
 1	kris	kris	ADV	_	_	7	mod:tmod	_	AlignBegin=9717|AlignEnd=10022|GE=time|Gloss=time|nWord=1|RX=[ADV]|TokenType=Root|Word=kris
 2	ã	ã	NOUN	_	_	1	mod	_	AlignBegin=10022|AlignEnd=10327|GE=day|Gloss=day|nWord=2|RX=[N]|TokenType=Root|Word=ã
@@ -86,13 +86,13 @@
 # sent_timecode = 15025, 16232
 # morphemic_text = a- tʃah -i -hi =yã a- r- tapuk -Ø -i .
 # text = atʃihi yã artapuki .
-# text_en =  He found him where he was
-# text_phrase-gls-es =  estaba sentado, lo encontró
-# text_phrase-gls-pro =  || ˈàht͡ʃìhˈjaɾˈtə̀pùˈkīʔ ||
-# text_phrase-gls-it =  àt͡ʃìhʲ éɾtə̀pùkīʔ
-# text_phrase-gls-tl =  sentado      lo encontro
-# text_phrase-gls-wg =  sit:REFL:PST:3 LOC find:APPL:PST:3>3
-# text_phrase-gls-de =  165.03_FH
+# text_en = He found him where he was
+# text_phrase-gls-es = estaba sentado, lo encontró
+# text_phrase-gls-pro = || ˈàht͡ʃìhˈjaɾˈtə̀pùˈkīʔ ||
+# text_phrase-gls-it = àt͡ʃìhʲ éɾtə̀pùkīʔ
+# text_phrase-gls-tl = sentado      lo encontro
+# text_phrase-gls-wg = sit:REFL:PST:3 LOC find:APPL:PST:3>3
+# text_phrase-gls-de = 165.03_FH
 1	a-	_	AUX	_	Voice=Mid	2	comp/m	_	AlignBegin=15025|AlignEnd=15101|GE=[REFL]|Gloss=REFL-|nWord=1|RX=[VT>VI]|TokenType=InflAff|Word=atʃihi
 2	tʃah	tʃah	VERB	_	_	4	comp:aux/m	_	AlignBegin=15101|AlignEnd=15177|GE=sit|Gloss=sit|nWord=1|RX=[VT]|TokenType=Root|Word=atʃihi
 3	-i	_	PRON	_	_	4	subj/m	_	AlignBegin=15177|AlignEnd=15253|GE=[S3SG]|Gloss=-S3SG|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=atʃihi
@@ -111,13 +111,13 @@
 # sent_timecode = 16263, 24827
 # morphemic_text = tW Ø- -Ø -wa , ani =yã , ah , a- kore , a- kore uʔ =ya , ah ẽkẽta =ma ta- keka manih , ẽketa =ma pi- sukuh -a -wa p- ã -pa .
 # text = twa , ni ɲã , aa , akore , akore uʔ ɲa , ah ẽkẽta ma takeka manih , ẽketa ma pisukuha pãpa .
-# text_en =  He said, there, Uncle, Uncle Tiger "Ah, now nephew Rabbit, I catch you and I will eat you"
-# text_phrase-gls-es =  Aquí, ese tío, ese tío tigre, ahora mi sobrino
-# text_phrase-gls-pro =  || =%twaːː% (0.2s) || ˈnĩ̄ʔɲaː (0.4s) || ʔaːː (0.2s) || àˈkõ̀ɾèː || ʔ àˈkõ̀ɾèʔ ˈúɣɲə̀ʔ (0.5s) || ʔáːːːːː (0.4s) || ˈēkēˈtámə̀ tə̀ ˈkèkkə̀ːːʔ (0.1s) ˈnãmi (0.1s) || ˈèkèˈtámə̀ ˈpì skúˈhə̀ pə̀ˈpə̃̄ʔ ||
-# text_phrase-gls-it =  twàːʔ nĩ̄hɲə̃̀ʔ ã̀ʔ àkõ̀ɾèːʔ àkõ̀ɾèʔ úɣɲə̀ʔ áːh ēkētámə̀ tə̀ kèkkə̀ːʔ mã̀nĩ̀h èkètámə̀ pì skúhə̀ pə̀pə̃̄ʔ
-# text_phrase-gls-tl =  El  ()                   tio        tigre             a:::       ahora             mi        sobrino Conejo      ahora              te         agarrare     te comeré
-# text_phrase-gls-wg =  say:PFV:3>3 there LOC INTERJ uncle:3 uncle:3 tiger =ERG INTERJ now TOP nephew:1 rabbit now TOP grab:PFV:1>2 eat:FUT:1>2
-# text_phrase-gls-de =  165.04_FH
+# text_en = He said, there, Uncle, Uncle Tiger "Ah, now nephew Rabbit, I catch you and I will eat you"
+# text_phrase-gls-es = Aquí, ese tío, ese tío tigre, ahora mi sobrino
+# text_phrase-gls-pro = || =%twaːː% (0.2s) || ˈnĩ̄ʔɲaː (0.4s) || ʔaːː (0.2s) || àˈkõ̀ɾèː || ʔ àˈkõ̀ɾèʔ ˈúɣɲə̀ʔ (0.5s) || ʔáːːːːː (0.4s) || ˈēkēˈtámə̀ tə̀ ˈkèkkə̀ːːʔ (0.1s) ˈnãmi (0.1s) || ˈèkèˈtámə̀ ˈpì skúˈhə̀ pə̀ˈpə̃̄ʔ ||
+# text_phrase-gls-it = twàːʔ nĩ̄hɲə̃̀ʔ ã̀ʔ àkõ̀ɾèːʔ àkõ̀ɾèʔ úɣɲə̀ʔ áːh ēkētámə̀ tə̀ kèkkə̀ːʔ mã̀nĩ̀h èkètámə̀ pì skúhə̀ pə̀pə̃̄ʔ
+# text_phrase-gls-tl = El  ()                   tio        tigre             a:::       ahora             mi        sobrino Conejo      ahora              te         agarrare     te comeré
+# text_phrase-gls-wg = say:PFV:3>3 there LOC INTERJ uncle:3 uncle:3 tiger =ERG INTERJ now TOP nephew:1 rabbit now TOP grab:PFV:1>2 eat:FUT:1>2
+# text_phrase-gls-de = 165.04_FH
 1	tV	tV	VERB	_	_	4	comp:aux	_	AlignBegin=16263|AlignEnd=16352|GE=say|Gloss=say|nWord=1|RX=[VT]|TokenType=Root|Word=twa|wordform=tW
 2	-Ø	_	PRON	_	_	1	comp:obj/m	_	AffLemma=Ø-|AlignBegin=16352|AlignEnd=16441|GE=[O3SG]|Gloss=O3SG-|nWord=1|RX=[VT:ANY]|TokenType=InflAff|Word=twa|wordform=Ø-
 3	-Ø	_	PRON	_	_	4	subj/m	_	AlignBegin=16441|AlignEnd=16530|GE=[S3SG]|Gloss=-S3SG|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=twa
@@ -160,13 +160,13 @@
 # sent_timecode = 24827, 27524
 # morphemic_text = uhu , uhu , uhu , uhu , ta- ã -u -tW -h , ta- ã -u -tW -h , tWk -Ø -Ø -i .
 # text = uhu , uhu , uhu , uhu , tãutih , tãutih , tiki .
-# text_en =  "No, no, no, no, don’t eat me, don’t eat me," he said.
-# text_phrase-gls-es =  “conejo, ahora, te agarraré y te comeré” “uhu no me comas”
-# text_phrase-gls-pro =  || ʔɔ̃wʔúūùʔúūùhúūù (0.1s) || ˈtāʔũ̄ˈtĩ̀h ˈtāʔũ̄ˈtĩ̀h tìˈkìʔ (0.6s) ||
-# text_phrase-gls-it =  úūúūúūhúū táhwtĩ̄h tāhũ̄tĩ̀h tìkìʔ
-# text_phrase-gls-tl =  no, no, no,   no me comas    Le dijo
-# text_phrase-gls-wg =  no no no no eat:NEG:IMP:2>1 eat:NEG:IMP:2>1 say:PST:3>3
-# text_phrase-gls-de =  165.05_FH
+# text_en = "No, no, no, no, don’t eat me, don’t eat me," he said.
+# text_phrase-gls-es = “conejo, ahora, te agarraré y te comeré” “uhu no me comas”
+# text_phrase-gls-pro = || ʔɔ̃wʔúūùʔúūùhúūù (0.1s) || ˈtāʔũ̄ˈtĩ̀h ˈtāʔũ̄ˈtĩ̀h tìˈkìʔ (0.6s) ||
+# text_phrase-gls-it = úūúūúūhúū táhwtĩ̄h tāhũ̄tĩ̀h tìkìʔ
+# text_phrase-gls-tl = no, no, no,   no me comas    Le dijo
+# text_phrase-gls-wg = no no no no eat:NEG:IMP:2>1 eat:NEG:IMP:2>1 say:PST:3>3
+# text_phrase-gls-de = 165.05_FH
 1	uhu	uhu	INTJ	_	_	13	discourse	_	AlignBegin=24827|AlignEnd=25020|GE=no|Gloss=no|nWord=1|RX=[INTERJ]|TokenType=Root|Word=uhu
 2	,	_	PUNCT	_	_	1	punct	_	AlignBegin=25020|AlignEnd=25213|nWord=2|Word=,
 3	uhu	uhu	INTJ	_	_	1	conj:coord	_	AlignBegin=25213|AlignEnd=25406|GE=no|Gloss=no|nWord=3|RX=[INTERJ]|TokenType=Root|Word=uhu
@@ -199,13 +199,13 @@
 # sent_timecode = 28124, 30179
 # morphemic_text = ta- ã -u -tW -h =hãʔ , ekata =re =pe .
 # text = tãutih hĩʔ , ekata re pe .
-# text_en =  "Don’t eat me yet."
-# text_phrase-gls-es =  Le dijo “no me comas ahorita
-# text_phrase-gls-pro =  || ˈtāʔùhtĩ̄ˈhĩ̄h (0.5s) || ˈʔèkāˈtaɾəˈpēʔ (0.5s) ||
-# text_phrase-gls-it =  tāùʔtĩ̄hĩ̄h èkə̄tə́ɾpēʔ
-# text_phrase-gls-tl =  no me comas   le dijo,      no me comas  ahorita
-# text_phrase-gls-wg =  eat:NEG:IMP:2>1 =FOC now =TEMP only
-# text_phrase-gls-de =  165.06_FH
+# text_en = "Don’t eat me yet."
+# text_phrase-gls-es = Le dijo “no me comas ahorita
+# text_phrase-gls-pro = || ˈtāʔùhtĩ̄ˈhĩ̄h (0.5s) || ˈʔèkāˈtaɾəˈpēʔ (0.5s) ||
+# text_phrase-gls-it = tāùʔtĩ̄hĩ̄h èkə̄tə́ɾpēʔ
+# text_phrase-gls-tl = no me comas   le dijo,      no me comas  ahorita
+# text_phrase-gls-wg = eat:NEG:IMP:2>1 =FOC now =TEMP only
+# text_phrase-gls-de = 165.06_FH
 1	ta-	_	PRON	_	_	2	comp:obj/m	_	AlignBegin=28124|AlignEnd=28183|GE=[O1]|Gloss=O1-|nWord=1|RX=[VT:ANY]|TokenType=InflAff|Word=tãutih
 2	ã	ã	VERB	_	_	4	comp:aux/m	_	AlignBegin=28183|AlignEnd=28242|GE=eat|Gloss=eat|nWord=1|RX=[VT]|TokenType=Root|Word=tãutih
 3	-u	_	PRON	_	_	4	subj/m	_	AlignBegin=28242|AlignEnd=28301|GE=[S2]|Gloss=-S2|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=tãutih
@@ -224,13 +224,13 @@
 # sent_timecode = 30724, 36924
 # morphemic_text = ĩɲãh =ma , ah , wakaʃ -a tutu -a tia =kan worih -a , aka =s a- tʃ -Ø -i =ʔi ãma .
 # text = ĩɲãh ma , aa , wakaʃa tutua tia kan woriha , ka s atʃi ʔi ãma .
-# text_en =  Here, there is a BIG roll of cheese (AM chuckles).
-# text_phrase-gls-es =  aquí” “como el agua (leche) de la teta de la vaca, está (sentado) un gran (queso) redondo”
-# text_phrase-gls-pro =  || ɲːã́hmã̀ːʔ (0.6s) || ə̃̀ːː wə̀káʃ ā tútːú ə̀ʔtìàːkán ɡwóɾíhàʔa ((AM; || @hn (0.1s) || )) || káhs ə̄t͡ʃīʔijã̀mã̀ ((AM; || @hæ || )) ||
-# text_phrase-gls-it =  ɲːã́hmã̀ʔ ə̃̀ː wə̀káʃ ā túttú ə̀ʔtìàːkán ɡwóɾíh àʔkáhs ə̄t͡ʃīhī ã̀mã̀
-# text_phrase-gls-tl =  aquí     () vaca              ()      teta          parece que esta   redondo   grande    esta          ()
-# text_phrase-gls-wg =  here TOP INTERJ cow:NMLZ breast:NMLZ liquid SIM curdle:PTCP big INDF.ART sit:REFL:SIT:3 =FOC HES
-# text_phrase-gls-de =  165.07_FH
+# text_en = Here, there is a BIG roll of cheese (AM chuckles).
+# text_phrase-gls-es = aquí” “como el agua (leche) de la teta de la vaca, está (sentado) un gran (queso) redondo”
+# text_phrase-gls-pro = || ɲːã́hmã̀ːʔ (0.6s) || ə̃̀ːː wə̀káʃ ā tútːú ə̀ʔtìàːkán ɡwóɾíhàʔa ((AM; || @hn (0.1s) || )) || káhs ə̄t͡ʃīʔijã̀mã̀ ((AM; || @hæ || )) ||
+# text_phrase-gls-it = ɲːã́hmã̀ʔ ə̃̀ː wə̀káʃ ā túttú ə̀ʔtìàːkán ɡwóɾíh àʔkáhs ə̄t͡ʃīhī ã̀mã̀
+# text_phrase-gls-tl = aquí     () vaca              ()      teta          parece que esta   redondo   grande    esta          ()
+# text_phrase-gls-wg = here TOP INTERJ cow:NMLZ breast:NMLZ liquid SIM curdle:PTCP big INDF.ART sit:REFL:SIT:3 =FOC HES
+# text_phrase-gls-de = 165.07_FH
 1	ĩɲãh	ĩɲãh	ADV	_	_	2	comp:obj	_	AlignBegin=30724|AlignEnd=31089|GE=here|Gloss=here|nWord=1|RX=[ADV]|TokenType=Root|Word=ĩɲãh
 2	=ma	=ma	PART	_	_	20	comp:pred	_	AlignBegin=31089|AlignEnd=31454|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
 3	,	_	PUNCT	_	_	2	punct	_	AlignBegin=31454|AlignEnd=31819|nWord=3|Word=,
@@ -243,7 +243,7 @@
 10	tia	tia	NOUN	_	_	11	comp:obj	_	AlignBegin=33279|AlignEnd=33644|GE=liquid|Gloss=liquid|nWord=8|RX=[N]|TokenType=Root|Word=tia
 11	=kan	=kan	PART	_	_	13	mod	_	AlignBegin=33644|AlignEnd=34009|GE=[SIM]|Gloss==SIM|nWord=9|RX=[PRT]|TokenType=Clit|Word=kan
 12	worih	worih	VERB	_	_	13	comp:aux	_	AlignBegin=34009|AlignEnd=34191|GE=curdle|Gloss=curdle|nWord=10|RX=[VT]|TokenType=Root|Word=woriha
-13	-a	_	SCONJ	_	_	18	subj	_	AlignBegin=34191|AlignEnd=34374|DerPos=NOUN|GE=[PTCP]|Gloss=PTCP|nWord=10|RX=[V>N]|TokenType=DerAff|Word=woriha
+13	-a	_	SCONJ	_	DerPos=NOUN	18	subj	_	AlignBegin=34191|AlignEnd=34374|GE=[PTCP]|Gloss=PTCP|nWord=10|RX=[V>N]|TokenType=DerAff|Word=woriha
 14	,	_	PUNCT	_	_	13	punct	_	AlignBegin=34374|AlignEnd=34739|nWord=11|Word=,
 15	aka	aka	NOUN	_	_	13	mod	_	AlignBegin=34739|AlignEnd=35104|GE=big|Gloss=big|nWord=12|RX=[N]|TokenType=Root|Word=ka
 16	=s	=s	DET	_	_	15	det	_	AlignBegin=35104|AlignEnd=35469|GE=[INDF].[ART]|Gloss==INDF.ART|nWord=13|RX=[DET]|TokenType=Clit|Word=s
@@ -261,13 +261,13 @@
 # sent_timecode = 36924, 39827
 # morphemic_text = ã =yã ã =ra Ø- pas -pa , pa =ma ke aka =r -Ø -i =ras teʔk -u -h ta- r- wark -u -h .
 # text = ãy ã ra paspa , pa ma ke aka re ras teʔkuh tarwarkuh .
-# text_en =  FH: I will take it out. Come help me because you are big.
-# text_phrase-gls-es =  “Por eso, ahí, lo sacaré, como tú eres grande, ven, ayúdame”
-# text_phrase-gls-pro =  || ʔæ̃ˈjə̃̀ɾə̃́ ˈpàspə́ (0.1s) || =ˈpáàmə̀ ˈkè ʔàˈkáɾèˈɾās ˈtékò ˈtə́ɾwə́ɾhˈkùː ||
-# text_phrase-gls-it =  ã̀ːjə̃̀ɾə̃́ pàspə́ páàmə̀ kè àʔkáɾèɾās tékò tə́ɾwə́ɾhkùː
-# text_phrase-gls-tl =  Eso es     lo sacare       como usted   sos grande      veni              ayúdame
-# text_phrase-gls-wg =  DEM.DIST:LOC_there DEM.DIST PURP take.out:FUT:1>3 PRO2 TOP already big =COP:PST:3 REAS come:IMP:2 help:APPL:IMP:2>1
-# text_phrase-gls-de =  165.08_FH
+# text_en = FH: I will take it out. Come help me because you are big.
+# text_phrase-gls-es = “Por eso, ahí, lo sacaré, como tú eres grande, ven, ayúdame”
+# text_phrase-gls-pro = || ʔæ̃ˈjə̃̀ɾə̃́ ˈpàspə́ (0.1s) || =ˈpáàmə̀ ˈkè ʔàˈkáɾèˈɾās ˈtékò ˈtə́ɾwə́ɾhˈkùː ||
+# text_phrase-gls-it = ã̀ːjə̃̀ɾə̃́ pàspə́ páàmə̀ kè àʔkáɾèɾās tékò tə́ɾwə́ɾhkùː
+# text_phrase-gls-tl = Eso es     lo sacare       como usted   sos grande      veni              ayúdame
+# text_phrase-gls-wg = DEM.DIST:LOC_there DEM.DIST PURP take.out:FUT:1>3 PRO2 TOP already big =COP:PST:3 REAS come:IMP:2 help:APPL:IMP:2>1
+# text_phrase-gls-de = 165.08_FH
 1	ã	ã	PRON	_	_	2	comp:obj	_	AlignBegin=36924|AlignEnd=37028|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=ãy
 2	=yã	=yã	ADP	_	_	7	discourse	_	AlignBegin=37028|AlignEnd=37131|GE=[LOC]|Gloss==LOC|nWord=1|RX=[POST]|TokenType=Clit|Word=ãy
 3	ã	ã	PRON	_	_	4	comp:obj	_	AlignBegin=37131|AlignEnd=37338|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=2|RX=[PRO]|TokenType=Root|Word=ã
@@ -300,13 +300,13 @@
 # sent_timecode = 39930, 42854
 # morphemic_text = aso a- kas- pas -par -h Ø- sukuh pask ã -par -h tWk Ø- -Ø -i .
 # text = aso akaspasprah sukuhpaskãprah tiki .
-# text_en =  "Let's get it out of the water, we'll catch it and we'll eat it", said (Rabbit).
-# text_phrase-gls-es =  “Saquémoslo del agua, agarrémoslo, saquémoslo, cómenoslo”, dijo
-# text_phrase-gls-pro =  || àʔàsòʔ (0.3s) || àkáspáspɾə̀ sùkɔ pāskàʔpɾāh tìɡìʔ (0.6s) ||
-# text_phrase-gls-it =  àʔàsòʔ àkáspáspɾə̀ sùkū pāskàʔpɾāh tìɡìʔ
-# text_phrase-gls-tl =  Agua     saquemos          agarrarlo  lo sacamos   comámoslo    le dijo
-# text_phrase-gls-wg =  water take.out:APPL:IMP:INCL>3 grab+take.out+eat:IMP:INCL>3 say:PST:3>3
-# text_phrase-gls-de =  165.09_FH
+# text_en = "Let's get it out of the water, we'll catch it and we'll eat it", said (Rabbit).
+# text_phrase-gls-es = “Saquémoslo del agua, agarrémoslo, saquémoslo, cómenoslo”, dijo
+# text_phrase-gls-pro = || àʔàsòʔ (0.3s) || àkáspáspɾə̀ sùkɔ pāskàʔpɾāh tìɡìʔ (0.6s) ||
+# text_phrase-gls-it = àʔàsòʔ àkáspáspɾə̀ sùkū pāskàʔpɾāh tìɡìʔ
+# text_phrase-gls-tl = Agua     saquemos          agarrarlo  lo sacamos   comámoslo    le dijo
+# text_phrase-gls-wg = water take.out:APPL:IMP:INCL>3 grab+take.out+eat:IMP:INCL>3 say:PST:3>3
+# text_phrase-gls-de = 165.09_FH
 1	aso	aso	NOUN	_	_	3	comp:obj@appl	_	AlignBegin=39930|AlignEnd=40515|GE=water|Gloss=water|nWord=1|RX=[N]|TokenType=Root|Word=aso
 2	a-	_	PRON	_	_	3	comp:obj@appl/m	_	AlignBegin=40515|AlignEnd=40632|GE=[O3SG]|Gloss=O3SG-|nWord=2|RX=[VT:ANY]|TokenType=InflAff|Word=akaspasprah
 3	kas-	_	AUX	_	Voice=Appl	6	comp:aux/m	_	AlignBegin=40632|AlignEnd=40749|GE=[APPL].[R]|Gloss=APPL.R-|nWord=2|RX=[V>VT]|TokenType=InflAff|Word=akaspasprah
@@ -331,13 +331,13 @@
 # sent_timecode = 43416, 44644
 # morphemic_text = akaʃkwa =ya , pi -ah =sa .
 # text = akaʃkwa ya , pyah sa .
-# text_en =  Then, "Where is it?" (said Tiger).
-# text_phrase-gls-es =  entonces   “Donde es?”
-# text_phrase-gls-pro =  || àːɡāʃkwəja pjáhsà (0.5s) ||
-# text_phrase-gls-it =  àːɡāʃkwə̄ʲə̄ pjáhsà
-# text_phrase-gls-tl =  entonces    ¿Dónde es ?
-# text_phrase-gls-wg =  then =LOC place:NMLZ C.Q
-# text_phrase-gls-de =  165.10_FH
+# text_en = Then, "Where is it?" (said Tiger).
+# text_phrase-gls-es = entonces   “Donde es?”
+# text_phrase-gls-pro = || àːɡāʃkwəja pjáhsà (0.5s) ||
+# text_phrase-gls-it = àːɡāʃkwə̄ʲə̄ pjáhsà
+# text_phrase-gls-tl = entonces    ¿Dónde es ?
+# text_phrase-gls-wg = then =LOC place:NMLZ C.Q
+# text_phrase-gls-de = 165.10_FH
 1	akaʃkwa	akaʃkwa	PART	_	_	2	comp:obj	_	AlignBegin=43416|AlignEnd=43621|GE=then|Gloss=then|nWord=1|RX=[PRT]|TokenType=Root|Word=akaʃkwa
 2	=ya	=ya	ADP	_	_	0	root	_	AlignBegin=43621|AlignEnd=43826|GE=[LOC]|Gloss==LOC|nWord=2|RX=[POST]|TokenType=Clit|Word=ya
 3	,	_	PUNCT	_	_	2	punct	_	AlignBegin=43826|AlignEnd=44031|nWord=3|Word=,
@@ -352,13 +352,13 @@
 # sent_timecode = 45138, 48496
 # morphemic_text = yar Ø- pak -Ø -i Ø- tʃã -Ø -wa =ma , toʔ ãm , nẽhã , yui =ra , kamas kiak -Ø -wa .
 # text = yar paki ʃãu ma , toʔ ãm , nẽhã , yui ra .
-# text_en =  He really took him when he saw the, um, moon.
-# text_phrase-gls-es =  lo llevó ahí lo que vio es (que) la luna blanca era alta (alumbraba blanco).
-# text_phrase-gls-pro =  || jāɾ pāki ʃẽ̄ʔũ̀mã̀ (0.4s) || tòʔ ã̀ːːːːm nẽ̄hã̄ d͡ʒùʔwìɾá (0.4s) ||
-# text_phrase-gls-it =  jāɾ pākʲ ʃẽ̄ũ̀mã̀ tòʔ ã̀ːm nẽ̄hã̄ d͡ʒùʔìɾá kàmásː kjākwɛ̃̄h
-# text_phrase-gls-tl =  lo llevo  miro               eso     ()          ()           la luna
-# text_phrase-gls-wg =  true take:PST:3>3 see:PFV:3>3 =when DEM.MED HES HES moon ABS light be.tall:PFV:3
-# text_phrase-gls-de =  165.11_FH
+# text_en = He really took him when he saw the, um, moon.
+# text_phrase-gls-es = lo llevó ahí lo que vio es (que) la luna blanca era alta (alumbraba blanco).
+# text_phrase-gls-pro = || jāɾ pāki ʃẽ̄ʔũ̀mã̀ (0.4s) || tòʔ ã̀ːːːːm nẽ̄hã̄ d͡ʒùʔwìɾá (0.4s) ||
+# text_phrase-gls-it = jāɾ pākʲ ʃẽ̄ũ̀mã̀ tòʔ ã̀ːm nẽ̄hã̄ d͡ʒùʔìɾá kàmásː kjākwɛ̃̄h
+# text_phrase-gls-tl = lo llevo  miro               eso     ()          ()           la luna
+# text_phrase-gls-wg = true take:PST:3>3 see:PFV:3>3 =when DEM.MED HES HES moon ABS light be.tall:PFV:3
+# text_phrase-gls-de = 165.11_FH
 1	yar	yar	NOUN	_	_	5	mod	_	AlignBegin=45138|AlignEnd=45348|GE=true|Gloss=true|nWord=1|RX=[<NOT_SURE>]|TokenType=Root|Word=yar
 2	Ø-	_	PRON	_	_	3	comp:obj/m	_	AlignBegin=45348|AlignEnd=45400|GE=[O3SG]|Gloss=O3SG-|nWord=2|RX=[VT:ANY]|TokenType=InflAff|Word=paki
 3	pak	pak	VERB	_	_	5	comp:aux/m	_	AlignBegin=45400|AlignEnd=45452|GE=take|Gloss=take|nWord=2|RX=[VT]|TokenType=Root|Word=paki
@@ -385,13 +385,13 @@
 # sent_timecode = 48889, 55260
 # morphemic_text = kamasa kiak -Ø -wa =ha , aso wa =yã nẽʔ ã =yã , tuʔ tut nĩhã , wakaʃ -a tutu -a wurih -a =kan .
 # text = kamasa kyakwa haʔ , aso wa yã nẽʔ ã ɲã , tuʔ tut nĩhã , wakaʃa tutua wuriha kan .
-# text_en =  It SHINED high up, in the water what is it there, like the curdled m- mil-, um, cow’s milk.
-# text_phrase-gls-es =  Fue al rio, ahi, (era) como varias tetas de vacas
-# text_phrase-gls-pro =  || kàmásːːːːːː (0.1s) || kjākwɛ̃̄hã̀ʔ || àsówã́jə̃́ nẽ́ʔ àɲə̄ (0.4s) || tuːʔ tūt nĩ̄hã̄ʔ (0.4s) || wə̀ˈkáʃ ə̀ ˈtúʔtwə́ ˈwúɾíhàʔˈkán (0.1s) ||
-# text_phrase-gls-it =  ã̀ːʔ àsówã́jə̃́ nẽ́ àɲə̄h tòʔ tūt nĩ̄hã̄ʔ wə̀káʃ ə̀ tútw ə́wúɾíhàʔkán
-# text_phrase-gls-tl =  alumbra        En la    en el rio          fue        yendo          eso     vaca            la        teta         mantequilla
-# text_phrase-gls-wg =  white be.tall:PFV:3 =FOC water eye LOC HES DEM.DIST LOC HES HES PH cow:NMLZ breast:NMLZ curdle:PTCP SIM
-# text_phrase-gls-de =  165.12_FH
+# text_en = It SHINED high up, in the water what is it there, like the curdled m- mil-, um, cow’s milk.
+# text_phrase-gls-es = Fue al rio, ahi, (era) como varias tetas de vacas
+# text_phrase-gls-pro = || kàmásːːːːːː (0.1s) || kjākwɛ̃̄hã̀ʔ || àsówã́jə̃́ nẽ́ʔ àɲə̄ (0.4s) || tuːʔ tūt nĩ̄hã̄ʔ (0.4s) || wə̀ˈkáʃ ə̀ ˈtúʔtwə́ ˈwúɾíhàʔˈkán (0.1s) ||
+# text_phrase-gls-it = ã̀ːʔ àsówã́jə̃́ nẽ́ àɲə̄h tòʔ tūt nĩ̄hã̄ʔ wə̀káʃ ə̀ tútw ə́wúɾíhàʔkán
+# text_phrase-gls-tl = alumbra        En la    en el rio          fue        yendo          eso     vaca            la        teta         mantequilla
+# text_phrase-gls-wg = white be.tall:PFV:3 =FOC water eye LOC HES DEM.DIST LOC HES HES PH cow:NMLZ breast:NMLZ curdle:PTCP SIM
+# text_phrase-gls-de = 165.12_FH
 1	kamasa	kamasa	NOUN	_	_	2	comp:pred	_	AlignBegin=48889|AlignEnd=49208|GE=white|Gloss=white|nWord=1|RX=[N]|TokenType=Root|Word=kamasa
 2	kiak	kiak	VERB	_	_	4	comp:aux/m	_	AlignBegin=49208|AlignEnd=49314|GE=be.tall|Gloss=be.tall|nWord=2|RX=[VI]|TokenType=Root|Word=kyakwa
 3	-Ø	_	PRON	_	_	4	subj/m	_	AlignBegin=49314|AlignEnd=49420|GE=[S3SG]|Gloss=-S3SG|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=kyakwa
@@ -414,7 +414,7 @@
 20	tutu	tutu	NOUN	_	_	21	comp/m	_	AlignBegin=53993|AlignEnd=54153|GE=breast|Gloss=breast|nWord=17|RX=[N]|TokenType=Root|Word=tutua
 21	-a	_	AUX	_	_	23	mod:poss	_	AlignBegin=54153|AlignEnd=54312|GE=[NMLZ]|Gloss=-NMLZ|nWord=17|RX=[V>N]|TokenType=InflAff|Word=tutua
 22	wurih	wurih	VERB	_	_	23	comp:obj/m	_	AlignBegin=54312|AlignEnd=54472|GE=curdle|Gloss=curdle|nWord=18|RX=[VT]|TokenType=Root|Word=wuriha
-23	-a	_	SCONJ	_	_	24	comp:obj	_	AlignBegin=54472|AlignEnd=54631|DerPos=NOUN|GE=[PTCP]|Gloss=PTCP|nWord=18|RX=[V>N]|TokenType=DerAff|Word=wuriha
+23	-a	_	SCONJ	_	DerPos=NOUN	24	comp:obj	_	AlignBegin=54472|AlignEnd=54631|GE=[PTCP]|Gloss=PTCP|nWord=18|RX=[V>N]|TokenType=DerAff|Word=wuriha
 24	=kan	=kan	PART	_	_	4	mod	_	AlignBegin=54631|AlignEnd=54950|GE=[SIM]|Gloss==SIM|nWord=19|RX=[PRT]|TokenType=Clit|Word=kan
 25	.	_	PUNCT	_	_	4	punct	_	AlignBegin=54950|AlignEnd=55260|Gloss=.|nWord=20|Word=.
 
@@ -424,13 +424,13 @@
 # sent_timecode = 55395, 57070
 # morphemic_text = aka witʃi -ha a- tʃ -Ø -i =hĩ ã =yã ã =ra .
 # text = aka witʃih atʃi hĩ ãy ã rã .
-# text_en =  It was a big circle.
-# text_phrase-gls-es =  esta grande, redondo,
-# text_phrase-gls-pro =  || ã̀kāɣūt͡ʃíh (0.1s) || àt͡ʃìʔī ã̀ɲã̀ɾã̄ (0.3s) ||
-# text_phrase-gls-it =  ã̀kāɣūt͡ʃíh àt͡ʃìhī ã̀jã̀ɾã̄
-# text_phrase-gls-tl =  Redondo      esta         eso es
-# text_phrase-gls-wg =  big round:NMLZ sit:REFL:SIT:3 =FOC DEM.DIST:LOC_there DEM.DIST =PURP
-# text_phrase-gls-de =  165.13_FH
+# text_en = It was a big circle.
+# text_phrase-gls-es = esta grande, redondo,
+# text_phrase-gls-pro = || ã̀kāɣūt͡ʃíh (0.1s) || àt͡ʃìʔī ã̀ɲã̀ɾã̄ (0.3s) ||
+# text_phrase-gls-it = ã̀kāɣūt͡ʃíh àt͡ʃìhī ã̀jã̀ɾã̄
+# text_phrase-gls-tl = Redondo      esta         eso es
+# text_phrase-gls-wg = big round:NMLZ sit:REFL:SIT:3 =FOC DEM.DIST:LOC_there DEM.DIST =PURP
+# text_phrase-gls-de = 165.13_FH
 1	aka	aka	NOUN	_	_	2	mod:poss	_	AlignBegin=55395|AlignEnd=55604|GE=big|Gloss=big|nWord=1|RX=[N]|TokenType=Root|Word=aka
 2	witʃi	witʃi	NOUN	_	_	3	comp:aux/m	_	AlignBegin=55604|AlignEnd=55708|GE=round|Gloss=round|nWord=2|RX=[N]|TokenType=Root|Word=witʃih
 3	-ha	_	AUX	_	_	5	comp:pred	_	AlignBegin=55708|AlignEnd=55813|GE=[NMLZ]|Gloss=-NMLZ|nWord=2|RX=[V>N]|TokenType=InflAff|Word=witʃih
@@ -451,13 +451,13 @@
 # sent_timecode = 57420, 59909
 # morphemic_text = Ø- pask ã -par -h tWk -Ø -i -ya , ah manih , manih =ra .
 # text = paskãprah tikiya , aa minih , manih ra .
-# text_en =  “Let’s catch it and eat it”, he told Rabbit.
-# text_phrase-gls-es =  “saquemoslo y comemoslo ese”, le dijo al conejo
-# text_phrase-gls-pro =  || páskã̀ʔpɾāh (0.2s) || tīkījàːʔ àh mɨ̀nìh mànìhɾàʔ (0.4s) ||
-# text_phrase-gls-it =  páskã̀ʔpɾāh tīkī àʔ àh mɨ̀nìh mànìhɾàʔ
-# text_phrase-gls-tl =  saquémoslo  lo comemos  el        conejo
-# text_phrase-gls-wg =  take.out+eat:FUT.PX:INCL>3 say:PFV:3>3 INTERJ rabbit rabbit ABS
-# text_phrase-gls-de =  165.14_FH
+# text_en = “Let’s catch it and eat it”, he told Rabbit.
+# text_phrase-gls-es = “saquemoslo y comemoslo ese”, le dijo al conejo
+# text_phrase-gls-pro = || páskã̀ʔpɾāh (0.2s) || tīkījàːʔ àh mɨ̀nìh mànìhɾàʔ (0.4s) ||
+# text_phrase-gls-it = páskã̀ʔpɾāh tīkī àʔ àh mɨ̀nìh mànìhɾàʔ
+# text_phrase-gls-tl = saquémoslo  lo comemos  el        conejo
+# text_phrase-gls-wg = take.out+eat:FUT.PX:INCL>3 say:PFV:3>3 INTERJ rabbit rabbit ABS
+# text_phrase-gls-de = 165.14_FH
 1	Ø-	_	PRON	_	_	2	comp:obj/m	_	AlignBegin=57420|AlignEnd=57475|GE=[O3SG]|Gloss=O3SG-|nWord=1|RX=[VT:ANY]|TokenType=InflAff|Word=paskãprah
 2	pask	pask	VERB	_	_	3	compound:svc	_	AlignBegin=57475|AlignEnd=57530|GE=take.out|Gloss=take.out|nWord=1|RX=[VT]|TokenType=Root|Word=paskãprah
 3	ã	ã	VERB	_	_	5	comp:aux/m	_	AlignBegin=57530|AlignEnd=57585|GE=eat|Gloss=eat|nWord=1|RX=[VT]|TokenType=Root|Word=paskãprah
@@ -481,13 +481,13 @@
 # sent_timecode = 60310, 61828
 # morphemic_text = akarʃkwa ta- r- wark -u -h aso Ø- tokk -u -h .
 # text = akarʃkwa tarwarkuh aso tokkuh .
-# text_en =  "Then help me drink the water!"
-# text_phrase-gls-es =  “Entonces, ayúdame,
-# text_phrase-gls-pro =  || ə̃̀ʔkāɾʃkwɨ̄ tə́ɾwə́ɾkw ə̄swò tòk púk̚ (0.6s) ||
-# text_phrase-gls-it =  ə̃̀ʔkāɾʃkwɨ̄ tə́ɾwə́ɾkw ə̄swò tòk púk
-# text_phrase-gls-tl =  Entonces          ayúdame            agua       toma
-# text_phrase-gls-wg =  then help:APPL:IMP:2>1 water drink:IMP:2>3
-# text_phrase-gls-de =  165.15_FH
+# text_en = "Then help me drink the water!"
+# text_phrase-gls-es = “Entonces, ayúdame,
+# text_phrase-gls-pro = || ə̃̀ʔkāɾʃkwɨ̄ tə́ɾwə́ɾkw ə̄swò tòk púk̚ (0.6s) ||
+# text_phrase-gls-it = ə̃̀ʔkāɾʃkwɨ̄ tə́ɾwə́ɾkw ə̄swò tòk púk
+# text_phrase-gls-tl = Entonces          ayúdame            agua       toma
+# text_phrase-gls-wg = then help:APPL:IMP:2>1 water drink:IMP:2>3
+# text_phrase-gls-de = 165.15_FH
 1	akarʃkwa	akarʃkwa	PART	_	_	6	discourse	_	AlignBegin=60310|AlignEnd=60614|GE=then|Gloss=then|nWord=1|RX=[PRT]|TokenType=Root|Word=akarʃkwa
 2	ta-	_	PRON	_	_	3	comp:obj@appl/m	_	AlignBegin=60614|AlignEnd=60675|GE=[O1]|Gloss=O1-|nWord=2|RX=[VT:ANY]|TokenType=InflAff|Word=tarwarkuh
 3	r-	_	AUX	_	Voice=Appl	6	comp:aux/m	_	AlignBegin=60675|AlignEnd=60736|GE=[APPL].[P]|Gloss=APPL.P-|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=tarwarkuh
@@ -507,13 +507,13 @@
 # sent_timecode = 62406, 65268
 # morphemic_text = Ø- tokk -Ø -wa ah ũ- warah -par -h , Ø- pask ã -par -h tWk Ø- -Ø -i .
 # text = tokkwa aa ũwarahprah , paskãprah tiki .
-# text_en =  "Let's empty it by drinking. Let’s catch it and eat it," he said (AM chuckles).
-# text_phrase-gls-es =  tomemos el agua” el tomó. “vaciemoslo”
-# text_phrase-gls-pro =  || tɔkkwə̀ àáŋɡwɾáhpɾə̀ pāskã̀pɾáh tìɣìʔ (0.4s) ((AM; || @hn@hn (0.2s) || )) ||
-# text_phrase-gls-it =  tɔkkwə̀ àáŋɡwɾáhpɾə̀ pāskã̀pɾáh tìɣìʔ
-# text_phrase-gls-tl =  tomo           sequémoslo       Saquémoslo   comámoslo   le dijo,
-# text_phrase-gls-wg =  drink:PFV:3>3 INTERJ empty:CAUS:IMP:INCL take.out+eat:FUT.PX:INCL>3 say:PST:3>3
-# text_phrase-gls-de =  165.16_FH
+# text_en = "Let's empty it by drinking. Let’s catch it and eat it," he said (AM chuckles).
+# text_phrase-gls-es = tomemos el agua” el tomó. “vaciemoslo”
+# text_phrase-gls-pro = || tɔkkwə̀ àáŋɡwɾáhpɾə̀ pāskã̀pɾáh tìɣìʔ (0.4s) ((AM; || @hn@hn (0.2s) || )) ||
+# text_phrase-gls-it = tɔkkwə̀ àáŋɡwɾáhpɾə̀ pāskã̀pɾáh tìɣìʔ
+# text_phrase-gls-tl = tomo           sequémoslo       Saquémoslo   comámoslo   le dijo,
+# text_phrase-gls-wg = drink:PFV:3>3 INTERJ empty:CAUS:IMP:INCL take.out+eat:FUT.PX:INCL>3 say:PST:3>3
+# text_phrase-gls-de = 165.16_FH
 1	Ø-	_	PRON	_	_	2	comp:obj/m	_	AlignBegin=62406|AlignEnd=62508|GE=[O3SG]|Gloss=O3SG-|nWord=1|RX=[VT:ANY]|TokenType=InflAff|Word=tokkwa
 2	tokk	tokk	VERB	_	_	4	comp:aux/m	_	AlignBegin=62508|AlignEnd=62610|GE=drink|Gloss=drink|nWord=1|RX=[VT]|TokenType=Root|Word=tokkwa
 3	-Ø	_	PRON	_	_	4	subj/m	_	AlignBegin=62610|AlignEnd=62712|GE=[S3SG]|Gloss=-S3SG|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=tokkwa
@@ -541,13 +541,13 @@
 # sent_timecode = 65489, 66365
 # morphemic_text = akarʃkwa , yar .
 # text = akarʃkwa , yar .
-# text_en =  Then, "For real?" (asked Tiger).
-# text_phrase-gls-es =  “saquemoslo y comemoslo” dijo, entonces de verdad
-# text_phrase-gls-pro =  || ə̀kāɾʃkwə̄ jāχ ||
-# text_phrase-gls-it =  ə̀kāɾʃkwə̄ jāh
-# text_phrase-gls-tl =  entonces        deveras
-# text_phrase-gls-wg =  then true
-# text_phrase-gls-de =  165.17_FH
+# text_en = Then, "For real?" (asked Tiger).
+# text_phrase-gls-es = “saquemoslo y comemoslo” dijo, entonces de verdad
+# text_phrase-gls-pro = || ə̀kāɾʃkwə̄ jāχ ||
+# text_phrase-gls-it = ə̀kāɾʃkwə̄ jāh
+# text_phrase-gls-tl = entonces        deveras
+# text_phrase-gls-wg = then true
+# text_phrase-gls-de = 165.17_FH
 1	akarʃkwa	akarʃkwa	PART	_	_	3	discourse	_	AlignBegin=65489|AlignEnd=65708|GE=then|Gloss=then|nWord=1|RX=[PRT]|TokenType=Root|Word=akarʃkwa
 2	,	_	PUNCT	_	_	1	punct	_	AlignBegin=65708|AlignEnd=65927|nWord=2|Word=,
 3	yar	yar	NOUN	_	_	0	root	_	AlignBegin=65927|AlignEnd=66146|GE=true|Gloss=true|nWord=3|RX=[<NOT_SURE>]|TokenType=Root|Word=yar
@@ -559,13 +559,13 @@
 # sent_timecode = 66366, 67537
 # morphemic_text = ea , ã =kan =i =sri pahte .
 # text = ea , ã kan i sri pahte .
-# text_en =  "Yeah, it is like that ###," (replied Rabbit).
-# text_phrase-gls-es =  asi es ese lo sacó
-# text_phrase-gls-pro =  || =ə̃̄ːʔə̃́ʔˈkə̄nə̄ˈsí pàhˈtə̄ʔ (0.6s) ||
-# text_phrase-gls-it =  ə̃̄ ə̃́ʔkə̄nə̄sí pàztə̄ʔ
-# text_phrase-gls-tl =  a::::       si es asi
-# text_phrase-gls-wg =  yep DEM.DIST SIM COP:PFV:3 UNCRT HES
-# text_phrase-gls-de =  165.18_FH
+# text_en = "Yeah, it is like that ###," (replied Rabbit).
+# text_phrase-gls-es = asi es ese lo sacó
+# text_phrase-gls-pro = || =ə̃̄ːʔə̃́ʔˈkə̄nə̄ˈsí pàhˈtə̄ʔ (0.6s) ||
+# text_phrase-gls-it = ə̃̄ ə̃́ʔkə̄nə̄sí pàztə̄ʔ
+# text_phrase-gls-tl = a::::       si es asi
+# text_phrase-gls-wg = yep DEM.DIST SIM COP:PFV:3 UNCRT HES
+# text_phrase-gls-de = 165.18_FH
 1	ea	ea	INTJ	_	_	5	discourse	_	AlignBegin=66366|AlignEnd=66512|GE=yep|Gloss=yep|nWord=1|RX=[INTERJ]|TokenType=Root|Word=ea
 2	,	_	PUNCT	_	_	1	punct	_	AlignBegin=66512|AlignEnd=66658|nWord=2|Word=,
 3	ã	ã	PRON	_	_	4	comp:obj	_	AlignBegin=66658|AlignEnd=66804|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=3|RX=[PRO]|TokenType=Root|Word=ã
@@ -581,13 +581,13 @@
 # sent_timecode = 68096, 70103
 # morphemic_text = ta- keka ã =kan =ras =sri Ø- pas -par -h Ø- ã -pe tWk -Ø -Ø -i .
 # text = takeka ã kan ras sri pasprah ãpẽ tiki .
-# text_en =  “Nephew, thus it is. Let’s grab it. I will eat it”, he said.
-# text_phrase-gls-es =  Mi sobrino, asi es, “saquémoslo, comeré’ le dijo,
-# text_phrase-gls-pro =  || tə̀ kèk ʔã̀kã́ɾasíɾ páspɾà || =ʔã̀pẽ́ʔ tīké (0.1s) ||
-# text_phrase-gls-it =  tə̀ kèkk ã̀kã́ːsɾí páspɾà ã̀pẽ́ʔ tīké
-# text_phrase-gls-tl =  Mi sobrino  si es asi          lo sacaremos    lo meremos    le dijo
-# text_phrase-gls-wg =  nephew:1 DEM.DIST SIM REAS UNCRT take.out:IMP:INCL>3 eat:FUT:1>3 say:PST:3>3
-# text_phrase-gls-de =  165.19_FH
+# text_en = “Nephew, thus it is. Let’s grab it. I will eat it”, he said.
+# text_phrase-gls-es = Mi sobrino, asi es, “saquémoslo, comeré’ le dijo,
+# text_phrase-gls-pro = || tə̀ kèk ʔã̀kã́ɾasíɾ páspɾà || =ʔã̀pẽ́ʔ tīké (0.1s) ||
+# text_phrase-gls-it = tə̀ kèkk ã̀kã́ːsɾí páspɾà ã̀pẽ́ʔ tīké
+# text_phrase-gls-tl = Mi sobrino  si es asi          lo sacaremos    lo meremos    le dijo
+# text_phrase-gls-wg = nephew:1 DEM.DIST SIM REAS UNCRT take.out:IMP:INCL>3 eat:FUT:1>3 say:PST:3>3
+# text_phrase-gls-de = 165.19_FH
 1	ta-	_	PRON	_	_	2	det:poss/m	_	AlignBegin=68096|AlignEnd=68208|GE=[POSS1]|Gloss=POSS1-|nWord=1|RX=[N:ANY]|TokenType=InflAff|Word=takeka
 2	keka	keka	NOUN	_	_	10	vocative	_	AlignBegin=68208|AlignEnd=68319|GE=nephew|Gloss=nephew|nWord=1|RX=[N]|TokenType=Root|Word=takeka
 3	ã	ã	PRON	_	_	4	comp:obj	_	AlignBegin=68319|AlignEnd=68542|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=2|RX=[PRO]|TokenType=Root|Word=ã
@@ -613,13 +613,13 @@
 # sent_timecode = 70158, 73565
 # morphemic_text = Ø- tokk -er -i =arin , Ø- tokk -er -i =arin , Ø- tokk -er -i =arin , Ø- tokk -er -i =arin , Ø- tokk -er -i =arin .
 # text = tokkri arin , tokkri arin , tokkri arin , tokkri arin , tokkri arin .
-# text_en =  They drank and drank and drank and drank and drank.
-# text_phrase-gls-es =  tomaron de verdad, tomaron de verdad, tomaron de verdad, tomaron de verdad
-# text_phrase-gls-pro =  || tɔ̀kkiɾìʔàɾīn || tɔ̀kkiɾìʔàɾīn (0.1s) || tɔ̀kkeɾìʔàɾīn (0.1s) || tɔ̀kkeɾìʔàɾīn (0.1s) || tɔ̀kkeɾìʔàɾīn ||
-# text_phrase-gls-it =  tɔ̀kkɾìʔàɾīn tɔ̀kkɾìàɾīn tɔ̀kkèɾjàɾĩ̄ tɔ̀kkèɾjàɾī tɔ̀kkeɾāɾĩ̄
-# text_phrase-gls-tl =  tomaron,            tomaron, Tomaron,         tomaron,             tomaron,             tomaron
-# text_phrase-gls-wg =  drink:PST:3PL>3 =also drink:PST:3PL>3 =also drink:PST:3PL>3 =also drink:PST:3PL>3 =also drink:PST:3PL>3 =also
-# text_phrase-gls-de =  165.20_FH
+# text_en = They drank and drank and drank and drank and drank.
+# text_phrase-gls-es = tomaron de verdad, tomaron de verdad, tomaron de verdad, tomaron de verdad
+# text_phrase-gls-pro = || tɔ̀kkiɾìʔàɾīn || tɔ̀kkiɾìʔàɾīn (0.1s) || tɔ̀kkeɾìʔàɾīn (0.1s) || tɔ̀kkeɾìʔàɾīn (0.1s) || tɔ̀kkeɾìʔàɾīn ||
+# text_phrase-gls-it = tɔ̀kkɾìʔàɾīn tɔ̀kkɾìàɾīn tɔ̀kkèɾjàɾĩ̄ tɔ̀kkèɾjàɾī tɔ̀kkeɾāɾĩ̄
+# text_phrase-gls-tl = tomaron,            tomaron, Tomaron,         tomaron,             tomaron,             tomaron
+# text_phrase-gls-wg = drink:PST:3PL>3 =also drink:PST:3PL>3 =also drink:PST:3PL>3 =also drink:PST:3PL>3 =also drink:PST:3PL>3 =also
+# text_phrase-gls-de = 165.20_FH
 1	Ø-	_	PRON	_	_	2	comp:obj/m	_	AlignBegin=70158|AlignEnd=70215|GE=[O3SG]|Gloss=O3SG-|nWord=1|RX=[VT:ANY]|TokenType=InflAff|Word=tokkri
 2	tokk	tokk	VERB	_	_	4	comp:aux/m	_	AlignBegin=70215|AlignEnd=70272|GE=drink|Gloss=drink|nWord=1|RX=[VT]|TokenType=Root|Word=tokkri
 3	-er	_	PRON	_	_	4	subj/m	_	AlignBegin=70272|AlignEnd=70329|GE=[S3PL]|Gloss=-S3PL|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=tokkri
@@ -657,13 +657,13 @@
 # sent_timecode = 73565, 74689
 # morphemic_text = ĩ =kan eka =ma Ø- toq -Ø -i tWk Ø- -Ø -i =sa .
 # text = ĩk eka ma toq tiki sa .
-# text_en =  Why did he say to drink?
-# text_phrase-gls-es =  dicen Y el (conejo) no tomó,
-# text_phrase-gls-pro =  || ˈĩ̀k ēˈkàmà ˈtōkpīkə̀ˈzəʔ ||
-# text_phrase-gls-it =  ĩ̀k ēkàmà tōktīkə̀z
-# text_phrase-gls-tl =  Y          el                 toma
-# text_phrase-gls-wg =  DEM.PROX=SIM PRO3 TOP drink:PST:3>3 say:PST:3>3 C.Q
-# text_phrase-gls-de =  165.21_FH
+# text_en = Why did he say to drink?
+# text_phrase-gls-es = dicen Y el (conejo) no tomó,
+# text_phrase-gls-pro = || ˈĩ̀k ēˈkàmà ˈtōkpīkə̀ˈzəʔ ||
+# text_phrase-gls-it = ĩ̀k ēkàmà tōktīkə̀z
+# text_phrase-gls-tl = Y          el                 toma
+# text_phrase-gls-wg = DEM.PROX=SIM PRO3 TOP drink:PST:3>3 say:PST:3>3 C.Q
+# text_phrase-gls-de = 165.21_FH
 1	ĩ	ĩ	PRON	_	_	2	comp:obj	_	AlignBegin=73565|AlignEnd=73645|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=ĩk
 2	=kan	=kan	PART	_	_	12	mod	_	AlignBegin=73645|AlignEnd=73726|GE=[SIM]|Gloss==SIM|nWord=1|RX=[PRT]|TokenType=Clit|Word=ĩk
 3	eka	eka	PRON	_	_	4	comp:obj	_	AlignBegin=73726|AlignEnd=73887|GE=[PRO3]|Gloss=PRO3|nWord=2|RX=[PRO]|TokenType=Root|Word=eka
@@ -685,13 +685,13 @@
 # sent_timecode = 74689, 75614
 # morphemic_text = a- r- kasa -eʃ -Ø -pi =ras .
 # text = arkasaeʃpi ra .
-# text_en =  Because he wanted to trick him.
-# text_phrase-gls-es =  porque le estaba mintiendo
-# text_phrase-gls-pro =  || ˈàkə̀ˈsáˈʔèʃpɨˈɾa (0.4s) ||
-# text_phrase-gls-it =  àkə̀sáèʃkwɾə̀s
-# text_phrase-gls-tl =  le estaba mintiendo
-# text_phrase-gls-wg =  lie:APPL:DES:FUT:3>3 REAS
-# text_phrase-gls-de =  165.22_FH
+# text_en = Because he wanted to trick him.
+# text_phrase-gls-es = porque le estaba mintiendo
+# text_phrase-gls-pro = || ˈàkə̀ˈsáˈʔèʃpɨˈɾa (0.4s) ||
+# text_phrase-gls-it = àkə̀sáèʃkwɾə̀s
+# text_phrase-gls-tl = le estaba mintiendo
+# text_phrase-gls-wg = lie:APPL:DES:FUT:3>3 REAS
+# text_phrase-gls-de = 165.22_FH
 1	a-	_	PRON	_	_	2	comp:obj@appl/m	_	AlignBegin=74689|AlignEnd=74740|GE=[O3SG]|Gloss=O3SG-|nWord=1|RX=[VT:ANY]|TokenType=InflAff|Word=arkasaeʃpi
 2	r-	_	AUX	_	Voice=Appl	4	comp:aux/m	_	AlignBegin=74740|AlignEnd=74791|GE=[APPL].[P]|Gloss=APPL.P-|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=arkasaeʃpi
 3	kasa	kasa	VERB	_	_	2	comp:aux/m	_	AlignBegin=74791|AlignEnd=74842|GE=lie|Gloss=lie|nWord=1|RX=[VT]|TokenType=Root|Word=arkasaeʃpi
@@ -707,13 +707,13 @@
 # sent_timecode = 76061, 88607
 # morphemic_text = akarʃkwa ãma , ah , ã peʃ ʃuwa , ãma , ã peʃ ʃuwa , nẽʔ , uʔ =ma =ma aso Ø- toq -Ø -i =yo =pe ke , ã nĩhã , Ø- yẽh -er -wa =ma keb ʔãẽ , ã nĩhã , ah .
 # text = akarʃkwa ãma , aa , ã peʃ wa , ãma , ã peʃ wa , nẽʔ , uʔ ma ma aso toq yo pe ke , ã nĩhã , ɲẽher ma keb ʔãẽ , ã nĩhã , aa .
-# text_en =  Then, um, the old one, um, the old one, what is it, Tiger, as he had drunk so much water, what is it, what they say, what is it um...
-# text_phrase-gls-es =  entonces Es señor, ese señor tigre se fue. solamente con tanta bebida, lo que dicen,
-# text_phrase-gls-pro =  || āˈɣáɾʃkwə̃́ mːã̀ˈʔã̀ || =ʔã̀ˈpèt͡ʃwàʔ (0.6s) || ˈʔã̄mːã̄ ʔã̀ˈpèt͡ʃuˈwàːʔ (0.2s) || nĩ̄ʔ úʔmã̀mːã́ː || ʔáˈsːò tɔ̀qˈjópé ˈkè àˈnĩ̄hã̄ʔ (0.3s) || ɲēːɾèɾmà kèb̚ (0.2s) || ʔæʔæ (0.1s) || ʔaʔaʔ (0.9s) || ʔænĩ́hã́ʔ (0.7s) || ʔã̀ːːː (0.8s) ||
-# text_phrase-gls-it =  āɣáɾʃkwə̃́ ã̀mːã̀ʔ ã̀ʔ ã̀pèt͡ʃwàʔ ã̄mːã̄ʔ ã̀pèt͡ʃwàːʔ nẽ̄ʔ úʔmã̀mːã́ ásːò tɔ̀qjópé kè ànĩ̄hã̄ʔ ɲēhɾèɾmà kèbʔ ã̀ʔə̃̀ʔāʔàʔ āʔnĩ́hã́ʔ ã̀ːh
-# text_phrase-gls-tl =  entonces   ()               le señor          ()                 el señor         el        tigre Agua    de tanto tomar    ()             como dicen   ()     ()
-# text_phrase-gls-wg =  then HES INTERJ DEM.DIST people old.man HES DEM.DIST people old.man HES tiger TOP TOP water drink:PST:3>3 INS only already DEM.DIST PH say:PFV:3PL>3 NOM HES HES DEM.DIST PH INTERJ
-# text_phrase-gls-de =  165.23_FH
+# text_en = Then, um, the old one, um, the old one, what is it, Tiger, as he had drunk so much water, what is it, what they say, what is it um...
+# text_phrase-gls-es = entonces Es señor, ese señor tigre se fue. solamente con tanta bebida, lo que dicen,
+# text_phrase-gls-pro = || āˈɣáɾʃkwə̃́ mːã̀ˈʔã̀ || =ʔã̀ˈpèt͡ʃwàʔ (0.6s) || ˈʔã̄mːã̄ ʔã̀ˈpèt͡ʃuˈwàːʔ (0.2s) || nĩ̄ʔ úʔmã̀mːã́ː || ʔáˈsːò tɔ̀qˈjópé ˈkè àˈnĩ̄hã̄ʔ (0.3s) || ɲēːɾèɾmà kèb̚ (0.2s) || ʔæʔæ (0.1s) || ʔaʔaʔ (0.9s) || ʔænĩ́hã́ʔ (0.7s) || ʔã̀ːːː (0.8s) ||
+# text_phrase-gls-it = āɣáɾʃkwə̃́ ã̀mːã̀ʔ ã̀ʔ ã̀pèt͡ʃwàʔ ã̄mːã̄ʔ ã̀pèt͡ʃwàːʔ nẽ̄ʔ úʔmã̀mːã́ ásːò tɔ̀qjópé kè ànĩ̄hã̄ʔ ɲēhɾèɾmà kèbʔ ã̀ʔə̃̀ʔāʔàʔ āʔnĩ́hã́ʔ ã̀ːh
+# text_phrase-gls-tl = entonces   ()               le señor          ()                 el señor         el        tigre Agua    de tanto tomar    ()             como dicen   ()     ()
+# text_phrase-gls-wg = then HES INTERJ DEM.DIST people old.man HES DEM.DIST people old.man HES tiger TOP TOP water drink:PST:3>3 INS only already DEM.DIST PH say:PFV:3PL>3 NOM HES HES DEM.DIST PH INTERJ
+# text_phrase-gls-de = 165.23_FH
 1	akarʃkwa	akarʃkwa	PART	_	_	26	mod	_	AlignBegin=76061|AlignEnd=76383|GE=then|Gloss=then|nWord=1|RX=[PRT]|TokenType=Root|Word=akarʃkwa
 2	ãma	ãma	PART	_	_	26	discourse	_	AlignBegin=76383|AlignEnd=76705|GE=[HES]|Gloss=HES|nWord=2|RX=[PRT]|TokenType=Root|Word=ãma
 3	,	_	PUNCT	_	_	2	punct	_	AlignBegin=76705|AlignEnd=77027|nWord=3|Word=,
@@ -766,13 +766,13 @@
 # sent_timecode = 89399, 91730
 # morphemic_text = aso =pera nẽʔ bo -n -Ø -i to ah nĩhã =kan .
 # text = aso pera nẽʔboni to aa nĩhã kan .
-# text_en =  Only water left through what is it, (AM laughs).
-# text_phrase-gls-es =  le fue a salir solamente agua
-# text_phrase-gls-pro =  || ə̀sòpːéɾə́ nẽ́ʔbṍnĩ́ tòà nĩ́hkə̃́ʔ ((AM; || @nhːːːːːːːːːnʔ || )) ||
-# text_phrase-gls-it =  ə̀sòppéɾə́ nẽ́bbṍɾĩ́
-# text_phrase-gls-tl =  solo agua     fue     a salir
-# text_phrase-gls-wg =  water only leave:DUR:PST:3 DEM.MED INTERJ PH LOC
-# text_phrase-gls-de =  165.24_FH
+# text_en = Only water left through what is it, (AM laughs).
+# text_phrase-gls-es = le fue a salir solamente agua
+# text_phrase-gls-pro = || ə̀sòpːéɾə́ nẽ́ʔbṍnĩ́ tòà nĩ́hkə̃́ʔ ((AM; || @nhːːːːːːːːːnʔ || )) ||
+# text_phrase-gls-it = ə̀sòppéɾə́ nẽ́bbṍɾĩ́
+# text_phrase-gls-tl = solo agua     fue     a salir
+# text_phrase-gls-wg = water only leave:DUR:PST:3 DEM.MED INTERJ PH LOC
+# text_phrase-gls-de = 165.24_FH
 1	aso	aso	NOUN	_	_	4	subj	_	AlignBegin=89399|AlignEnd=89690|GE=water|Gloss=water|nWord=1|RX=[N]|TokenType=Root|Word=aso
 2	=pera	=pera	PART	_	_	1	mod	_	AlignBegin=89690|AlignEnd=89981|GE=only|Gloss==only|nWord=2|RX=[PRT]|TokenType=Clit|Word=pera
 3	nẽʔ	nẽʔ	VERB	_	_	4	compound:svc	_	AlignBegin=89981|AlignEnd=90039|GE=go|Gloss=go|nWord=3|RX=[VI]|TokenType=Root|Word=nẽʔboni
@@ -792,13 +792,13 @@
 # sent_timecode = 91730, 93538
 # morphemic_text = a- tʃiu =kan nẽʔ bo -n -Ø -i ã =kan ah .
 # text = atʃiu kan nẽʔboni ã kan aa .
-# text_en =  It came out the buttocks (AM laughs) like that.
-# text_phrase-gls-es =  Por donde, por el trasero, salió así,
-# text_phrase-gls-pro =  || ʔ àʔt͡ʃìjùkán néʔbónì ã̀kã̄nə ((AM; || @nhːːːːːnʔ || )) ||
-# text_phrase-gls-it =  tòà nĩ́hkə̃́ʔ àʔt͡ʃìùkán némbónì ã̀kã̄nə̃̀ʔ
-# text_phrase-gls-tl =  Por donde  defeca            fue      a salir         asi
-# text_phrase-gls-wg =  behind:3 LOC leave:DUR:PST:3 DEM.DIST SIM INTERJ
-# text_phrase-gls-de =  165.25_FH
+# text_en = It came out the buttocks (AM laughs) like that.
+# text_phrase-gls-es = Por donde, por el trasero, salió así,
+# text_phrase-gls-pro = || ʔ àʔt͡ʃìjùkán néʔbónì ã̀kã̄nə ((AM; || @nhːːːːːnʔ || )) ||
+# text_phrase-gls-it = tòà nĩ́hkə̃́ʔ àʔt͡ʃìùkán némbónì ã̀kã̄nə̃̀ʔ
+# text_phrase-gls-tl = Por donde  defeca            fue      a salir         asi
+# text_phrase-gls-wg = behind:3 LOC leave:DUR:PST:3 DEM.DIST SIM INTERJ
+# text_phrase-gls-de = 165.25_FH
 1	a-	_	PRON	_	_	2	det:poss/m	_	AlignBegin=91730|AlignEnd=91859|GE=[POSS3SG]|Gloss=POSS3SG-|nWord=1|RX=[N:ANY]|TokenType=InflAff|Word=atʃiu
 2	tʃiu	tʃiu	NOUN	_	_	3	comp:obj	_	AlignBegin=91859|AlignEnd=91988|GE=behind|Gloss=behind|nWord=1|RX=[N]|TokenType=Root|Word=atʃiu
 3	=kan	=kan	ADP	_	_	8	comp:obl	_	AlignBegin=91988|AlignEnd=92246|GE=[LOC]|Gloss==LOC|nWord=2|RX=[POST]|TokenType=Clit|Word=kan
@@ -818,13 +818,13 @@
 # sent_timecode = 93538, 95878
 # morphemic_text = aaii , ekata =tWh , ta- uku tigre .
 # text = aaii , ekata tah , tauku tigre .
-# text_en =  “Ah, not now, my Uncle Tiger!”
-# text_phrase-gls-es =  es, mi tío tigre
-# text_phrase-gls-pro =  || =ʔa̤ːːːj || èkètā tə̀ (0.1s) || tàʔukù tigre ||
-# text_phrase-gls-it =  áháːhíìː èkètā tə̀ tàʔwkù tigre
-# text_phrase-gls-tl =  hay          mi        tio          tigre
-# text_phrase-gls-wg =  ouch now NEG father.in.law:1 SPA_tiger
-# text_phrase-gls-de =  165.26_FH
+# text_en = “Ah, not now, my Uncle Tiger!”
+# text_phrase-gls-es = es, mi tío tigre
+# text_phrase-gls-pro = || =ʔa̤ːːːj || èkètā tə̀ (0.1s) || tàʔukù tigre ||
+# text_phrase-gls-it = áháːhíìː èkètā tə̀ tàʔwkù tigre
+# text_phrase-gls-tl = hay          mi        tio          tigre
+# text_phrase-gls-wg = ouch now NEG father.in.law:1 SPA_tiger
+# text_phrase-gls-de = 165.26_FH
 1	aaii	aaii	INTJ	_	_	3	discourse	_	AlignBegin=93538|AlignEnd=93830|GE=ouch|Gloss=ouch|nWord=1|RX=[INTERJ]|TokenType=Root|Word=aaii
 2	,	_	PUNCT	_	_	1	punct	_	AlignBegin=93830|AlignEnd=94122|nWord=2|Word=,
 3	ekata	ekata	NOUN	_	_	0	root	_	AlignBegin=94122|AlignEnd=94414|GE=now|Gloss=now|nWord=3|RX=[N]|TokenType=Root|Word=ekata
@@ -841,13 +841,13 @@
 # sent_timecode = 95878, 96538
 # morphemic_text = ĩ =kan =r -Ø -i =sa .
 # text = ĩ kan ri sa .
-# text_en =  "What is it?"
-# text_phrase-gls-es =  “Qué haces?”
-# text_phrase-gls-pro =  || ĩ́ŋkáɾə̀ìsah (0.4s) ||
-# text_phrase-gls-it =  ĩ́ŋkáɾə̀ìsə̀h
-# text_phrase-gls-tl =  ‎‎¿Qué me haces?
-# text_phrase-gls-wg =  DEM.PROX SIM COP:PST:3 C.Q
-# text_phrase-gls-de =  165.27_FH
+# text_en = "What is it?"
+# text_phrase-gls-es = “Qué haces?”
+# text_phrase-gls-pro = || ĩ́ŋkáɾə̀ìsah (0.4s) ||
+# text_phrase-gls-it = ĩ́ŋkáɾə̀ìsə̀h
+# text_phrase-gls-tl = ‎‎¿Qué me haces?
+# text_phrase-gls-wg = DEM.PROX SIM COP:PST:3 C.Q
+# text_phrase-gls-de = 165.27_FH
 1	ĩ	ĩ	PRON	_	_	2	comp:obj	_	AlignBegin=95878|AlignEnd=96010|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=ĩ
 2	=kan	=kan	PART	_	_	5	mod	_	AlignBegin=96010|AlignEnd=96142|GE=[SIM]|Gloss==SIM|nWord=2|RX=[PRT]|TokenType=Clit|Word=kan
 3	=r	r	AUX	_	_	5	comp:aux	_	AlignBegin=96142|AlignEnd=96186|GE=[COP]|Gloss==COP|nWord=3|RX=[COP]|TokenType=Clit|Word=ri
@@ -862,13 +862,13 @@
 # sent_timecode = 96903, 105469
 # morphemic_text = Ø- sukuh -Ø -i nã -Ø -i Ø- peʔk -Ø -i , ã nĩhã , ah sãʔpar =ra Ø- sukuh -Ø -i Ø- pask -Ø -i Ø- peʔk -Ø -i ã Ø- ka -Ø -i ʔaʔi , ã nĩhã =ɲãh , ʔãʔãʔã nẽʔã ʔãʔãʔã as ʔãʔã nẽʔ .
 # text = sukuhi nẽi peʔki , ã nĩhã , aa sãʔpar ra sukui paski peʔki ã ki ʔaʔi , ã nĩhã ɲãh , ʔãʔãʔã nẽʔã ʔãʔãʔã as ʔãʔã nẽʔ .
-# text_en =  He (Rabbit) left, grabbed and brought, what is it, he took out, brought chichicaste and put it in a what is it, um, a, um, what is it, um, what is it.
-# text_phrase-gls-es =  se fue, agarró, trajo, una hoja de chichicaste la agarró y la trajo. Así lo hizo, ahí por el trasero lo sacó lo cerró
-# text_phrase-gls-pro =  || sùkúʔì nẽ́jk péʔkì (0.4s) || ã̀ˈnĩ́hã́ʔ (0.4s) || ʔæ̀ ˈsã̄ʔpāˈrə́ súˈkúj ˈpáskì ˈpéʔkjã̄ʔã́ŋkíʔáʔí ʔã̄nĩ́hɲã́h (0.4s) || ʔã̀ʔã̀ʔã̀nẽ̄ːʔã̀ || ʔã̀ʔã̀ʔã̀s || ʔàʔanə̀ʔ ||
-# text_phrase-gls-it =  sɨ̀kúhì nẽ́ʲ péʔkì ã̀nĩ́hã́ʔə̀ sã̄ʔpārə́ súkúj páskì péʔkj ã̄ã́ŋh kíáíʔ ã̄nĩ́hɲã́h ã̀ʔã̀nẽ̄ːʔã̀ːʔs ʔàʔnə̀ʔ
-# text_phrase-gls-tl =  Lo agarro    fue      trajo         ()             chichicaste         agarro       trajo Asi           lo hizo      en el
-# text_phrase-gls-wg =  grab:PST:3>3 go:PST:3 bring:PST:3>3 DEM.DIST PH INTERJ chichicaste ABS grab:PST:3>3 take.out:PST:3>3 bring:PST:3>3 DEM.DIST make:PST:3>3 HES DEM.DIST PH =INDF HES HES HES INDF.ART HES HES
-# text_phrase-gls-de =  165.28_FH
+# text_en = He (Rabbit) left, grabbed and brought, what is it, he took out, brought chichicaste and put it in a what is it, um, a, um, what is it, um, what is it.
+# text_phrase-gls-es = se fue, agarró, trajo, una hoja de chichicaste la agarró y la trajo. Así lo hizo, ahí por el trasero lo sacó lo cerró
+# text_phrase-gls-pro = || sùkúʔì nẽ́jk péʔkì (0.4s) || ã̀ˈnĩ́hã́ʔ (0.4s) || ʔæ̀ ˈsã̄ʔpāˈrə́ súˈkúj ˈpáskì ˈpéʔkjã̄ʔã́ŋkíʔáʔí ʔã̄nĩ́hɲã́h (0.4s) || ʔã̀ʔã̀ʔã̀nẽ̄ːʔã̀ || ʔã̀ʔã̀ʔã̀s || ʔàʔanə̀ʔ ||
+# text_phrase-gls-it = sɨ̀kúhì nẽ́ʲ péʔkì ã̀nĩ́hã́ʔə̀ sã̄ʔpārə́ súkúj páskì péʔkj ã̄ã́ŋh kíáíʔ ã̄nĩ́hɲã́h ã̀ʔã̀nẽ̄ːʔã̀ːʔs ʔàʔnə̀ʔ
+# text_phrase-gls-tl = Lo agarro    fue      trajo         ()             chichicaste         agarro       trajo Asi           lo hizo      en el
+# text_phrase-gls-wg = grab:PST:3>3 go:PST:3 bring:PST:3>3 DEM.DIST PH INTERJ chichicaste ABS grab:PST:3>3 take.out:PST:3>3 bring:PST:3>3 DEM.DIST make:PST:3>3 HES DEM.DIST PH =INDF HES HES HES INDF.ART HES HES
+# text_phrase-gls-de = 165.28_FH
 1	Ø-	_	PRON	_	_	2	comp:obj/m	_	AlignBegin=96903|AlignEnd=96979|GE=[O3SG]|Gloss=O3SG-|nWord=1|RX=[VT:ANY]|TokenType=InflAff|Word=sukuhi
 2	sukuh	sukuh	VERB	_	_	4	comp:aux/m	_	AlignBegin=96979|AlignEnd=97055|GE=grab|Gloss=grab|nWord=1|RX=[VT]|TokenType=Root|Word=sukuhi
 3	-Ø	_	PRON	_	_	4	subj/m	_	AlignBegin=97055|AlignEnd=97131|GE=[S3SG]|Gloss=-S3SG|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=sukuhi
@@ -924,12 +924,12 @@
 # sent_timecode = 105261, 105820
 # morphemic_text = a- tʃiu =kan .
 # text = atʃiu kan .
-# text_en =  AM: In the buttocks.
-# text_phrase-gls-es =  por el trasero
-# text_phrase-gls-pro =  AM; || ʔàt͡ʃìùkə̃́ʔ (0.2s) ||
-# text_phrase-gls-tl =  por el trasero
-# text_phrase-gls-wg =  behind:3 LOC
-# text_phrase-gls-de =  165.29_AM
+# text_en = AM: In the buttocks.
+# text_phrase-gls-es = por el trasero
+# text_phrase-gls-pro = AM; || ʔàt͡ʃìùkə̃́ʔ (0.2s) ||
+# text_phrase-gls-tl = por el trasero
+# text_phrase-gls-wg = behind:3 LOC
+# text_phrase-gls-de = 165.29_AM
 1	a-	_	PRON	_	_	2	det:poss/m	_	AlignBegin=105261|AlignEnd=105354|GE=[POSS3SG]|Gloss=POSS3SG-|nWord=1|RX=[N:ANY]|TokenType=InflAff|Word=atʃiu
 2	tʃiu	tʃiu	NOUN	_	_	3	comp:obj	_	AlignBegin=105354|AlignEnd=105447|GE=behind|Gloss=behind|nWord=1|RX=[N]|TokenType=Root|Word=atʃiu
 3	=kan	=kan	ADP	_	_	0	root	_	AlignBegin=105447|AlignEnd=105633|GE=[LOC]|Gloss==LOC|nWord=2|RX=[POST]|TokenType=Clit|Word=kan
@@ -941,13 +941,13 @@
 # sent_timecode = 105986, 108006
 # morphemic_text = a- tʃiu =kan Ø- pask -Ø -i =ya Ø- kah -tiʃk -Ø -wa .
 # text = atʃiu kan pask ya kahtiʃkwa .
-# text_en =  FM: Where it came out in the buttocks, he closes it.
-# text_phrase-gls-es =  ahí por el trasero  con el que sacó (defecó), casi lo tapó
-# text_phrase-gls-pro =  FH; || ʔàt͡ʃìwùkə́m páskjə̀ kàtíʃkwə̄ ||
-# text_phrase-gls-it =  àʔt͡ʃìùkə́m páskjə̀ kàtíʃkwə̄
-# text_phrase-gls-tl =  por donde    defeca               lo  saco      lo cerro
-# text_phrase-gls-wg =  behind:3 LOC take.out:PST:3>3 =LOC cover+almost:PFV:3>3
-# text_phrase-gls-de =  165.30_FH
+# text_en = FM: Where it came out in the buttocks, he closes it.
+# text_phrase-gls-es = ahí por el trasero  con el que sacó (defecó), casi lo tapó
+# text_phrase-gls-pro = FH; || ʔàt͡ʃìwùkə́m páskjə̀ kàtíʃkwə̄ ||
+# text_phrase-gls-it = àʔt͡ʃìùkə́m páskjə̀ kàtíʃkwə̄
+# text_phrase-gls-tl = por donde    defeca               lo  saco      lo cerro
+# text_phrase-gls-wg = behind:3 LOC take.out:PST:3>3 =LOC cover+almost:PFV:3>3
+# text_phrase-gls-de = 165.30_FH
 1	a-	_	PRON	_	_	2	det:poss/m	_	AlignBegin=105986|AlignEnd=106154|GE=[POSS3SG]|Gloss=POSS3SG-|nWord=1|RX=[N:ANY]|TokenType=InflAff|Word=atʃiu
 2	tʃiu	tʃiu	NOUN	_	_	3	comp:obj	_	AlignBegin=106154|AlignEnd=106323|GE=behind|Gloss=behind|nWord=1|RX=[N]|TokenType=Root|Word=atʃiu
 3	=kan	=kan	ADP	_	_	7	mod:lmod	_	AlignBegin=106323|AlignEnd=106660|GE=[LOC]|Gloss==LOC|nWord=2|RX=[POST]|TokenType=Clit|Word=kan
@@ -969,13 +969,13 @@
 # sent_timecode = 108006, 111868
 # morphemic_text = dice aaay , tem ĩ =yo ta- ka -Ø -i =sa , ta- ẽɲ -Ø -wa , tW Ø- -Ø -i .
 # text = dise aaay , tem ĩ yo takai sa , taẽɲma , ti .
-# text_en =  "He says, "Ouch! (AM laughs along) What did he put in? It stings (me)," he said (laughs).
-# text_phrase-gls-es =  “Ah, ¿con qué me lo hiciste? me pica”, le dice,
-# text_phrase-gls-pro =  || =disʔa̤ːːːj (0.1s) || tə̀m ĩ́ʔijó tə̀kàìsà tà ʔẽ̀ŋmã́tj ((AM; || @nhːːːːːːːːːːːːːnʔhaʔhaʔhaʔ || )) || @nhːːːːnʔheʔ (0.1s) ||
-# text_phrase-gls-it =  dice aaay tə̀m ĩ́ʔjó tə̀kàìsà tà ẽ̀ʔŋwã́ ríe
-# text_phrase-gls-tl =  Ay:::::  con que     me haces     me       pica
-# text_phrase-gls-wg =  SPA_says SPA_ouch HES DEM.PROX INS make(put):PST:3>1 C.Q sting:PFV:3>1 say:PST:3>3
-# text_phrase-gls-de =  165.31_FH
+# text_en = "He says, "Ouch! (AM laughs along) What did he put in? It stings (me)," he said (laughs).
+# text_phrase-gls-es = “Ah, ¿con qué me lo hiciste? me pica”, le dice,
+# text_phrase-gls-pro = || =disʔa̤ːːːj (0.1s) || tə̀m ĩ́ʔijó tə̀kàìsà tà ʔẽ̀ŋmã́tj ((AM; || @nhːːːːːːːːːːːːːnʔhaʔhaʔhaʔ || )) || @nhːːːːnʔheʔ (0.1s) ||
+# text_phrase-gls-it = dice aaay tə̀m ĩ́ʔjó tə̀kàìsà tà ẽ̀ʔŋwã́ ríe
+# text_phrase-gls-tl = Ay:::::  con que     me haces     me       pica
+# text_phrase-gls-wg = SPA_says SPA_ouch HES DEM.PROX INS make(put):PST:3>1 C.Q sting:PFV:3>1 say:PST:3>3
+# text_phrase-gls-de = 165.31_FH
 1	dice	dice	X	_	_	2	discourse	_	AlignBegin=108006|AlignEnd=108303|GE=[SPA_says]|Gloss=SPA_says|nWord=1|RX=[<NOT_SURE>]|TokenType=Root|Word=dise
 2	aaay	aaay	X	_	_	10	discourse	_	AlignBegin=108303|AlignEnd=108600|GE=[SPA_ouch]|Gloss=SPA_ouch|nWord=2|RX=[<NOT_SURE>]|TokenType=Root|Word=aaay
 3	,	_	PUNCT	_	_	2	punct	_	AlignBegin=108600|AlignEnd=108897|nWord=3|Word=,
@@ -1005,13 +1005,13 @@
 # sent_timecode = 111972, 116517
 # morphemic_text = ẽkerʃ , ĩ uhu ãm ã =yã =pe peʃwakwa =s ã =kan a- mas -par -iʃk -a -w(a) iteʔ .
 # text = ẽkerʃ , ĩ uhu ãm ã ɲã pe peʃwakwa s ãk amaspaʃkew iteʔ .
-# text_en =  Then (both laughing), this "no, um, in that (place there) is an animal. I want to kill it like that”, (says Rabbit).
-# text_phrase-gls-es =  “no allá (tienes) un animal” lo quiero matar” (dice el conejo),
-# text_phrase-gls-pro =  || @nhnʔheʔkɨɾʃ ((AM; || @nhẽʔheʔ (0.2s) || )) || ʔíʔúʔũ̀hwã́m ã̀ɲã́ pə̀tèʃwàkwə́s ʔākémāspáʃkèβɨ̀tẽ̀ʔ ||
-# text_phrase-gls-it =  hə̃̄hkɨ̀ɾʃ íúhũ̀hwã́m ã̀ɲã́ pə̀pèʃwàkwə́s ākémāspáʃkèβɨ̀tẽ̀ʔ
-# text_phrase-gls-tl =  no             allí            un animal         Lo quiero matarlo,
-# text_phrase-gls-wg =  then DEM.PROX no HES DEM.DIST LOC only animal INDF.ART DEM.DIST=SIM kill:INCP:DES:PFV:1>3 HES
-# text_phrase-gls-de =  165.32_FH
+# text_en = Then (both laughing), this "no, um, in that (place there) is an animal. I want to kill it like that”, (says Rabbit).
+# text_phrase-gls-es = “no allá (tienes) un animal” lo quiero matar” (dice el conejo),
+# text_phrase-gls-pro = || @nhnʔheʔkɨɾʃ ((AM; || @nhẽʔheʔ (0.2s) || )) || ʔíʔúʔũ̀hwã́m ã̀ɲã́ pə̀tèʃwàkwə́s ʔākémāspáʃkèβɨ̀tẽ̀ʔ ||
+# text_phrase-gls-it = hə̃̄hkɨ̀ɾʃ íúhũ̀hwã́m ã̀ɲã́ pə̀pèʃwàkwə́s ākémāspáʃkèβɨ̀tẽ̀ʔ
+# text_phrase-gls-tl = no             allí            un animal         Lo quiero matarlo,
+# text_phrase-gls-wg = then DEM.PROX no HES DEM.DIST LOC only animal INDF.ART DEM.DIST=SIM kill:INCP:DES:PFV:1>3 HES
+# text_phrase-gls-de = 165.32_FH
 1	ẽkerʃ	ẽkerʃ	PART	_	_	12	discourse	_	AlignBegin=111972|AlignEnd=112297|GE=then|Gloss=then|nWord=1|RX=[PRT]|TokenType=Root|Word=ẽkerʃ
 2	,	_	PUNCT	_	_	1	punct	_	AlignBegin=112297|AlignEnd=112622|nWord=2|Word=,
 3	ĩ	ĩ	PRON	_	_	4	discourse	_	AlignBegin=112622|AlignEnd=112947|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=3|RX=[PRO]|TokenType=Root|Word=ĩ
@@ -1039,13 +1039,13 @@
 # sent_timecode = 116517, 118317
 # morphemic_text = ãma pa =ma ayuir ta- ka -ya .
 # text = ãma pa ma ayuir takaya .
-# text_en =  “You do it to me for pleasure,” (says Tiger; [AM laughs]).
-# text_phrase-gls-es =  “Usted me está engañando” (dice el tigre)
-# text_phrase-gls-pro =  || =ʔámːə̀ pàːmə̃̀ɲ ã́ʔɲjβíɾ tèkàʔjə̀ʔ (0.5s) ((AM; || @ || )) ||
-# text_phrase-gls-it =  ámːə̀ pàmə̃̀jə̃́ʔ ã́ɲβíɾʲ tèkàʔjə̀ʔ
-# text_phrase-gls-tl =  ()             usted        de puro gusto   me haces
-# text_phrase-gls-wg =  HES PRO2 TOP for.pleasure make:PFV:2>1
-# text_phrase-gls-de =  165.33_FH
+# text_en = “You do it to me for pleasure,” (says Tiger; [AM laughs]).
+# text_phrase-gls-es = “Usted me está engañando” (dice el tigre)
+# text_phrase-gls-pro = || =ʔámːə̀ pàːmə̃̀ɲ ã́ʔɲjβíɾ tèkàʔjə̀ʔ (0.5s) ((AM; || @ || )) ||
+# text_phrase-gls-it = ámːə̀ pàmə̃̀jə̃́ʔ ã́ɲβíɾʲ tèkàʔjə̀ʔ
+# text_phrase-gls-tl = ()             usted        de puro gusto   me haces
+# text_phrase-gls-wg = HES PRO2 TOP for.pleasure make:PFV:2>1
+# text_phrase-gls-de = 165.33_FH
 1	ãma	ãma	PART	_	_	2	discourse	_	AlignBegin=116517|AlignEnd=116817|GE=[HES]|Gloss=HES|nWord=1|RX=[PRT]|TokenType=Root|Word=ãma
 2	pa	pa	PRON	_	_	3	comp:obj	_	AlignBegin=116817|AlignEnd=117117|GE=[PRO2]|Gloss=PRO2|nWord=2|RX=[PRO]|TokenType=Root|Word=pa
 3	=ma	=ma	PART	_	_	6	subj	_	AlignBegin=117117|AlignEnd=117417|GE=[TOP]|Gloss==TOP|nWord=3|RX=[PRT]|TokenType=Clit|Word=ma
@@ -1061,13 +1061,13 @@
 # sent_timecode = 118807, 120903
 # morphemic_text = akarʃki , a- ũhk -u -tW -i nã -a -wa .
 # text = akarʃki , aũhkuti nãawa .
-# text_en =  Then (AM chuckles), "Don't worry, I am leaving."
-# text_phrase-gls-es =  “Entonces, no te preocupes, voy
-# text_phrase-gls-pro =  || ʔã̀kàɾʃkì (0.4s) ((AM; || @ || )) || ʔə̄ kótí nã̀wə̃̄ʔ (0.2s) ||
-# text_phrase-gls-it =  ã̀kàɾʃkì ə̄ kótí nã̀wə̃̄ʔ
-# text_phrase-gls-tl =  Después           espera  voy
-# text_phrase-gls-wg =  then worry:NEG:PST:2 go:PFV:1
-# text_phrase-gls-de =  165.34_FH
+# text_en = Then (AM chuckles), "Don't worry, I am leaving."
+# text_phrase-gls-es = “Entonces, no te preocupes, voy
+# text_phrase-gls-pro = || ʔã̀kàɾʃkì (0.4s) ((AM; || @ || )) || ʔə̄ kótí nã̀wə̃̄ʔ (0.2s) ||
+# text_phrase-gls-it = ã̀kàɾʃkì ə̄ kótí nã̀wə̃̄ʔ
+# text_phrase-gls-tl = Después           espera  voy
+# text_phrase-gls-wg = then worry:NEG:PST:2 go:PFV:1
+# text_phrase-gls-de = 165.34_FH
 1	akarʃki	akarʃki	PART	_	_	7	discourse	_	AlignBegin=118807|AlignEnd=119226|GE=then|Gloss=then|nWord=1|RX=[PRT]|TokenType=Root|Word=akarʃki
 2	,	_	PUNCT	_	_	1	punct	_	AlignBegin=119226|AlignEnd=119645|nWord=2|Word=,
 3	a-	_	AUX	_	Voice=Mid	4	comp/m	_	AlignBegin=119645|AlignEnd=119729|GE=[REFL]|Gloss=REFL-|nWord=3|RX=[VT>VI]|TokenType=InflAff|Word=aũhkuti
@@ -1086,13 +1086,13 @@
 # sent_timecode = 121062, 122069
 # morphemic_text = ates ĩ nã Ø- peʔk -a -Øwa .
 # text = ates ĩ nãʔpeʔka .
-# text_en =  "I will go further, and bring it."
-# text_phrase-gls-es =  adelante allá, voy a traer
-# text_phrase-gls-pro =  || ʔātésē nāʔ pèʔkə̀ (0.2s) ||
-# text_phrase-gls-it =  ātésē nā pèʔkə̀
-# text_phrase-gls-tl =  mas alla   voy     a traer
-# text_phrase-gls-wg =  further DEM.PROX go+bring:PFV:1>3
-# text_phrase-gls-de =  165.35_FH
+# text_en = "I will go further, and bring it."
+# text_phrase-gls-es = adelante allá, voy a traer
+# text_phrase-gls-pro = || ʔātésē nāʔ pèʔkə̀ (0.2s) ||
+# text_phrase-gls-it = ātésē nā pèʔkə̀
+# text_phrase-gls-tl = mas alla   voy     a traer
+# text_phrase-gls-wg = further DEM.PROX go+bring:PFV:1>3
+# text_phrase-gls-de = 165.35_FH
 1	ates	ates	ADV	_	_	7	mod:lmod	_	AlignBegin=121062|AlignEnd=121314|GE=further|Gloss=further|nWord=1|RX=[ADV]|TokenType=Root|Word=ates
 2	ĩ	ĩ	PRON	_	_	5	comp:obj	_	AlignBegin=121314|AlignEnd=121566|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=2|RX=[PRO]|TokenType=Root|Word=ĩ
 3	nã	nã	VERB	_	_	5	compound:svc	_	AlignBegin=121566|AlignEnd=121616|GE=go|Gloss=go|nWord=3|RX=[VI]|TokenType=Root|Word=nãʔpeʔka
@@ -1108,13 +1108,13 @@
 # sent_timecode = 122310, 124751
 # morphemic_text = pa =ma Ø- tokk ak -u -h tapu =r -u -h nã -a Ø- peʔ -pa =hãʔ ã =yã .
 # text = pa ma tokkakuh tapu ro nããpeʔpa hãʔ ã ɲã .
-# text_en =  "You keep drinking, be strong. I will go there and bring it,” (AM laughs).
-# text_phrase-gls-es =  tú, sigues bebiendo” “sea fuerte, voy a traer allí
-# text_phrase-gls-pro =  || pàʔmə̀ tɔ̀qq àkūh tāpúɾó nã̄ã̀ pèʔpə̃̀hə̃̀ʔ āɲāà ((AM; || @haʔhaʔ || )) ||
-# text_phrase-gls-it =  pàʔmə̀ tɔ̀qq àkūh tāpúɾó nã̄ã̀ pèʔpə̃̀hə̃̀ʔ āɲāà
-# text_phrase-gls-tl =  usted          tomando estas       ‎‎Pero ponele voy       a traer            allí
-# text_phrase-gls-wg =  PRO2 TOP drink+state:IMP:2>3 strong =COP:IMP:2 go+bring:FUT:1>3 =FOC DEM.DIST LOC
-# text_phrase-gls-de =  165.36_FH
+# text_en = "You keep drinking, be strong. I will go there and bring it,” (AM laughs).
+# text_phrase-gls-es = tú, sigues bebiendo” “sea fuerte, voy a traer allí
+# text_phrase-gls-pro = || pàʔmə̀ tɔ̀qq àkūh tāpúɾó nã̄ã̀ pèʔpə̃̀hə̃̀ʔ āɲāà ((AM; || @haʔhaʔ || )) ||
+# text_phrase-gls-it = pàʔmə̀ tɔ̀qq àkūh tāpúɾó nã̄ã̀ pèʔpə̃̀hə̃̀ʔ āɲāà
+# text_phrase-gls-tl = usted          tomando estas       ‎‎Pero ponele voy       a traer            allí
+# text_phrase-gls-wg = PRO2 TOP drink+state:IMP:2>3 strong =COP:IMP:2 go+bring:FUT:1>3 =FOC DEM.DIST LOC
+# text_phrase-gls-de = 165.36_FH
 1	pa	pa	PRON	_	_	2	comp:obj	_	AlignBegin=122310|AlignEnd=122554|GE=[PRO2]|Gloss=PRO2|nWord=1|RX=[PRO]|TokenType=Root|Word=pa
 2	=ma	=ma	PART	_	_	4	subj	_	AlignBegin=122554|AlignEnd=122798|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
 3	Ø-	_	PRON	_	_	4	comp:obj/m	_	AlignBegin=122798|AlignEnd=122847|GE=[O3SG]|Gloss=O3SG-|nWord=3|RX=[VT:ANY]|TokenType=InflAff|Word=tokkakuh
@@ -1142,13 +1142,13 @@
 # sent_timecode = 124751, 128378
 # morphemic_text = ates =ya nã Ø- peʔk -a -Øwa ama , am , a- pas -Ø -tW -pi =ra =hã , pi -a tʃa -Ø -wa isi tWk Ø- -Ø -i .
 # text = ates ya nãpeʔka ama , am , apastipi ra hã , pya tʃa isi tiki .
-# text_en =  "I am going further to bring (leaves), um, so that it will not come out, where the diarrhea is," he said.
-# text_phrase-gls-es =  más adelante lo que voy a traer ()” “Para que no salga por donde defecas” dijo
-# text_phrase-gls-pro =  || àtésjə̄ nã̄ pèʔk àmàːʔ (0.1s) || ʔamʔə̀pástípíɾə̃̄hə (0.1s) || pìʔəʔ t͡ʃə̀īsìʔ tìkì (0.4s) ||
-# text_phrase-gls-it =  àtésjə̄ nã̄ pèʔk àmàʔ àβ mə̀pástípíɾə̃̄hə̃̀ pìə̀ʔ t͡ʃə̀īsìʔ tìkì
-# text_phrase-gls-tl =  mas adelante    voy        traigo       () Para que no salga   por  donde         defecas       entonces       fue   trajo
-# text_phrase-gls-wg =  further =LOC go+bring:PFV:1>3 HES HES take.out:REFL:NEG:FUT:3 PURP FOC place:NMLZ_where be.there:PFV:3 foul.secretion say:PST:3>3
-# text_phrase-gls-de =  165.37_FH
+# text_en = "I am going further to bring (leaves), um, so that it will not come out, where the diarrhea is," he said.
+# text_phrase-gls-es = más adelante lo que voy a traer ()” “Para que no salga por donde defecas” dijo
+# text_phrase-gls-pro = || àtésjə̄ nã̄ pèʔk àmàːʔ (0.1s) || ʔamʔə̀pástípíɾə̃̄hə (0.1s) || pìʔəʔ t͡ʃə̀īsìʔ tìkì (0.4s) ||
+# text_phrase-gls-it = àtésjə̄ nã̄ pèʔk àmàʔ àβ mə̀pástípíɾə̃̄hə̃̀ pìə̀ʔ t͡ʃə̀īsìʔ tìkì
+# text_phrase-gls-tl = mas adelante    voy        traigo       () Para que no salga   por  donde         defecas       entonces       fue   trajo
+# text_phrase-gls-wg = further =LOC go+bring:PFV:1>3 HES HES take.out:REFL:NEG:FUT:3 PURP FOC place:NMLZ_where be.there:PFV:3 foul.secretion say:PST:3>3
+# text_phrase-gls-de = 165.37_FH
 1	ates	ates	ADV	_	_	2	comp:obj	_	AlignBegin=124751|AlignEnd=124978|GE=further|Gloss=further|nWord=1|RX=[ADV]|TokenType=Root|Word=ates
 2	=ya	=ya	ADP	_	_	7	mod:lmod	_	AlignBegin=124978|AlignEnd=125205|GE=[LOC]|Gloss==LOC|nWord=2|RX=[POST]|TokenType=Clit|Word=ya
 3	nã	nã	VERB	_	_	5	compound:svc	_	AlignBegin=125205|AlignEnd=125250|GE=go|Gloss=go|nWord=3|RX=[VI]|TokenType=Root|Word=nãpeʔka
@@ -1186,13 +1186,13 @@
 # sent_timecode = 128731, 130439
 # morphemic_text = akarʃkwa nẽpe yar nã -Ø -i .
 # text = ãkarʃkwa nẽpe yar nẽy .
-# text_en =  He went to bri-, he really went.
-# text_phrase-gls-es =  entonces fue a traer de verdad,
-# text_phrase-gls-pro =  || ʔã̀kāɾʃkɨ nẽ̄ pēʔ% (0.1s) || jār nẽ̀j ||
-# text_phrase-gls-it =  ã̀kāɾʃkwə̄ nẽ̄ pēʔkʲ jār nẽ̀jʔ
-# text_phrase-gls-tl =  De veras  fue,
-# text_phrase-gls-wg =  then HES true go:PST:3
-# text_phrase-gls-de =  165.38_FH
+# text_en = He went to bri-, he really went.
+# text_phrase-gls-es = entonces fue a traer de verdad,
+# text_phrase-gls-pro = || ʔã̀kāɾʃkɨ nẽ̄ pēʔ% (0.1s) || jār nẽ̀j ||
+# text_phrase-gls-it = ã̀kāɾʃkwə̄ nẽ̄ pēʔkʲ jār nẽ̀jʔ
+# text_phrase-gls-tl = De veras  fue,
+# text_phrase-gls-wg = then HES true go:PST:3
+# text_phrase-gls-de = 165.38_FH
 1	akarʃkwa	akarʃkwa	PART	_	_	6	discourse	_	AlignBegin=128731|AlignEnd=129073|GE=then|Gloss=then|nWord=1|RX=[PRT]|TokenType=Root|Word=ãkarʃkwa
 2	nẽpe	nẽpe	X	_	_	6	conj:dicto	_	AlignBegin=129073|AlignEnd=129415|nWord=2|TokenType=Root|Word=nẽpe
 3	yar	yar	NOUN	_	_	6	mod	_	AlignBegin=129415|AlignEnd=129757|GE=true|Gloss=true|nWord=3|RX=[<NOT_SURE>]|TokenType=Root|Word=yar
@@ -1207,13 +1207,13 @@
 # sent_timecode = 130492, 131807
 # morphemic_text = to nẽʔ Ø- peʔk -Ø -i awa .
 # text = to nẽʔpeʔki awa .
-# text_en =  He brought it too.
-# text_phrase-gls-es =  fue ese fue lo trajo también,
-# text_phrase-gls-pro =  || tũ̀ nẽ̄ʔ péʔkì ã̀wã́ã̀ (0.2s) ||
-# text_phrase-gls-it =  tũ̀ nẽ̄j péʔkì ã̀wã́ã̀
-# text_phrase-gls-tl =  fue        trajo     también
-# text_phrase-gls-wg =  DEM.MED go+bring:PST:3>3 also
-# text_phrase-gls-de =  165.39_FH
+# text_en = He brought it too.
+# text_phrase-gls-es = fue ese fue lo trajo también,
+# text_phrase-gls-pro = || tũ̀ nẽ̄ʔ péʔkì ã̀wã́ã̀ (0.2s) ||
+# text_phrase-gls-it = tũ̀ nẽ̄j péʔkì ã̀wã́ã̀
+# text_phrase-gls-tl = fue        trajo     también
+# text_phrase-gls-wg = DEM.MED go+bring:PST:3>3 also
+# text_phrase-gls-de = 165.39_FH
 1	to	to	PRON	_	_	4	subj	_	AlignBegin=130492|AlignEnd=130821|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=to
 2	nẽʔ	nẽʔ	VERB	_	_	4	compound:svc	_	AlignBegin=130821|AlignEnd=130887|GE=go|Gloss=go|nWord=2|RX=[VI]|TokenType=Root|Word=nẽʔpeʔki
 3	Ø-	_	PRON	_	_	4	comp:obj/m	_	AlignBegin=130887|AlignEnd=130953|GE=[O3SG]|Gloss=O3SG-|nWord=2|RX=[VT:ANY]|TokenType=InflAff|Word=nẽʔpeʔki
@@ -1229,13 +1229,13 @@
 # sent_timecode = 132000, 134434
 # morphemic_text = Ø- peʔk -Ø -i , nẽhã , siki =ra a- ka- pork -Ø -i .
 # text = peʔki , nẽhã , siki ra akaporki .
-# text_en =  He brought, what is it, a thorn and he sunk it in.
-# text_phrase-gls-es =  le trajo una espina le clavó.
-# text_phrase-gls-pro =  || péʔkì (0.4s) || nẽ̄hã̀ʔb̚- || ˈsíkːɪˈɾākàˈpōrku ||
-# text_phrase-gls-it =  péʔkì nẽ̄hã̀β síkːʲɾ ākàpōrk
-# text_phrase-gls-tl =  trajo      espinas             es lo clavo
-# text_phrase-gls-wg =  bring:PST:3>3 HES thorn ABS sink.in:APL:PST:3>3
-# text_phrase-gls-de =  165.40_FH
+# text_en = He brought, what is it, a thorn and he sunk it in.
+# text_phrase-gls-es = le trajo una espina le clavó.
+# text_phrase-gls-pro = || péʔkì (0.4s) || nẽ̄hã̀ʔb̚- || ˈsíkːɪˈɾākàˈpōrku ||
+# text_phrase-gls-it = péʔkì nẽ̄hã̀β síkːʲɾ ākàpōrk
+# text_phrase-gls-tl = trajo      espinas             es lo clavo
+# text_phrase-gls-wg = bring:PST:3>3 HES thorn ABS sink.in:APL:PST:3>3
+# text_phrase-gls-de = 165.40_FH
 1	Ø-	_	PRON	_	_	2	comp:obj/m	_	AlignBegin=132000|AlignEnd=132076|GE=[O3SG]|Gloss=O3SG-|nWord=1|RX=[VT:ANY]|TokenType=InflAff|Word=peʔki
 2	peʔk	peʔk	VERB	_	_	4	comp:aux/m	_	AlignBegin=132076|AlignEnd=132152|GE=bring|Gloss=bring|nWord=1|RX=[VT]|TokenType=Root|Word=peʔki
 3	-Ø	_	PRON	_	_	4	subj/m	_	AlignBegin=132152|AlignEnd=132228|GE=[S3SG]|Gloss=-S3SG|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=peʔki
@@ -1258,13 +1258,13 @@
 # sent_timecode = 134434, 136875
 # morphemic_text = ah ĩ =yo ta- ka -Ø -i =sa tWk Ø- -Ø -i .
 # text = ah ĩ yo takai sa tiki .
-# text_en =  "Ah! What (AM laughs) did it do me with?", he (Tiger) said (laughs).
-# text_phrase-gls-es =  “Ay con que me haces le dijo,
-# text_phrase-gls-pro =  || =ʔa̤ːjĩɟó tə̄kàìsə ((AM; || @ || )) || tiki || =@nhːːːːːːn (0.1s) ||
-# text_phrase-gls-it =  kwàh ĩ́ɲɟó tə̄kāìsàh tīkīʔ
-# text_phrase-gls-tl =  Ay        con que me haces    le dijo,
-# text_phrase-gls-wg =  INTERJ DEM.PROX INS make(put):PST:3>1 C.Q say:PST:3>3
-# text_phrase-gls-de =  165.41_FH
+# text_en = "Ah! What (AM laughs) did it do me with?", he (Tiger) said (laughs).
+# text_phrase-gls-es = “Ay con que me haces le dijo,
+# text_phrase-gls-pro = || =ʔa̤ːjĩɟó tə̄kàìsə ((AM; || @ || )) || tiki || =@nhːːːːːːn (0.1s) ||
+# text_phrase-gls-it = kwàh ĩ́ɲɟó tə̄kāìsàh tīkīʔ
+# text_phrase-gls-tl = Ay        con que me haces    le dijo,
+# text_phrase-gls-wg = INTERJ DEM.PROX INS make(put):PST:3>1 C.Q say:PST:3>3
+# text_phrase-gls-de = 165.41_FH
 1	ah	ah	INTJ	_	_	7	discourse	_	AlignBegin=134434|AlignEnd=134783|GE=[INTERJ]|Gloss=INTERJ|nWord=1|RX=[INTERJ]|TokenType=Root|Word=ah
 2	ĩ	ĩ	PRON	_	_	3	comp:obj	_	AlignBegin=134783|AlignEnd=135132|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=2|RX=[PRO]|TokenType=Root|Word=ĩ
 3	=yo	=yo	ADP	_	_	5	comp:obl	_	AlignBegin=135132|AlignEnd=135481|GE=[INS]|Gloss==INS|nWord=3|RX=[POST]|TokenType=Clit|Word=yo
@@ -1285,13 +1285,13 @@
 # sent_timecode = 136958, 137938
 # morphemic_text = nẽyh ĩ =yo ta- ka -Ø -i =sa .
 # text = nẽyh ĩ yo takai sa .
-# text_en =  ### What did it do me with?
-# text_phrase-gls-es =  con que me haces,
-# text_phrase-gls-pro =  || nə̃́jhjó tə̄kàìsə̀ ||
-# text_phrase-gls-it =  nə̃́jhjó tə̄kàìsə̀
-# text_phrase-gls-tl =  con que me haces
-# text_phrase-gls-wg =  HES DEM.PROX INS make(put):PST:3>1 C.Q
-# text_phrase-gls-de =  165.42_FH
+# text_en = ### What did it do me with?
+# text_phrase-gls-es = con que me haces,
+# text_phrase-gls-pro = || nə̃́jhjó tə̄kàìsə̀ ||
+# text_phrase-gls-it = nə̃́jhjó tə̄kàìsə̀
+# text_phrase-gls-tl = con que me haces
+# text_phrase-gls-wg = HES DEM.PROX INS make(put):PST:3>1 C.Q
+# text_phrase-gls-de = 165.42_FH
 1	nẽyh	nẽyh	X	_	_	7	discourse	_	AlignBegin=136958|AlignEnd=137121|nWord=1|Word=nẽyh
 2	ĩ	ĩ	PRON	_	_	3	comp:obj	_	AlignBegin=137121|AlignEnd=137284|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=2|RX=[PRO]|TokenType=Root|Word=ĩ
 3	=yo	=yo	ADP	_	_	5	comp:obl	_	AlignBegin=137284|AlignEnd=137447|GE=[INS]|Gloss==INS|nWord=3|RX=[POST]|TokenType=Clit|Word=yo
@@ -1308,20 +1308,20 @@
 # sent_timecode = 137938, 139406
 # morphemic_text = warku pa =ma , warku iʃ -ta =r -ya .
 # text = warku pa ma , warkuiʃta rya .
-# text_en =  "You are evil. (AM laughs) You do evil."
-# text_phrase-gls-es =  malo usted” “Eres malo”
-# text_phrase-gls-pro =  || wàɾkò pāmə̀ || =wàrhˈkwɨ́ʃtàhˈɾjāʔ (0.3s) ((AM; || @ || )) ||
-# text_phrase-gls-it =  wàɾkò pāmə̀ wàrhkwɨ́ʃtàhɾjāʔ
-# text_phrase-gls-tl =  usted Eres malia
-# text_phrase-gls-wg =  bad PRO2 TOP bad+make:AG COP:PFV:2
-# text_phrase-gls-de =  165.43_FH
+# text_en = "You are evil. (AM laughs) You do evil."
+# text_phrase-gls-es = malo usted” “Eres malo”
+# text_phrase-gls-pro = || wàɾkò pāmə̀ || =wàrhˈkwɨ́ʃtàhˈɾjāʔ (0.3s) ((AM; || @ || )) ||
+# text_phrase-gls-it = wàɾkò pāmə̀ wàrhkwɨ́ʃtàhɾjāʔ
+# text_phrase-gls-tl = usted Eres malia
+# text_phrase-gls-wg = bad PRO2 TOP bad+make:AG COP:PFV:2
+# text_phrase-gls-de = 165.43_FH
 1	warku	warku	NOUN	_	_	9	conj:dicto	_	AlignBegin=137938|AlignEnd=138148|GE=bad|Gloss=bad|nWord=1|RX=[N]|TokenType=Root|Word=warku
 2	pa	pa	PRON	_	_	3	comp:obj	_	AlignBegin=138148|AlignEnd=138358|GE=[PRO2]|Gloss=PRO2|nWord=2|RX=[PRO]|TokenType=Root|Word=pa
 3	=ma	=ma	PART	_	_	1	subj	_	AlignBegin=138358|AlignEnd=138568|GE=[TOP]|Gloss==TOP|nWord=3|RX=[PRT]|TokenType=Clit|Word=ma
 4	,	_	PUNCT	_	_	3	punct	_	AlignBegin=138568|AlignEnd=138778|nWord=4|Word=,
 5	warku	warku	NOUN	_	_	6	comp:obj@lvc	_	AlignBegin=138778|AlignEnd=138848|GE=bad|Gloss=bad|nWord=5|RX=[N]|TokenType=Root|Word=warkuiʃta
 6	iʃ	iʃ	VERB	_	_	7	comp/m	_	AlignBegin=138848|AlignEnd=138918|GE=make|Gloss=make|nWord=5|RX=[VT]|TokenType=Root|Word=warkuiʃta
-7	-ta	_	SCONJ	_	_	8	comp:pred	_	AlignBegin=138918|AlignEnd=138988|DerPos=NOUN|GE=[AG].[NMLZ]|Gloss=-AG.NMLZ|nWord=5|RX=[V>N]|TokenType=DerAff|Word=warkuiʃta
+7	-ta	_	SCONJ	_	DerPos=NOUN	8	comp:pred	_	AlignBegin=138918|AlignEnd=138988|GE=[AG].[NMLZ]|Gloss=-AG.NMLZ|nWord=5|RX=[V>N]|TokenType=DerAff|Word=warkuiʃta
 8	=r	r	AUX	_	_	9	comp:aux	_	AlignBegin=138988|AlignEnd=139093|GE=[COP]|Gloss==COP|nWord=6|RX=[COP]|TokenType=Clit|Word=rya
 9	-ya	_	AUX	_	Person=2	0	root	_	AlignBegin=139093|AlignEnd=139198|GE=[S2:PFV]|Gloss=-S2:PFV|nWord=6|RX=[V:ANY]|TokenType=InflAff|Word=rya
 10	.	_	PUNCT	_	_	9	punct	_	AlignBegin=139198|AlignEnd=139406|Gloss=.|nWord=7|Word=.
@@ -1332,13 +1332,13 @@
 # sent_timecode = 139731, 141448
 # morphemic_text = teʔne Ø- wark -Ø -wa tu war pe na -a -wa tWk Ø- -Ø -i .
 # text = teʔne warkwa tu warpe naa tiki .
-# text_en =  "###, I will go again", he said.
-# text_phrase-gls-es =  “quédate, otra vez voy” dijo
-# text_phrase-gls-pro =  || ˈtɨʔneˈwã́ʔkwə́ˈtɨ ˈwə̄ɾpē ˈnàh tìˈkì (0.5s) ||
-# text_phrase-gls-it =  tĩ̄ʔwã́͡kwə́t kwə̄ɾhpēh nàh tìkìh
-# text_phrase-gls-tl =  ayudame,      otraves        voy       vengo
-# text_phrase-gls-wg =  ID:strike? repeat HES repeat+a.lot go:PFV:1 say:PST:3>3
-# text_phrase-gls-de =  165.44_FH
+# text_en = "###, I will go again", he said.
+# text_phrase-gls-es = “quédate, otra vez voy” dijo
+# text_phrase-gls-pro = || ˈtɨʔneˈwã́ʔkwə́ˈtɨ ˈwə̄ɾpē ˈnàh tìˈkì (0.5s) ||
+# text_phrase-gls-it = tĩ̄ʔwã́͡kwə́t kwə̄ɾhpēh nàh tìkìh
+# text_phrase-gls-tl = ayudame,      otraves        voy       vengo
+# text_phrase-gls-wg = ID:strike? repeat HES repeat+a.lot go:PFV:1 say:PST:3>3
+# text_phrase-gls-de = 165.44_FH
 1	teʔne	teʔne	ADV	_	_	11	mod	_	AdvType=Ideoph|AlignBegin=139731|AlignEnd=139976|GE=[ID:strike?]|Gloss=ID:strike?|nWord=1|RX=[IDEO]|TokenType=Root|Word=teʔne
 2	Ø-	_	PRON	_	_	3	comp:obj/m	_	AlignBegin=139976|AlignEnd=140037|GE=[O3SG]|Gloss=O3SG-|nWord=2|RX=[VT:ANY]|TokenType=InflAff|Word=warkwa
 3	wark	wark	VERB	_	_	5	comp:aux/m	_	AlignBegin=140037|AlignEnd=140098|GE=repeat|Gloss=repeat|nWord=2|RX=[VI]|TokenType=Root|Word=warkwa
@@ -1362,13 +1362,13 @@
 # sent_timecode = 141958, 143862
 # morphemic_text = Ø- tokk -u ak -u -h =pe Ø- tokk -u ak -u -h =pe tWk Ø- -i -i hwe .
 # text = tokkuakuh pe tokkuakuh pe tikii hwe .
-# text_en =  "You carry about drinking, carry about drinking", he (Rabbit) said ###.
-# text_phrase-gls-es =  “Tú sólo sigue bebiendo, tú sólo sigue bebiendo”, dijo
-# text_phrase-gls-pro =  || tɔ́qˈːàʔkòˈpē (0.1s) || tə̄ˈkw àkùˈpēʔ ˈtìkìˈhʷe (0.2s) ||
-# text_phrase-gls-it =  tɔ́qq àʔkòpē tə̄kw àkùpēʔ tìkì wèɾh
-# text_phrase-gls-tl =  Toma       estate,          tomando   estate,        tomando  estate,          le dijo
-# text_phrase-gls-wg =  drink+be:IMP:2>3 only drink+be:IMP:2>3 only say:PST:3>3 HES
-# text_phrase-gls-de =  165.45_FH
+# text_en = "You carry about drinking, carry about drinking", he (Rabbit) said ###.
+# text_phrase-gls-es = “Tú sólo sigue bebiendo, tú sólo sigue bebiendo”, dijo
+# text_phrase-gls-pro = || tɔ́qˈːàʔkòˈpē (0.1s) || tə̄ˈkw àkùˈpēʔ ˈtìkìˈhʷe (0.2s) ||
+# text_phrase-gls-it = tɔ́qq àʔkòpē tə̄kw àkùpēʔ tìkì wèɾh
+# text_phrase-gls-tl = Toma       estate,          tomando   estate,        tomando  estate,          le dijo
+# text_phrase-gls-wg = drink+be:IMP:2>3 only drink+be:IMP:2>3 only say:PST:3>3 HES
+# text_phrase-gls-de = 165.45_FH
 1	Ø-	_	PRON	_	_	2	comp:obj/m	_	AlignBegin=141958|AlignEnd=142003|GE=[O3SG]|Gloss=O3SG-|nWord=1|RX=[VT:ANY]|TokenType=InflAff|Word=tokkuakuh
 2	tokk	tokk	VERB	_	_	4	comp:aux	_	AlignBegin=142003|AlignEnd=142048|GE=drink|Gloss=drink|nWord=1|RX=[VT]|TokenType=Root|Word=tokkuakuh
 3	-u	_	PRON	_	_	2	subj	_	AlignBegin=142048|AlignEnd=142093|GE=[S2]|Gloss=-S2|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=tokkuakuh
@@ -1396,13 +1396,13 @@
 # sent_timecode = 144020, 145075
 # morphemic_text = nã -Ø -i teʃk -Ø -i ta- õʃ -Ø -i .
 # text = nẽy teʃki tõʃi .
-# text_en =  He went to get lost.
-# text_phrase-gls-es =  se fue, anduvo, se perdió y
-# text_phrase-gls-pro =  || nẽ̄j tēʃkitõ̀ʃɨ̀ʔ (0.9s) ||
-# text_phrase-gls-it =  nẽ̄jh tēʃkʲtõ̀ʃɨ̀ʔ
-# text_phrase-gls-tl =  Fue       no volvio
-# text_phrase-gls-wg =  go:PST:3 get.away:PST:3 lose:MID:PST:3
-# text_phrase-gls-de =  165.46_FH
+# text_en = He went to get lost.
+# text_phrase-gls-es = se fue, anduvo, se perdió y
+# text_phrase-gls-pro = || nẽ̄j tēʃkitõ̀ʃɨ̀ʔ (0.9s) ||
+# text_phrase-gls-it = nẽ̄jh tēʃkʲtõ̀ʃɨ̀ʔ
+# text_phrase-gls-tl = Fue       no volvio
+# text_phrase-gls-wg = go:PST:3 get.away:PST:3 lose:MID:PST:3
+# text_phrase-gls-de = 165.46_FH
 1	nã	nã	VERB	_	_	3	comp:aux/m	_	AlignBegin=144020|AlignEnd=144108|GE=go|Gloss=go|nWord=1|RX=[VI]|TokenType=Root|Word=nẽy
 2	-Ø	_	PRON	_	_	3	subj/m	_	AlignBegin=144108|AlignEnd=144196|GE=[S3SG]|Gloss=-S3SG|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=nẽy
 3	-i	_	AUX	_	_	6	compound:svc	_	AlignBegin=144196|AlignEnd=144284|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=nẽy
@@ -1421,13 +1421,13 @@
 # sent_timecode = 145958, 146379
 # morphemic_text = teʔ -Ø -tW -hi .
 # text = teʔtihi .
-# text_en =  He did not come back.
-# text_phrase-gls-es =  no volvió
-# text_phrase-gls-pro =  || téʔtìhìʔ (0.4s) ||
-# text_phrase-gls-it =  téʔtìhìʔ
-# text_phrase-gls-tl =  no regreso
-# text_phrase-gls-wg =  come:NEG:PST:3
-# text_phrase-gls-de =  165.47_FH
+# text_en = He did not come back.
+# text_phrase-gls-es = no volvió
+# text_phrase-gls-pro = || téʔtìhìʔ (0.4s) ||
+# text_phrase-gls-it = téʔtìhìʔ
+# text_phrase-gls-tl = no regreso
+# text_phrase-gls-wg = come:NEG:PST:3
+# text_phrase-gls-de = 165.47_FH
 1	teʔ	teʔ	VERB	_	_	3	comp:aux/m	_	AlignBegin=145958|AlignEnd=146010|GE=come|Gloss=come|nWord=1|RX=[VI]|TokenType=Root|Word=teʔtihi
 2	-Ø	_	PRON	_	_	3	subj/m	_	AlignBegin=146010|AlignEnd=146062|GE=[S3SG]|Gloss=-S3SG|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=teʔtihi
 3	-tV	_	AUX	_	_	4	comp:aux/m	_	AlignBegin=146062|AlignEnd=146114|GE=[NEG]|Gloss=-NEG|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=teʔtihi|wordform=-tW
@@ -1440,13 +1440,13 @@
 # sent_timecode = 146737, 149717
 # morphemic_text = akarʃkwa ĩ , kapanah nã a- r- tapuk -Ø -i .
 # text = akarʃkwa ĩ , kapanah nãartapuki .
-# text_en =  Then that, the next day, he went to find him.
-# text_phrase-gls-es =  entonces al otro día, fue a buscarlo,
-# text_phrase-gls-pro =  || ʔàːˈkāɾʃkwə̃̀jn (1.0s) || kə̀pã̀ːnã́h nẽ́ rhtùpùkʰə ||
-# text_phrase-gls-it =  àːkāʃkwə̃̀j kə̀pã̀ːnã́h nẽ́ rhtùpùk
-# text_phrase-gls-tl =  entonces  Otro dia           se fue   lo entocontro
-# text_phrase-gls-wg =  then DEM.PROX next.day go+find:APPL:PST:3>3
-# text_phrase-gls-de =  165.48_FH
+# text_en = Then that, the next day, he went to find him.
+# text_phrase-gls-es = entonces al otro día, fue a buscarlo,
+# text_phrase-gls-pro = || ʔàːˈkāɾʃkwə̃̀jn (1.0s) || kə̀pã̀ːnã́h nẽ́ rhtùpùkʰə ||
+# text_phrase-gls-it = àːkāʃkwə̃̀j kə̀pã̀ːnã́h nẽ́ rhtùpùk
+# text_phrase-gls-tl = entonces  Otro dia           se fue   lo entocontro
+# text_phrase-gls-wg = then DEM.PROX next.day go+find:APPL:PST:3>3
+# text_phrase-gls-de = 165.48_FH
 1	akarʃkwa	akarʃkwa	PART	_	_	10	discourse	_	AlignBegin=146737|AlignEnd=147234|GE=then|Gloss=then|nWord=1|RX=[PRT]|TokenType=Root|Word=akarʃkwa
 2	ĩ	ĩ	PRON	_	_	1	discourse	_	AlignBegin=147234|AlignEnd=147731|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=2|RX=[PRO]|TokenType=Root|Word=ĩ
 3	,	_	PUNCT	_	_	2	punct	_	AlignBegin=147731|AlignEnd=148228|nWord=3|Word=,
@@ -1465,13 +1465,13 @@
 # sent_timecode = 149758, 152634
 # morphemic_text = aaa , warku ẽketa , pa =ma ĩ =yã , pi- sukuh -a -Øwa , pi- ã -pa =hã .
 # text = aaa , warku ẽketa , pa m ĩ yã , pisukuha , piãpa hã .
-# text_en =  "Ah, you are evil, now, here I will grab you, I will eat you."
-# text_phrase-gls-es =  “Ah malo, ahora, tu aquí” ‎‎“te comeré
-# text_phrase-gls-pro =  || ʔã́ːːː || ˈɣwèɾɣˈʔèkèˈtá pã̀ˈm jã́h ˈpìsuˈkɨhə̀ || pjãʔpã̄hã̄ʔ (0.2s) ||
-# text_phrase-gls-it =  ã́ː ɣwèɾɣʔ èkètá pã̀m jã́h pìswkūhə̀ twã̀ʔpã̄hã̄ʔ
-# text_phrase-gls-tl =  a:::::       hoy            usted        aquí      te agarrare   Te comere,
-# text_phrase-gls-wg =  ah bad now PRO2 =TOP DEM.PROX LOC grab:PFV:1>2 eat:FUT:1>2 FOC
-# text_phrase-gls-de =  165.49_FH
+# text_en = "Ah, you are evil, now, here I will grab you, I will eat you."
+# text_phrase-gls-es = “Ah malo, ahora, tu aquí” ‎‎“te comeré
+# text_phrase-gls-pro = || ʔã́ːːː || ˈɣwèɾɣˈʔèkèˈtá pã̀ˈm jã́h ˈpìsuˈkɨhə̀ || pjãʔpã̄hã̄ʔ (0.2s) ||
+# text_phrase-gls-it = ã́ː ɣwèɾɣʔ èkètá pã̀m jã́h pìswkūhə̀ twã̀ʔpã̄hã̄ʔ
+# text_phrase-gls-tl = a:::::       hoy            usted        aquí      te agarrare   Te comere,
+# text_phrase-gls-wg = ah bad now PRO2 =TOP DEM.PROX LOC grab:PFV:1>2 eat:FUT:1>2 FOC
+# text_phrase-gls-de = 165.49_FH
 1	aaa	aaa	INTJ	_	_	3	discourse	_	AlignBegin=149758|AlignEnd=149950|GE=ah|Gloss=ah|nWord=1|RX=[INTERJ]|TokenType=Root|Word=aaa
 2	,	_	PUNCT	_	_	1	punct	_	AlignBegin=149950|AlignEnd=150142|nWord=2|Word=,
 3	warku	warku	NOUN	_	_	0	root	_	AlignBegin=150142|AlignEnd=150334|GE=bad|Gloss=bad|nWord=3|RX=[N]|TokenType=Root|Word=warku
@@ -1499,13 +1499,13 @@
 # sent_timecode = 152793, 155255
 # morphemic_text = pi- ã -pa , keʃa ta- r- kasa -u -ri , warku as ta- ka -u -ri =ras .
 # text = piãpa , keʃa tarkasauri , warku as takori ras .
-# text_en =  "I will eat you, because you lied to me yesterday, because you hurt me (did me evil)."
-# text_phrase-gls-es =  te comeré porque ayer me mentiste, porque me lastimaste (un mal me hiciste)” (dijo el tigre)
-# text_phrase-gls-pro =  || pìˈjã̀ʔpã̀k ˈkéʃə̄ ˈtāɾhˈkə̄sə̄ˈwùɾə̀ wàɾˈkwás tə̀ˈkòɾìˈɾā (0.5s) ||
-# text_phrase-gls-it =  pìã̀ʔpã̀k kéʃə̄ tāɾhkə̄sə̄ùɾə̀ wàɾhkwás tə̀kòɾìɾās
-# text_phrase-gls-tl =  te comere  ayer           me mentiste  ,   un mal           me hicistes
-# text_phrase-gls-wg =  eat:FUT:1>2 yesterday lie:APPL:PST:2>1 bad one make:PST:2>1 REAS
-# text_phrase-gls-de =  165.50_FH
+# text_en = "I will eat you, because you lied to me yesterday, because you hurt me (did me evil)."
+# text_phrase-gls-es = te comeré porque ayer me mentiste, porque me lastimaste (un mal me hiciste)” (dijo el tigre)
+# text_phrase-gls-pro = || pìˈjã̀ʔpã̀k ˈkéʃə̄ ˈtāɾhˈkə̄sə̄ˈwùɾə̀ wàɾˈkwás tə̀ˈkòɾìˈɾā (0.5s) ||
+# text_phrase-gls-it = pìã̀ʔpã̀k kéʃə̄ tāɾhkə̄sə̄ùɾə̀ wàɾhkwás tə̀kòɾìɾās
+# text_phrase-gls-tl = te comere  ayer           me mentiste  ,   un mal           me hicistes
+# text_phrase-gls-wg = eat:FUT:1>2 yesterday lie:APPL:PST:2>1 bad one make:PST:2>1 REAS
+# text_phrase-gls-de = 165.50_FH
 1	pi-	_	PRON	_	_	2	comp:obj/m	_	AlignBegin=152793|AlignEnd=152875|GE=[O2]|Gloss=O2-|nWord=1|RX=[VT:ANY]|TokenType=InflAff|Word=piãpa
 2	ã	ã	VERB	_	_	3	comp:aux	_	AlignBegin=152875|AlignEnd=152957|GE=eat|Gloss=eat|nWord=1|RX=[VT]|TokenType=Root|Word=piãpa
 3	-pa	_	AUX	_	Person=1	0	root	_	AlignBegin=152957|AlignEnd=153039|GE=[S1SG:FUT]|Gloss=-S1SG:FUT|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=piãpa
@@ -1532,13 +1532,13 @@
 # sent_timecode = 155782, 159475
 # morphemic_text = nẽʔ saʔa =s tʃa -i -wa , ã =kan -ka Ø- kiak -Ø -i , ah , ã manih =ma .
 # text = nẽʔ saʔa s tʃwa , ã kanka kiaki , aa , ã manih ma .
-# text_en =  Um, there was a rock, rabbit pretended to hold it.
-# text_phrase-gls-es =  Fue en una piedra había como que la sostenía fue estaba el conejo,
-# text_phrase-gls-pro =  || ˈnẽ̄ʔ sàˈʔah t͡ʃwə̄h || àˈkàhˈkàʔ (0.4s) || kjaʔ°kiti° (0.1s) || ʔa- || ʔã̀mẽ̄nĩ̀hmã̀ʔ (1.3s) ||
-# text_phrase-gls-it =  nẽ̄ sàːh t͡ʃwə̄h àkàhkà jàkʲtèh ã̀ʔ àmẽ̄nĩ̀hmã̀ʔ
-# text_phrase-gls-tl =  Fue    en una piedra había      con ganas de llorar     fue        estaba  el conejo,
-# text_phrase-gls-wg =  HES rock INDF.ART be.there:PFV:3 DEM.DIST make:SIM hold.up:PST:3>3 INTERJ DEM.DIST rabbit TOP
-# text_phrase-gls-de =  165.51_FH
+# text_en = Um, there was a rock, rabbit pretended to hold it.
+# text_phrase-gls-es = Fue en una piedra había como que la sostenía fue estaba el conejo,
+# text_phrase-gls-pro = || ˈnẽ̄ʔ sàˈʔah t͡ʃwə̄h || àˈkàhˈkàʔ (0.4s) || kjaʔ°kiti° (0.1s) || ʔa- || ʔã̀mẽ̄nĩ̀hmã̀ʔ (1.3s) ||
+# text_phrase-gls-it = nẽ̄ sàːh t͡ʃwə̄h àkàhkà jàkʲtèh ã̀ʔ àmẽ̄nĩ̀hmã̀ʔ
+# text_phrase-gls-tl = Fue    en una piedra había      con ganas de llorar     fue        estaba  el conejo,
+# text_phrase-gls-wg = HES rock INDF.ART be.there:PFV:3 DEM.DIST make:SIM hold.up:PST:3>3 INTERJ DEM.DIST rabbit TOP
+# text_phrase-gls-de = 165.51_FH
 1	nẽʔ	nẽʔ	PART	_	_	2	discourse	_	AlignBegin=155782|AlignEnd=156028|GE=[HES]|Gloss=HES|nWord=1|RX=[PRT]|TokenType=Root|Word=nẽʔ
 2	saʔa	saʔa	NOUN	_	_	4	subj	_	AlignBegin=156028|AlignEnd=156274|GE=rock|Gloss=rock|nWord=2|RX=[N]|TokenType=Root|Word=saʔa
 3	=s	=s	DET	_	_	2	det	_	AlignBegin=156274|AlignEnd=156520|GE=[INDF].[ART]|Gloss==INDF.ART|nWord=3|RX=[DET]|TokenType=Clit|Word=s
@@ -1567,13 +1567,13 @@
 # sent_timecode = 160738, 166579
 # morphemic_text = tío tigre , ah ẽketa , ta- uku tigre , tWk Ø- -Ø -i tu , ta- uku uʔ , tWk Ø- -Ø -i tWk Ø- -Ø -wa .
 # text = tiyo tigre , aa ẽketa , tauku tigre , tiki tu , tauku uʔ , tiki tuka .
-# text_en =  “Uncle Tiger, now, Uncle Tiger,” he said ###, “my Uncle Tiger,” he said he says.
-# text_phrase-gls-es =  tio tigre “Ahora, mi tío tigre, tigre” dijo “mi tío tigre”, dijo, “ahora esta piedra”
-# text_phrase-gls-pro =  || ˈtijo ˈtigre (0.1s) || ʔã̀ˈʔã̄ŋkèˈtāʔ (0.3s) || tàʔukù tigre (0.1s) || tìkìʔ °tɨ̃° (0.6s) || ʔæː tàwʔkùʔ úʔ (0.1s) || tīˈkíʔ tùˈkà (0.4s) ||
-# text_phrase-gls-it =  tío tigre ã̀ã̄ŋkètāʔ tàʔkù tigre tìkìʔ tũ̀h ə̀ tàwʔkùʔ úʔ tīkíʔ tùkà
-# text_phrase-gls-tl =  tio tigre   Ahora  tio        tigre          le dijo,    tio           tigre      le dijo       ()            ahora    esta   piedra
-# text_phrase-gls-wg =  SPA_uncle SPA_tiger INTERJ now father.in.law:1 SPA_tiger say:PST:3>3 HES father.in.law:1 tiger say:PST:3>3 say:PFV:3>3
-# text_phrase-gls-de =  165.52_FH
+# text_en = “Uncle Tiger, now, Uncle Tiger,” he said ###, “my Uncle Tiger,” he said he says.
+# text_phrase-gls-es = tio tigre “Ahora, mi tío tigre, tigre” dijo “mi tío tigre”, dijo, “ahora esta piedra”
+# text_phrase-gls-pro = || ˈtijo ˈtigre (0.1s) || ʔã̀ˈʔã̄ŋkèˈtāʔ (0.3s) || tàʔukù tigre (0.1s) || tìkìʔ °tɨ̃° (0.6s) || ʔæː tàwʔkùʔ úʔ (0.1s) || tīˈkíʔ tùˈkà (0.4s) ||
+# text_phrase-gls-it = tío tigre ã̀ã̄ŋkètāʔ tàʔkù tigre tìkìʔ tũ̀h ə̀ tàwʔkùʔ úʔ tīkíʔ tùkà
+# text_phrase-gls-tl = tio tigre   Ahora  tio        tigre          le dijo,    tio           tigre      le dijo       ()            ahora    esta   piedra
+# text_phrase-gls-wg = SPA_uncle SPA_tiger INTERJ now father.in.law:1 SPA_tiger say:PST:3>3 HES father.in.law:1 tiger say:PST:3>3 say:PFV:3>3
+# text_phrase-gls-de = 165.52_FH
 1	tío	tío	X	_	_	8	conj:dicto	_	AlignBegin=160738|AlignEnd=161062|GE=[SPA_uncle]|Gloss=SPA_uncle|nWord=1|RX=[<NOT_SURE>]|TokenType=Root|Word=tiyo
 2	tigre	tigre	X	_	_	1	mod	_	AlignBegin=161062|AlignEnd=161386|GE=[SPA_tiger]|Gloss=SPA_tiger|nWord=2|RX=[<NOT_SURE>]|TokenType=Root|Word=tigre
 3	,	_	PUNCT	_	_	2	punct	_	AlignBegin=161386|AlignEnd=161710|nWord=3|Word=,
@@ -1610,13 +1610,13 @@
 # sent_timecode = 166931, 170392
 # morphemic_text = ãma , ẽketa ĩ saʔa Ø- sukuk -a -wa ak -a -ri =yã =mã =ma .
 # text = ãma , ẽketa ĩ saʔa sukukwa akari yã mã ma .
-# text_en =  "Um, I hold this stone where it has been."
-# text_phrase-gls-es =  “estoy agarrando, esa,
-# text_phrase-gls-pro =  || ʔə̀ˈmə̀ʔ ||̀ʔ èkètã̄ĩ̄n sàʔā súˈkúkwã̄ˈʔã̀kàˈɾè ˈjã̀ːmã̀ːˈmã̄ (0.1s) ||
-# text_phrase-gls-it =  ə̀mə̀ʔ èkètã̄ĩ̄ sàā súkúkwã̄ã̀kàɾè ã̀mã̀mã̄
-# text_phrase-gls-tl =  Que lo estoy sosteniendo   ()
-# text_phrase-gls-wg =  HES now DEM.PROX rock grab:PFV:1>3 be:PST:1 LOC TOP TOP
-# text_phrase-gls-de =  165.53_FH
+# text_en = "Um, I hold this stone where it has been."
+# text_phrase-gls-es = “estoy agarrando, esa,
+# text_phrase-gls-pro = || ʔə̀ˈmə̀ʔ ||̀ʔ èkètã̄ĩ̄n sàʔā súˈkúkwã̄ˈʔã̀kàˈɾè ˈjã̀ːmã̀ːˈmã̄ (0.1s) ||
+# text_phrase-gls-it = ə̀mə̀ʔ èkètã̄ĩ̄ sàā súkúkwã̄ã̀kàɾè ã̀mã̀mã̄
+# text_phrase-gls-tl = Que lo estoy sosteniendo   ()
+# text_phrase-gls-wg = HES now DEM.PROX rock grab:PFV:1>3 be:PST:1 LOC TOP TOP
+# text_phrase-gls-de = 165.53_FH
 1	ãma	ãma	PART	_	_	9	discourse	_	AlignBegin=166931|AlignEnd=167246|GE=[HES]|Gloss=HES|nWord=1|RX=[PRT]|TokenType=Root|Word=ãma
 2	,	_	PUNCT	_	_	1	punct	_	AlignBegin=167246|AlignEnd=167561|nWord=2|Word=,
 3	ẽketa	ẽketa	NOUN	_	_	9	mod:tmod	_	AlignBegin=167561|AlignEnd=167876|GE=now|Gloss=now|nWord=3|RX=[N]|TokenType=Root|Word=ẽketa
@@ -1640,13 +1640,13 @@
 # sent_timecode = 170510, 174606
 # morphemic_text = ke war- ta- iʃk -a -wa =mã , ĩ =yã =ra a- kas- teʃk -a -wa =mã , ĩ kuk -a =ma war- ta- iʃ -Ø -pi =hã .
 # text = ke wartiʃkawa mã , ĩ ɲa ra akasteʃko mã , ĩ kuka ma wartiʃpi hã .
-# text_en =  "When I am already tired, if I let it fall, this earth won’t make it.”
-# text_phrase-gls-es =  ya estoy cansado, si la dejo caer, esta tierra se destruirá,
-# text_phrase-gls-pro =  || kéʔe wáɾhtíʃkə́wə́mɪ || ˈĩ̄ɲã̄ˈɾã́ʔ āˈkásˈtēʃkòmə̀ʔ || ˈ‎‎ĩ̀kūˈkə̀mə̀ ˈwàɾtʃˈpĩ̄hã̄ʔ (0.1s) ||
-# text_phrase-gls-it =  kéː wáɾhtíʃkə́wə́mə̃̀ ĩ̄ɲã̄ɾã́ʔ ākástēʃkòmə̀ʔ ‎‎ĩ̀kūkə̀mə̀ wàɾhtʲʃpĩ̄hã̄ʔ
-# text_phrase-gls-tl =  ya        estoy cansado          si esto        lo dejo     ()              esta tierra         se arruinará
-# text_phrase-gls-wg =  already make(tired):CNTR:MID:PFV:1 when DEM.PROX =LOC PURP get.away:APPL:PFV:1>3 if DEM.PROX earth:NPOS TOP make:CNTR:MID:FUT:3 FOC
-# text_phrase-gls-de =  165.54_FH
+# text_en = "When I am already tired, if I let it fall, this earth won’t make it.”
+# text_phrase-gls-es = ya estoy cansado, si la dejo caer, esta tierra se destruirá,
+# text_phrase-gls-pro = || kéʔe wáɾhtíʃkə́wə́mɪ || ˈĩ̄ɲã̄ˈɾã́ʔ āˈkásˈtēʃkòmə̀ʔ || ˈ‎‎ĩ̀kūˈkə̀mə̀ ˈwàɾtʃˈpĩ̄hã̄ʔ (0.1s) ||
+# text_phrase-gls-it = kéː wáɾhtíʃkə́wə́mə̃̀ ĩ̄ɲã̄ɾã́ʔ ākástēʃkòmə̀ʔ ‎‎ĩ̀kūkə̀mə̀ wàɾhtʲʃpĩ̄hã̄ʔ
+# text_phrase-gls-tl = ya        estoy cansado          si esto        lo dejo     ()              esta tierra         se arruinará
+# text_phrase-gls-wg = already make(tired):CNTR:MID:PFV:1 when DEM.PROX =LOC PURP get.away:APPL:PFV:1>3 if DEM.PROX earth:NPOS TOP make:CNTR:MID:FUT:3 FOC
+# text_phrase-gls-de = 165.54_FH
 1	ke	ke	ADV	_	_	6	mod:tmod	_	AlignBegin=170510|AlignEnd=170766|GE=already|Gloss=already|nWord=1|RX=[ADV]|TokenType=Root|Word=ke
 2	war-	_	AUX	_	_	3	comp/m	_	AlignBegin=170766|AlignEnd=170817|GE=[CNTR]|Gloss=CNTR-|nWord=2|RX=[V>V]|TokenType=InflAff|Word=wartiʃkawa
 3	ta-	_	AUX	_	Voice=Mid	4	comp/m	_	AlignBegin=170817|AlignEnd=170868|GE=[MID]|Gloss=MID-|nWord=2|RX=[VT>VI]|TokenType=InflAff|Word=wartiʃkawa
@@ -1683,13 +1683,13 @@
 # sent_timecode = 174731, 177565
 # morphemic_text = tWk Ø- -Ø -i ãma , ãh -i -h pa- ta- mas -tʃe -Ø -pi , ĩ =ma wa =ma , ta- õʃ -Ø -pi =hã .
 # text = tiki ãma , ãhih patamastʃepi , ĩ ma wa ma , tõʃpi hã .
-# text_en =  He (Rabbit) said, um (AM laughs), “It will fall, it will kill us all, this will also be lost.”
-# text_phrase-gls-es =  le dijo, “caerá, nos matará a todos”.
-# text_phrase-gls-pro =  || ˈtìkjə̃̀ˈmə̃̀ ((AM; || @@@ || )) || ˈʔə̃́ĩ̄h pə̀ˈtàhmàɾˈt͡ʃépì || ˈjĩmə̃̀wˈːə̃̀mə̃̀ʔ || ˈtṍʃpĩ́ˈhə̃́ʔ (0.2s) ||
-# text_phrase-gls-it =  tìkʲ ə̃̀mə̃̀ ə̃́hĩ̄ pə̀tàhmàɾt͡ʃépì ʲmə̃̀wːə̃̀mə̃̀ʔ tṍʃpĩ́hə̃́ʔ
-# text_phrase-gls-tl =  le dijo      ()           caerá    a todos  nos matara     Esto       se perderá todo,
-# text_phrase-gls-wg =  say:PST:3>3 HES fall:FUT.PX:3 kill:FUT:TOT:3>INCL DEM.PROX TOP also TOP lose:MID:FUT:3 FOC
-# text_phrase-gls-de =  165.55_FH
+# text_en = He (Rabbit) said, um (AM laughs), “It will fall, it will kill us all, this will also be lost.”
+# text_phrase-gls-es = le dijo, “caerá, nos matará a todos”.
+# text_phrase-gls-pro = || ˈtìkjə̃̀ˈmə̃̀ ((AM; || @@@ || )) || ˈʔə̃́ĩ̄h pə̀ˈtàhmàɾˈt͡ʃépì || ˈjĩmə̃̀wˈːə̃̀mə̃̀ʔ || ˈtṍʃpĩ́ˈhə̃́ʔ (0.2s) ||
+# text_phrase-gls-it = tìkʲ ə̃̀mə̃̀ ə̃́hĩ̄ pə̀tàhmàɾt͡ʃépì ʲmə̃̀wːə̃̀mə̃̀ʔ tṍʃpĩ́hə̃́ʔ
+# text_phrase-gls-tl = le dijo      ()           caerá    a todos  nos matara     Esto       se perderá todo,
+# text_phrase-gls-wg = say:PST:3>3 HES fall:FUT.PX:3 kill:FUT:TOT:3>INCL DEM.PROX TOP also TOP lose:MID:FUT:3 FOC
+# text_phrase-gls-de = 165.55_FH
 1	tVk	tV	VERB	_	_	4	comp:aux	_	AlignBegin=174731|AlignEnd=174781|GE=say|Gloss=say|nWord=1|RX=[VT]|TokenType=Root|Word=tiki|wordform=tWk
 2	-Ø	_	PRON	_	_	1	comp:obj/m	_	AffLemma=Ø-|AlignBegin=174781|AlignEnd=174831|GE=[O3SG]|Gloss=O3SG-|nWord=1|RX=[VT:ANY]|TokenType=InflAff|Word=tiki|wordform=Ø-
 3	-Ø	_	PRON	_	_	4	subj/m	_	AlignBegin=174831|AlignEnd=174881|GE=[S3SG]|Gloss=-S3SG|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=tiki
@@ -1724,13 +1724,13 @@
 # sent_timecode = 177793, 179317
 # morphemic_text = ta- r- wark -u -h teʔ Ø- sukuh -u -h tWk Ø- -Ø -i .
 # text = tarwarkuh teʔsukuhuh tiki .
-# text_en =  "Help me, come grab it," he said.
-# text_phrase-gls-es =  “Todo se perderá, ayúdame, ven a agarrarla” le dijo
-# text_phrase-gls-pro =  || táhɾˈwáɾhkūˈ téʔˈ sùkùˈʔūh tìˈɣīʔ (0.7s) ||
-# text_phrase-gls-it =  táhɾwáɾhkū té sùkùūh tìɣīʔ
-# text_phrase-gls-tl =  ayúdame       veni        agarralo     Le dijo
-# text_phrase-gls-wg =  help:APPL:IMP:2>1 come+grab:IMP:2>3 say:PST:3>3
-# text_phrase-gls-de =  165.56_FH
+# text_en = "Help me, come grab it," he said.
+# text_phrase-gls-es = “Todo se perderá, ayúdame, ven a agarrarla” le dijo
+# text_phrase-gls-pro = || táhɾˈwáɾhkūˈ téʔˈ sùkùˈʔūh tìˈɣīʔ (0.7s) ||
+# text_phrase-gls-it = táhɾwáɾhkū té sùkùūh tìɣīʔ
+# text_phrase-gls-tl = ayúdame       veni        agarralo     Le dijo
+# text_phrase-gls-wg = help:APPL:IMP:2>1 come+grab:IMP:2>3 say:PST:3>3
+# text_phrase-gls-de = 165.56_FH
 1	ta-	_	PRON	_	_	2	comp:obj@appl/m	_	AlignBegin=177793|AlignEnd=177869|GE=[O1]|Gloss=O1-|nWord=1|RX=[VT:ANY]|TokenType=InflAff|Word=tarwarkuh
 2	r-	_	AUX	_	Voice=Appl	5	comp:aux/m	_	AlignBegin=177869|AlignEnd=177945|GE=[APPL].[P]|Gloss=APPL.P-|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=tarwarkuh
 3	wark	wark	VERB	_	_	2	comp:aux/m	_	AlignBegin=177945|AlignEnd=178021|GE=help|Gloss=help|nWord=1|RX=[VT]|TokenType=Root|Word=tarwarkuh
@@ -1753,13 +1753,13 @@
 # sent_timecode = 179979, 181814
 # morphemic_text = pa =ma pa- r- tʃa -a -Øwa pi- tapũn wa =ras ne .
 # text = pa ma partʃa pitapũn wa ras ne .
-# text_en =  "You be here because you have more strength."
-# text_phrase-gls-es =  “porque tú tienes más fuerza”
-# text_phrase-gls-pro =  || ˈpàmàʔˈbáɾt͡ʃá ˈpītāˈpṹŋwùˈɾàh nə̀ ||
-# text_phrase-gls-it =  pàmàb áɾt͡ʃá pītāpṹŋùɾàh nə̀
-# text_phrase-gls-tl =  usted         mas             tienes fuerza,
-# text_phrase-gls-wg =  PRO2 TOP be.there:APPL:PFV:3>2 strength:2 also REAS HES
-# text_phrase-gls-de =  165.57_FH
+# text_en = "You be here because you have more strength."
+# text_phrase-gls-es = “porque tú tienes más fuerza”
+# text_phrase-gls-pro = || ˈpàmàʔˈbáɾt͡ʃá ˈpītāˈpṹŋwùˈɾàh nə̀ ||
+# text_phrase-gls-it = pàmàb áɾt͡ʃá pītāpṹŋùɾàh nə̀
+# text_phrase-gls-tl = usted         mas             tienes fuerza,
+# text_phrase-gls-wg = PRO2 TOP be.there:APPL:PFV:3>2 strength:2 also REAS HES
+# text_phrase-gls-de = 165.57_FH
 1	pa	pa	PRON	_	_	2	comp:obj	_	AlignBegin=179979|AlignEnd=180208|GE=[PRO2]|Gloss=PRO2|nWord=1|RX=[PRO]|TokenType=Root|Word=pa
 2	=ma	=ma	PART	_	_	5	comp:obj	_	AlignBegin=180208|AlignEnd=180437|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
 3	pa-	_	PRON	_	_	4	comp:obj@appl/m	_	AffLemma=pi-|AlignBegin=180437|AlignEnd=180483|GE=[O2SG]|Gloss=O2SG-|nWord=3|RX=[VT:ANY]|TokenType=InflAff|Word=partʃa
@@ -1780,13 +1780,13 @@
 # sent_timecode = 181834, 182641
 # morphemic_text = yar nã -Ø -i Ø- sukuh -Ø -i .
 # text = yar nẽy sukuhi .
-# text_en =  He (Tiger) really went to grab it.
-# text_phrase-gls-es =  de verdad fue la agarró.
-# text_phrase-gls-pro =  || =ˈɟāɾ nẽ̄j ˈsùkùˈhīʔ (0.6s) ||
-# text_phrase-gls-it =  ɟāɾh nẽ̄j sùkùhīʔ
-# text_phrase-gls-tl =  deveras  fue ‎‎Lo agarro,
-# text_phrase-gls-wg =  true go:PST:3 grab:PST:3>3
-# text_phrase-gls-de =  165.58_FH
+# text_en = He (Tiger) really went to grab it.
+# text_phrase-gls-es = de verdad fue la agarró.
+# text_phrase-gls-pro = || =ˈɟāɾ nẽ̄j ˈsùkùˈhīʔ (0.6s) ||
+# text_phrase-gls-it = ɟāɾh nẽ̄j sùkùhīʔ
+# text_phrase-gls-tl = deveras  fue ‎‎Lo agarro,
+# text_phrase-gls-wg = true go:PST:3 grab:PST:3>3
+# text_phrase-gls-de = 165.58_FH
 1	yar	yar	NOUN	_	_	4	mod	_	AlignBegin=181834|AlignEnd=182036|GE=true|Gloss=true|nWord=1|RX=[<NOT_SURE>]|TokenType=Root|Word=yar
 2	nã	nã	VERB	_	_	4	comp:aux/m	_	AlignBegin=182036|AlignEnd=182103|GE=go|Gloss=go|nWord=2|RX=[VI]|TokenType=Root|Word=nẽy
 3	-Ø	_	PRON	_	_	4	subj/m	_	AlignBegin=182103|AlignEnd=182170|GE=[S3SG]|Gloss=-S3SG|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=nẽy
@@ -1803,13 +1803,13 @@
 # sent_timecode = 183255, 185903
 # morphemic_text = Ø- sukuk wak -u -h =pe ẽketa =re =pe , nã -a -wa ĩ =yã =ma =ma .
 # text = sukukwakuh pe ẽketa re pe , nãa ĩ yã ma ma .
-# text_en =  Just hold it up grabbing it. I will now just go there.
-# text_phrase-gls-es =  “Agárrala, sosténgala, ya, ahorita regreso aquí”,
-# text_phrase-gls-pro =  || sɨ̄ˈkú ˈkwáʔ kʊˈpéʔ kə̄ˈtə́ɾpéʔ ˈnã́jɲã̄ã̀ ˈmàmaˈʔæʔ ||
-# text_phrase-gls-it =  sɨ̄kú kwáʔ kōpéʔ kə̄tə́ɾʲpé nã́ã̄ jã̄ã̀ màmːàʔə̀
-# text_phrase-gls-tl =  agarralo   tenelo              ahorita          voy              ()
-# text_phrase-gls-wg =  grab+state:IMP:2>3 only now =TEMP only go:PFV:1 DEM.PROX LOC TOP TOP
-# text_phrase-gls-de =  165.59_FH
+# text_en = Just hold it up grabbing it. I will now just go there.
+# text_phrase-gls-es = “Agárrala, sosténgala, ya, ahorita regreso aquí”,
+# text_phrase-gls-pro = || sɨ̄ˈkú ˈkwáʔ kʊˈpéʔ kə̄ˈtə́ɾpéʔ ˈnã́jɲã̄ã̀ ˈmàmaˈʔæʔ ||
+# text_phrase-gls-it = sɨ̄kú kwáʔ kōpéʔ kə̄tə́ɾʲpé nã́ã̄ jã̄ã̀ màmːàʔə̀
+# text_phrase-gls-tl = agarralo   tenelo              ahorita          voy              ()
+# text_phrase-gls-wg = grab+state:IMP:2>3 only now =TEMP only go:PFV:1 DEM.PROX LOC TOP TOP
+# text_phrase-gls-de = 165.59_FH
 1	Ø-	_	PRON	_	_	2	comp:obj/m	_	AlignBegin=183255|AlignEnd=183299|GE=[O3SG]|Gloss=O3SG-|nWord=1|RX=[VT:ANY]|TokenType=InflAff|Word=sukukwakuh
 2	sukuk	sukuk	VERB	_	_	3	compound:svc	_	AlignBegin=183299|AlignEnd=183343|GE=grab|Gloss=grab|nWord=1|RX=[VT]|TokenType=Root|Word=sukukwakuh
 3	wak	wak	VERB	_	_	5	comp:aux/m	_	AlignBegin=183343|AlignEnd=183387|GE=resurrect|Gloss=resurrect|nWord=1|RX=[VI]|TokenType=Root|Word=sukukwakuh
@@ -1835,13 +1835,13 @@
 # sent_timecode = 185903, 191841
 # morphemic_text = tas =ma =ma ke -, ke ak -ir -i tasah =ri , tasah Ø- ka -i -wa wa =ras ã =kan =ra mnake , akona -pa =ra nã -Ø -wa tWk Ø- -Ø -i .
 # text = tas ma ma ke -, ke akri tasah ri , tasah kiu wa ras ã kan ra mnake , akonapa ra nãwa tiki .
-# text_en =  "I was here for a while- since I have been doing this for a while ### thus, I wll go urinate," he said.
-# text_phrase-gls-es =  “Como ya estuve aquí desde hace rato, por eso, iré a orinar, me voy” (dijo el conejo) Le dijo
-# text_phrase-gls-pro =  || tàsmàmàʔ kéɣ%- (0.4s) || kə́ ʔáhkɨɾɨʔ (0.1s) || tə̀sã̀ːɾə̀g- (0.1s) || tāsáh kìwuə̀ɾāz ākə̄ɾà mnã̄ʔã̀kèʔ || àkònàpáɾá nã̀wə̃̀ʔ (0.1s) || tìki < (H)> (0.5s) ||
-# text_phrase-gls-it =  tàsmàmàʔ kéɣʔ kə́ áhkʲɾìʔ tə̀sã̀ːɾə̀ʔ tāsáh kìɣwə̀ɾāz ākə̄ɾà mnã̄ã̀kèʔ àkònàpáɾá nã̀wə̃̀ʔ tìkì
-# text_phrase-gls-tl =  Yo                     ya        estuve   ya ratos      hace            por eso       voy hacer pipi  voy     ‎‎Le dijo
-# text_phrase-gls-wg =  PRO1 TOP TOP already already be.in.state:PST:3PL a.while TEMP a.while make:PFV:3>3 also REAS DEM.DIST SIM PURP HES urinate:FUT:1 PURP go:PFV:3 say:PST:3>3
-# text_phrase-gls-de =  165.60_FH
+# text_en = "I was here for a while- since I have been doing this for a while ### thus, I wll go urinate," he said.
+# text_phrase-gls-es = “Como ya estuve aquí desde hace rato, por eso, iré a orinar, me voy” (dijo el conejo) Le dijo
+# text_phrase-gls-pro = || tàsmàmàʔ kéɣ%- (0.4s) || kə́ ʔáhkɨɾɨʔ (0.1s) || tə̀sã̀ːɾə̀g- (0.1s) || tāsáh kìwuə̀ɾāz ākə̄ɾà mnã̄ʔã̀kèʔ || àkònàpáɾá nã̀wə̃̀ʔ (0.1s) || tìki < (H)> (0.5s) ||
+# text_phrase-gls-it = tàsmàmàʔ kéɣʔ kə́ áhkʲɾìʔ tə̀sã̀ːɾə̀ʔ tāsáh kìɣwə̀ɾāz ākə̄ɾà mnã̄ã̀kèʔ àkònàpáɾá nã̀wə̃̀ʔ tìkì
+# text_phrase-gls-tl = Yo                     ya        estuve   ya ratos      hace            por eso       voy hacer pipi  voy     ‎‎Le dijo
+# text_phrase-gls-wg = PRO1 TOP TOP already already be.in.state:PST:3PL a.while TEMP a.while make:PFV:3>3 also REAS DEM.DIST SIM PURP HES urinate:FUT:1 PURP go:PFV:3 say:PST:3>3
+# text_phrase-gls-de = 165.60_FH
 1	tas	tas	PRON	_	_	2	comp:obj	_	AlignBegin=185903|AlignEnd=186150|GE=[PRO1]|Gloss=PRO1|nWord=1|RX=[PRO]|TokenType=Root|Word=tas
 2	=ma	=ma	PART	_	_	3	comp:obj	_	AlignBegin=186150|AlignEnd=186397|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
 3	=ma	=ma	PART	_	_	7	subj	_	AlignBegin=186397|AlignEnd=186644|GE=[TOP]|Gloss==TOP|nWord=3|RX=[PRT]|TokenType=Clit|Word=ma
@@ -1884,13 +1884,13 @@
 # sent_timecode = 192324, 195951
 # morphemic_text = ã =yã , Ø- sukuh -Ø -i a- kas- teʃk -Ø -i , nã -Ø -i teʃk -Ø -i ta- õʃ -Ø -i .
 # text = ã yã , sukuhi akasteʃki , nẽi teʃki tõʃi .
-# text_en =  There, he left him holding it, um, he left for good.
-# text_phrase-gls-es =  allí lo agarró, lo dejo plantado, se fue no volvió
-# text_phrase-gls-pro =  || ã̀ːɲã́ʔ (0.3s) || súkúj àkàstèʃkéɾì (0.4s) || ʔam (0.2s) || nẽ́ĩ̀ téʃkitȭʃī (0.4s) ||
-# text_phrase-gls-it =  ã̀ːjã́ʔ súkúʲ àkàstèʃkéɾì ə̀mʔ nẽ́ĩ̀ téʃkʲtȭʃī
-# text_phrase-gls-tl =  allí          lo agarro     plantado              se fue   no volvió
-# text_phrase-gls-wg =  DEM.DIST LOC grab:PST:3>3 get.away(leave):APPL:PST:3>3 go:PST:3 get.away:PST:3 lose:MID:PST:3
-# text_phrase-gls-de =  165.61_FH
+# text_en = There, he left him holding it, um, he left for good.
+# text_phrase-gls-es = allí lo agarró, lo dejo plantado, se fue no volvió
+# text_phrase-gls-pro = || ã̀ːɲã́ʔ (0.3s) || súkúj àkàstèʃkéɾì (0.4s) || ʔam (0.2s) || nẽ́ĩ̀ téʃkitȭʃī (0.4s) ||
+# text_phrase-gls-it = ã̀ːjã́ʔ súkúʲ àkàstèʃkéɾì ə̀mʔ nẽ́ĩ̀ téʃkʲtȭʃī
+# text_phrase-gls-tl = allí          lo agarro     plantado              se fue   no volvió
+# text_phrase-gls-wg = DEM.DIST LOC grab:PST:3>3 get.away(leave):APPL:PST:3>3 go:PST:3 get.away:PST:3 lose:MID:PST:3
+# text_phrase-gls-de = 165.61_FH
 1	ã	ã	PRON	_	_	2	comp:obj	_	AlignBegin=192324|AlignEnd=192687|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=ã
 2	=yã	=yã	ADP	_	_	12	mod:lmod	_	AlignBegin=192687|AlignEnd=193050|GE=[LOC]|Gloss==LOC|nWord=2|RX=[POST]|TokenType=Clit|Word=yã
 3	,	_	PUNCT	_	_	2	punct	_	AlignBegin=193050|AlignEnd=193413|nWord=3|Word=,
@@ -1922,13 +1922,13 @@
 # sent_timecode = 196345, 197620
 # morphemic_text = a- kas- teʃk -Ø -(w)a a- r- kasa -Ø -i .
 # text = akasteʃka arkasai .
-# text_en =  He left him, he lied to him
-# text_phrase-gls-es =  Lo dejó, le mintió,
-# text_phrase-gls-pro =  || ākāstēʃkàʔ àɾkàsèɛ (0.2s) ||
-# text_phrase-gls-it =  ākāstēʃkàʔ àɾkàsèj
-# text_phrase-gls-tl =  Lo dejo              le mintió,
-# text_phrase-gls-wg =  get.away:APPL:PFV:3>3 lie:APPL:PST:3>3
-# text_phrase-gls-de =  165.62_FH
+# text_en = He left him, he lied to him
+# text_phrase-gls-es = Lo dejó, le mintió,
+# text_phrase-gls-pro = || ākāstēʃkàʔ àɾkàsèɛ (0.2s) ||
+# text_phrase-gls-it = ākāstēʃkàʔ àɾkàsèj
+# text_phrase-gls-tl = Lo dejo              le mintió,
+# text_phrase-gls-wg = get.away:APPL:PFV:3>3 lie:APPL:PST:3>3
+# text_phrase-gls-de = 165.62_FH
 1	a-	_	PRON	_	_	2	comp:obj@appl/m	_	AlignBegin=196345|AlignEnd=196430|GE=[O3SG]|Gloss=O3SG-|nWord=1|RX=[VT:ANY]|TokenType=InflAff|Word=akasteʃka
 2	kas-	_	AUX	_	Voice=Appl	5	comp:aux/m	_	AlignBegin=196430|AlignEnd=196515|GE=[APPL].[R]|Gloss=APPL.R-|nWord=1|RX=[V>VT]|TokenType=InflAff|Word=akasteʃka
 3	teʃk	teʃk	VERB	_	_	2	comp:aux/m	_	AlignBegin=196515|AlignEnd=196600|GE=get.away|Gloss=get.away|nWord=1|RX=[VI]|TokenType=Root|Word=akasteʃka
@@ -1947,13 +1947,13 @@
 # sent_timecode = 197848, 199923
 # morphemic_text = akarʃkwa =ma ã =yã ak -Ø -u -i , rin .
 # text = akarʃkwa m ã yã akui , rin .
-# text_en =  Then, he was there (both laugh) riiin!
-# text_phrase-gls-es =  entonces, allá estuvuvieron,
-# text_phrase-gls-pro =  || āɣáɾʃkṹm ã̄jã́kuj @h ((AM; || @@@ || )) || @hːrnhĩnːːː ||
-# text_phrase-gls-it =  āɣáɾʃkṹm ã̄jã́kwə̀hɾíɲː
-# text_phrase-gls-tl =  entonces          allí estuvo,
-# text_phrase-gls-wg =  then =TOP DEM.DIST LOC be.in.state:HAB:PST:3 IDEO
-# text_phrase-gls-de =  165.63_FH
+# text_en = Then, he was there (both laugh) riiin!
+# text_phrase-gls-es = entonces, allá estuvuvieron,
+# text_phrase-gls-pro = || āɣáɾʃkṹm ã̄jã́kuj @h ((AM; || @@@ || )) || @hːrnhĩnːːː ||
+# text_phrase-gls-it = āɣáɾʃkṹm ã̄jã́kwə̀hɾíɲː
+# text_phrase-gls-tl = entonces          allí estuvo,
+# text_phrase-gls-wg = then =TOP DEM.DIST LOC be.in.state:HAB:PST:3 IDEO
+# text_phrase-gls-de = 165.63_FH
 1	akarʃkwa	akarʃkwa	PART	_	_	2	comp:obj	_	AlignBegin=197848|AlignEnd=198107|GE=then|Gloss=then|nWord=1|RX=[PRT]|TokenType=Root|Word=akarʃkwa
 2	=ma	=ma	PART	_	_	8	discourse	_	AlignBegin=198107|AlignEnd=198366|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit|Word=m
 3	ã	ã	PRON	_	_	4	comp:obj	_	AlignBegin=198366|AlignEnd=198625|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=3|RX=[PRO]|TokenType=Root|Word=ã
@@ -1972,13 +1972,13 @@
 # sent_timecode = 199945, 200614
 # morphemic_text = ã =yã ak -Ø -i =hã .
 # text = ã yã ki hã .
-# text_en =  He was there.
-# text_phrase-gls-es =  allá, estuvo
-# text_phrase-gls-pro =  || ã̀jã̄kìhə (0.1s) ||
-# text_phrase-gls-it =  ã̀jã̄kìh
-# text_phrase-gls-tl =  allí estuvo
-# text_phrase-gls-wg =  DEM.DIST LOC be:PST:3 FOC
-# text_phrase-gls-de =  165.64_FH
+# text_en = He was there.
+# text_phrase-gls-es = allá, estuvo
+# text_phrase-gls-pro = || ã̀jã̄kìhə (0.1s) ||
+# text_phrase-gls-it = ã̀jã̄kìh
+# text_phrase-gls-tl = allí estuvo
+# text_phrase-gls-wg = DEM.DIST LOC be:PST:3 FOC
+# text_phrase-gls-de = 165.64_FH
 1	ã	ã	PRON	_	_	2	comp:obj	_	AlignBegin=199945|AlignEnd=200079|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=ã
 2	=yã	=yã	ADP	_	_	3	comp:pred	_	AlignBegin=200079|AlignEnd=200213|GE=[LOC]|Gloss==LOC|nWord=2|RX=[POST]|TokenType=Clit|Word=yã
 3	ak	ak	VERB	_	_	5	comp:aux/m	_	AlignBegin=200213|AlignEnd=200258|GE=be.in.state|Gloss=be.in.state|nWord=3|RX=[VI]|TokenType=Root|Word=ki
@@ -1993,13 +1993,13 @@
 # sent_timecode = 200759, 203559
 # morphemic_text = ak -Ø -i teʃk -Ø -i teimi , ta- r- kasak -Ø -w(a) to , ta- keika =ma , tW Ø- -Ø -ʃi .
 # text = aki teʃki teimi , tarkasaku to , takeika ma , tiʃi .
-# text_en =  He was there for a long time ###, "My nephew is lying to me," he said.
-# text_phrase-gls-es =  Ahí se quedó, le estaba mintiendo, mi sobrino Dijo
-# text_phrase-gls-pro =  || ʔākitēʃki tē īmɨ tə́ʔkə́sàʔkɨ tò || tə̀ kèʔkə̀mə̀ʔ tiʃìʔ (0.1s) ||
-# text_phrase-gls-it =  ākʲtēʃkʲtē īm tə́kkə́sàʔkʲō tò tə̀ kèʔkə̀mə̀ʔ tʲʃìʔ
-# text_phrase-gls-tl =  Estuvo mucho tiempo este        me esta mintiendo     este     mi          sobrino Dijo
-# text_phrase-gls-wg =  be:PST:3 get.away:PST:3 HES lie:APPL:PFV:3>1 DEM.MED s.i.l.man:1 TOP say:PX.PST:3>3
-# text_phrase-gls-de =  165.65_FH
+# text_en = He was there for a long time ###, "My nephew is lying to me," he said.
+# text_phrase-gls-es = Ahí se quedó, le estaba mintiendo, mi sobrino Dijo
+# text_phrase-gls-pro = || ʔākitēʃki tē īmɨ tə́ʔkə́sàʔkɨ tò || tə̀ kèʔkə̀mə̀ʔ tiʃìʔ (0.1s) ||
+# text_phrase-gls-it = ākʲtēʃkʲtē īm tə́kkə́sàʔkʲō tò tə̀ kèʔkə̀mə̀ʔ tʲʃìʔ
+# text_phrase-gls-tl = Estuvo mucho tiempo este        me esta mintiendo     este     mi          sobrino Dijo
+# text_phrase-gls-wg = be:PST:3 get.away:PST:3 HES lie:APPL:PFV:3>1 DEM.MED s.i.l.man:1 TOP say:PX.PST:3>3
+# text_phrase-gls-de = 165.65_FH
 1	ak	ak	VERB	_	_	3	comp:aux/m	_	AlignBegin=200759|AlignEnd=200837|GE=be.in.state|Gloss=be.in.state|nWord=1|RX=[VI]|TokenType=Root|Word=aki
 2	-Ø	_	PRON	_	_	3	subj/m	_	AlignBegin=200837|AlignEnd=200915|GE=[S3SG]|Gloss=-S3SG|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=aki
 3	-i	_	AUX	_	_	0	root	_	AlignBegin=200915|AlignEnd=200992|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=aki
@@ -2031,13 +2031,13 @@
 # sent_timecode = 203683, 205262
 # morphemic_text = teʃk -Ø -i ta- õʃ -Ø -i .
 # text = teʃki tõʃi .
-# text_en =  He left and got lost (both laugh).
-# text_phrase-gls-es =  caminó, se perdió,
-# text_phrase-gls-pro =  || téʃki tōʃīʔ (0.1s) || @@@ ((AM; || @@@ (0.1s) || )) ||
-# text_phrase-gls-it =  téʃkʲ tōʃīʔ ríe
-# text_phrase-gls-tl =  en si  se quito,  se quito,
-# text_phrase-gls-wg =  get.away:PST:3 lose:MID:PST:3
-# text_phrase-gls-de =  165.66_FH
+# text_en = He left and got lost (both laugh).
+# text_phrase-gls-es = caminó, se perdió,
+# text_phrase-gls-pro = || téʃki tōʃīʔ (0.1s) || @@@ ((AM; || @@@ (0.1s) || )) ||
+# text_phrase-gls-it = téʃkʲ tōʃīʔ ríe
+# text_phrase-gls-tl = en si  se quito,  se quito,
+# text_phrase-gls-wg = get.away:PST:3 lose:MID:PST:3
+# text_phrase-gls-de = 165.66_FH
 1	teʃk	teʃk	VERB	_	_	3	comp:aux/m	_	AlignBegin=203683|AlignEnd=203858|GE=get.away|Gloss=get.away|nWord=1|RX=[VI]|TokenType=Root|Word=teʃki
 2	-Ø	_	PRON	_	_	3	subj/m	_	AlignBegin=203858|AlignEnd=204033|GE=[S3SG]|Gloss=-S3SG|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=teʃki
 3	-i	_	AUX	_	_	7	mod:tmod	_	AlignBegin=204033|AlignEnd=204209|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=teʃki
@@ -2053,13 +2053,13 @@
 # sent_timecode = 205331, 206902
 # morphemic_text = kas Ø- yãh -a -wa ã =yã ã =ra iha katen .
 # text = kas yãhawa ãy ã r iha katen .
-# text_en =  (Laughing) That is all I say, that is that ###.
-# text_phrase-gls-es =  hasta, digo eso era
-# text_phrase-gls-pro =  || @ˈkásiˈjā @h ʔaw ajaɾ ìha kàtèŋ ||
-# text_phrase-gls-it =  kás jāhw ə̄ʲə̀ɾ ìhə̀
-# text_phrase-gls-tl =  hasta       digo                 eso es         lo dice
-# text_phrase-gls-wg =  up.to say:PFV:1>3 DEM.DIST:LOC_there DEM.DIST =PURP HES HES
-# text_phrase-gls-de =  165.67_FH
+# text_en = (Laughing) That is all I say, that is that ###.
+# text_phrase-gls-es = hasta, digo eso era
+# text_phrase-gls-pro = || @ˈkásiˈjā @h ʔaw ajaɾ ìha kàtèŋ ||
+# text_phrase-gls-it = kás jāhw ə̄ʲə̀ɾ ìhə̀
+# text_phrase-gls-tl = hasta       digo                 eso es         lo dice
+# text_phrase-gls-wg = up.to say:PFV:1>3 DEM.DIST:LOC_there DEM.DIST =PURP HES HES
+# text_phrase-gls-de = 165.67_FH
 1	kas	kas	ADV	_	_	5	mod	_	AlignBegin=205331|AlignEnd=205527|GE=up.to|Gloss=up.to|nWord=1|RX=[ADV]|TokenType=Root|Word=kas
 2	Ø-	_	PRON	_	_	3	comp:obj/m	_	AlignBegin=205527|AlignEnd=205576|GE=[O3SG]|Gloss=O3SG-|nWord=2|RX=[VT:ANY]|TokenType=InflAff|Word=yãhawa
 3	yãh	yãh	VERB	_	_	5	comp:aux/m	_	AlignBegin=205576|AlignEnd=205625|GE=say|Gloss=say|nWord=2|RX=[VT]|TokenType=Root|Word=yãhawa
@@ -2079,13 +2079,13 @@
 # sent_timecode = 206902, 208110
 # morphemic_text = ates atemi Ø- yẽh -Ø -wa .
 # text = ates atemi ɲẽhwa .
-# text_en =  FH: (There is) more ###, he says.
-# text_phrase-gls-es =  (Hay) más, más, dice
-# text_phrase-gls-pro =  || ʔàtés àːtēʔ mĩ̀ɲẽ̀wːə̃̀ʔ (0.2s) ||
-# text_phrase-gls-it =  àtèŋ àtés àːtēz mĩ̀ɲẽ̀ːɣwə̃̀ʔ
-# text_phrase-gls-tl =  Hay mas,   hay mas   dice
-# text_phrase-gls-wg =  further HES say:PFV:3>3
-# text_phrase-gls-de =  165.68_FH
+# text_en = FH: (There is) more ###, he says.
+# text_phrase-gls-es = (Hay) más, más, dice
+# text_phrase-gls-pro = || ʔàtés àːtēʔ mĩ̀ɲẽ̀wːə̃̀ʔ (0.2s) ||
+# text_phrase-gls-it = àtèŋ àtés àːtēz mĩ̀ɲẽ̀ːɣwə̃̀ʔ
+# text_phrase-gls-tl = Hay mas,   hay mas   dice
+# text_phrase-gls-wg = further HES say:PFV:3>3
+# text_phrase-gls-de = 165.68_FH
 1	ates	ates	ADV	_	_	4	comp:obj	_	AlignBegin=206902|AlignEnd=207204|GE=further|Gloss=further|nWord=1|RX=[ADV]|TokenType=Root|Word=ates
 2	atemi	atemi	X	_	_	1	conj:dicto	_	AlignBegin=207204|AlignEnd=207506|nWord=2|Word=atemi
 3	Ø-	_	PRON	_	_	4	comp:obj/m	_	AlignBegin=207506|AlignEnd=207582|GE=[O3SG]|Gloss=O3SG-|nWord=3|RX=[VT:ANY]|TokenType=InflAff|Word=ɲẽhwa
@@ -2100,13 +2100,13 @@
 # sent_timecode = 208310, 208896
 # morphemic_text = ẽɲẽ =i .
 # text = ẽɲẽ i .
-# text_en =  Is that good?
-# text_phrase-gls-es =  esta bien.
-# text_phrase-gls-pro =  AM; || ʔẽ́ɲẽ̀ỳeʔ ||
-# text_phrase-gls-it =  ẽ́ɲẽ̀ỳ
-# text_phrase-gls-tl =  esta bien.
-# text_phrase-gls-wg =  well COP:PFV:3
-# text_phrase-gls-de =  165.69_AM
+# text_en = Is that good?
+# text_phrase-gls-es = esta bien.
+# text_phrase-gls-pro = AM; || ʔẽ́ɲẽ̀ỳeʔ ||
+# text_phrase-gls-it = ẽ́ɲẽ̀ỳ
+# text_phrase-gls-tl = esta bien.
+# text_phrase-gls-wg = well COP:PFV:3
+# text_phrase-gls-de = 165.69_AM
 1	ẽɲẽ	ẽɲẽ	NOUN	_	_	2	comp:pred	_	AlignBegin=208310|AlignEnd=208505|GE=well|Gloss=well|nWord=1|RX=[N]|TokenType=Root|Word=ẽɲẽ
 2	=i	r	AUX	_	_	0	root	_	AlignBegin=208505|AlignEnd=208700|GE=[COP:S3SG:PFV]|Gloss==COP:S3SG:PFV|nWord=2|RX=[COP]|TokenType=Clit|Word=i
 3	.	_	PUNCT	_	_	2	punct	_	AlignBegin=208700|AlignEnd=208896|Gloss=.|nWord=3|Word=.

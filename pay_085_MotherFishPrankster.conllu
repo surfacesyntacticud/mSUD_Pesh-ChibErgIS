@@ -1,0 +1,1857 @@
+# sent_id = 085_01-01
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 0, 6527
+# morphemic_text = Ø- yãh -er -Øwa =ma , ã =kan ã =ri Ø- yãh -er -Øwa =ma , ke ke =ri ʃa -er -i Ø- iʃk -ir -i =ma .
+# text = ɲãler ma , ã kaɲ ã ri yãler ma , keke ri ʃeri iʃkiri ma .
+# text_en = VG: [The story] they tell, what they tell like that at that time, they were alive before, the ones who did it.
+# text_phrase-gls-es = Asi los que cuentan, los que cuentan de eso, lo hicieron, los que vivieron antes
+# text_phrase-gls-pro = VG; || ntatiɾiː, (0.5s) || ˈɲēlēɾmàː, (1.1s) || àˈkáɲāɾí ˈèlēɾmà, (0.4s) || kèˈkéɾī ˈʃìɾì ˈìʃkɘ̀ɾìmàːʔ, (0.4s) ||
+# text_phrase-gls-it = ˈɲēlēɾmà àˈkáɲāɾí ˈèlēɾmà kèˈkéɾīʔ ˈìʃkìɾì ˈìʃkɘ̀ɾìmàː
+# text_phrase-gls-wg = say:PFV:3PL>3 NOM DEM.DIST =SIM DEM.DIST TEMP say:PFV:3PL>3 NOM before:REDUP? TEMP be.there:PST:3PL make:PST:3PL>3 NOM
+# text_phrase-gls-de = Sucia_001_VG
+1	Ø-		PRON	_	_	2	comp:obj/m	_	AlignBegin=0|AlignEnd=102|GE=[O3SG]|Gloss=O3SG-|nWord=1|RX=[VT:ANY]|TokenType=Root
+2	yãh	yãh	VERB	_	_	4	comp:aux/m	_	AlignBegin=102|AlignEnd=204|GE=say|Gloss=say|nWord=1|RX=[VT]|TokenType=Root
+3	-er		PRON	_	_	4	subj/m	_	AlignBegin=204|AlignEnd=306|GE=[S3PL]|Gloss=-S3PL|nWord=1|RX=[V:ANY]|TokenType=InflAff
+4	-Øwa		AUX	_	_	5	comp:obj	_	AlignBegin=306|AlignEnd=408|GE=[PFV]|Gloss=-PFV|nWord=1|RX=[V:ANY]|TokenType=InflAff
+5	=ma		SCONJ	_	_	15	parataxis	_	AlignBegin=408|AlignEnd=816|GE=[NOM]|Gloss==NOM|nWord=2|RX=[PRT]|TokenType=Clit
+6	,		PUNCT	_	_	5	punct	_	AlignBegin=816|AlignEnd=1224|nWord=3
+7	ã	ã	PRON	_	_	8	comp:obj	_	AlignBegin=1224|AlignEnd=1632|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=4|RX=[PRO]|TokenType=Root
+8	=kan		ADP	_	_	12	mod	_	AlignBegin=1632|AlignEnd=2040|GE=[SIM]|Gloss==SIM|nWord=5|RX=[PRT]|TokenType=Clit
+9	ã	ã	PRON	_	_	10	comp:obj	_	AlignBegin=2040|AlignEnd=2448|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=6|RX=[PRO]|TokenType=Root
+10	=ri		ADP	_	_	12	mod:tmod	_	AlignBegin=2448|AlignEnd=2856|GE=[TEMP]|Gloss==TEMP|nWord=7|RX=[POST]|TokenType=Clit
+11	Ø-		PRON	_	_	12	comp:obj/m	_	AlignBegin=2856|AlignEnd=2958|GE=[O3SG]|Gloss=O3SG-|nWord=8|RX=[VT:ANY]|TokenType=Root
+12	yãh	yãh	VERB	_	_	14	comp:aux/m	_	AlignBegin=2958|AlignEnd=3060|GE=say|Gloss=say|nWord=8|RX=[VT]|TokenType=Root
+13	-er		PRON	_	_	14	subj/m	_	AlignBegin=3060|AlignEnd=3162|GE=[S3PL]|Gloss=-S3PL|nWord=8|RX=[V:ANY]|TokenType=InflAff
+14	-Øwa		AUX	_	_	15	comp:obj	_	AlignBegin=3162|AlignEnd=3264|GE=[PFV]|Gloss=-PFV|nWord=8|RX=[V:ANY]|TokenType=InflAff
+15	=ma		SCONJ	_	_	24	comp:obj	_	AlignBegin=3264|AlignEnd=3672|GE=[NOM]|Gloss==NOM|nWord=9|RX=[PRT]|TokenType=Clit
+16	,		PUNCT	_	_	15	punct	_	AlignBegin=3672|AlignEnd=4080|nWord=10
+17	ke	ke	ADV	_	_	18	mod	_	AlignBegin=4080|AlignEnd=4284|GE=before|Gloss=before|nWord=11|RX=[ADV]|TokenType=Root
+18	ke	ke	ADV	_	_	19	comp:obj	_	AlignBegin=4284|AlignEnd=4488|GE=before|Gloss=before|nWord=11|RX=[ADV]|TokenType=Root
+19	=ri		ADP	_	_	20	mod:tmod	_	AlignBegin=4488|AlignEnd=4896|GE=[TEMP]|Gloss==TEMP|nWord=12|RX=[POST]|TokenType=Clit
+20	ʃa	ʃa	VERB	_	_	22	comp:aux/m	_	AlignBegin=4896|AlignEnd=5032|GE=be.there|Gloss=be.there|nWord=13|RX=[VI]|TokenType=Root
+21	-er		PRON	_	_	22	subj/m	_	AlignBegin=5032|AlignEnd=5168|GE=[S3PL]|Gloss=-S3PL|nWord=13|RX=[V:ANY]|TokenType=InflAff
+22	-i		AUX	_	_	0	root	_	AlignBegin=5168|AlignEnd=5304|GE=[PST]|Gloss=-PST|nWord=13|RX=[V:ANY]|TokenType=InflAff
+23	Ø-		PRON	_	_	24	comp:obj/m	_	AlignBegin=5304|AlignEnd=5406|GE=[O3SG]|Gloss=O3SG-|nWord=14|RX=[VT:ANY]|TokenType=Root
+24	iʃk	iʃk	VERB	_	_	26	comp:aux/m	_	AlignBegin=5406|AlignEnd=5508|GE=make|Gloss=make|nWord=14|RX=[VT]|TokenType=Root
+25	-ir		PRON	_	_	26	subj/m	_	AlignBegin=5508|AlignEnd=5610|GE=[S3PL]|Gloss=-S3PL|nWord=14|RX=[V:ANY]|TokenType=InflAff
+26	-i		AUX	_	_	27	comp:obj	_	AlignBegin=5610|AlignEnd=5712|GE=[PST]|Gloss=-PST|nWord=14|RX=[V:ANY]|TokenType=InflAff
+27	=ma		SCONJ	_	_	20	subj	_	AlignBegin=5712|AlignEnd=6120|GE=[NOM]|Gloss==NOM|nWord=15|RX=[PRT]|TokenType=Clit
+28	.		PUNCT	_	_	22	punct	_	AlignBegin=6120|AlignEnd=6527|Gloss=.|nWord=16
+
+# sent_id = 085_02-02
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 6929, 8423
+# morphemic_text = Ø- yãh -pa =pra tVk ka- -a -ʃi .
+# text = ɲãhpa pra takakaʃi .
+# text_en = "I will tell it," I told them.
+# text_phrase-gls-es = voy a contar, lo tenían,
+# text_phrase-gls-pro = || ˈɲàhpápɾà ˈtáɣàɣàʃīʔ. (0.6s) ||
+# text_phrase-gls-it = ˈɲàʰpápɾà ˈtáɣàɣàʃīʔ
+# text_phrase-gls-wg = say:FUT:1>3 EMPH say:PX.PST:1>3PL
+# text_phrase-gls-de = Sucia_002_VG
+1	Ø-		PRON	_	_	2	comp:obj/m	_	AlignBegin=6929|AlignEnd=7054|GE=[O3SG]|Gloss=O3SG-|nWord=1|RX=[VT:ANY]|TokenType=Root
+2	yãh	yãh	VERB	_	_	3	comp:aux/m	_	AlignBegin=7054|AlignEnd=7179|GE=say|Gloss=say|nWord=1|RX=[VT]|TokenType=Root
+3	-pa		AUX	_	Person=1	5	comp	_	AlignBegin=7179|AlignEnd=7303|GE=[S1SG:FUT]|Gloss=-S1SG:FUT|nWord=1|RX=[V:ANY]|TokenType=InflAff
+4	=pra		PART	_	_	3	mod	_	AlignBegin=7303|AlignEnd=7677|GE=[EMPH]|Gloss==EMPH|nWord=2|RX=[PRT]|TokenType=Clit
+5	tVk	tV	VERB	_	_	8	comp:aux/m	_	AlignBegin=7677|AlignEnd=7771|GE=say|Gloss=say|nWord=3|RX=[VT]|TokenType=Root
+6	-ka	ka-	PRON	_	_	5	comp:obj/m	_	AlignBegin=7771|AlignEnd=7865|GE=[O3PL]|Gloss=O3PL-|nWord=3|RX=[V:ANY]|TokenType=InflAff|wordform=ka-
+7	-a		PRON	_	_	8	subj/m	_	AlignBegin=7865|AlignEnd=7959|GE=[S1SG]|Gloss=-S1SG|nWord=3|RX=[PRO:ANY]|TokenType=InflAff
+8	-ʃi		AUX	_	_	0	root	_	AlignBegin=7959|AlignEnd=8051|GE=[PROX].[PST]|Gloss=-PROX.PST|nWord=3|RX=[V:ANY]|TokenType=InflAff
+9	.		PUNCT	_	_	8	punct	_	AlignBegin=8051|AlignEnd=8423|Gloss=.|nWord=4
+
+# sent_id = 085_03-03
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 9063, 13682
+# morphemic_text = ika yãh -a =ma , peʃ akwa yãh -a , =pe Ø- yẽh -er -wa =ras , to ta tV Ø- -er -wa , as tʃa -ir -wa , to =ma .
+# text = ika yãh -a =ma , peʃ akwa yãh -a , pe Ø- yẽh -er -wa =ras , to ta tV -Ø -er -wa , as tʃa -ir -wa , to =ma .
+# text_en = And the language, because they only speak Spanish, some say, some were there, those.
+# text_phrase-gls-es = y porque aquí sólo hablan español algunos que viven eso
+# text_phrase-gls-pro = || ˈĩ̄kɘ̀ ˈɲámà, || péˈʃākwṍɲáʔ, (0.1s) || ˈpéɲēɾás, || totàːː, || træ, (0.1s) || àsʧíɾàʔ. (0.3s) || ˈtòmàʔ. (1.4s) ||
+# text_phrase-gls-it = ˈĩ̄kɘ̀ ˈɲáʰmà péˈʃākṍɲáʔ ˈpéɲēɾás tàː àsʧíɾàʔ ˈtòmàʔ
+# text_phrase-gls-wg = and say:NMLZ TOP_lgge people other say:NMLZ only say:PFV:3PL>3=REAS DEM.MED DIST.DEM_indefinite say:PFV:3PL>3 one be.there:PFV:3PL DEM.MED TOP_SpC
+# text_phrase-gls-de = Sucia_003_VG
+1	ika	ika	PART	_	_	13	discourse	_	AlignBegin=9063|AlignEnd=9283|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]|TokenType=Root
+2	yãh	yãh	VERB	_	_	3	comp/m	_	AlignBegin=9283|AlignEnd=9393|GE=say|Gloss=say|nWord=2|RX=[VT]|TokenType=Root
+3	-a		SCONJ	_	DerPos=NOUN	4	comp:obj	_	AlignBegin=9393|AlignEnd=9503|GE=[NMLZ]|Gloss=-NMLZ|nWord=2|RX=[V>N]|TokenType=DerAff
+4	=ma		PART	_	_	13	udep	_	AlignBegin=9503|AlignEnd=9723|GE=[TOP]|Gloss==TOP|nWord=3|RX=[PRT]|TokenType=Clit
+5	,		PUNCT	_	_	4	punct	_	AlignBegin=9723|AlignEnd=9943|nWord=4
+6	peʃ	peʃ	NOUN	_	_	8	comp:obj	_	AlignBegin=9943|AlignEnd=10163|GE=people|Gloss=people|nWord=5|RX=[N]|TokenType=Root
+7	akwa	akwa	NOUN	_	_	6	mod	_	AlignBegin=10163|AlignEnd=10383|GE=other|Gloss=other|nWord=6|RX=[N]|TokenType=Root
+8	yãh	yãh	VERB	_	_	9	comp/m	_	AlignBegin=10383|AlignEnd=10493|GE=say|Gloss=say|nWord=7|RX=[VT]|TokenType=Root
+9	-a		SCONJ	_	DerPos=NOUN	13	comp:obj	_	AlignBegin=10493|AlignEnd=10603|GE=[NMLZ]|Gloss=-NMLZ|nWord=7|RX=[V>N]|TokenType=DerAff
+10	,		PUNCT	_	_	9	punct	_	AlignBegin=10603|AlignEnd=10823|nWord=8
+11	pe	pe	ADV	_	_	13	subj	_	AlignBegin=10823|AlignEnd=11043|GE=only|Gloss=a.lot|nWord=9|RX=[PRT]|TokenType=Root
+12	Ø-		PRON	_	_	13	comp:obj/m	_	AlignBegin=11043|AlignEnd=11087|GE=[O3SG]|Gloss=O3SG-|nWord=10|RX=[VT:ANY]|TokenType=Root
+13	yẽh	yẽh	VERB	_	_	15	comp:aux/m	_	AlignBegin=11087|AlignEnd=11131|GE=say|Gloss=say|nWord=10|RX=[VT]|TokenType=Root
+14	-er		PRON	_	_	15	subj/m	_	AlignBegin=11131|AlignEnd=11175|GE=[S3PL]|Gloss=-S3PL|nWord=10|RX=[V:ANY]|TokenType=InflAff
+15	-wa		AUX	_	_	16	comp:obj	_	AlignBegin=11175|AlignEnd=11219|GE=[PFV]|Gloss=-PFV|nWord=10|RX=[V:ANY]|TokenType=InflAff
+16	=ras		SCONJ	_	_	20	mod	_	AlignBegin=11219|AlignEnd=11263|GE=[REAS]|Gloss==REAS|nWord=10|RX=[PRT]|TokenType=Clit
+17	,		PUNCT	_	_	16	punct	_	AlignBegin=11263|AlignEnd=11483|nWord=11
+18	to	to	PRON	_	_	19	conj:dicto	_	AlignBegin=11483|AlignEnd=11703|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=12|RX=[PRO]|TokenType=Root
+19	ta	ta	PRON	_	_	20	subj	_	AlignBegin=11703|AlignEnd=11923|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=13|RX=[PRO]|TokenType=Root
+20	tV	tV	VERB	_	_	23	comp:aux/m	_	AlignBegin=11923|AlignEnd=11978|GE=say|Gloss=say|nWord=14|RX=[VT]|TokenType=Root
+21	-Ø	Ø-	PRON	_	_	20	comp:obj/m	_	AlignBegin=11978|AlignEnd=12033|GE=[O3SG]|Gloss=O3SG-|nWord=14|RX=[VT:ANY]|TokenType=InflAff|wordform=Ø-
+22	-er		PRON	_	_	23	subj/m	_	AlignBegin=12033|AlignEnd=12088|GE=[S3PL]|Gloss=-S3PL|nWord=14|RX=[V:ANY]|TokenType=InflAff
+23	-wa		AUX	_	_	0	root	_	AlignBegin=12088|AlignEnd=12143|GE=[PFV]|Gloss=-PFV|nWord=14|RX=[V:ANY]|TokenType=InflAff
+24	,		PUNCT	_	_	23	punct	_	AlignBegin=12143|AlignEnd=12363|nWord=15
+25	as	as	NUM	_	_	26	subj	_	AlignBegin=12363|AlignEnd=12583|GE=one|Gloss=one|nWord=16|RX=[N]|TokenType=Root
+26	tʃa	tʃa	VERB	_	_	28	comp:aux/m	_	AlignBegin=12583|AlignEnd=12656|GE=be.there|Gloss=be.there|nWord=17|RX=[VI]|TokenType=Root
+27	-ir		PRON	_	_	28	subj/m	_	AlignBegin=12656|AlignEnd=12729|GE=[S3PL]|Gloss=-S3PL|nWord=17|RX=[V:ANY]|TokenType=InflAff
+28	-wa		AUX	_	_	23	udep	_	AlignBegin=12729|AlignEnd=12803|GE=[PFV]|Gloss=-PFV|nWord=17|RX=[V:ANY]|TokenType=InflAff
+29	,		PUNCT	_	_	28	punct	_	AlignBegin=12803|AlignEnd=13023|nWord=18
+30	to	to	PRON	_	_	31	comp:obj	_	AlignBegin=13023|AlignEnd=13243|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=19|RX=[PRO]|TokenType=Root
+31	=ma		PART	_	_	28	udep	_	AlignBegin=13243|AlignEnd=13463|GE=[TOP]|Gloss==TOP|nWord=20|RX=[PRT]|TokenType=Clit
+32	.		PUNCT	_	_	23	punct	_	AlignBegin=13463|AlignEnd=13682|Gloss=.|nWord=21
+
+# sent_id = 085_04-04
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 15083, 16855
+# morphemic_text = Ø- iʃk -er -pi =kan ʃa -ir -wa .
+# text = iʃkerpi kan ʃera .
+# text_en = They live like they are going to do something (both laugh).
+# text_phrase-gls-es = como que van a hacer algo, están
+# text_phrase-gls-pro = || ìʃkèɾˈpíɣèŋʃéɾɔʔ. (0.1s) || @@. (( AM; || @ (0.2s) || )) ||
+# text_phrase-gls-it = ìʃkèɾˈpíɣèŋʃéɾāʔ
+# text_phrase-gls-wg = make:FUT:3PL>3 SIM be.there(seem?):PFV:3PL
+# text_phrase-gls-de = Sucia_003b_VG
+1	Ø-		PRON	_	_	2	comp:obj/m	_	AlignBegin=15083|AlignEnd=15194|GE=[O3SG]|Gloss=O3SG-|nWord=1|RX=[VT:ANY]|TokenType=Root
+2	iʃk	iʃk	VERB	_	_	4	comp:aux/m	_	AlignBegin=15194|AlignEnd=15305|GE=make|Gloss=make|nWord=1|RX=[VT]|TokenType=Root
+3	-er		PRON	_	_	4	subj/m	_	AlignBegin=15305|AlignEnd=15416|GE=[S3PL]|Gloss=-S3PL|nWord=1|RX=[V:ANY]|TokenType=InflAff
+4	-pi		AUX	_	_	5	comp:obj	_	AlignBegin=15416|AlignEnd=15526|GE=[FUT]|Gloss=-FUT|nWord=1|RX=[V:ANY]|TokenType=InflAff
+5	=kan		PART	_	_	6	mod	_	AlignBegin=15526|AlignEnd=15969|GE=[SIM]|Gloss==SIM|nWord=2|RX=[PRT]|TokenType=Clit
+6	ʃa	ʃa	VERB	_	_	8	comp:aux/m	_	AlignBegin=15969|AlignEnd=16117|GE=be.there|Gloss=be.there|nWord=3|RX=[VI]|TokenType=Root
+7	-ir		PRON	_	_	8	subj/m	_	AlignBegin=16117|AlignEnd=16265|GE=[S3PL]|Gloss=-S3PL|nWord=3|RX=[V:ANY]|TokenType=InflAff
+8	-wa		AUX	_	_	0	root	_	AlignBegin=16265|AlignEnd=16412|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff
+9	.		PUNCT	_	_	8	punct	_	AlignBegin=16412|AlignEnd=16855|Gloss=.|nWord=4
+
+# sent_id = 085_05-05
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 17020, 20310
+# morphemic_text = Ø- iʃk -er -pi =kan ʃa -ir -wa , ãma , peʃ akwa =l -er -i =ken .
+# text = iʃkerpi kan ʃera , ãma , peʃ ako leri kẽ .
+# text_en = They live like they are going to do something, as if they were mestizos (shakes head).
+# text_phrase-gls-es = como que harán algo
+# text_phrase-gls-pro = || ìʃkèɾˈpíɣèŋʃéɾāʔ, (0.3s) || ˈāmà, (0.6s) || pèʃákwɔ̀lèɾìkéʔ. (1.5s) ||
+# text_phrase-gls-it = ìʃkèɾˈpíɣèŋʃéɾāʔ ˈāmà pèʃákʷɔ̀lèɾìkéʔ
+# text_phrase-gls-wg = make:FUT:3PL>3 SIM be.there(seem?):PFV:3PL HES people other =COP:PST:3PL =SIM
+# text_phrase-gls-de = Sucia_004_VG
+1	Ø-		PRON	_	_	2	comp:obj/m	_	AlignBegin=17020|AlignEnd=17095|GE=[O3SG]|Gloss=O3SG-|nWord=1|RX=[VT:ANY]|TokenType=Root
+2	iʃk	iʃk	VERB	_	_	4	comp:aux/m	_	AlignBegin=17095|AlignEnd=17170|GE=make|Gloss=make|nWord=1|RX=[VT]|TokenType=Root
+3	-er		PRON	_	_	4	subj/m	_	AlignBegin=17170|AlignEnd=17245|GE=[S3PL]|Gloss=-S3PL|nWord=1|RX=[V:ANY]|TokenType=InflAff
+4	-pi		AUX	_	_	5	comp:obj	_	AlignBegin=17245|AlignEnd=17319|GE=[FUT]|Gloss=-FUT|nWord=1|RX=[V:ANY]|TokenType=InflAff
+5	=kan		PART	_	_	6	mod	_	AlignBegin=17319|AlignEnd=17618|GE=[SIM]|Gloss==SIM|nWord=2|RX=[PRT]|TokenType=Clit
+6	ʃa	ʃa	VERB	_	_	8	comp:aux/m	_	AlignBegin=17618|AlignEnd=17718|GE=be.there|Gloss=be.there|nWord=3|RX=[VI]|TokenType=Root
+7	-ir		PRON	_	_	8	subj/m	_	AlignBegin=17718|AlignEnd=17818|GE=[S3PL]|Gloss=-S3PL|nWord=3|RX=[V:ANY]|TokenType=InflAff
+8	-wa		AUX	_	_	0	root	_	AlignBegin=17818|AlignEnd=17917|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff
+9	,		PUNCT	_	_	8	punct	_	AlignBegin=17917|AlignEnd=18216|nWord=4
+10	ãma	ãma	PART	_	_	8	discourse	_	AlignBegin=18216|AlignEnd=18515|GE=[HES]|Gloss=HES|nWord=5|RX=[PRT]|TokenType=Root
+11	,		PUNCT	_	_	10	punct	_	AlignBegin=18515|AlignEnd=18814|nWord=6
+12	peʃ	peʃ	NOUN	_	_	14	comp:pred	_	AlignBegin=18814|AlignEnd=19113|GE=people|Gloss=people|nWord=7|RX=[N]|TokenType=Root
+13	akwa	akwa	NOUN	_	_	12	mod	_	AlignBegin=19113|AlignEnd=19412|GE=other|Gloss=other|nWord=8|RX=[N]|TokenType=Root
+14	=l	=r	AUX	_	_	16	comp:aux/m	_	AlignBegin=19412|AlignEnd=19512|GE=[COP]|Gloss==COP|nWord=9|RX=[COP]|TokenType=Clit
+15	-er		PRON	_	_	16	subj/m	_	AlignBegin=19512|AlignEnd=19612|GE=[S3PL]|Gloss=-S3PL|nWord=9|RX=[V:ANY]|TokenType=InflAff
+16	-i		AUX	_	_	17	comp:obj	_	AlignBegin=19612|AlignEnd=19711|GE=[PST]|Gloss=-PST|nWord=9|RX=[V:ANY]|TokenType=InflAff
+17	=ken		PART	_	_	8	mod	_	AlignBegin=19711|AlignEnd=20010|GE=[SIM]|Gloss==SIM|nWord=10|RX=[PRT]|TokenType=Clit
+18	.		PUNCT	_	_	8	punct	_	AlignBegin=20010|AlignEnd=20310|Gloss=.|nWord=11
+
+# sent_id = 085_06-06
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 21847, 25358
+# morphemic_text = tis =na a- r- tʃuiʃk -u -pi =wi =hãʔ , awikawa a- r- il -er -Øwa =rike .
+# text = tis na artʃuiʃkupi wi ãʔ , awikawa ariler rike .
+# text_en = At least you should learn, even if they know books.
+# text_phrase-gls-es = como si fueran ladinos, por lo menos ustedes aprendan, aunque ellos conozcan los libros
+# text_phrase-gls-pro = || tìhˈnàːˈʃūíʃkòpíβjà. (0.2s) || āwīˈkáwā àɾílèˈɾíkèʔ. (0.4s) || ʔmʔm. (0.4s) ||
+# text_phrase-gls-it = tìʰˈnà āˈʃūíʃkòpíβʲà āwīˈkáwā àɾíɾèˈɾíkèʔ
+# text_phrase-gls-wg = a.little INDF learn:APPL:FUT:2>3 2PL FOC book know:APPL:PFV:3PL>3 CONC
+# text_phrase-gls-de = Sucia_005_VG
+1	tis	tis	NOUN	_	_	4	mod	_	AlignBegin=21847|AlignEnd=22198|GE=a.little|Gloss=a.little|nWord=1|RX=[<NOT_SURE>]|TokenType=Root
+2	=na		DET	_	_	1	det	_	AlignBegin=22198|AlignEnd=22549|GE=[INDF]|Gloss==INDF|nWord=2|RX=[PRT]|TokenType=Clit
+3	a-		PRON	_	_	4	comp:obj@appl/m	_	AlignBegin=22549|AlignEnd=22619|GE=[O3SG]|Gloss=O3SG-|nWord=3|RX=[VT:ANY]|TokenType=Root
+4	r-		AUX	_	Voice=Appl	7	comp:aux/m	_	AlignBegin=22619|AlignEnd=22689|GE=[APPL].[P]|Gloss=APPL.P-|nWord=3|RX=[V:ANY]|TokenType=DerAff
+5	tʃuiʃk	tʃuiʃk	VERB	_	_	4	comp:aux/m	_	AlignBegin=22689|AlignEnd=22759|GE=learn|Gloss=learn|nWord=3|RX=[V]|TokenType=Root
+6	-u		PRON	_	_	7	subj/m	_	AlignBegin=22759|AlignEnd=22829|GE=[S2]|Gloss=-S2|nWord=3|RX=[V:ANY]|TokenType=InflAff
+7	-pi		AUX	_	_	0	root	_	AlignBegin=22829|AlignEnd=22900|GE=[FUT]|Gloss=-FUT|nWord=3|RX=[V:ANY]|TokenType=InflAff
+8	=wi		PRON	_	_	7	mod	_	AlignBegin=22900|AlignEnd=23251|GE=[2PL]|Gloss==2PL|nWord=4|RX=[PRO]|TokenType=Clit
+9	=hãʔ		PART	_	_	8	mod	_	AlignBegin=23251|AlignEnd=23602|GE=[FOC]|Gloss==FOC|nWord=5|RX=[PRT]|TokenType=Clit
+10	,		PUNCT	_	_	9	punct	_	AlignBegin=23602|AlignEnd=23953|nWord=6
+11	awikawa	awikawa	NOUN	_	_	13	comp:obj	_	AlignBegin=23953|AlignEnd=24304|GE=book|Gloss=book|nWord=7|RX=[N]|TokenType=Root
+12	a-		PRON	_	_	13	comp:obj@appl/m	_	AlignBegin=24304|AlignEnd=24374|GE=[O3SG]|Gloss=O3SG-|nWord=8|RX=[VT:ANY]|TokenType=Root
+13	r-		AUX	_	Voice=Appl	16	comp:aux/m	_	AlignBegin=24374|AlignEnd=24444|GE=[APPL].[P]|Gloss=APPL.P-|nWord=8|RX=[V:ANY]|TokenType=DerAff
+14	il	il	VERB	_	_	13	comp:aux/m	_	AlignBegin=24444|AlignEnd=24514|GE=know|Gloss=know|nWord=8|RX=[VI]|TokenType=Root
+15	-er		PRON	_	_	16	subj/m	_	AlignBegin=24514|AlignEnd=24584|GE=[S3PL]|Gloss=-S3PL|nWord=8|RX=[V:ANY]|TokenType=InflAff
+16	-Øwa		AUX	_	_	17	comp:obj	_	AlignBegin=24584|AlignEnd=24655|GE=[PFV]|Gloss=-PFV|nWord=8|RX=[V:ANY]|TokenType=InflAff
+17	=rike		PART	_	_	7	mod	_	AlignBegin=24655|AlignEnd=25006|GE=[CONC]|Gloss==CONC|nWord=9|RX=[PRT]|TokenType=Clit
+18	.		PUNCT	_	_	7	punct	_	AlignBegin=25006|AlignEnd=25358|Gloss=.|nWord=10
+
+# sent_id = 085_07-07
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 25793, 27323
+# morphemic_text = bakapu =l -er -wa .
+# text = bakapu lerwa .
+# text_en = They exist in vain (AM acknowledges with a mm).
+# text_phrase-gls-es = pero es en balde (en vano),
+# text_phrase-gls-pro = || βákāˈpùlèɾɨwã́ʔ. (0.3s) (( AM; || ʔm (0.5s) || )) ||
+# text_phrase-gls-it = βákāˈpùlèɾīwã́ʔ
+# text_phrase-gls-wg = in.vain COP:PFV:3PL
+# text_phrase-gls-de = Sucia_006_VG
+1	bakapu	bakapu	ADV	_	_	2	comp:pred	_	AlignBegin=25793|AlignEnd=26303|GE=in.vain|Gloss=in.vain|nWord=1|RX=[ADV]|TokenType=Root
+2	=l	=r	AUX	_	_	4	comp:aux/m	_	AlignBegin=26303|AlignEnd=26473|GE=[COP]|Gloss==COP|nWord=2|RX=[COP]|TokenType=Clit
+3	-er		PRON	_	_	4	subj/m	_	AlignBegin=26473|AlignEnd=26643|GE=[S3PL]|Gloss=-S3PL|nWord=2|RX=[V:ANY]|TokenType=InflAff
+4	-wa		AUX	_	_	0	root	_	AlignBegin=26643|AlignEnd=26813|GE=[PFV]|Gloss=-PFV|nWord=2|RX=[V:ANY]|TokenType=InflAff
+5	.		PUNCT	_	_	4	punct	_	AlignBegin=26813|AlignEnd=27323|Gloss=.|nWord=3
+
+# sent_id = 085_08-08
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 27807, 29372
+# morphemic_text = ah , Ø- yãh -pa =hãʔ .
+# text = aa , ɲãhpa ʔ .
+# text_en = Ah, I will speak.
+# text_phrase-gls-es = antes aquí había una laguna
+# text_phrase-gls-pro = || ʔã?. (0.6s) || ɲàʔˈpáʔ?. (2.8s) ||
+# text_phrase-gls-it = ā ɲàʰˈpáʔ
+# text_phrase-gls-wg = INTERJ say:FUT:1>3 =FOC
+1	ah	ah	INTJ	_	_	4	discourse	_	AlignBegin=27807|AlignEnd=28120|GE=[INTERJ]|Gloss=INTERJ|nWord=1|RX=[INTERJ]|TokenType=Root
+2	,		PUNCT	_	_	1	punct	_	AlignBegin=28120|AlignEnd=28433|nWord=2
+3	Ø-		PRON	_	_	4	comp:obj/m	_	AlignBegin=28433|AlignEnd=28537|GE=[O3SG]|Gloss=O3SG-|nWord=3|RX=[VT:ANY]|TokenType=Root
+4	yãh	yãh	VERB	_	_	5	comp:aux/m	_	AlignBegin=28537|AlignEnd=28641|GE=say|Gloss=say|nWord=3|RX=[VT]|TokenType=Root
+5	-pa		AUX	_	Person=1	0	root	_	AlignBegin=28641|AlignEnd=28746|GE=[S1SG:FUT]|Gloss=-S1SG:FUT|nWord=3|RX=[V:ANY]|TokenType=InflAff
+6	=hãʔ		PART	_	_	5	mod	_	AlignBegin=28746|AlignEnd=29059|GE=[FOC]|Gloss==FOC|nWord=4|RX=[PRT]|TokenType=Clit
+7	.		PUNCT	_	_	5	punct	_	AlignBegin=29059|AlignEnd=29372|Gloss=.|nWord=5
+
+# sent_id = 085_09-09
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 32207, 35827
+# morphemic_text = teʔk -er -i , setus as tʃa -Ø -i =ʔi .
+# text = teʔkeri , setus as ʃi ʔi .
+# text_en = They came; there was a prankster.
+# text_phrase-gls-es = y vivía un bromista
+# text_phrase-gls-pro = || ^ˈtèʔkéɾīʔ, (1.4s) || ˈsèːtùsá ʃìʔíʔ, (0.8s) ||
+# text_phrase-gls-it = ˈtèʔkéɾīʔ ˈsèːtùsá ʃìíʔ
+# text_phrase-gls-wg = come:PST:3PL prankster INDF.ART be.there:PST:3 =FOC
+# text_phrase-gls-de = Sucia_007_VG
+1	teʔk	teʔk	VERB	_	_	3	comp:aux/m	_	AlignBegin=32207|AlignEnd=32379|GE=come|Gloss=come|nWord=1|RX=[VI]|TokenType=Root
+2	-er		PRON	_	_	3	subj/m	_	AlignBegin=32379|AlignEnd=32551|GE=[S3PL]|Gloss=-S3PL|nWord=1|RX=[V:ANY]|TokenType=InflAff
+3	-i		AUX	_	_	0	root	_	AlignBegin=32551|AlignEnd=32724|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]|TokenType=InflAff
+4	,		PUNCT	_	_	3	punct	_	AlignBegin=32724|AlignEnd=33241|nWord=2
+5	setus	setus	NOUN	_	_	7	subj	_	AlignBegin=33241|AlignEnd=33758|GE=prankster|Gloss=prankster|nWord=3|RX=[N]|TokenType=Root
+6	as	as	DET	_	_	5	det	_	AlignBegin=33758|AlignEnd=34275|GE=[INDF].[ART]|Gloss=INDF.ART|nWord=4|RX=[DET]|TokenType=Root
+7	tʃa	tʃa	VERB	_	_	9	comp:aux/m	_	AlignBegin=34275|AlignEnd=34447|GE=be.there|Gloss=be.there|nWord=5|RX=[VI]|TokenType=Root
+8	-Ø		PRON	_	_	9	subj/m	_	AlignBegin=34447|AlignEnd=34619|GE=[S3SG]|Gloss=-S3SG|nWord=5|RX=[V:ANY]|TokenType=InflAff
+9	-i		AUX	_	_	3	parataxis	_	AlignBegin=34619|AlignEnd=34792|GE=[PST]|Gloss=-PST|nWord=5|RX=[V:ANY]|TokenType=InflAff
+10	=ʔi		PART	_	_	9	mod	_	AlignBegin=34792|AlignEnd=35309|GE=[FOC]|Gloss==FOC|nWord=6|RX=[PRT]|TokenType=Clit
+11	.		PUNCT	_	_	3	punct	_	AlignBegin=35309|AlignEnd=35827|Gloss=.|nWord=7
+
+# sent_id = 085_10-10
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 36607, 42200
+# morphemic_text = tʃa -Ø -i =ʔi , a- arki =pe taʃ =l -er -i .
+# text = ʃi ʔi , aarki pe taʃ leri .
+# text_en = He was there; they were nine brothers.
+# text_phrase-gls-es = vivía, sólo sus nueve hermanos
+# text_phrase-gls-pro = || ʃíʔì, (1.7s) || ˈʔàʔàɾkìː, (0.5s) || pēʔ, (0.7s) || ˈtáʃɨlèɾíʔ. (1.3s) ||
+# text_phrase-gls-it = ʃíì ˈʔààɾkì pēʔ ˈtáʃìlèɾíʔ
+# text_phrase-gls-wg = be.there:PST:3 =FOC brother:3 only nine =COP:PST:3PL
+# text_phrase-gls-de = Sucia_008_VG
+1	tʃa	tʃa	VERB	_	_	3	comp:aux/m	_	AlignBegin=36607|AlignEnd=36840|GE=be.there|Gloss=be.there|nWord=1|RX=[VI]|TokenType=Root
+2	-Ø		PRON	_	_	3	subj/m	_	AlignBegin=36840|AlignEnd=37073|GE=[S3SG]|Gloss=-S3SG|nWord=1|RX=[V:ANY]|TokenType=InflAff
+3	-i		AUX	_	_	0	root	_	AlignBegin=37073|AlignEnd=37306|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]|TokenType=InflAff
+4	=ʔi		PART	_	_	3	mod	_	AlignBegin=37306|AlignEnd=38005|GE=[FOC]|Gloss==FOC|nWord=2|RX=[PRT]|TokenType=Clit
+5	,		PUNCT	_	_	4	punct	_	AlignBegin=38005|AlignEnd=38704|nWord=3
+6	a-		PRON	_	_	7	udep:poss/m	_	AlignBegin=38704|AlignEnd=39054|GE=[POSS3SG]|Gloss=POSS3SG-|nWord=4|RX=[N:ANY]|TokenType=Root
+7	arki	arki	NOUN	_	_	10	subj	_	AlignBegin=39054|AlignEnd=39403|GE=brother|Gloss=brother|nWord=4|RX=[N]|TokenType=Root
+8	=pe		PART	_	_	7	mod	_	AlignBegin=39403|AlignEnd=40102|GE=only|Gloss==only|nWord=5|RX=[PRT]|TokenType=Clit
+9	taʃ	taʃ	NOUN	_	_	10	comp:pred	_	AlignBegin=40102|AlignEnd=40801|GE=nine|Gloss=nine|nWord=6|RX=[N]|TokenType=Root
+10	=l	=r	AUX	_	_	12	comp:aux/m	_	AlignBegin=40801|AlignEnd=41034|GE=[COP]|Gloss==COP|nWord=7|RX=[COP]|TokenType=Clit
+11	-er		PRON	_	_	12	subj/m	_	AlignBegin=41034|AlignEnd=41267|GE=[S3PL]|Gloss=-S3PL|nWord=7|RX=[V:ANY]|TokenType=InflAff
+12	-i		AUX	_	_	3	parataxis	_	AlignBegin=41267|AlignEnd=41500|GE=[PST]|Gloss=-PST|nWord=7|RX=[V:ANY]|TokenType=InflAff
+13	.		PUNCT	_	_	3	punct	_	AlignBegin=41500|AlignEnd=42200|Gloss=.|nWord=8
+
+# sent_id = 085_11-11
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 43489, 48800
+# morphemic_text = ĩ =yã ʃa -er -u -ri =ʔĩ , kãʔã uskuʔ =yã , lax ʃa -ir -(w)a =hãʔ , ãma ke ke =ri .
+# text = ɲã ʃileruri ʔĩ , kãʔã uskuʔ ɲã , lax ʃira ãʔ , ãma keke ri .
+# text_en = They lived here, in the village of "Carbón", ### they exist, um, before.
+# text_phrase-gls-es = vivían aquí, en el pueblo "El Carbón"
+# text_phrase-gls-pro = || ɲá ʃìˈlèwɾùɾíʔĩ̀, (0.1s) || kã̀ʔã̀ ˈʔúskùʔɲāʔ. (0.4s) || *læʃíɾàʔã́ʔ. (0.6s) || ˈàmà kéʔˈkérīʔ, (1.9s) ||
+# text_phrase-gls-it = ɲá ʃìˈlèʷɾùɾíʔĩ̀ kã̀ã̀ ˈúskùʔɲāʔ
+# text_phrase-gls-wg = DEM.PROX:LOC_here be.there:HAB:PST:3PL =FOC village charcoal LOC HES be.there:PFV:3PL FOC HES before:REDUP? TEMP
+# text_phrase-gls-de = Sucia_009_VG
+1	ĩ	ĩ	PRON	_	_	2	comp:obj	_	AlignBegin=43489|AlignEnd=43655|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=1|RX=[PRO]|TokenType=Root
+2	=yã		ADP	_	_	3	mod:lmod	_	AlignBegin=43655|AlignEnd=43821|GE=[LOC]|Gloss==LOC|nWord=1|RX=[POST]|TokenType=Clit
+3	ʃa	ʃa	VERB	_	_	5	comp:aux/m	_	AlignBegin=43821|AlignEnd=43904|GE=be.there|Gloss=be.there|nWord=2|RX=[VI]|TokenType=Root
+4	-er		PRON	_	_	5	subj/m	_	AlignBegin=43904|AlignEnd=43987|GE=[S3PL]|Gloss=-S3PL|nWord=2|RX=[V:ANY]|TokenType=InflAff
+5	-u		AUX	_	_	6	comp:aux/m	_	AlignBegin=43987|AlignEnd=44070|GE=[HAB]|Gloss=-HAB|nWord=2|RX=[N:ANY]|TokenType=InflAff
+6	-ri		AUX	_	_	0	root	_	AlignBegin=44070|AlignEnd=44153|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]|TokenType=InflAff
+7	=ʔĩ		PART	_	_	6	mod	_	AlignBegin=44153|AlignEnd=44485|GE=[FOC]|Gloss==FOC|nWord=3|RX=[PRT]|TokenType=Clit
+8	,		PUNCT	_	_	7	punct	_	AlignBegin=44485|AlignEnd=44817|nWord=4
+9	kãʔã	kãʔã	NOUN	_	_	11	comp:obj	_	AlignBegin=44817|AlignEnd=45149|GE=village|Gloss=village|nWord=5|RX=[N]|TokenType=Root
+10	uskuʔ	uskuʔ	NOUN	_	_	9	mod	_	AlignBegin=45149|AlignEnd=45481|GE=charcoal|Gloss=charcoal|nWord=6|RX=[N]|TokenType=Root
+11	=yã		ADP	_	_	6	mod:lmod	_	AlignBegin=45481|AlignEnd=45813|GE=[LOC]|Gloss==LOC|nWord=7|RX=[POST]|TokenType=Clit
+12	,		PUNCT	_	_	11	punct	_	AlignBegin=45813|AlignEnd=46145|nWord=8
+13	lax	lax	X	_	_	6	discourse	_	AlignBegin=46145|AlignEnd=46477|nWord=9
+14	ʃa	ʃa	VERB	_	_	16	comp:aux/m	_	AlignBegin=46477|AlignEnd=46588|GE=be.there|Gloss=be.there|nWord=10|RX=[VI]|TokenType=Root
+15	-ir		PRON	_	_	16	subj/m	_	AlignBegin=46588|AlignEnd=46699|GE=[S3PL]|Gloss=-S3PL|nWord=10|RX=[V:ANY]|TokenType=InflAff
+16	-(w)a		AUX	_	_	6	parataxis	_	AlignBegin=46699|AlignEnd=46809|GE=[PFV]|Gloss=-PFV|nWord=10|RX=[V:ANY]|TokenType=InflAff
+17	=hãʔ		PART	_	_	16	mod	_	AlignBegin=46809|AlignEnd=47141|GE=[FOC]|Gloss==FOC|nWord=11|RX=[PRT]|TokenType=Clit
+18	,		PUNCT	_	_	17	punct	_	AlignBegin=47141|AlignEnd=47473|nWord=12
+19	ãma	ãma	PART	_	_	16	mod	_	AlignBegin=47473|AlignEnd=47805|GE=[HES]|Gloss=HES|nWord=13|RX=[PRT]|TokenType=Root
+20	ke	ke	ADV	_	_	21	mod	_	AlignBegin=47805|AlignEnd=47971|GE=before|Gloss=before|nWord=14|RX=[ADV]|TokenType=Root
+21	ke	ke	ADV	_	_	22	comp:obj	_	AlignBegin=47971|AlignEnd=48137|GE=before|Gloss=before|nWord=14|RX=[ADV]|TokenType=Root
+22	=ri		ADP	_	_	16	mod:tmod	_	AlignBegin=48137|AlignEnd=48469|GE=[TEMP]|Gloss==TEMP|nWord=15|RX=[POST]|TokenType=Clit
+23	.		PUNCT	_	_	6	punct	_	AlignBegin=48469|AlignEnd=48800|Gloss=.|nWord=16
+
+# sent_id = 085_12-12
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 50737, 60676
+# morphemic_text = toʔ =kan na -er -u -ri , tro Ø- cazar iʃk -er -pi =ro , ã niʔ , a- ye Ø- pork -er -pi =ro , pẽh kara =yo , pẽh kara =yo , ã =ma =ha .
+# text = toʔ kã neleruri , tro kaseʃkapi ro , ã niʔ , aye porkerpi ro , pẽh kara yo , pẽh kara yo , mmaʔa .
+# text_en = They went there, ### to hunt, um, to spear small ones, with a long stick, with a long stick, that is it.
+# text_phrase-gls-es = vivieron ellos antes, por ahí se iban a cazar, aquí, a clavar pequeños con vara(s) larga(s)
+# text_phrase-gls-pro = || ^tòˈkã́ ˈnèlèɾūɾíʔ, || trokàˈséʃkàpéɾó. (1.5s) || àˈníː, || àˈʝéʔ póɾˈkēɾpīɾõʔ. (0.1s) || pɛ̀n ˈkàɾàʝóʔ. (0.5s) || pɛ̀n ˈkàɾàʝóʔ. (1.4s) || ʔmmaʔa. (1.6s) ||
+# text_phrase-gls-it = ʃíɾàã́ʔ (ˈàmà kéˈkérīʔ) tòˈkã́ ˈnèlèɾūɾíʔ kàˈséʃkàpéɾó àˈní àˈʝéʔ póɾˈkēɾpīɾóʔ pɛ̀ʰ ˈkàɾàʝóʔ
+# text_phrase-gls-wg = DEM.MED =LOC go:HAB:PST:3PL HES SPA_hunt+make:FUT:3PL>3 PURP DEM.DIST HES small:3 sink.in:FUT:3PL>3 PURP wood long INS wood long INS DIST.DEM=TOP=FOC_that.is.it
+# text_phrase-gls-de = Sucia_010_VG-Sucia_011_VG - ‎‎Sucia_012_VG
+1	toʔ	toʔ	PRON	_	_	2	comp:obj	_	AlignBegin=50737|AlignEnd=51135|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=1|RX=[PRO]|TokenType=Root
+2	=kan		ADP	_	_	3	mod:lmod	_	AlignBegin=51135|AlignEnd=51533|GE=[LOC]|Gloss==LOC|nWord=2|RX=[POST]|TokenType=Clit
+3	na	na	VERB	_	_	5	comp:aux/m	_	AlignBegin=51533|AlignEnd=51633|GE=go|Gloss=go|nWord=3|RX=[VI]|TokenType=Root
+4	-er		PRON	_	_	5	subj/m	_	AlignBegin=51633|AlignEnd=51733|GE=[S3PL]|Gloss=-S3PL|nWord=3|RX=[V:ANY]|TokenType=InflAff
+5	-u		AUX	_	_	6	comp:aux/m	_	AlignBegin=51733|AlignEnd=51833|GE=[HAB]|Gloss=-HAB|nWord=3|RX=[N:ANY]|TokenType=InflAff
+6	-ri		AUX	_	_	0	root	_	AlignBegin=51833|AlignEnd=51931|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]|TokenType=InflAff
+7	,		PUNCT	_	_	6	punct	_	AlignBegin=51931|AlignEnd=52329|nWord=4
+8	tro	tro	X	_	_	10	conj:dicto	_	AlignBegin=52329|AlignEnd=52727|nWord=5
+9	Ø-		PRON	_	_	10	comp:obj/m	_	AlignBegin=52727|AlignEnd=52807|GE=[O3SG]|Gloss=O3SG-|nWord=6|RX=[VT:ANY]|TokenType=Root
+10	cazar	cazar	VERB	_	_	11	compound@lvc	_	AlignBegin=52807|AlignEnd=52887|GE=[SPA_hunt]|Gloss=SPA_hunt|nWord=6|RX=[V]|TokenType=Root
+11	iʃk	iʃk	VERB	_	_	13	comp:aux/m	_	AlignBegin=52887|AlignEnd=52967|GE=make|Gloss=make|nWord=6|RX=[VT]|TokenType=Root
+12	-er		PRON	_	_	13	subj/m	_	AlignBegin=52967|AlignEnd=53047|GE=[S3PL]|Gloss=-S3PL|nWord=6|RX=[V:ANY]|TokenType=InflAff
+13	-pi		AUX	_	_	14	comp:obj	_	AlignBegin=53047|AlignEnd=53125|GE=[FUT]|Gloss=-FUT|nWord=6|RX=[V:ANY]|TokenType=InflAff
+14	=ro		PART	_	_	6	mod	_	AlignBegin=53125|AlignEnd=53523|GE=[PURP]|Gloss==PURP|nWord=7|RX=[PRT]|TokenType=Clit
+15	,		PUNCT	_	_	14	punct	_	AlignBegin=53523|AlignEnd=53921|nWord=8
+16	ã	ã	PRON	_	_	17	comp:obj	_	AlignBegin=53921|AlignEnd=54319|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=9|RX=[PRO]|TokenType=Root
+17	niʔ	niʔ	PART	_	_	14	discourse	_	AlignBegin=54319|AlignEnd=54717|GE=[HES]|Gloss=HES|nWord=10|RX=[PRT]|TokenType=Root
+18	,		PUNCT	_	_	17	punct	_	AlignBegin=54717|AlignEnd=55115|nWord=11
+19	a-		PRON	_	_	20	udep:poss/m	_	AlignBegin=55115|AlignEnd=55314|GE=[POSS3SG]|Gloss=POSS3SG-|nWord=12|RX=[N:ANY]|TokenType=Root
+20	ye	ye	NOUN	_	_	22	comp:obj	_	AlignBegin=55314|AlignEnd=55513|GE=small|Gloss=small|nWord=12|RX=[N]|TokenType=Root
+21	Ø-		PRON	_	_	22	comp:obj/m	_	AlignBegin=55513|AlignEnd=55613|GE=[O3SG]|Gloss=O3SG-|nWord=13|RX=[VT:ANY]|TokenType=Root
+22	pork	pork	VERB	_	_	24	comp:aux/m	_	AlignBegin=55613|AlignEnd=55713|GE=sink.in|Gloss=sink.in|nWord=13|RX=[VT]|TokenType=Root
+23	-er		PRON	_	_	24	subj/m	_	AlignBegin=55713|AlignEnd=55813|GE=[S3PL]|Gloss=-S3PL|nWord=13|RX=[V:ANY]|TokenType=InflAff
+24	-pi		AUX	_	_	25	comp:obj	_	AlignBegin=55813|AlignEnd=55911|GE=[FUT]|Gloss=-FUT|nWord=13|RX=[V:ANY]|TokenType=InflAff
+25	=ro		PART	_	_	6	mod	_	AlignBegin=55911|AlignEnd=56309|GE=[PURP]|Gloss==PURP|nWord=14|RX=[PRT]|TokenType=Clit
+26	,		PUNCT	_	_	25	punct	_	AlignBegin=56309|AlignEnd=56707|nWord=15
+27	pẽh	pẽh	NOUN	_	_	29	comp:obj	_	AlignBegin=56707|AlignEnd=57105|GE=wood|Gloss=wood|nWord=16|RX=[N]|TokenType=Root
+28	kara	kara	NOUN	_	_	27	mod	_	AlignBegin=57105|AlignEnd=57503|GE=long|Gloss=long|nWord=17|RX=[N]|TokenType=Root
+29	=yo		ADP	_	_	25	mod	_	AlignBegin=57503|AlignEnd=57901|GE=[INS]|Gloss==INS|nWord=18|RX=[POST]|TokenType=Clit
+30	,		PUNCT	_	_	29	punct	_	AlignBegin=57901|AlignEnd=58299|nWord=19
+31	pẽh	pẽh	NOUN	_	_	33	comp:obj	_	AlignBegin=58299|AlignEnd=58697|GE=wood|Gloss=wood|nWord=20|RX=[N]|TokenType=Root
+32	kara	kara	NOUN	_	_	31	mod	_	AlignBegin=58697|AlignEnd=59095|GE=long|Gloss=long|nWord=21|RX=[N]|TokenType=Root
+33	=yo		ADP	_	_	29	discourse	_	AlignBegin=59095|AlignEnd=59493|GE=[INS]|Gloss==INS|nWord=22|RX=[POST]|TokenType=Clit
+34	,		PUNCT	_	_	33	punct	_	AlignBegin=59493|AlignEnd=59891|nWord=23
+35	ã	ã	PRON	_	_	36	comp:obj	_	AlignBegin=59891|AlignEnd=60024|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=24|RX=[PRO]|TokenType=Root
+36	=ma		PART	_	_	33	:discourse	_	AlignBegin=60024|AlignEnd=60157|GE=[TOP]|Gloss==TOP|nWord=24|RX=[PRT]|TokenType=Clit
+37	=ha		PART	_	_	36	discourse	_	AlignBegin=60157|AlignEnd=60289|GE=[FOC]|Gloss==FOC|nWord=24|RX=[PRT]|TokenType=Clit
+38	.		PUNCT	_	_	6	punct	_	AlignBegin=60289|AlignEnd=60676|Gloss=.|nWord=25
+
+# sent_id = 085_13-13
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 62316, 67372
+# morphemic_text = ã =re teʃ , teʔ taweh , teʔ taweh , peʃ- familia =yo nẽ .
+# text = ã re teʃ , teʔtawe , teʔtawe , peʃfamilya yo ne .
+# text_en = Time went by, they went around, they went upriver, they went with their families.
+# text_phrase-gls-es = así andan, vienen y suben, vienen y suben con su(s) familia(s) y se iban
+# text_phrase-gls-pro = || àɾe tēʃ!. (0.1s) || ˈtéʔtawē, (0.6s) || ˈtéʔtawē, (0.5s) || pèʃ faˈmiljaˈʝó néʔ, (1.0s) ||
+# text_phrase-gls-it = àɾí tēʃ ˈtéʔtēwē ˈtéʔtēwē pèʃ faˈmilʲa àˈʝó né
+# text_phrase-gls-wg = DEM.DIST =TEMP get.away(BARE) come+go.up(BARE) come+go.up(BARE) SPA_family:3PL INS go(BARE)
+# text_phrase-gls-de = Sucia_013_VG
+1	ã	ã	PRON	_	_	2	comp:obj	_	AlignBegin=62316|AlignEnd=62737|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=1|RX=[PRO]|TokenType=Root
+2	=re		ADP	_	_	6	discourse	_	AlignBegin=62737|AlignEnd=63158|GE=[TEMP]|Gloss==TEMP|nWord=2|RX=[POST]|TokenType=Clit
+3	teʃ	teʃ	VERB	_	_	2	compound	_	AlignBegin=63158|AlignEnd=63579|GE=get.away|Gloss=get.away|nWord=3|RX=[VI]|TokenType=Root
+4	,		PUNCT	_	_	3	punct	_	AlignBegin=63579|AlignEnd=64000|nWord=4
+5	teʔ	teʔ	VERB	_	_	6	compound:svc	_	AlignBegin=64000|AlignEnd=64210|GE=come|Gloss=come|nWord=5|RX=[VI]|TokenType=Root
+6	taweh	taweh	VERB	_	_	0	root	_	AlignBegin=64210|AlignEnd=64421|GE=go.up|Gloss=go.up|nWord=5|RX=[VI]|TokenType=Root
+7	,		PUNCT	_	_	6	punct	_	AlignBegin=64421|AlignEnd=64842|nWord=6
+8	teʔ	teʔ	VERB	_	_	9	compound:svc	_	AlignBegin=64842|AlignEnd=65052|GE=come|Gloss=come|nWord=7|RX=[VI]|TokenType=Root
+9	taweh	taweh	VERB	_	_	6	mod	_	AlignBegin=65052|AlignEnd=65263|GE=go.up|Gloss=go.up|nWord=7|RX=[VI]|TokenType=Root
+10	,		PUNCT	_	_	9	punct	_	AlignBegin=65263|AlignEnd=65684|nWord=8
+11	peʃ-		PRON	_	_	12	udep:poss/m	_	AlignBegin=65684|AlignEnd=65894|GE=[POSS3PL]|Gloss=POSS3PL|nWord=9|RX=[N:ANY]|TokenType=Root
+12	familia	familia	NOUN	_	_	13	comp:obj	_	AlignBegin=65894|AlignEnd=66105|GE=[SPA_family]|Gloss=SPA_family|nWord=9|RX=[N]|TokenType=Root
+13	=yo		ADP	_	_	14	comp:obl	_	AlignBegin=66105|AlignEnd=66526|GE=[INS]|Gloss==INS|nWord=10|RX=[POST]|TokenType=Clit
+14	nẽ	nẽ	VERB	_	_	6	parataxis	_	AlignBegin=66526|AlignEnd=66947|GE=go|Gloss=go|nWord=11|RX=[VI]|TokenType=Root
+15	.		PUNCT	_	_	6	punct	_	AlignBegin=66947|AlignEnd=67372|Gloss=.|nWord=12
+
+# sent_id = 085_14-14
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 68399, 70130
+# morphemic_text = wã a- mask -er -wa , Ø- oʔk -er -wa .
+# text = wã amaskerwa , oʔkera .
+# text_en = They kill bobo mullet and they dry it.
+# text_phrase-gls-es = mataban cuyamel, lo secaban
+# text_phrase-gls-pro = || wã́ ʔàˈmàskeɾwã́, (0.1s) || ˈóʔkēɾà!. (0.7s) ||
+# text_phrase-gls-it = wã́ àˈmàskeɾwã́ ˈókēɾà
+# text_phrase-gls-wg = fish.sp kill:PFV:3PL>3 dry.with.heat:PFV:3PL>3
+# text_phrase-gls-de = Sucia_014_VG
+1	wã	wã	NOUN	_	_	3	comp:obj	_	AlignBegin=68399|AlignEnd=68745|GE=bobo.mullet|Gloss=bobo.mullet|nWord=1|RX=[N]|TokenType=Root
+2	a-		PRON	_	_	3	comp:obj/m	_	AlignBegin=68745|AlignEnd=68831|GE=[O3SG]|Gloss=O3SG-|nWord=2|RX=[VT:ANY]|TokenType=Root
+3	mask	mask	VERB	_	_	5	comp:aux/m	_	AlignBegin=68831|AlignEnd=68917|GE=kill|Gloss=kill|nWord=2|RX=[VT]|TokenType=Root
+4	-er		PRON	_	_	5	subj/m	_	AlignBegin=68917|AlignEnd=69003|GE=[S3PL]|Gloss=-S3PL|nWord=2|RX=[V:ANY]|TokenType=InflAff
+5	-wa		AUX	_	_	0	root	_	AlignBegin=69003|AlignEnd=69091|GE=[PFV]|Gloss=-PFV|nWord=2|RX=[V:ANY]|TokenType=InflAff
+6	,		PUNCT	_	_	5	punct	_	AlignBegin=69091|AlignEnd=69437|nWord=3
+7	Ø-		PRON	_	_	8	comp:obj/m	_	AlignBegin=69437|AlignEnd=69523|GE=[O3SG]|Gloss=O3SG-|nWord=4|RX=[VT:ANY]|TokenType=Root
+8	oʔk	oʔk	VERB	_	_	10	comp:aux/m	_	AlignBegin=69523|AlignEnd=69609|GE=dry.with.heat|Gloss=dry.with.heat|nWord=4|RX=[VT]|TokenType=Root
+9	-er		PRON	_	_	10	subj/m	_	AlignBegin=69609|AlignEnd=69695|GE=[S3PL]|Gloss=-S3PL|nWord=4|RX=[V:ANY]|TokenType=InflAff
+10	-wa		AUX	_	_	5	parataxis	_	AlignBegin=69695|AlignEnd=69783|GE=[PFV]|Gloss=-PFV|nWord=4|RX=[V:ANY]|TokenType=InflAff
+11	.		PUNCT	_	_	5	punct	_	AlignBegin=69783|AlignEnd=70130|Gloss=.|nWord=5
+
+# sent_id = 085_15-15
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 70807, 73316
+# morphemic_text = peʔ peʔ peʔ ka -er -u -ri .
+# text = peʔ peʔ peʔ kileruri .
+# text_en = They used to bring many.
+# text_phrase-gls-es = y lo traían
+# text_phrase-gls-pro = || péʔ. (0.6s) || péʔ. (0.6s) || péʔ ˈkèlɘ̀ɾùɾɨ. (0.2s) ||
+# text_phrase-gls-it = péʔ (péʔ péʔ) ˈkèlɘ̀ɾùɾī
+# text_phrase-gls-wg = bring(BARE) bring(BARE) bring(BARE) make:HAB:PST:3PL
+# text_phrase-gls-de = Sucia_014b_VG
+1	peʔ	peʔ	VERB	_	_	2	mod	_	AlignBegin=70807|AlignEnd=71309|GE=bring|Gloss=bring|nWord=1|RX=[VT]|TokenType=Root
+2	peʔ	peʔ	VERB	_	_	3	mod	_	AlignBegin=71309|AlignEnd=71811|GE=bring|Gloss=bring|nWord=2|RX=[VT]|TokenType=Root
+3	peʔ	peʔ	VERB	_	_	4	comp:aux	_	AlignBegin=71811|AlignEnd=72313|GE=bring|Gloss=bring|nWord=3|RX=[VT]|TokenType=Root
+4	ka	ka	VERB	_	_	6	comp:aux/m	_	AlignBegin=72313|AlignEnd=72439|GE=make|Gloss=make|nWord=4|RX=[VT]|TokenType=Root
+5	-er		PRON	_	_	6	subj/m	_	AlignBegin=72439|AlignEnd=72565|GE=[S3PL]|Gloss=-S3PL|nWord=4|RX=[V:ANY]|TokenType=InflAff
+6	-u		AUX	_	_	7	comp:aux/m	_	AlignBegin=72565|AlignEnd=72691|GE=[HAB]|Gloss=-HAB|nWord=4|RX=[N:ANY]|TokenType=InflAff
+7	-ri		AUX	_	_	0	root	_	AlignBegin=72691|AlignEnd=72815|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]|TokenType=InflAff
+8	.		PUNCT	_	_	7	punct	_	AlignBegin=72815|AlignEnd=73316|Gloss=.|nWord=5
+
+# sent_id = 085_16-16
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 73565, 76411
+# morphemic_text = ĩka =ras , a- arki =yã , seatus as tʃa -Ø -i .
+# text = ĩka ra , aarki yã , seatus as ʃi .
+# text_en = Among the brothers there was a prankster.
+# text_phrase-gls-es = entre los hermanos había un bromista
+# text_phrase-gls-pro = || ˈɨ̃nkàˈɾáʔa, || ˈʔàʔāɾkijà, || ˈséàtùsːá ʃī. (1.0s) ||
+# text_phrase-gls-it = ˈĩ̀kà àˈɾá ˈàāɾkʲà ˈséàtùsá ʃī ˈtàsĩ̄ɣínɘ̄ tɔ̀ˈwáʷkútùwã̀ˈùsà
+# text_phrase-gls-wg = and REAS brother:3 LOC prankster INDF.ART be.there:PST:3
+# text_phrase-gls-de = Sucia_015_VG
+1	ĩka	ĩka	PART	_	_	2	comp:obj	_	AlignBegin=73565|AlignEnd=73850|GE=and|Gloss=and|nWord=1|RX=[COORDCONN]|TokenType=Root
+2	=ras		PART	_	_	10	discourse	_	AlignBegin=73850|AlignEnd=74135|GE=[REAS]|Gloss==REAS|nWord=2|RX=[PRT]|TokenType=Clit
+3	,		PUNCT	_	_	2	punct	_	AlignBegin=74135|AlignEnd=74420|nWord=3
+4	a-		PRON	_	_	5	udep:poss/m	_	AlignBegin=74420|AlignEnd=74562|GE=[POSS3SG]|Gloss=POSS3SG-|nWord=4|RX=[N:ANY]|TokenType=Root
+5	arki	arki	NOUN	_	_	6	comp:obj	_	AlignBegin=74562|AlignEnd=74705|GE=brother|Gloss=brother|nWord=4|RX=[N]|TokenType=Root
+6	=yã		ADP	_	_	10	mod:lmod	_	AlignBegin=74705|AlignEnd=74990|GE=[LOC]|Gloss==LOC|nWord=5|RX=[POST]|TokenType=Clit
+7	,		PUNCT	_	_	6	punct	_	AlignBegin=74990|AlignEnd=75275|nWord=6
+8	seatus	seatus	NOUN	_	_	10	subj	_	AlignBegin=75275|AlignEnd=75560|GE=prankster|Gloss=prankster|nWord=7|RX=[N]|TokenType=Root
+9	as	as	DET	_	_	8	det	_	AlignBegin=75560|AlignEnd=75845|GE=[INDF].[ART]|Gloss=INDF.ART|nWord=8|RX=[DET]|TokenType=Root
+10	tʃa	tʃa	VERB	_	_	12	comp:aux/m	_	AlignBegin=75845|AlignEnd=75940|GE=be.there|Gloss=be.there|nWord=9|RX=[VI]|TokenType=Root
+11	-Ø		PRON	_	_	12	subj/m	_	AlignBegin=75940|AlignEnd=76035|GE=[S3SG]|Gloss=-S3SG|nWord=9|RX=[V:ANY]|TokenType=InflAff
+12	-i		AUX	_	_	0	root	_	AlignBegin=76035|AlignEnd=76130|GE=[PST]|Gloss=-PST|nWord=9|RX=[V:ANY]|TokenType=InflAff
+13	.		PUNCT	_	_	12	punct	_	AlignBegin=76130|AlignEnd=76411|Gloss=.|nWord=10
+
+# sent_id = 085_17-17
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 77448, 79372
+# morphemic_text = tas =rina ta- pak -u -tW -wa =wi =sa .
+# text = tas rina tawakutuwa wi sa .
+# text_en = (He told them), “Why don't you take me too?”
+# text_phrase-gls-es = (les dijo) ¿por qué no me llevan a mí también?
+# text_phrase-gls-pro = || ˈtàsĩ̄nɣínɘ̄ tɔ̀ˈwákútùwã, || ʔã̀ˈũsà. (0.6s) ||
+# text_phrase-gls-wg = PRO1 also take:NEG:2>1 2PL C.Q
+# text_phrase-gls-de = Sucia_015b_VG
+1	tas	tas	PRON	_	_	4	comp:obj	_	AlignBegin=77448|AlignEnd=77769|GE=[PRO1]|Gloss=PRO1|nWord=1|RX=[PRO]|TokenType=Root
+2	=rina		PART	_	_	1	mod	_	AlignBegin=77769|AlignEnd=78090|GE=also|Gloss==also|nWord=2|RX=[COORDCONN]|TokenType=Clit
+3	ta-		PRON	_	_	4	comp:obj/m	_	AlignBegin=78090|AlignEnd=78154|GE=[O1]|Gloss=O1-|nWord=3|RX=[VT:ANY]|TokenType=Root
+4	pak	pak	VERB	_	_	6	comp:aux/m	_	AlignBegin=78154|AlignEnd=78218|GE=take|Gloss=take|nWord=3|RX=[VT]|TokenType=Root
+5	-u		PRON	_	_	6	subj/m	_	AlignBegin=78218|AlignEnd=78282|GE=[S2]|Gloss=-S2|nWord=3|RX=[V:ANY]|TokenType=InflAff
+6	-tV		AUX	_	_	7	comp:aux/m	_	AlignBegin=78282|AlignEnd=78346|GE=[NEG]|Gloss=-NEG|nWord=3|RX=[V:ANY]|TokenType=InflAff|wordform=-tW
+7	-wa		AUX	_	_	0	root	_	AlignBegin=78346|AlignEnd=78411|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff
+8	=wi		PRON	_	_	7	mod	_	AlignBegin=78411|AlignEnd=78732|GE=[2PL]|Gloss==2PL|nWord=4|RX=[PRO]|TokenType=Clit
+9	=sa		PART	_	_	4	mod	_	AlignBegin=78732|AlignEnd=79053|GE=[C].[Q]|Gloss==C.Q|nWord=5|RX=[PRT]|TokenType=Clit
+10	.		PUNCT	_	_	7	punct	_	AlignBegin=79053|AlignEnd=79372|Gloss=.|nWord=6
+
+# sent_id = 085_18-18
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 80007, 81634
+# morphemic_text = pa =ma nẽ -ya warku Ø- iʃk -u -pi =hã .
+# text = pa ma nẽy warku iʃkupẽ .
+# text_en = "You are going to misbehave."
+# text_phrase-gls-es = si vas harás algo malo,
+# text_phrase-gls-pro = || ʔũʔ-- || ˈpàmànɘ̄j wàɾˈkujʃkòˈpéʔ. (0.3s) ||
+# text_phrase-gls-it = ˈpàmànɘ̄ʲ ˈwàɾkʷ ˈiʃkòpéʔ
+# text_phrase-gls-wg = PRO2 TOP_SV go:PFV:2 bad make:FUT:2>3=FOC
+# text_phrase-gls-de = Sucia_016_VG
+1	pa	pa	PRON	_	_	2	comp:obj	_	AlignBegin=80007|AlignEnd=80278|GE=[PRO2]|Gloss=PRO2|nWord=1|RX=[PRO]|TokenType=Root
+2	=ma		PART	_	_	3	subj	_	AlignBegin=80278|AlignEnd=80549|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit
+3	nẽ	nẽ	VERB	_	_	4	comp:aux/m	_	AlignBegin=80549|AlignEnd=80685|GE=go|Gloss=go|nWord=3|RX=[VI]|TokenType=Root
+4	-ya		AUX	_	Person=2	0	root	_	AlignBegin=80685|AlignEnd=80820|GE=[S2:PFV]|Gloss=-S2:PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff
+5	warku	warku	NOUN	_	_	7	comp:pred	_	AlignBegin=80820|AlignEnd=81091|GE=bad|Gloss=bad|nWord=4|RX=[N]|TokenType=Root
+6	Ø-		PRON	_	_	7	comp:obj/m	_	AlignBegin=81091|AlignEnd=81145|GE=[O3SG]|Gloss=O3SG-|nWord=5|RX=[VT:ANY]|TokenType=Root
+7	iʃk	iʃk	VERB	_	_	9	comp:aux/m	_	AlignBegin=81145|AlignEnd=81199|GE=make|Gloss=make|nWord=5|RX=[VT]|TokenType=Root
+8	-u		PRON	_	_	9	subj/m	_	AlignBegin=81199|AlignEnd=81253|GE=[S2]|Gloss=-S2|nWord=5|RX=[V:ANY]|TokenType=InflAff
+9	-pi		AUX	_	_	3	mod	_	AlignBegin=81253|AlignEnd=81307|GE=[FUT]|Gloss=-FUT|nWord=5|RX=[V:ANY]|TokenType=InflAff
+10	=hã		PART	_	_	9	mod	_	AlignBegin=81307|AlignEnd=81362|GE=[FOC]|Gloss==FOC|nWord=5|RX=[PRT]|TokenType=Clit
+11	.		PUNCT	_	_	4	punct	_	AlignBegin=81362|AlignEnd=81634|Gloss=.|nWord=6
+
+# sent_id = 085_19-19
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 81944, 82717
+# morphemic_text = ũhũʔ .
+# text = ũhũʔ .
+# text_en = "No" (he said).
+# text_phrase-gls-es = no no (les dijo)
+# text_phrase-gls-pro = || ʔṹːhṹʔ!. (1.2s) ||
+# text_phrase-gls-it = ṹhṹʔ
+# text_phrase-gls-wg = no
+# text_phrase-gls-de = Sucia_016b_VG
+1	ũhũʔ	ũhũʔ	INTJ	_	_	0	root	_	AlignBegin=81944|AlignEnd=82330|GE=no|Gloss=no|nWord=1|RX=[INTERJ]|TokenType=Root
+2	.		PUNCT	_	_	1	punct	_	AlignBegin=82330|AlignEnd=82717|Gloss=.|nWord=2
+
+# sent_id = 085_20-20
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 83965, 85559
+# morphemic_text = eka wa pẽh kara as a- ka- ʃa -Ø -i .
+# text = eka wa pẽh kara as akaʃi .
+# text_en = He also had a long stick.
+# text_phrase-gls-es = él también tenía una vara larga
+# text_phrase-gls-pro = || ékàwá pɛ̀h kàˈɾás ākāˈʃíʔ. (1.4s) ||
+# text_phrase-gls-it = ékàwá pɛ̀ʰ kàˈɾás ākāˈʃíʔ
+# text_phrase-gls-wg = PRO3 also wood long INDF.ART be.there(have):APPL:PST:3>3
+# text_phrase-gls-de = Sucia_017_VG
+1	eka	eka	PRON	_	_	7	comp:obj	_	AlignBegin=83965|AlignEnd=84193|GE=[PRO3]|Gloss=PRO3|nWord=1|RX=[PRO]|TokenType=Root
+2	wa	wa	ADV	_	_	1	mod	_	AlignBegin=84193|AlignEnd=84421|GE=also|Gloss=also|nWord=2|RX=[ADV]|TokenType=Root
+3	pẽh	pẽh	NOUN	_	_	7	subj	_	AlignBegin=84421|AlignEnd=84649|GE=wood|Gloss=wood|nWord=3|RX=[N]|TokenType=Root
+4	kara	kara	NOUN	_	_	3	mod	_	AlignBegin=84649|AlignEnd=84877|GE=long|Gloss=long|nWord=4|RX=[N]|TokenType=Root
+5	as	as	DET	_	_	3	det	_	AlignBegin=84877|AlignEnd=85105|GE=[INDF].[ART]|Gloss=INDF.ART|nWord=5|RX=[DET]|TokenType=Root
+6	a-		PRON	_	_	7	comp:obj/m	_	AlignBegin=85105|AlignEnd=85151|GE=[O3SG]|Gloss=O3SG-|nWord=6|RX=[VT:ANY]|TokenType=Root
+7	ka-		PRON	_	_	10	comp:aux/m	_	AlignBegin=85151|AlignEnd=85197|GE=[O3PL]|Gloss=O3PL-|nWord=6|RX=[V:ANY]|TokenType=Root
+8	ʃa	ʃa	VERB	_	_	7	comp:aux/m	_	AlignBegin=85197|AlignEnd=85243|GE=be.there|Gloss=be.there|nWord=6|RX=[VI]|TokenType=Root
+9	-Ø		PRON	_	_	10	subj/m	_	AlignBegin=85243|AlignEnd=85289|GE=[S3SG]|Gloss=-S3SG|nWord=6|RX=[V:ANY]|TokenType=InflAff
+10	-i		AUX	_	_	0	root	_	AlignBegin=85289|AlignEnd=85333|GE=[PST]|Gloss=-PST|nWord=6|RX=[V:ANY]|TokenType=InflAff
+11	.		PUNCT	_	_	10	punct	_	AlignBegin=85333|AlignEnd=85559|Gloss=.|nWord=7
+
+# sent_id = 085_21-21
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 86958, 88089
+# morphemic_text = pẽʔh kara as a- ka- ʃa -Ø -i .
+# text = pẽʔh kara as a- ka- ʃa -Ø -i .
+# text_en = He had a long stick.
+# text_phrase-gls-es = él tenía una vara larga
+# text_phrase-gls-pro = || °pɛh kāɾás ākāʃíʔ°. (1.2s) ||
+# text_phrase-gls-it = pɛʰ kāɾás ākāʃíʔ
+# text_phrase-gls-wg = wood long INDF.ART be.there(have):APPL:PST:3>3
+# text_phrase-gls-de = Sucia_018_VG
+1	pẽʔh	pẽʔh	NOUN	_	_	5	subj	_	AlignBegin=86958|AlignEnd=87184|GE=wood|Gloss=wood|nWord=1|RX=[N]|TokenType=Root
+2	kara	kara	NOUN	_	_	1	mod	_	AlignBegin=87184|AlignEnd=87410|GE=long|Gloss=long|nWord=2|RX=[N]|TokenType=Root
+3	as	as	DET	_	_	1	det	_	AlignBegin=87410|AlignEnd=87636|GE=[INDF].[ART]|Gloss=INDF.ART|nWord=3|RX=[DET]|TokenType=Root
+4	a-		PRON	_	_	5	comp:obj/m	_	AlignBegin=87636|AlignEnd=87681|GE=[O3SG]|Gloss=O3SG-|nWord=4|RX=[VT:ANY]|TokenType=Root
+5	ka-	ka-	AUX	_	_	8	comp:aux/m	_	AlignBegin=87681|AlignEnd=87726|GE=[O3PL]|Gloss=APPL.P-|nWord=4|RX=[V:ANY]|TokenType=DerAff
+6	ʃa	ʃa	VERB	_	_	5	comp:aux/m	_	AlignBegin=87726|AlignEnd=87771|GE=be.there|Gloss=be.there|nWord=4|RX=[VI]|TokenType=Root
+7	-Ø		PRON	_	_	8	subj/m	_	AlignBegin=87771|AlignEnd=87816|GE=[S3SG]|Gloss=-S3SG|nWord=4|RX=[V:ANY]|TokenType=InflAff
+8	-i		AUX	_	_	0	root	_	AlignBegin=87816|AlignEnd=87862|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]|TokenType=InflAff
+9	.		PUNCT	_	_	8	punct	_	AlignBegin=87862|AlignEnd=88089|Gloss=.|nWord=5
+
+# sent_id = 085_22-22
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 89282, 90903
+# morphemic_text = tas =ma pi- bak nã teʔ -pa =wa .
+# text = tas ma pibaknãteʔpa wa .
+# text_en = (He told them), "I will follow you all around."
+# text_phrase-gls-es = (les dijo) "yo los seguiré e iré con ustedes y vendré"
+# text_phrase-gls-pro = || ˈtáʔāmà pìˈβánátèʔpāwāʔ!. (0.6s) ||
+# text_phrase-gls-it = ˈtáāʰmà pìˈβánátèʔpāwāʔ
+# text_phrase-gls-wg = PRO1 TOP_AV follow+go+come:FUT:1>2 2PL
+# text_phrase-gls-de = Sucia_018b_VG
+1	tas	tas	PRON	_	_	2	comp:obj	_	AlignBegin=89282|AlignEnd=89606|GE=[PRO1]|Gloss=PRO1|nWord=1|RX=[PRO]|TokenType=Root
+2	=ma		PART	_	_	4	subj	_	AlignBegin=89606|AlignEnd=89930|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit
+3	pi-		PRON	_	_	4	comp:obj/m	_	AlignBegin=89930|AlignEnd=89995|GE=[O2]|Gloss=O2-|nWord=3|RX=[VT:ANY]|TokenType=Root
+4	bak	bak	VERB	_	_	5	compoud:svc	_	AlignBegin=89995|AlignEnd=90060|GE=follow|Gloss=follow|nWord=3|RX=[VT]|TokenType=Root
+5	nã	nã	VERB	_	_	6	compoud:svc	_	AlignBegin=90060|AlignEnd=90125|GE=go|Gloss=go|nWord=3|RX=[VI]|TokenType=Root
+6	teʔ	teʔ	VERB	_	_	7	comp:aux/m	_	AlignBegin=90125|AlignEnd=90190|GE=come|Gloss=come|nWord=3|RX=[VI]|TokenType=Root
+7	-pa		AUX	_	Person=1	0	root	_	AlignBegin=90190|AlignEnd=90254|GE=[S1SG:FUT]|Gloss=-S1SG:FUT|nWord=3|RX=[V:ANY]|TokenType=InflAff
+8	=wa		PRON	_	_	7	mod	_	AlignBegin=90254|AlignEnd=90578|GE=[2PL]|Gloss==2PL|nWord=4|RX=[PRO]|TokenType=Clit
+9	.		PUNCT	_	_	7	punct	_	AlignBegin=90578|AlignEnd=90903|Gloss=.|nWord=5
+
+# sent_id = 085_23-23
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 91455, 92544
+# morphemic_text = pi- bak nã teʔ -pa =wa .
+# text = pibaknãteʔpa wa .
+# text_en = "I will follow you all around."
+# text_phrase-gls-es = (él les dijo) "los seguiré e iré con ustedes y vendré ",
+# text_phrase-gls-pro = || °pìˈβánátèʔpāwāʔ°. (2.0s) ||
+# text_phrase-gls-it = pìˈβánátèʔpāwāʔ
+# text_phrase-gls-wg = follow+go+come:FUT:1>2 2PL
+# text_phrase-gls-de = Sucia_019_VG
+1	pi-		PRON	_	_	2	comp:obj/m	_	AlignBegin=91455|AlignEnd=91528|GE=[O2]|Gloss=O2-|nWord=1|RX=[VT:ANY]|TokenType=Root
+2	bak	bak	VERB	_	_	3	compoud:svc	_	AlignBegin=91528|AlignEnd=91601|GE=follow|Gloss=follow|nWord=1|RX=[VT]|TokenType=Root
+3	nã	nã	VERB	_	_	4	compoud:svc	_	AlignBegin=91601|AlignEnd=91674|GE=go|Gloss=go|nWord=1|RX=[VI]|TokenType=Root
+4	teʔ	teʔ	VERB	_	_	5	comp:aux/m	_	AlignBegin=91674|AlignEnd=91747|GE=come|Gloss=come|nWord=1|RX=[VI]|TokenType=Root
+5	-pa		AUX	_	Person=1	0	root	_	AlignBegin=91747|AlignEnd=91818|GE=[S1SG:FUT]|Gloss=-S1SG:FUT|nWord=1|RX=[V:ANY]|TokenType=InflAff
+6	=wa		PRON	_	_	5	mod	_	AlignBegin=91818|AlignEnd=92181|GE=[2PL]|Gloss==2PL|nWord=2|RX=[PRO]|TokenType=Clit
+7	.		PUNCT	_	_	5	punct	_	AlignBegin=92181|AlignEnd=92544|Gloss=.|nWord=3
+
+# sent_id = 085_24-24
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 94517, 95951
+# morphemic_text = ũhũʔ na -u -tW -i ta- arki .
+# text = ũhũʔ noʔti taarki .
+# text_en = "No, no, don't go my brother."
+# text_phrase-gls-es = “no, no vayas mi hermano ” “como éstos
+# text_phrase-gls-pro = || ʔṹhɔ̃ ˈnōʔtī ˈtàʔɾɨkiʔ. (0.2s) ||
+# text_phrase-gls-it = u͂́hɔ̀ ˈnōʔtī ˈtàʔɾkiʔ
+# text_phrase-gls-wg = no go:NEG:PST:2 brother:1
+# text_phrase-gls-de = Sucia_020_VG
+1	ũhũʔ	ũhũʔ	INTJ	_	_	2	udep	_	AlignBegin=94517|AlignEnd=94875|GE=no|Gloss=no|nWord=1|RX=[INTERJ]|TokenType=Root
+2	na	na	VERB	_	_	4	comp:aux/m	_	AlignBegin=94875|AlignEnd=94965|GE=go|Gloss=go|nWord=2|RX=[VI]|TokenType=Root
+3	-u		PRON	_	_	4	subj/m	_	AlignBegin=94965|AlignEnd=95055|GE=[S2]|Gloss=-S2|nWord=2|RX=[V:ANY]|TokenType=InflAff
+4	-tV		AUX	_	_	5	comp:aux/m	_	AlignBegin=95055|AlignEnd=95145|GE=[NEG]|Gloss=-NEG|nWord=2|RX=[V:ANY]|TokenType=InflAff|wordform=-tW
+5	-i		AUX	_	_	0	root	_	AlignBegin=95145|AlignEnd=95233|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]|TokenType=InflAff
+6	ta-		PRON	_	_	7	udep:poss/m	_	AlignBegin=95233|AlignEnd=95412|GE=[POSS1]|Gloss=POSS1-|nWord=3|RX=[N:ANY]|TokenType=Root
+7	arki	arki	NOUN	_	_	5	vocative	_	AlignBegin=95412|AlignEnd=95591|GE=brother|Gloss=brother|nWord=3|RX=[N]|TokenType=Root
+8	.		PUNCT	_	_	5	punct	_	AlignBegin=95591|AlignEnd=95951|Gloss=.|nWord=4
+
+# sent_id = 085_25-25
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 96193, 97558
+# morphemic_text = pa =ma nẽ -ya warku Ø- iʃk -u -pi =hã .
+# text = pa ma nẽy warku iʃkupẽ .
+# text_en = "You are going to misbehave.
+# text_phrase-gls-es = si tu vas harás cosas malas
+# text_phrase-gls-pro = || ˈpàmànējwàɾkujʃkòpéʔ. (1.2s) ||
+# text_phrase-gls-it = ˈpàmànēʲ kʷàɾɣʷīʃkòpéʔ
+# text_phrase-gls-wg = PRO2 TOP_AoV go:PFV:2 bad make:FUT:2>3=FOC
+# text_phrase-gls-de = Sucia_020b_VG
+1	pa	pa	PRON	_	_	2	comp:obj	_	AlignBegin=96193|AlignEnd=96421|GE=[PRO2]|Gloss=PRO2|nWord=1|RX=[PRO]|TokenType=Root
+2	=ma		PART	_	_	3	subj	_	AlignBegin=96421|AlignEnd=96649|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit
+3	nẽ	nẽ	VERB	_	_	4	comp:aux/m	_	AlignBegin=96649|AlignEnd=96763|GE=go|Gloss=go|nWord=3|RX=[VI]|TokenType=Root
+4	-ya		AUX	_	Person=2	0	root	_	AlignBegin=96763|AlignEnd=96877|GE=[S2:PFV]|Gloss=-S2:PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff
+5	warku	warku	NOUN	_	_	7	comp:pred	_	AlignBegin=96877|AlignEnd=97105|GE=bad|Gloss=bad|nWord=4|RX=[N]|TokenType=Root
+6	Ø-		PRON	_	_	7	comp:obj/m	_	AlignBegin=97105|AlignEnd=97151|GE=[O3SG]|Gloss=O3SG-|nWord=5|RX=[VT:ANY]|TokenType=Root
+7	iʃk	iʃk	VERB	_	_	9	comp:aux/m	_	AlignBegin=97151|AlignEnd=97197|GE=make|Gloss=make|nWord=5|RX=[VT]|TokenType=Root
+8	-u		PRON	_	_	9	subj/m	_	AlignBegin=97197|AlignEnd=97243|GE=[S2]|Gloss=-S2|nWord=5|RX=[V:ANY]|TokenType=InflAff
+9	-pi		AUX	_	_	4	mod	_	AlignBegin=97243|AlignEnd=97289|GE=[FUT]|Gloss=-FUT|nWord=5|RX=[V:ANY]|TokenType=InflAff
+10	=hã		PART	_	_	9	mod	_	AlignBegin=97289|AlignEnd=97333|GE=[FOC]|Gloss==FOC|nWord=5|RX=[PRT]|TokenType=Clit
+11	.		PUNCT	_	_	4	punct	_	AlignBegin=97333|AlignEnd=97558|Gloss=.|nWord=6
+
+# sent_id = 085_26-26
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 98806, 108269
+# morphemic_text = ĩ =kan =ma , okwa na teʔ -bar -wa , a- ki =yã , a- kaki a- par tapeʔ =yã tVk Ø- -ir -i .
+# text = ĩkima , okwa nateʔbarwa , aki ɲã , akaki apar tapeʔ ɲã tikiri .
+# text_en = "Like this, we go back and forth unde (water), to the mouth of the river, where the tail of the mother swims", they told him.
+# text_phrase-gls-es = abajo, fuimos y regresamos en la embocadura, donde cuelga la cola de la mamá,”, le dijeron
+# text_phrase-gls-pro = || *ĩ̀ŋkìmáʔ. (0.8s) || ˈʔɔ́kɔ́ ˈnátèʔβàɾwáʔ. (0.5s) || ʔàkìʔˈɲáʔ. (0.7s) || ʔak-- (0.2s) || àˈkákīː, (0.2s) || àˈpàɾtàˈpèʔɲã́ʔ ˈtíʔkìɾīʔ. (0.7s) || ʔaːːːːː, (1.4s) ||
+# text_phrase-gls-it = ĩ̀kìmá ˈɔ́kʷá ˈnátèʔɸàɾwáʔ àkìˈɲáʔ àˈkákī àˈpàɾtàˈpèĩ̀ɲã́ʔ ˈtíʔkìɾīʔ
+# text_phrase-gls-wg = PROX.DEM=SIM=TOP down go+come:PFV:EXCL.PL tooth:3 LOC mother:3 tail:3 swim(BARE) LOC say:PST:3PL>3
+# text_phrase-gls-de = Sucia_021_VG
+1	ĩ	ĩ	PRON	_	_	2	comp:obj	_	AlignBegin=98806|AlignEnd=99031|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=1|RX=[PRO]|TokenType=Root
+2	=kan		PART	_	_	3	comp:obj	_	AlignBegin=99031|AlignEnd=99256|GE=[SIM]|Gloss==SIM|nWord=1|RX=[PRT]|TokenType=Clit
+3	=ma		PART	_	_	6	mod	_	AlignBegin=99256|AlignEnd=99482|GE=[TOP]|Gloss==TOP|nWord=1|RX=[PRT]|TokenType=Clit
+4	,		PUNCT	_	_	3	punct	_	AlignBegin=99482|AlignEnd=100158|nWord=2
+5	okwa	okwa	NOUN	_	_	6	mod	_	AlignBegin=100158|AlignEnd=100834|GE=down|Gloss=down|nWord=3|RX=[N]|TokenType=Root
+6	na	na	VERB	_	_	7	compoud:svc	_	AlignBegin=100834|AlignEnd=101003|GE=go|Gloss=go|nWord=4|RX=[VI]|TokenType=Root
+7	teʔ	teʔ	VERB	_	_	9	comp:aux/m	_	AlignBegin=101003|AlignEnd=101172|GE=come|Gloss=come|nWord=4|RX=[VI]|TokenType=Root
+8	-bar		PRON	_	Clusivity=Ex	9	subj/m	_	AlignBegin=101172|AlignEnd=101341|GE=[S1PL].[EXCL]|Gloss=-S1PL.EXCL|nWord=4|RX=[V:ANY]|TokenType=InflAff
+9	-wa		AUX	_	_	24	udep	_	AlignBegin=101341|AlignEnd=101510|GE=[PFV]|Gloss=-PFV|nWord=4|RX=[V:ANY]|TokenType=InflAff
+10	,		PUNCT	_	_	9	punct	_	AlignBegin=101510|AlignEnd=102186|nWord=5
+11	a-		PRON	_	_	12	udep:poss/m	_	AlignBegin=102186|AlignEnd=102524|GE=[POSS3SG]|Gloss=POSS3SG-|nWord=6|RX=[N:ANY]|TokenType=Root
+12	ki	ki	NOUN	_	_	13	comp:obj	_	AlignBegin=102524|AlignEnd=102862|GE=tooth|Gloss=tooth|nWord=6|RX=[N]|TokenType=Root
+13	=yã		ADP	_	_	9	mod:lmod	_	AlignBegin=102862|AlignEnd=103538|GE=[LOC]|Gloss==LOC|nWord=7|RX=[POST]|TokenType=Clit
+14	,		PUNCT	_	_	13	punct	_	AlignBegin=103538|AlignEnd=104214|nWord=8
+15	a-		PRON	_	_	16	udep:poss/m	_	AlignBegin=104214|AlignEnd=104552|GE=[POSS3SG]|Gloss=POSS3SG-|nWord=9|RX=[N:ANY]|TokenType=Root
+16	kaki	kaki	NOUN	_	_	18	udep:poss	_	AlignBegin=104552|AlignEnd=104890|GE=mother|Gloss=mother|nWord=9|RX=[N]|TokenType=Root
+17	a-		PRON	_	_	18	udep:poss/m	_	AlignBegin=104890|AlignEnd=105228|GE=[POSS3SG]|Gloss=POSS3SG-|nWord=10|RX=[N:ANY]|TokenType=Root
+18	par	par	NOUN	_	_	19	subj	_	AlignBegin=105228|AlignEnd=105566|GE=tail|Gloss=tail|nWord=10|RX=[N]|TokenType=Root
+19	tapeʔ	tapeʔ	VERB	_	_	20	comp:obj	_	AlignBegin=105566|AlignEnd=106242|GE=swim|Gloss=swim|nWord=11|RX=[VI]|TokenType=Root
+20	=yã		ADP	_	_	9	mod:lmod	_	AlignBegin=106242|AlignEnd=106918|GE=[LOC]|Gloss==LOC|nWord=12|RX=[POST]|TokenType=Clit
+21	tVk	tV	VERB	_	_	24	comp:aux/m	_	AlignBegin=106918|AlignEnd=107087|GE=say|Gloss=say|nWord=13|RX=[VT]|TokenType=Root
+22	-Ø	Ø-	PRON	_	_	21	comp:obj/m	_	AlignBegin=107087|AlignEnd=107256|GE=[O3SG]|Gloss=O3SG-|nWord=13|RX=[VT:ANY]|TokenType=InflAff|wordform=Ø-
+23	-ir		PRON	_	_	24	subj/m	_	AlignBegin=107256|AlignEnd=107425|GE=[S3PL]|Gloss=-S3PL|nWord=13|RX=[V:ANY]|TokenType=InflAff
+24	-i		AUX	_	_	0	root	_	AlignBegin=107425|AlignEnd=107594|GE=[PST]|Gloss=-PST|nWord=13|RX=[V:ANY]|TokenType=InflAff
+25	.		PUNCT	_	_	24	punct	_	AlignBegin=107594|AlignEnd=108269|Gloss=.|nWord=14
+
+# sent_id = 085_27-27
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 109675, 111634
+# morphemic_text = ʃa -iʃ ta- ka -i -wa =wĩʔ , tVk Ø- -ir -i .
+# text = ʃaiʃ takaiwa wĩʔ , tikiri .
+# text_en = "I want to see it immediately."
+# text_phrase-gls-es = “tengo ganas de verlo inmediatamente”,
+# text_phrase-gls-pro = || ˈʃàʔìʃ tàˈkẽwã̀wĩ́ʔ. (0.1s) || °tiʔkiˈɾiʔ°. (0.6s) ||
+# text_phrase-gls-it = ˈʃàʔìʃ tàˈkɘ̀wã̀wĩ́ʔ
+# text_phrase-gls-tl = How does the desiderative work here: The object is 1st person
+# text_phrase-gls-wg = see:DES(BARE) make:PFV:3>1 IMDP say:PST:3PL>3
+# text_phrase-gls-de = Sucia_022_VG
+1	ʃa	ʃa	VERB	_	_	2	comp:aux/m	_	AlignBegin=109675|AlignEnd=109838|GE=see|Gloss=see|nWord=1|RX=[VT]|TokenType=Root
+2	-iʃ		AUX	_	_	4	compound@lvc	_	AlignBegin=109838|AlignEnd=110001|GE=[DES]|Gloss=-DES|nWord=1|RX=[VERB]|TokenType=InflAff
+3	ta-		PRON	_	_	4	comp:obj/m	_	AlignBegin=110001|AlignEnd=110083|GE=[O1]|Gloss=O1-|nWord=2|RX=[VT:ANY]|TokenType=Root
+4	ka	ka	VERB	_	_	6	comp:aux/m	_	AlignBegin=110083|AlignEnd=110165|GE=make|Gloss=make|nWord=2|RX=[VT]|TokenType=Root
+5	-i		PRON	_	_	6	subj/m	_	AlignBegin=110165|AlignEnd=110247|GE=[S3SG]|Gloss=-S3SG|nWord=2|RX=[V:ANY]|TokenType=InflAff
+6	-wa		AUX	_	_	9	udep	_	AlignBegin=110247|AlignEnd=110327|GE=[PFV]|Gloss=-PFV|nWord=2|RX=[V:ANY]|TokenType=InflAff
+7	=wĩʔ		PART	_	_	6	mod	_	AlignBegin=110327|AlignEnd=110653|GE=[IMDP]|Gloss==IMDP|nWord=3|RX=[PRT]|TokenType=Clit
+8	,		PUNCT	_	_	7	punct	_	AlignBegin=110653|AlignEnd=110979|nWord=4
+9	tVk	tV	VERB	_	_	12	comp:aux/m	_	AlignBegin=110979|AlignEnd=111061|GE=say|Gloss=say|nWord=5|RX=[VT]|TokenType=Root
+10	-Ø	Ø-	PRON	_	_	9	comp:obj/m	_	AlignBegin=111061|AlignEnd=111143|GE=[O3SG]|Gloss=O3SG-|nWord=5|RX=[VT:ANY]|TokenType=InflAff|wordform=Ø-
+11	-ir		PRON	_	_	12	subj/m	_	AlignBegin=111143|AlignEnd=111225|GE=[S3PL]|Gloss=-S3PL|nWord=5|RX=[V:ANY]|TokenType=InflAff
+12	-i		AUX	_	_	0	root	_	AlignBegin=111225|AlignEnd=111305|GE=[PST]|Gloss=-PST|nWord=5|RX=[V:ANY]|TokenType=InflAff
+13	.		PUNCT	_	_	12	punct	_	AlignBegin=111305|AlignEnd=111634|Gloss=.|nWord=6
+
+# sent_id = 085_28-28
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 112241, 113813
+# morphemic_text = ũhũʔ , pi- pa -ber -tW -pi =hã .
+# text = ũhũʔ , piwabertipẽ .
+# text_en = "No, we won't take you."
+# text_phrase-gls-es = “no, no te llevaremos,”
+# text_phrase-gls-pro = || ʔṹnṍ em, || pìˈβáβáɾtīpéʔ!. (0.2s) ||
+# text_phrase-gls-it = ṹṍ pìˈβáβɛ́ɾtīpéʔ
+# text_phrase-gls-wg = no take:NEG:FUT:EXCL>2=FOC
+# text_phrase-gls-de = Sucia_022b_VG
+1	ũhũʔ	ũhũʔ	INTJ	_	_	4	discourse	_	AlignBegin=112241|AlignEnd=112634|GE=no|Gloss=no|nWord=1|RX=[INTERJ]|TokenType=Root
+2	,		PUNCT	_	_	1	punct	_	AlignBegin=112634|AlignEnd=113027|nWord=2
+3	pi-		PRON	_	_	4	comp:obj/m	_	AlignBegin=113027|AlignEnd=113093|GE=[O2]|Gloss=O2-|nWord=3|RX=[VT:ANY]|TokenType=Root
+4	pa	pa	VERB	_	_	6	comp:aux/m	_	AlignBegin=113093|AlignEnd=113159|GE=take|Gloss=take|nWord=3|RX=[VT]|TokenType=Root
+5	-ber		PRON	_	Clusivity=Ex	6	subj/m	_	AlignBegin=113159|AlignEnd=113225|GE=[S1PL].[EXCL]|Gloss=-S1PL.EXCL|nWord=3|RX=[V:ANY]|TokenType=InflAff
+6	-tV		AUX	_	_	7	comp:aux/m	_	AlignBegin=113225|AlignEnd=113291|GE=[NEG]|Gloss=-NEG|nWord=3|RX=[V:ANY]|TokenType=InflAff|wordform=-tW
+7	-pi		AUX	_	_	0	root	_	AlignBegin=113291|AlignEnd=113357|GE=[FUT]|Gloss=-FUT|nWord=3|RX=[V:ANY]|TokenType=InflAff
+8	=hã		PART	_	_	7	mod	_	AlignBegin=113357|AlignEnd=113420|GE=[FOC]|Gloss==FOC|nWord=3|RX=[PRT]|TokenType=Clit
+9	.		PUNCT	_	_	7	punct	_	AlignBegin=113420|AlignEnd=113813|Gloss=.|nWord=4
+
+# sent_id = 085_29-29
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 113965, 116793
+# morphemic_text = pi- pa -ber -tW -pi =hã , tVk Ø- -er -Øwa =na .
+# text = piwabertipẽ , tikiler na .
+# text_en = "We won't take you", it is said that they told him.
+# text_phrase-gls-es = no te llevaremos ‎‎dicen que le dijeron,
+# text_phrase-gls-pro = || pìˈwàβáɾtīpéʔ. (0.9s) || ˈtíkīlɛ̀rnā °ke°. (0.9s) ||
+# text_phrase-gls-it = pìˈwáβɛ́ɾtīpéʔ
+# text_phrase-gls-wg = take:NEG:FUT:EXCL>2=FOC say:PFV:3PL>3 REP
+# text_phrase-gls-de = Sucia_022c_VG
+1	pi-		PRON	_	_	2	comp:obj/m	_	AlignBegin=113965|AlignEnd=114059|GE=[O2]|Gloss=O2-|nWord=1|RX=[VT:ANY]|TokenType=Root
+2	pa	pa	VERB	_	_	4	comp:aux/m	_	AlignBegin=114059|AlignEnd=114153|GE=take|Gloss=take|nWord=1|RX=[VT]|TokenType=Root
+3	-ber		PRON	_	Clusivity=Ex	4	subj/m	_	AlignBegin=114153|AlignEnd=114247|GE=[S1PL].[EXCL]|Gloss=-S1PL.EXCL|nWord=1|RX=[V:ANY]|TokenType=InflAff
+4	-tV		AUX	_	_	5	comp:aux/m	_	AlignBegin=114247|AlignEnd=114341|GE=[NEG]|Gloss=-NEG|nWord=1|RX=[V:ANY]|TokenType=InflAff|wordform=-tW
+5	-pi		AUX	_	_	11	udep	_	AlignBegin=114341|AlignEnd=114435|GE=[FUT]|Gloss=-FUT|nWord=1|RX=[V:ANY]|TokenType=InflAff
+6	=hã		PART	_	_	5	mod	_	AlignBegin=114435|AlignEnd=114531|GE=[FOC]|Gloss==FOC|nWord=1|RX=[PRT]|TokenType=Clit
+7	,		PUNCT	_	_	6	punct	_	AlignBegin=114531|AlignEnd=115097|nWord=2
+8	tVk	tV	VERB	_	_	11	comp:aux/m	_	AlignBegin=115097|AlignEnd=115239|GE=say|Gloss=say|nWord=3|RX=[VT]|TokenType=Root
+9	-Ø	Ø-	PRON	_	_	8	comp:obj/m	_	AlignBegin=115239|AlignEnd=115381|GE=[O3SG]|Gloss=O3SG-|nWord=3|RX=[VT:ANY]|TokenType=InflAff|wordform=Ø-
+10	-er		PRON	_	_	11	subj/m	_	AlignBegin=115381|AlignEnd=115523|GE=[S3PL]|Gloss=-S3PL|nWord=3|RX=[V:ANY]|TokenType=InflAff
+11	-Øwa		AUX	_	_	12	comp:obj	_	AlignBegin=115523|AlignEnd=115663|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff
+12	=na		PART	_	_	0	root	_	AlignBegin=115663|AlignEnd=116229|GE=[REP]|Gloss==REP|nWord=4|RX=[PRT]|TokenType=Clit
+13	.		PUNCT	_	_	12	punct	_	AlignBegin=116229|AlignEnd=116793|Gloss=.|nWord=5
+
+# sent_id = 085_30-30
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 117654, 121579
+# morphemic_text = ã =yã petat , peʃ- ĩɲa suru ʃaʔ Ø- sukuh -er -wa Ø- ka -er -wa .
+# text = ã ɲa petat , peʃĩɲa suru ʃaʔ sukura kira .
+# text_en = There ###, they ### had grabbed their things for the next morning.
+# text_phrase-gls-es = las personas agarraron sus cosas, hicieron,
+# text_phrase-gls-pro = || ˈʔaɲa petat̚-- (0.2s) || pèʃ ˈĩ́ɲá sùˈɾūʃàʔ súˈkùɾà ˈkíɾà. ||
+# text_phrase-gls-it = ˈtíkīlɛ̀nā pèʃ ˈĩ́ɲá (sùˈɾūʃàʔ) súˈkùɾà ˈkíɾà
+# text_phrase-gls-wg = DEM.DIST =LOC thing:3PL side tomorrow grab:PFV:3PL>3 make:PFV:3PL>3
+# text_phrase-gls-de = Sucia_023_VG
+1	ã	ã	PRON	_	_	2	comp:obj	_	AlignBegin=117654|AlignEnd=118046|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=1|RX=[PRO]|TokenType=Root
+2	=yã		ADP	_	_	10	mod:lmod	_	AlignBegin=118046|AlignEnd=118438|GE=[LOC]|Gloss==LOC|nWord=2|RX=[POST]|TokenType=Clit
+3	petat	petat	X	_	_	5	conj:dicto	_	AlignBegin=118438|AlignEnd=118830|nWord=3
+4	,		PUNCT	_	_	3	punct	_	AlignBegin=118830|AlignEnd=119222|nWord=4
+5	peʃ-		PRON	_	_	6	udep:poss/m	_	AlignBegin=119222|AlignEnd=119418|GE=[POSS3PL]|Gloss=POSS3PL|nWord=5|RX=[N:ANY]|TokenType=Root
+6	ĩɲa	ĩɲa	NOUN	_	_	10	comp:obj	_	AlignBegin=119418|AlignEnd=119614|GE=thing|Gloss=thing|nWord=5|RX=[N]|TokenType=Root
+7	suru	suru	NOUN	_	_	10	udep	_	AlignBegin=119614|AlignEnd=120006|GE=side|Gloss=side|nWord=6|RX=[<NOT_SURE>]|TokenType=Root
+8	ʃaʔ	ʃaʔ	NOUN	_	_	10	mod:tmod	_	AlignBegin=120006|AlignEnd=120398|GE=tomorrow|Gloss=tomorrow|nWord=7|RX=[<NOT_SURE>]|TokenType=Root
+9	Ø-		PRON	_	_	10	comp:obj/m	_	AlignBegin=120398|AlignEnd=120496|GE=[O3SG]|Gloss=O3SG-|nWord=8|RX=[VT:ANY]|TokenType=Root
+10	sukuh	sukuh	VERB	_	_	12	comp:aux/m	_	AlignBegin=120496|AlignEnd=120594|GE=grab|Gloss=grab|nWord=8|RX=[VT]|TokenType=Root
+11	-er		PRON	_	_	12	subj/m	_	AlignBegin=120594|AlignEnd=120692|GE=[S3PL]|Gloss=-S3PL|nWord=8|RX=[V:ANY]|TokenType=InflAff
+12	-wa		AUX	_	_	14	comp:aux	_	AlignBegin=120692|AlignEnd=120790|GE=[PFV]|Gloss=-PFV|nWord=8|RX=[V:ANY]|TokenType=InflAff
+13	Ø-		PRON	_	_	14	comp:obj/m	_	AlignBegin=120790|AlignEnd=120888|GE=[O3SG]|Gloss=O3SG-|nWord=9|RX=[VT:ANY]|TokenType=Root
+14	ka	ka	VERB	_	_	16	comp:aux/m	_	AlignBegin=120888|AlignEnd=120986|GE=make|Gloss=make|nWord=9|RX=[VT]|TokenType=Root
+15	-er		PRON	_	_	16	subj/m	_	AlignBegin=120986|AlignEnd=121084|GE=[S3PL]|Gloss=-S3PL|nWord=9|RX=[V:ANY]|TokenType=InflAff
+16	-wa		AUX	_	_	0	root	_	AlignBegin=121084|AlignEnd=121182|GE=[PFV]|Gloss=-PFV|nWord=9|RX=[V:ANY]|TokenType=InflAff
+17	.		PUNCT	_	_	16	punct	_	AlignBegin=121182|AlignEnd=121579|Gloss=.|nWord=10
+
+# sent_id = 085_31-31
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 121613, 125710
+# morphemic_text = na -er -i tV -Ø -er -w(a) awa , a- ki =yã =hã , ĩ aso wa =ken =ʔĩ .
+# text = neri teru wã , aki ɲã hã , ĩ asowa kẽ ʔĩ .
+# text_en = They also say they went from the mouth to the source of the river.
+# text_phrase-gls-es = se fueron al día siguiente dijeron al mismo tiempo
+# text_phrase-gls-pro = || ˈnèɾíʔ ˈtèɾùwã̀ʔ. (1.0s) || *àˈkìʔɲáˈháʔ. (0.1s) || ɲãˈsōˈwāʔkiˈʔĩ. (2.2s) ||
+# text_phrase-gls-it = ˈnèɾíʔ ˈtèɾùwã̀ʔ àkìˈɲáhá ĩ̀ãˈsōwā kiĩ̀ĩ́
+# text_phrase-gls-wg = go:PST:3PL say:PFV:3PL>3 also tooth:3 LOC FOC DEM.PROX eye+water =LOC =FOC
+# text_phrase-gls-de = Sucia_024_VG
+1	na	na	VERB	_	_	3	comp:aux/m	_	AlignBegin=121613|AlignEnd=121718|GE=go|Gloss=go|nWord=1|RX=[VI]|TokenType=Root
+2	-er		PRON	_	_	3	subj/m	_	AlignBegin=121718|AlignEnd=121823|GE=[S3PL]|Gloss=-S3PL|nWord=1|RX=[V:ANY]|TokenType=InflAff
+3	-i		AUX	_	_	4	udep	_	AlignBegin=121823|AlignEnd=121928|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]|TokenType=InflAff
+4	tV	tV	VERB	_	_	7	comp:aux/m	_	AlignBegin=121928|AlignEnd=122007|GE=say|Gloss=say|nWord=2|RX=[VT]|TokenType=Root
+5	-Ø		PRON	_	_	4	comp:obj/m	_	AlignBegin=122007|AlignEnd=122086|GE=[S3SG]|Gloss=-S3SG|nWord=2|RX=[V:ANY]|TokenType=InflAff
+6	-er		PRON	_	_	7	subj/m	_	AlignBegin=122086|AlignEnd=122165|GE=[S3PL]|Gloss=-S3PL|nWord=2|RX=[V:ANY]|TokenType=InflAff
+7	-w(a)		AUX	_	_	0	root	_	AlignBegin=122165|AlignEnd=122243|GE=[PFV]|Gloss=-PFV|nWord=2|RX=[V:ANY]|TokenType=InflAff
+8	awa	awa	ADV	_	_	7	mod	_	AlignBegin=122243|AlignEnd=122558|GE=also|Gloss=also|nWord=3|RX=[ADV]|TokenType=Root
+9	,		PUNCT	_	_	8	punct	_	AlignBegin=122558|AlignEnd=122873|nWord=4
+10	a-		PRON	_	_	11	udep:poss/m	_	AlignBegin=122873|AlignEnd=123031|GE=[POSS3SG]|Gloss=POSS3SG-|nWord=5|RX=[N:ANY]|TokenType=Root
+11	ki	ki	NOUN	_	_	12	comp:obj	_	AlignBegin=123031|AlignEnd=123188|GE=tooth|Gloss=tooth|nWord=5|RX=[N]|TokenType=Root
+12	=yã		ADP	_	_	7	mod:lmod	_	AlignBegin=123188|AlignEnd=123503|GE=[LOC]|Gloss==LOC|nWord=6|RX=[POST]|TokenType=Clit
+13	=hã		PART	_	_	12	mod	_	AlignBegin=123503|AlignEnd=123818|GE=[FOC]|Gloss==FOC|nWord=7|RX=[PRT]|TokenType=Clit
+14	,		PUNCT	_	_	13	punct	_	AlignBegin=123818|AlignEnd=124133|nWord=8
+15	ĩ	ĩ	PRON	_	_	16	det	_	AlignBegin=124133|AlignEnd=124448|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=9|RX=[PRO]|TokenType=Root
+16	aso	aso	NOUN	_	_	17	udep:poss	_	AlignBegin=124448|AlignEnd=124606|GE=water|Gloss=water|nWord=10|RX=[N]|TokenType=Root
+17	wa	wa	NOUN	_	_	18	comp:obj	_	AlignBegin=124606|AlignEnd=124763|GE=eye|Gloss=eye|nWord=10|RX=[N]|TokenType=Root
+18	=ken		ADP	_	_	7	mod:lmod	_	AlignBegin=124763|AlignEnd=125078|GE=[LOC]|Gloss==LOC|nWord=11|RX=[POST]|TokenType=Clit
+19	=ʔĩ		PART	_	_	18	mod	_	AlignBegin=125078|AlignEnd=125393|GE=[FOC]|Gloss==FOC|nWord=12|RX=[PRT]|TokenType=Clit
+20	.		PUNCT	_	_	7	punct	_	AlignBegin=125393|AlignEnd=125710|Gloss=.|nWord=13
+
+# sent_id = 085_32-32
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 127937, 130007
+# morphemic_text = nẽ -ya nã -Ø -i =eri aso wa =ken .
+# text = nẽy nẽ eri asowa kẽ .
+# text_en = "You are going since she went to the source of the river."
+# text_phrase-gls-es = llegaron y cayeron a la embocadura del río ya
+# text_phrase-gls-pro = || ^nēj ˈnēʔéɾìʔ àˈsòwákɨ. (0.3s) ||
+# text_phrase-gls-it = nēʲ ˈnēéhìʔ àˈsòwákʰ
+# text_phrase-gls-wg = go:PFV:2 go:PST:3 since eye+water =LOC
+# text_phrase-gls-de = Sucia_024b_VG
+1	nẽ	nẽ	VERB	_	_	2	comp:aux/m	_	AlignBegin=127937|AlignEnd=128109|GE=go|Gloss=go|nWord=1|RX=[VI]|TokenType=Root
+2	-ya		AUX	_	Person=2	0	root	_	AlignBegin=128109|AlignEnd=128282|GE=[S2:PFV]|Gloss=-S2:PFV|nWord=1|RX=[V:ANY]|TokenType=InflAff
+3	nã	nã	VERB	_	_	5	comp:aux/m	_	AlignBegin=128282|AlignEnd=128397|GE=go|Gloss=go|nWord=2|RX=[VI]|TokenType=Root
+4	-Ø		PRON	_	_	5	subj/m	_	AlignBegin=128397|AlignEnd=128512|GE=[S3SG]|Gloss=-S3SG|nWord=2|RX=[V:ANY]|TokenType=InflAff
+5	-i		AUX	_	_	6	comp:obj	_	AlignBegin=128512|AlignEnd=128627|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]|TokenType=InflAff
+6	=eri		PART	_	_	2	mod	_	AlignBegin=128627|AlignEnd=128972|GE=since|Gloss==since|nWord=3|RX=[PRT]|TokenType=Clit
+7	aso	aso	NOUN	_	_	8	udep:poss	_	AlignBegin=128972|AlignEnd=129144|GE=water|Gloss=water|nWord=4|RX=[N]|TokenType=Root
+8	wa	wa	NOUN	_	_	9	comp:obj	_	AlignBegin=129144|AlignEnd=129317|GE=eye|Gloss=eye|nWord=4|RX=[N]|TokenType=Root
+9	=ken		ADP	_	_	3	mod:lmod	_	AlignBegin=129317|AlignEnd=129662|GE=[LOC]|Gloss==LOC|nWord=5|RX=[POST]|TokenType=Clit
+10	.		PUNCT	_	_	2	punct	_	AlignBegin=129662|AlignEnd=130007|Gloss=.|nWord=6
+
+# sent_id = 085_33-33
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 130345, 131655
+# morphemic_text = yarʃ ta- pe -bar -i ta .
+# text = yarʃ tapebri ta .
+# text_en = "We ### brought you."
+# text_phrase-gls-es = nadaba aquí
+# text_phrase-gls-pro = || yārʃ tàˈpèβɾītaʔ. (1.0s) ||
+# text_phrase-gls-it = ɲāʃ tàˈpèɾī
+# text_phrase-gls-wg = bring:PST:EXCL>1 DIST.DEM_indefinite
+# text_phrase-gls-de = Sucia_025_VG
+1	yarʃ	yarʃ	PART	_	_	3	discourse	_	AlignBegin=130345|AlignEnd=130673|nWord=1
+2	ta-		PRON	_	_	3	comp:obj/m	_	AlignBegin=130673|AlignEnd=130755|GE=[O1]|Gloss=O1-|nWord=2|RX=[VT:ANY]|TokenType=Root
+3	pe	pe	VERB	_	_	5	comp:aux/m	_	AlignBegin=130755|AlignEnd=130837|GE=bring|Gloss=bring|nWord=2|RX=[VT]|TokenType=Root
+4	-bar		PRON	_	Clusivity=Ex	5	subj/m	_	AlignBegin=130837|AlignEnd=130919|GE=[S1PL].[EXCL]|Gloss=-S1PL.EXCL|nWord=2|RX=[V:ANY]|TokenType=InflAff
+5	-i		AUX	_	_	0	root	_	AlignBegin=130919|AlignEnd=131001|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]|TokenType=InflAff
+6	ta	ta	PRON	_	_	5	udep	_	AlignBegin=131001|AlignEnd=131329|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=3|RX=[PRO]|TokenType=Root
+7	.		PUNCT	_	_	5	punct	_	AlignBegin=131329|AlignEnd=131655|Gloss=.|nWord=4
+
+# sent_id = 085_34-34
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 132618, 137958
+# morphemic_text = ah , ã neʔa a- kaki =ʔĩ , a- par =pera nẽ teʔ nẽ teʔ .
+# text = aa , ã neʔa akaki ʔĩ , apar pera nẽteʔ nẽteʔ .
+# text_en = Um the mother, only her tail moves around.
+# text_phrase-gls-es = sólo la cola de la mamá va y viene
+# text_phrase-gls-pro = || ʔaːːʔa, (0.3s) || ʔàˈneʔàˈkākīʔi, (1.4s) || àpàɾˈpèɾɘ̄ ˈnɛ̀ʔtɛ̀ʔ ˈnɛ̀ʔtɛ̀ʔ, ||
+# text_phrase-gls-it = àˈní àˈkākī àpàɾˈpèɾɘ̄ ˈnɛ̀tè ˈnɛ̀pɛ̀
+# text_phrase-gls-wg = INTERJ DEM.DIST HES mother:3 =FOC tail:3 only go+come(BARE) go+come(BARE)
+# text_phrase-gls-de = Sucia_025b_VG
+1	ah	ah	INTJ	_	_	6	discourse	_	AlignBegin=132618|AlignEnd=133063|GE=[INTERJ]|Gloss=INTERJ|nWord=1|RX=[INTERJ]|TokenType=Root
+2	,		PUNCT	_	_	1	punct	_	AlignBegin=133063|AlignEnd=133508|nWord=2
+3	ã	ã	PRON	_	_	4	comp:obj	_	AlignBegin=133508|AlignEnd=133953|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=3|RX=[PRO]|TokenType=Root
+4	neʔa	neʔa	PART	_	_	6	conj:dicto	_	AlignBegin=133953|AlignEnd=134398|GE=[HES]|Gloss=HES|nWord=4|RX=[PRT]|TokenType=Root
+5	a-		PRON	_	_	6	udep:poss/m	_	AlignBegin=134398|AlignEnd=134620|GE=[POSS3SG]|Gloss=POSS3SG-|nWord=5|RX=[N:ANY]|TokenType=Root
+6	kaki	kaki	NOUN	_	_	10	udep:poss	_	AlignBegin=134620|AlignEnd=134843|GE=mother|Gloss=mother|nWord=5|RX=[N]|TokenType=Root
+7	=ʔĩ		PART	_	_	6	mod	_	AlignBegin=134843|AlignEnd=135288|GE=[FOC]|Gloss==FOC|nWord=6|RX=[PRT]|TokenType=Clit
+8	,		PUNCT	_	_	7	punct	_	AlignBegin=135288|AlignEnd=135733|nWord=7
+9	a-		PRON	_	_	10	udep:poss/m	_	AlignBegin=135733|AlignEnd=135955|GE=[POSS3SG]|Gloss=POSS3SG-|nWord=8|RX=[N:ANY]|TokenType=Root
+10	par	par	NOUN	_	_	13	subj	_	AlignBegin=135955|AlignEnd=136178|GE=tail|Gloss=tail|nWord=8|RX=[N]|TokenType=Root
+11	=pera		PART	_	_	10	mod	_	AlignBegin=136178|AlignEnd=136623|GE=only|Gloss==only|nWord=9|RX=[PRT]|TokenType=Clit
+12	nẽ	nẽ	VERB	_	_	13	compound:svc	_	AlignBegin=136623|AlignEnd=136845|GE=go|Gloss=go|nWord=10|RX=[VI]|TokenType=Root
+13	teʔ	teʔ	VERB	_	_	0	root	_	AlignBegin=136845|AlignEnd=137068|GE=come|Gloss=come|nWord=10|RX=[VI]|TokenType=Root
+14	nẽ	nẽ	VERB	_	_	15	compound:svc	_	AlignBegin=137068|AlignEnd=137290|GE=go|Gloss=go|nWord=11|RX=[VI]|TokenType=Root
+15	teʔ	teʔ	VERB	_	_	13	mod	_	AlignBegin=137290|AlignEnd=137513|GE=come|Gloss=come|nWord=11|RX=[VI]|TokenType=Root
+16	.		PUNCT	_	_	13	punct	_	AlignBegin=137513|AlignEnd=137958|Gloss=.|nWord=12
+
+# sent_id = 085_35-35
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 137965, 139179
+# morphemic_text = ye uria =ma Ø- ʃa -u -pi =hã .
+# text = ye uria ma ʃomi hã .
+# text_en = "You will see a group of small (fish).
+# text_phrase-gls-es = “verás un grupo de crías de peces
+# text_phrase-gls-pro = || jéʔuˈɾjámà ˈʃóʔmìháʔ. (0.7s) ||
+# text_phrase-gls-it = ʝéʷˈɾʷámà ˈʃóʔmìhá
+# text_phrase-gls-wg = small COLL TOP_OV see:FUT:2>3 FOC
+# text_phrase-gls-de = Sucia_026_VG
+1	ye	ye	NOUN	_	_	3	comp:obj	_	AlignBegin=137965|AlignEnd=138167|GE=small|Gloss=small|nWord=1|RX=[N]|TokenType=Root
+2	uria	uria	PART	_	_	1	mod	_	AlignBegin=138167|AlignEnd=138369|GE=various|Gloss=various|nWord=2|RX=[<NOT_SURE>]|TokenType=Root
+3	=ma		PART	_	_	5	comp:obj	_	AlignBegin=138369|AlignEnd=138571|GE=[TOP]|Gloss==TOP|nWord=3|RX=[PRT]|TokenType=Clit
+4	Ø-		PRON	_	_	5	comp:obj/m	_	AlignBegin=138571|AlignEnd=138621|GE=[O3SG]|Gloss=O3SG-|nWord=4|RX=[VT:ANY]|TokenType=Root
+5	ʃa	ʃa	VERB	_	_	7	comp:aux/m	_	AlignBegin=138621|AlignEnd=138671|GE=see|Gloss=see|nWord=4|RX=[VT]|TokenType=Root
+6	-u		PRON	_	_	7	subj/m	_	AlignBegin=138671|AlignEnd=138721|GE=[S2]|Gloss=-S2|nWord=4|RX=[V:ANY]|TokenType=InflAff
+7	-pi		AUX	_	_	0	root	_	AlignBegin=138721|AlignEnd=138773|GE=[FUT]|Gloss=-FUT|nWord=4|RX=[V:ANY]|TokenType=InflAff
+8	=hã		PART	_	_	7	mod	_	AlignBegin=138773|AlignEnd=138975|GE=[FOC]|Gloss==FOC|nWord=5|RX=[PRT]|TokenType=Clit
+9	.		PUNCT	_	_	7	punct	_	AlignBegin=138975|AlignEnd=139179|Gloss=.|nWord=6
+
+# sent_id = 085_36-36
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 139910, 141813
+# morphemic_text = Ø- pa a- r- ka peʃ Ø- pe a- r- ka peʃ sa aʔa =yã .
+# text = parkapeʃ perkapeʃ sa aʔa yã .
+# text_en = They come and go on top of the rocks.
+# text_phrase-gls-es = que se llevaban y traian sobre las piedras”
+# text_phrase-gls-pro = || ˈpàɾkàpèʃ ˈpɛ̀ɾkàpèʃ ˈʃāʔáɲáʔ. (1.1s) (( AM; || ʔmʔm (0.8s) || )) ||
+# text_phrase-gls-it = ˈpàɾkàpèʃ ˈpɛ̀ɾkàpèʃ ˈʃāʔáɲá
+# text_phrase-gls-wg = take+make+take.off:APPL:(PFV:3PL)>3 bring+make+take.off:APPL:(PFV:3PL)>3 rock top LOC
+1	Ø-		PRON	_	_	2	comp:obj/m	_	AlignBegin=139910|AlignEnd=139963|GE=[O3SG]|Gloss=O3SG-|nWord=1|RX=[VT:ANY]|TokenType=Root
+2	pa	pa	VERB	_	_	4	compound	_	AlignBegin=139963|AlignEnd=140016|GE=take|Gloss=take|nWord=1|RX=[VT]|TokenType=Root
+3	a-		PRON	_	_	4	comp:obj@appl/m	_	AlignBegin=140016|AlignEnd=140069|GE=[O3SG]|Gloss=O3SG-|nWord=1|RX=[VT:ANY]|TokenType=Root
+4	r-		AUX	_	Voice=Appl	6	compound:svc	_	AlignBegin=140069|AlignEnd=140122|GE=[APPL].[P]|Gloss=APPL.P-|nWord=1|RX=[V:ANY]|TokenType=DerAff
+5	ka	ka	VERB	_	_	4	comp:aux/m	_	AlignBegin=140122|AlignEnd=140175|GE=make|Gloss=make|nWord=1|RX=[VT]|TokenType=Root
+6	peʃ	peʃ	VERB	_	_	0	root	_	AlignBegin=140175|AlignEnd=140227|GE=take.off|Gloss=take.off|nWord=1|RX=[V]|TokenType=Root
+7	Ø-		PRON	_	_	8	comp:obj/m	_	AlignBegin=140227|AlignEnd=140280|GE=[O3SG]|Gloss=O3SG-|nWord=2|RX=[VT:ANY]|TokenType=Root
+8	pe	pe	VERB	_	_	10	compound	_	AlignBegin=140280|AlignEnd=140333|GE=bring|Gloss=bring|nWord=2|RX=[VT]|TokenType=Root
+9	a-		PRON	_	_	10	comp:obj@appl/m	_	AlignBegin=140333|AlignEnd=140386|GE=[O3SG]|Gloss=O3SG-|nWord=2|RX=[VT:ANY]|TokenType=Root
+10	r-		AUX	_	Voice=Appl	12	compound:svc	_	AlignBegin=140386|AlignEnd=140439|GE=[APPL].[P]|Gloss=APPL.P-|nWord=2|RX=[V:ANY]|TokenType=DerAff
+11	ka	ka	VERB	_	_	10	comp:aux/m	_	AlignBegin=140439|AlignEnd=140492|GE=make|Gloss=make|nWord=2|RX=[VT]|TokenType=Root
+12	peʃ	peʃ	VERB	_	_	6	conj:coord	_	AlignBegin=140492|AlignEnd=140544|GE=take.off|Gloss=take.off|nWord=2|RX=[V]|TokenType=Root
+13	sa	sa	NOUN	_	_	14	udep:poss	_	AlignBegin=140544|AlignEnd=140861|GE=rock|Gloss=rock|nWord=3|RX=[N]|TokenType=Root
+14	aʔa	aʔa	NOUN	_	_	15	comp:obj	_	AlignBegin=140861|AlignEnd=141178|GE=top|Gloss=top|nWord=4|RX=[N]|TokenType=Root
+15	=yã		ADP	_	_	12	mod:lmod	_	AlignBegin=141178|AlignEnd=141495|GE=[LOC]|Gloss==LOC|nWord=5|RX=[POST]|TokenType=Clit
+16	.		PUNCT	_	_	6	punct	_	AlignBegin=141495|AlignEnd=141813|Gloss=.|nWord=6
+
+# sent_id = 085_37-37
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 143944, 146062
+# morphemic_text = tVk Ø- -er -t -i , pẽʔh kãra Ø- pak -er -i .
+# text = tikilerti , pẽʔh kãra pakri .
+# text_en = "They took long sticks", they told him.
+# text_phrase-gls-es = “llevaban vara(s) larga(s)”, les dijeron,
+# text_phrase-gls-pro = || ˈtíkileɾtĩ́ʔ, (0.4s) || pẽ̀n ˈkã̀ɾã̀ ˈpàɣɾī. (0.1s) ||
+# text_phrase-gls-it = ˈtíkēleʔtĩ́ pẽ̀ʲ ˈkã̀ɾã̀ ˈpàɣɾī
+# text_phrase-gls-wg = say:DUR:PST:3PL>3 wood long take:PST:3PL>3
+# text_phrase-gls-de = Sucia_027_VG
+1	tVk	tV	VERB	_	_	4	comp:aux/m	_	AlignBegin=143944|AlignEnd=144015|GE=say|Gloss=say|nWord=1|RX=[VT]|TokenType=Root
+2	-Ø	Ø-	PRON	_	_	1	comp:obj/m	_	AlignBegin=144015|AlignEnd=144086|GE=[O3SG]|Gloss=O3SG-|nWord=1|RX=[VT:ANY]|TokenType=InflAff|wordform=Ø-
+3	-er		PRON	_	_	4	subj/m	_	AlignBegin=144086|AlignEnd=144157|GE=[S3PL]|Gloss=-S3PL|nWord=1|RX=[V:ANY]|TokenType=InflAff
+4	-t		AUX	_	_	5	comp:aux/m	_	AlignBegin=144157|AlignEnd=144228|GE=[DUR]|Gloss=-DUR|nWord=1|RX=[N>???]|TokenType=InflAff
+5	-i		AUX	_	_	0	root	_	AlignBegin=144228|AlignEnd=144297|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]|TokenType=InflAff
+6	,		PUNCT	_	_	5	punct	_	AlignBegin=144297|AlignEnd=144650|nWord=2
+7	pẽʔh	pẽʔh	NOUN	_	_	10	comp:obj	_	AlignBegin=144650|AlignEnd=145003|GE=wood|Gloss=wood|nWord=3|RX=[N]|TokenType=Root
+8	kãra	kãra	NOUN	_	_	7	mod	_	AlignBegin=145003|AlignEnd=145356|GE=long|Gloss=long|nWord=4|RX=[N]|TokenType=Root
+9	Ø-		PRON	_	_	10	comp:obj/m	_	AlignBegin=145356|AlignEnd=145444|GE=[O3SG]|Gloss=O3SG-|nWord=5|RX=[VT:ANY]|TokenType=Root
+10	pak	pak	VERB	_	_	12	comp:aux/m	_	AlignBegin=145444|AlignEnd=145532|GE=take|Gloss=take|nWord=5|RX=[VT]|TokenType=Root
+11	-er		PRON	_	_	12	subj/m	_	AlignBegin=145532|AlignEnd=145620|GE=[S3PL]|Gloss=-S3PL|nWord=5|RX=[V:ANY]|TokenType=InflAff
+12	-i		AUX	_	_	1	udep	_	AlignBegin=145620|AlignEnd=145709|GE=[PST]|Gloss=-PST|nWord=5|RX=[V:ANY]|TokenType=InflAff
+13	.		PUNCT	_	_	5	punct	_	AlignBegin=145709|AlignEnd=146062|Gloss=.|nWord=6
+
+# sent_id = 085_38-38
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 146158, 150648
+# morphemic_text = pa ẽnã , to tuʔwo a- kaki tapeh ẽnã Ø- pork -u -h rũ .
+# text = pa ẽnã , to tuʔwo akaki tapeh ẽnã porkuh rũ .
+# text_en = "Be careful, spear well the ### swiming mother.
+# text_phrase-gls-es = “cuidado no claves a la mamá donde se cuelga (esté)”
+# text_phrase-gls-pro = || ˈpàʔēnáʔ, (1.4s) || tuʔwɔ, (0.3s) || ʔàˈqakī tàˈpèēná ˈpóɾkúˈɾū. ||
+# text_phrase-gls-it = ˈpàēnáʔ tò àˈkɔ̄kī tàˈpèēná ˈpóɾkúɾū
+# text_phrase-gls-wg = PRO2 well DEM.MED mother:3 swim(BARE) well sink.in:PX.FUT:2>3
+# text_phrase-gls-de = Sucia_028_VG
+1	pa	pa	PRON	_	_	11	subj	_	AlignBegin=146158|AlignEnd=146566|GE=[PRO2]|Gloss=PRO2|nWord=1|RX=[PRO]|TokenType=Root
+2	ẽnã	ẽnã	NOUN	_	_	1	conj:dicto	_	AlignBegin=146566|AlignEnd=146974|GE=well|Gloss=well|nWord=2|RX=[N]|TokenType=Root
+3	,		PUNCT	_	_	2	punct	_	AlignBegin=146974|AlignEnd=147382|nWord=3
+4	to	to	PRON	_	_	5	conj:dicto	_	AlignBegin=147382|AlignEnd=147790|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=4|RX=[PRO]|TokenType=Root
+5	tuʔwo	tuʔwo	X	_	_	7	conj:dicto	_	AlignBegin=147790|AlignEnd=148198|nWord=5
+6	a-		PRON	_	_	7	udep:poss/m	_	AlignBegin=148198|AlignEnd=148402|GE=[POSS3SG]|Gloss=POSS3SG-|nWord=6|RX=[N:ANY]|TokenType=Root
+7	kaki	kaki	NOUN	_	_	11	comp:obj	_	AlignBegin=148402|AlignEnd=148606|GE=mother|Gloss=mother|nWord=6|RX=[N]|TokenType=Root
+8	tapeh	tapeh	VERB	_	_	7	mod	_	AlignBegin=148606|AlignEnd=149014|GE=swim|Gloss=swim|nWord=7|RX=[VI]|TokenType=Root
+9	ẽnã	ẽnã	NOUN	_	_	11	mod	_	AlignBegin=149014|AlignEnd=149422|GE=well|Gloss=well|nWord=8|RX=[N]|TokenType=Root
+10	Ø-		PRON	_	_	11	comp:obj/m	_	AlignBegin=149422|AlignEnd=149524|GE=[O3SG]|Gloss=O3SG-|nWord=9|RX=[VT:ANY]|TokenType=Root
+11	pork	pork	VERB	_	_	13	comp:aux/m	_	AlignBegin=149524|AlignEnd=149626|GE=sink.in|Gloss=sink.in|nWord=9|RX=[VT]|TokenType=Root
+12	-u		PRON	_	_	13	subj/m	_	AlignBegin=149626|AlignEnd=149728|GE=[S2]|Gloss=-S2|nWord=9|RX=[V:ANY]|TokenType=InflAff
+13	-h		AUX	_	_	0	root	_	AlignBegin=149728|AlignEnd=149830|GE=[PROX].[FUT]|Gloss=-PROX.FUT|nWord=9|RX=[V:ANY]|TokenType=InflAff
+14	rũ	rũ	PART	_	_	13	udep	_	AlignBegin=149830|AlignEnd=150238|nWord=10
+15	.		PUNCT	_	_	13	punct	_	AlignBegin=150238|AlignEnd=150648|Gloss=.|nWord=11
+
+# sent_id = 085_39-39
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 150689, 151785
+# morphemic_text = a- ye =ra Ø- por -par -wa .
+# text = aye ra porpara .
+# text_en = "We are spearing the small ones.
+# text_phrase-gls-es = “sólo a los pequeños clavaré”
+# text_phrase-gls-pro = || àˈʝēɾē ˈpôɾpəɾá, (0.9s) ||
+# text_phrase-gls-it = àˈʝēɾɘ̄ ˈpôɾpáɾá
+# text_phrase-gls-wg = small:3 ABS sink.in:PFV:INCL>3
+# text_phrase-gls-de = Sucia_029_VG
+1	a-		PRON	_	_	2	udep:poss/m	_	AlignBegin=150689|AlignEnd=150826|GE=[POSS3SG]|Gloss=POSS3SG-|nWord=1|RX=[N:ANY]|TokenType=Root
+2	ye	ye	NOUN	_	_	3	comp:obj	_	AlignBegin=150826|AlignEnd=150963|GE=small|Gloss=small|nWord=1|RX=[N]|TokenType=Root
+3	=ra		ADP	_	Case=Abs	5	comp:obj	_	AlignBegin=150963|AlignEnd=151237|GE=[ABS]|Gloss==ABS|nWord=2|RX=[PRT]|TokenType=Clit
+4	Ø-		PRON	_	_	5	comp:obj/m	_	AlignBegin=151237|AlignEnd=151305|GE=[O3SG]|Gloss=O3SG-|nWord=3|RX=[VT:ANY]|TokenType=Root
+5	por	por	VERB	_	_	7	comp:aux/m	_	AlignBegin=151305|AlignEnd=151373|GE=sink.in|Gloss=sink.in|nWord=3|RX=[VT]|TokenType=Root
+6	-par		PRON	_	Clusivity=In	7	subj/m	_	AlignBegin=151373|AlignEnd=151441|GE=[S1PL].[INCL]|Gloss=-S1PL.INCL|nWord=3|RX=[V:ANY]|TokenType=InflAff
+7	-wa		AUX	_	_	0	root	_	AlignBegin=151441|AlignEnd=151511|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff
+8	.		PUNCT	_	_	7	punct	_	AlignBegin=151511|AlignEnd=151785|Gloss=.|nWord=4
+
+# sent_id = 085_40-40
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 152676, 156890
+# morphemic_text = hõʔ , tas =ma to a- kaki =ra Ø- pork -pa , Ø- pak -Ø -i tek -Ø -i .
+# text = hõʔ , tas ma to akaki ri porkpa , paki teki .
+# text_en = "Yes, I will spear the mother." (AM laughs) He ### (AM laughs and agrees, then VG laughs).
+# text_phrase-gls-es = “no, yo sólo a la madre clavaré y me llevaré” les dijo
+# text_phrase-gls-pro = || hɔ̃́ʔ!. (0.2s) || ˈtáʔmà tòˈqɑkíɾī pôɾk pà. (( AM; || @@ @@@ || )) || ˈpáʔ kíteˈkíʔi. (0.2s) (( AM; || @@ || ʔɔʔɔʔ || )) || @@@. (0.9s) ||
+# text_phrase-gls-it = hɔ̃́ʔ ˈtáʰmà tòàˈkɔ́kíɾī pôɾk pàˈpáʔ tíˈkɘ̄tíʔ
+# text_phrase-gls-wg = yes PRO1 TOP_AoV DEM.MED mother:3 =ABS sink.in:FUT:1>3 take:PST:3>3 come:PST:3
+# text_phrase-gls-de = Sucia_030_VG
+1	hõʔ	hõʔ	INTJ	_	_	11	discourse	_	AlignBegin=152676|AlignEnd=153027|GE=yes|Gloss=yes|nWord=1|RX=[INTERJ]|TokenType=Root
+2	,		PUNCT	_	_	1	punct	_	AlignBegin=153027|AlignEnd=153378|nWord=2
+3	tas	tas	PRON	_	_	4	comp:obj	_	AlignBegin=153378|AlignEnd=153729|GE=[PRO1]|Gloss=PRO1|nWord=3|RX=[PRO]|TokenType=Root
+4	=ma		PART	_	_	11	subj	_	AlignBegin=153729|AlignEnd=154080|GE=[TOP]|Gloss==TOP|nWord=4|RX=[PRT]|TokenType=Clit
+5	to	to	PRON	_	_	7	det	_	AlignBegin=154080|AlignEnd=154431|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=5|RX=[PRO]|TokenType=Root
+6	a-		PRON	_	_	7	udep:poss/m	_	AlignBegin=154431|AlignEnd=154607|GE=[POSS3SG]|Gloss=POSS3SG-|nWord=6|RX=[N:ANY]|TokenType=Root
+7	kaki	kaki	NOUN	_	_	8	comp:obj	_	AlignBegin=154607|AlignEnd=154782|GE=mother|Gloss=mother|nWord=6|RX=[N]|TokenType=Root
+8	=ra		ADP	_	Case=Abs	10	comp:obj	_	AlignBegin=154782|AlignEnd=155133|GE=[ABS]|Gloss==ABS|nWord=7|RX=[PRT]|TokenType=Clit
+9	Ø-		PRON	_	_	10	comp:obj/m	_	AlignBegin=155133|AlignEnd=155250|GE=[O3SG]|Gloss=O3SG-|nWord=8|RX=[VT:ANY]|TokenType=Root
+10	pork	pork	VERB	_	_	11	comp:aux/m	_	AlignBegin=155250|AlignEnd=155367|GE=sink.in|Gloss=sink.in|nWord=8|RX=[VT]|TokenType=Root
+11	-pa		AUX	_	Person=1	0	root	_	AlignBegin=155367|AlignEnd=155484|GE=[S1SG:FUT]|Gloss=-S1SG:FUT|nWord=8|RX=[V:ANY]|TokenType=InflAff
+12	,		PUNCT	_	_	11	punct	_	AlignBegin=155484|AlignEnd=155835|nWord=9
+13	Ø-		PRON	_	_	14	comp:obj/m	_	AlignBegin=155835|AlignEnd=155923|GE=[O3SG]|Gloss=O3SG-|nWord=10|RX=[VT:ANY]|TokenType=Root
+14	pak	pak	VERB	_	_	16	comp:aux/m	_	AlignBegin=155923|AlignEnd=156011|GE=take|Gloss=take|nWord=10|RX=[VT]|TokenType=Root
+15	-Ø		PRON	_	_	16	subj/m	_	AlignBegin=156011|AlignEnd=156099|GE=[S3SG]|Gloss=-S3SG|nWord=10|RX=[V:ANY]|TokenType=InflAff
+16	-i		AUX	_	_	19	compound:svc	_	AlignBegin=156099|AlignEnd=156186|GE=[PST]|Gloss=-PST|nWord=10|RX=[V:ANY]|TokenType=InflAff
+17	tek	tek	VERB	_	_	19	comp:aux/m	_	AlignBegin=156186|AlignEnd=156303|GE=come|Gloss=come|nWord=11|RX=[VI]|TokenType=Root
+18	-Ø		PRON	_	_	19	subj/m	_	AlignBegin=156303|AlignEnd=156420|GE=[S3SG]|Gloss=-S3SG|nWord=11|RX=[V:ANY]|TokenType=InflAff
+19	-i		AUX	_	_	11	udep	_	AlignBegin=156420|AlignEnd=156537|GE=[PST]|Gloss=-PST|nWord=11|RX=[V:ANY]|TokenType=InflAff
+20	.		PUNCT	_	_	11	punct	_	AlignBegin=156537|AlignEnd=156890|Gloss=.|nWord=12
+
+# sent_id = 085_41-41
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 157758, 159710
+# morphemic_text = ĩ =kan =riʃ -ka Ø- pork -u -pi =r -ya =sa , ta- arki .
+# text = ĩk riʃka porkupi rya sa , taarki .
+# text_en = "How come you want to spear (FOC) her, my brother?"
+# text_phrase-gls-es = “por qué dices que quieres clavar hermano mío,
+# text_phrase-gls-pro = || ĩ̀ˈkìʃka ˈpɔ̄ɾkù píˈɾjēsã̀!. (0.1s) || ˈtàʔaɾkì. (0.7s) ||
+# text_phrase-gls-it = ĩ̀ˈkìʃkɘ̀ ˈpɔ̄ɾkù píˈɾʲēsã̀ ˈtàʰɾkì
+# text_phrase-gls-wg = DEM.PROX=SIM_and =REAS+make sink.in:FUT:2>3 COP:PFV:2 C.Q brother:1
+# text_phrase-gls-de = Sucia_032_VG
+1	ĩ	ĩ	PRON	_	_	2	comp:obj	_	AlignBegin=157758|AlignEnd=157880|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=1|RX=[PRO]|TokenType=Root
+2	=kan		PART	_	_	3	comp:obj	_	AlignBegin=157880|AlignEnd=158002|GE=[SIM]|Gloss==SIM|nWord=1|RX=[PRT]|TokenType=Clit
+3	=riʃ		PART	_	_	6	mod	_	AlignBegin=158002|AlignEnd=158124|GE=[REAS]|Gloss==REAS|nWord=2|RX=[PRT]|TokenType=Clit
+4	-ka		PART	_	_	3	mod	_	AlignBegin=158124|AlignEnd=158246|GE=[make].[S1:2]|Gloss=make.S1:2|nWord=2|RX=[PRT:ANY]|TokenType=InflAff
+5	Ø-		PRON	_	_	6	comp:obj/m	_	AlignBegin=158246|AlignEnd=158307|GE=[O3SG]|Gloss=O3SG-|nWord=3|RX=[VT:ANY]|TokenType=Root
+6	pork	pork	VERB	_	_	8	comp:aux/m	_	AlignBegin=158307|AlignEnd=158368|GE=sink.in|Gloss=sink.in|nWord=3|RX=[VT]|TokenType=Root
+7	-u		PRON	_	_	8	subj/m	_	AlignBegin=158368|AlignEnd=158429|GE=[S2]|Gloss=-S2|nWord=3|RX=[V:ANY]|TokenType=InflAff
+8	-pi		AUX	_	_	0	root	_	AlignBegin=158429|AlignEnd=158490|GE=[FUT]|Gloss=-FUT|nWord=3|RX=[V:ANY]|TokenType=InflAff
+9	=r		AUX	_	_	10	comp:aux/m	_	AlignBegin=158490|AlignEnd=158612|GE=[COP]|Gloss==COP|nWord=4|RX=[COP]|TokenType=Clit
+10	-ya		AUX	_	Person=2	8	discourse	_	AlignBegin=158612|AlignEnd=158734|GE=[S2:PFV]|Gloss=-S2:PFV|nWord=4|RX=[V:ANY]|TokenType=InflAff
+11	=sa		PART	_	_	3	mod	_	AlignBegin=158734|AlignEnd=158978|GE=[C].[Q]|Gloss==C.Q|nWord=5|RX=[PRT]|TokenType=Clit
+12	,		PUNCT	_	_	11	punct	_	AlignBegin=158978|AlignEnd=159222|nWord=6
+13	ta-		PRON	_	_	14	udep:poss/m	_	AlignBegin=159222|AlignEnd=159344|GE=[POSS1]|Gloss=POSS1-|nWord=7|RX=[N:ANY]|TokenType=Root
+14	arki	arki	NOUN	_	_	6	vocative	_	AlignBegin=159344|AlignEnd=159466|GE=brother|Gloss=brother|nWord=7|RX=[N]|TokenType=Root
+15	.		PUNCT	_	_	8	punct	_	AlignBegin=159466|AlignEnd=159710|Gloss=.|nWord=8
+
+# sent_id = 085_42-42
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 160365, 162185
+# morphemic_text = pa =ma loco =r -ya , tVk Ø- -Ø -tW -i .
+# text = pa ma loko rya , tikiti .
+# text_en = "You, you are crazy," he said.
+# text_phrase-gls-es = tú estás loco”, le dijo
+# text_phrase-gls-pro = || *ˈpámà ˈlokoɾjáʔ. (0.1s) || ˈtíkɘ̄tíʔ. (( AM; || ʔmʔm (0.1s) || )) ||
+# text_phrase-gls-it = ˈpámà ˈlokiɾʲáʔ ˈtíkɘ̄tíʔ
+# text_phrase-gls-wg = PRO2 TOP_SpC crazy.ESP COP:PFV:2 say:NEG:PST:3>3
+# text_phrase-gls-de = Sucia_032b_VG
+1	pa	pa	PRON	_	_	2	comp:obj	_	AlignBegin=160365|AlignEnd=160625|GE=[PRO2]|Gloss=PRO2|nWord=1|RX=[PRO]|TokenType=Root
+2	=ma		PART	_	_	4	subj	_	AlignBegin=160625|AlignEnd=160885|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit
+3	loco	loco	NOUN	_	_	4	comp:pred	_	AlignBegin=160885|AlignEnd=161145|GE=[SPA_crazy]|Gloss=SPA_crazy|nWord=3|RX=[N]|TokenType=Root
+4	=r		AUX	_	_	5	comp:aux/m	_	AlignBegin=161145|AlignEnd=161275|GE=[COP]|Gloss==COP|nWord=4|RX=[COP]|TokenType=Clit
+5	-ya		AUX	_	Person=2	7	udep	_	AlignBegin=161275|AlignEnd=161405|GE=[S2:PFV]|Gloss=-S2:PFV|nWord=4|RX=[V:ANY]|TokenType=InflAff
+6	,		PUNCT	_	_	5	punct	_	AlignBegin=161405|AlignEnd=161665|nWord=5
+7	tVk	tV	VERB	_	_	10	comp:aux/m	_	AlignBegin=161665|AlignEnd=161717|GE=say|Gloss=say|nWord=6|RX=[VT]|TokenType=Root
+8	-Ø	Ø-	PRON	_	_	7	comp:obj/m	_	AlignBegin=161717|AlignEnd=161769|GE=[O3SG]|Gloss=O3SG-|nWord=6|RX=[VT:ANY]|TokenType=InflAff|wordform=Ø-
+9	-Ø		PRON	_	_	10	subj/m	_	AlignBegin=161769|AlignEnd=161821|GE=[S3SG]|Gloss=-S3SG|nWord=6|RX=[V:ANY]|TokenType=InflAff
+10	-tV		AUX	_	_	11	comp:aux/m	_	AlignBegin=161821|AlignEnd=161873|GE=[NEG]|Gloss=-NEG|nWord=6|RX=[V:ANY]|TokenType=InflAff|wordform=-tW
+11	-i		AUX	_	_	0	root	_	AlignBegin=161873|AlignEnd=161925|GE=[PST]|Gloss=-PST|nWord=6|RX=[V:ANY]|TokenType=InflAff
+12	.		PUNCT	_	_	11	punct	_	AlignBegin=161925|AlignEnd=162185|Gloss=.|nWord=7
+
+# sent_id = 085_43-43
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 162323, 163317
+# morphemic_text = pa =ma loco =r -ya .
+# text = pa ma loko rya .
+# text_en = "You, you are crazy."
+# text_phrase-gls-pro = || ˈpámà ˈlokoɾjáʔ. (0.4s) ||
+# text_phrase-gls-wg = PRO2 TOP_SpC crazy.ESP COP:PFV:2
+# text_phrase-gls-de = Sucia_032c_VG
+1	pa	pa	PRON	_	_	2	comp:obj	_	AlignBegin=162323|AlignEnd=162522|GE=[PRO2]|Gloss=PRO2|nWord=1|RX=[PRO]|TokenType=Root
+2	=ma		PART	_	_	4	subj	_	AlignBegin=162522|AlignEnd=162721|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit
+3	loco	loco	NOUN	_	_	4	comp:pred	_	AlignBegin=162721|AlignEnd=162920|GE=[SPA_crazy]|Gloss=SPA_crazy|nWord=3|RX=[N]|TokenType=Root
+4	=r		AUX	_	_	5	comp:aux/m	_	AlignBegin=162920|AlignEnd=163020|GE=[COP]|Gloss==COP|nWord=4|RX=[COP]|TokenType=Clit
+5	-ya		AUX	_	Person=2	0	root	_	AlignBegin=163020|AlignEnd=163119|GE=[S2:PFV]|Gloss=-S2:PFV|nWord=4|RX=[V:ANY]|TokenType=InflAff
+6	.		PUNCT	_	_	5	punct	_	AlignBegin=163119|AlignEnd=163317|Gloss=.|nWord=5
+
+# sent_id = 085_44-44
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 163675, 164606
+# morphemic_text = ĩ =riʃ -ka Ø- pork -u -h .
+# text = ĩĩʃka porku .
+# text_en = "Why will you spear her?"
+# text_phrase-gls-es = “por qué la clavarás”
+# text_phrase-gls-pro = || ʔĩ́ʔĩ́ʃkà ˈpɔ̄ɾkù. (0.7s) ||
+# text_phrase-gls-it = ĩ́ɾĩ́ʃkà ˈpɔ̄ɾkù
+# text_phrase-gls-wg = PROX.DEM=REAS:make_that.is.why sink.in:FUT:2>3
+# text_phrase-gls-de = Sucia_033_VG
+1	ĩ	ĩ	PRON	_	_	2	comp:obj	_	AlignBegin=163675|AlignEnd=163778|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=1|RX=[PRO]|TokenType=Root
+2	=riʃ		PART	_	_	5	mod	_	AlignBegin=163778|AlignEnd=163881|GE=[REAS]|Gloss==REAS|nWord=1|RX=[PRT]|TokenType=Clit
+3	-ka		PART	_	_	2	mod	_	AlignBegin=163881|AlignEnd=163985|GE=make|Gloss=make|nWord=1|RX=[PRT:ANY]|TokenType=InflAff
+4	Ø-		PRON	_	_	5	comp:obj/m	_	AlignBegin=163985|AlignEnd=164063|GE=[O3SG]|Gloss=O3SG-|nWord=2|RX=[VT:ANY]|TokenType=Root
+5	pork	pork	VERB	_	_	7	comp:aux/m	_	AlignBegin=164063|AlignEnd=164141|GE=sink.in|Gloss=sink.in|nWord=2|RX=[VT]|TokenType=Root
+6	-u		PRON	_	_	7	subj/m	_	AlignBegin=164141|AlignEnd=164219|GE=[S2]|Gloss=-S2|nWord=2|RX=[V:ANY]|TokenType=InflAff
+7	-h		AUX	_	_	0	root	_	AlignBegin=164219|AlignEnd=164295|GE=[PROX].[FUT]|Gloss=-PROX.FUT|nWord=2|RX=[V:ANY]|TokenType=InflAff
+8	.		PUNCT	_	_	7	punct	_	AlignBegin=164295|AlignEnd=164606|Gloss=.|nWord=3
+
+# sent_id = 085_45-45
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 165344, 169424
+# morphemic_text = ke ukwa =ma Ø- pask -er -i tV Ø- -er -wa a- arki uria =ma .
+# text = ke uko ma paskeri terwa aarki uria ma .
+# text_en = The brothers, they say, had already taken out around ten (fish).
+# text_phrase-gls-es = los hermanos dicen que ya había sacado como diez
+# text_phrase-gls-pro = || kèʔeːʔ, (0.6s) || ˈʔúkɔ̄mà ˈpàskɾíʔ tèɾˈwá. || ʔaʔāɾˈkí ūˈɾjáʔmāʔ. (0.5s) (( AM; || ʔɔʔɔw || )) ||
+# text_phrase-gls-it = kèː ˈúkɔ̄mà ˈpàskīɾíʔ tèɾˈwá āɾˈkí ūˈɾʲáʔmā
+# text_phrase-gls-wg = already ten TOP_OVabs take.out:PST:3PL>3 say:PFV:3PL>3 brother:3 COLL TOP_VA
+# text_phrase-gls-de = Sucia_034_VG
+1	ke	ke	ADV	_	_	5	mod	_	AlignBegin=165344|AlignEnd=165797|GE=already|Gloss=already|nWord=1|RX=[ADV]|TokenType=Root
+2	ukwa	ukwa	NUM	_	_	3	comp:obj	_	AlignBegin=165797|AlignEnd=166250|GE=ten|Gloss=ten|nWord=2|RX=[N]|TokenType=Root
+3	=ma		PART	_	_	5	comp:obj	_	AlignBegin=166250|AlignEnd=166703|GE=[TOP]|Gloss==TOP|nWord=3|RX=[PRT]|TokenType=Clit
+4	Ø-		PRON	_	_	5	comp:obj/m	_	AlignBegin=166703|AlignEnd=166816|GE=[O3SG]|Gloss=O3SG-|nWord=4|RX=[VT:ANY]|TokenType=Root
+5	pask	pask	VERB	_	_	7	comp:aux/m	_	AlignBegin=166816|AlignEnd=166929|GE=take.out|Gloss=take.out|nWord=4|RX=[VT]|TokenType=Root
+6	-er		PRON	_	_	7	subj/m	_	AlignBegin=166929|AlignEnd=167042|GE=[S3PL]|Gloss=-S3PL|nWord=4|RX=[V:ANY]|TokenType=InflAff
+7	-i		AUX	_	_	11	udep	_	AlignBegin=167042|AlignEnd=167156|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]|TokenType=InflAff
+8	tV	tV	VERB	_	_	11	comp:aux/m	_	AlignBegin=167156|AlignEnd=167269|GE=say|Gloss=say|nWord=5|RX=[VT]|TokenType=Root
+9	-Ø	Ø-	PRON	_	_	8	comp:obj/m	_	AlignBegin=167269|AlignEnd=167382|GE=[O3SG]|Gloss=O3SG-|nWord=5|RX=[VT:ANY]|TokenType=InflAff|wordform=Ø-
+10	-er		PRON	_	_	11	subj/m	_	AlignBegin=167382|AlignEnd=167495|GE=[S3PL]|Gloss=-S3PL|nWord=5|RX=[V:ANY]|TokenType=InflAff
+11	-wa		AUX	_	_	0	root	_	AlignBegin=167495|AlignEnd=167609|GE=[PFV]|Gloss=-PFV|nWord=5|RX=[V:ANY]|TokenType=InflAff
+12	a-		PRON	_	_	13	udep:poss/m	_	AlignBegin=167609|AlignEnd=167835|GE=[POSS3SG]|Gloss=POSS3SG-|nWord=6|RX=[N:ANY]|TokenType=Root
+13	arki	arki	NOUN	_	_	15	comp:obj	_	AlignBegin=167835|AlignEnd=168062|GE=brother|Gloss=brother|nWord=6|RX=[N]|TokenType=Root
+14	uria	uria	PART	_	_	13	mod	_	AlignBegin=168062|AlignEnd=168515|GE=various|Gloss=various|nWord=7|RX=[<NOT_SURE>]|TokenType=Root
+15	=ma		PART	_	_	5	dislocated:subj	_	AlignBegin=168515|AlignEnd=168968|GE=[TOP]|Gloss==TOP|nWord=8|RX=[PRT]|TokenType=Clit
+16	.		PUNCT	_	_	11	punct	_	AlignBegin=168968|AlignEnd=169424|Gloss=.|nWord=9
+
+# sent_id = 085_46-46
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 169429, 174876
+# morphemic_text = a- ye =ro , ãma ẽɲ Ø- iʃk -er -Øwa =ʃona ã =ma =ha , Ø- pah -er -Øwa =ma , toʔ ka- pah -er -Øwa =ma .
+# text = aye ro , ãma ẽɲ iʃker ʃono mmaʔa , paher ma , toʔ kapaher ma .
+# text_en = The small ones are tame, you see, that is it, if they touch it, if they touch them.
+# text_phrase-gls-es = no ves que los pequeños son mansos, que el se metió y salió
+# text_phrase-gls-pro = || aˈjéɾóʔ, (1.0s) || ˈðàmàʔi ʔèʃkèɾʃóʔnòʔˈmàʔa. (0.7s) || °paʔemaʔ°. (0.2s) || ˈtōkɘ̀ʔpàhɛ̄màʔ. (0.5s) ||
+# text_phrase-gls-it = ˈʝéɾóʔ ˈàmà èˈɲĩ́ʃkèɾʃóʔnòʷ ˈàmà ˈtōkɘ̀ʔpàɛ̄mà
+# text_phrase-gls-wg = small:3 ABS HES well make:PFV:3PL>3 =HEM DIST.DEM=TOP=FOC_that.is.it move:PFV:3PL>3 =when DEM.MED move:PFV:3PL>3PL =when
+# text_phrase-gls-de = Sucia_035_VG
+1	a-		PRON	_	_	2	udep:poss/m	_	AlignBegin=169429|AlignEnd=169599|GE=[POSS3SG]|Gloss=POSS3SG-|nWord=1|RX=[N:ANY]|TokenType=Root
+2	ye	ye	NOUN	_	_	3	comp:obj	_	AlignBegin=169599|AlignEnd=169769|GE=small|Gloss=small|nWord=1|RX=[N]|TokenType=Root
+3	=ro		ADP	_	Case=Abs	8	comp:obj	_	AlignBegin=169769|AlignEnd=170109|GE=[ABS]|Gloss==ABS|nWord=2|RX=[PRT]|TokenType=Clit
+4	,		PUNCT	_	_	3	punct	_	AlignBegin=170109|AlignEnd=170449|nWord=3
+5	ãma	ãma	PART	_	_	6	discourse	_	AlignBegin=170449|AlignEnd=170789|GE=[HES]|Gloss=HES|nWord=4|RX=[PRT]|TokenType=Root
+6	ẽɲ	ẽɲ	NOUN	_	_	8	comp:pred	_	AlignBegin=170789|AlignEnd=171129|GE=well|Gloss=well|nWord=5|RX=[N]|TokenType=Root
+7	Ø-		PRON	_	_	8	comp:obj/m	_	AlignBegin=171129|AlignEnd=171214|GE=[O3SG]|Gloss=O3SG-|nWord=6|RX=[VT:ANY]|TokenType=Root
+8	iʃk	iʃk	VERB	_	_	10	comp:aux/m	_	AlignBegin=171214|AlignEnd=171299|GE=make|Gloss=make|nWord=6|RX=[VT]|TokenType=Root
+9	-er		PRON	_	_	10	subj/m	_	AlignBegin=171299|AlignEnd=171384|GE=[S3PL]|Gloss=-S3PL|nWord=6|RX=[V:ANY]|TokenType=InflAff
+10	-Øwa		AUX	_	_	0	root	_	AlignBegin=171384|AlignEnd=171469|GE=[PFV]|Gloss=-PFV|nWord=6|RX=[V:ANY]|TokenType=InflAff
+11	=ʃona		PART	_	_	10	discourse	_	AlignBegin=171469|AlignEnd=171809|GE=[HEM]|Gloss==HEM|nWord=7|RX=[PRT]|TokenType=Clit
+12	ã	ã	PRON	_	_	13	comp:obj	_	AlignBegin=171809|AlignEnd=171922|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=8|RX=[PRO]|TokenType=Root
+13	=ma		PART	_	_	10	discourse	_	AlignBegin=171922|AlignEnd=172035|GE=[TOP]|Gloss==TOP|nWord=8|RX=[PRT]|TokenType=Clit
+14	=ha		PART	_	_	13	discourse	_	AlignBegin=172035|AlignEnd=172149|GE=[FOC]|Gloss==FOC|nWord=8|RX=[PRT]|TokenType=Clit
+15	,		PUNCT	_	_	14	punct	_	AlignBegin=172149|AlignEnd=172489|nWord=9
+16	Ø-		PRON	_	_	17	comp:obj/m	_	AlignBegin=172489|AlignEnd=172574|GE=[O3SG]|Gloss=O3SG-|nWord=10|RX=[VT:ANY]|TokenType=Root
+17	pah	pah	VERB	_	_	19	comp:aux/m	_	AlignBegin=172574|AlignEnd=172659|GE=move|Gloss=move|nWord=10|RX=[VT]|TokenType=Root
+18	-er		PRON	_	_	19	subj/m	_	AlignBegin=172659|AlignEnd=172744|GE=[S3PL]|Gloss=-S3PL|nWord=10|RX=[V:ANY]|TokenType=InflAff
+19	-Øwa		AUX	_	_	20	comp:obj	_	AlignBegin=172744|AlignEnd=172829|GE=[PFV]|Gloss=-PFV|nWord=10|RX=[V:ANY]|TokenType=InflAff
+20	=ma		SCONJ	_	_	8	mod	_	AlignBegin=172829|AlignEnd=173169|GE=when|Gloss==when|nWord=11|RX=[PRT]|TokenType=Clit
+21	,		PUNCT	_	_	20	punct	_	AlignBegin=173169|AlignEnd=173509|nWord=12
+22	toʔ	toʔ	PRON	_	_	24	comp:obj	_	AlignBegin=173509|AlignEnd=173849|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=13|RX=[PRO]|TokenType=Root
+23	ka-		PRON	_	_	24	comp:obj/m	_	AlignBegin=173849|AlignEnd=173934|GE=[O3PL]|Gloss=O3PL-|nWord=14|RX=[V:ANY]|TokenType=Root
+24	pah	pah	VERB	_	_	26	comp:aux/m	_	AlignBegin=173934|AlignEnd=174019|GE=move|Gloss=move|nWord=14|RX=[VT]|TokenType=Root
+25	-er		PRON	_	_	26	subj/m	_	AlignBegin=174019|AlignEnd=174104|GE=[S3PL]|Gloss=-S3PL|nWord=14|RX=[V:ANY]|TokenType=InflAff
+26	-Øwa		AUX	_	_	27	comp:obj	_	AlignBegin=174104|AlignEnd=174189|GE=[PFV]|Gloss=-PFV|nWord=14|RX=[V:ANY]|TokenType=InflAff
+27	=ma		SCONJ	_	_	20	mod	_	AlignBegin=174189|AlignEnd=174529|GE=when|Gloss==when|nWord=15|RX=[PRT]|TokenType=Clit
+28	.		PUNCT	_	_	10	punct	_	AlignBegin=174529|AlignEnd=174876|Gloss=.|nWord=16
+
+# sent_id = 085_47-47
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 175358, 179165
+# morphemic_text = ĩ =kan =ras tVk Ø- -er -t -i Ø- por -Ø -pa wa Ø- por -Ø -pa wa .
+# text = ĩ kan ras tikilerti porpa wa porpa wa .
+# text_en = That is why they told him, "I will spear her, we will spear her"
+# text_phrase-gls-es = él les dijo "la clavaré, la clavaré"
+# text_phrase-gls-pro = || tíˈɣàɣàsð, (0.2s) || ˈtīkiletī. (0.6s) || ˈpóɾpáwāʔ!, (0.1s) || ˈpōɾpáwāʔ. (0.7s) ||
+# text_phrase-gls-it = íˈɣàðàs ˈtīkéɾɘ̄ɾtī ˈpóɾpáwāʔ ˈpōɾpáwāʔ
+# text_phrase-gls-wg = DEM.PROX SIM REAS say:DUR:PST:3PL>3 sink.in:FUT:3>3 also sink.in:FUT:3>3 also
+# text_phrase-gls-de = Sucia_036_VG
+1	ĩ	ĩ	PRON	_	_	2	comp:obj	_	AlignBegin=175358|AlignEnd=175781|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=1|RX=[PRO]|TokenType=Root
+2	=kan		PART	_	_	3	comp:obj	_	AlignBegin=175781|AlignEnd=176204|GE=[SIM]|Gloss==SIM|nWord=2|RX=[PRT]|TokenType=Clit
+3	=ras		PART	_	_	4	mod	_	AlignBegin=176204|AlignEnd=176627|GE=[REAS]|Gloss==REAS|nWord=3|RX=[PRT]|TokenType=Clit
+4	tVk	tV	VERB	_	_	7	comp:aux/m	_	AlignBegin=176627|AlignEnd=176712|GE=say|Gloss=say|nWord=4|RX=[VT]|TokenType=Root
+5	-Ø	Ø-	PRON	_	_	4	comp:obj/m	_	AlignBegin=176712|AlignEnd=176797|GE=[O3SG]|Gloss=O3SG-|nWord=4|RX=[VT:ANY]|TokenType=InflAff|wordform=Ø-
+6	-er		PRON	_	_	7	subj/m	_	AlignBegin=176797|AlignEnd=176882|GE=[S3PL]|Gloss=-S3PL|nWord=4|RX=[V:ANY]|TokenType=InflAff
+7	-t		AUX	_	_	8	comp:aux/m	_	AlignBegin=176882|AlignEnd=176967|GE=[DUR]|Gloss=-DUR|nWord=4|RX=[N>???]|TokenType=InflAff
+8	-i		AUX	_	_	0	root	_	AlignBegin=176967|AlignEnd=177050|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]|TokenType=InflAff
+9	Ø-		PRON	_	_	10	comp:obj/m	_	AlignBegin=177050|AlignEnd=177156|GE=[O3SG]|Gloss=O3SG-|nWord=5|RX=[VT:ANY]|TokenType=Root
+10	por	por	VERB	_	_	12	comp:aux/m	_	AlignBegin=177156|AlignEnd=177262|GE=sink.in|Gloss=sink.in|nWord=5|RX=[VT]|TokenType=Root
+11	-Ø		PRON	_	_	12	subj/m	_	AlignBegin=177262|AlignEnd=177368|GE=[S3SG]|Gloss=-S3SG|nWord=5|RX=[V:ANY]|TokenType=InflAff
+12	-pa		AUX	_	_	8	comp	_	AlignBegin=177368|AlignEnd=177473|GE=[FUT]|Gloss=-FUT|nWord=5|RX=[V:ANY]|TokenType=InflAff
+13	wa	wa	ADV	_	_	12	mod	_	AlignBegin=177473|AlignEnd=177896|GE=also|Gloss=also|nWord=6|RX=[ADV]|TokenType=Root
+14	Ø-		PRON	_	_	15	comp:obj/m	_	AlignBegin=177896|AlignEnd=178002|GE=[O3SG]|Gloss=O3SG-|nWord=7|RX=[VT:ANY]|TokenType=Root
+15	por	por	VERB	_	_	17	comp:aux/m	_	AlignBegin=178002|AlignEnd=178108|GE=sink.in|Gloss=sink.in|nWord=7|RX=[VT]|TokenType=Root
+16	-Ø		PRON	_	_	17	subj/m	_	AlignBegin=178108|AlignEnd=178214|GE=[S3SG]|Gloss=-S3SG|nWord=7|RX=[V:ANY]|TokenType=InflAff
+17	-pa		AUX	_	_	12	conj:dicto	_	AlignBegin=178214|AlignEnd=178319|GE=[FUT]|Gloss=-FUT|nWord=7|RX=[V:ANY]|TokenType=InflAff
+18	wa	wa	ADV	_	_	17	mod	_	AlignBegin=178319|AlignEnd=178742|GE=also|Gloss=also|nWord=8|RX=[ADV]|TokenType=Root
+19	.		PUNCT	_	_	8	punct	_	AlignBegin=178742|AlignEnd=179165|Gloss=.|nWord=9
+
+# sent_id = 085_48-48
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 179848, 183151
+# morphemic_text = ### tʃas Ø- ka -i -wa =ma .
+# text = ### tʃas kyu ma .
+# text_en = ### (he imitates throwing a spear with both hands, it sounded:) Chas! when he did it.
+# text_phrase-gls-es = ¡chaz! cuando lo hizo
+# text_phrase-gls-pro = || næʔdæʔsis. (1.2s) || ʧɔ̄ʔɔs!. (0.1s) || ˈkjūʔmàʔ. (1.6s) ||
+# text_phrase-gls-it = ʧɔ̄ʔs ˈkʲūmà
+# text_phrase-gls-wg = IDEO make:PFV:3>3 =when
+# text_phrase-gls-de = Sucia_037_VG
+1	###		X	_	_	4	udep	_	AlignBegin=179848|AlignEnd=180509|nWord=1
+2	tʃas	tʃas	ADV	_	AdvType=Ideoph	4	mod	_	AlignBegin=180509|AlignEnd=181170|GE=[IDEO]|Gloss=IDEO|nWord=2|RX=[IDEO]|TokenType=Root
+3	Ø-		PRON	_	_	4	comp:obj/m	_	AlignBegin=181170|AlignEnd=181335|GE=[O3SG]|Gloss=O3SG-|nWord=3|RX=[VT:ANY]|TokenType=Root
+4	ka	ka	VERB	_	_	6	comp:aux/m	_	AlignBegin=181335|AlignEnd=181500|GE=make|Gloss=make|nWord=3|RX=[VT]|TokenType=Root
+5	-i		PRON	_	_	6	subj/m	_	AlignBegin=181500|AlignEnd=181665|GE=[S3SG]|Gloss=-S3SG|nWord=3|RX=[V:ANY]|TokenType=InflAff
+6	-wa		AUX	_	_	7	comp:obj	_	AlignBegin=181665|AlignEnd=181831|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff
+7	=ma		SCONJ	_	_	0	root	_	AlignBegin=181831|AlignEnd=182492|GE=when|Gloss==when|nWord=4|RX=[PRT]|TokenType=Clit
+8	.		PUNCT	_	_	7	punct	_	AlignBegin=182492|AlignEnd=183151|Gloss=.|nWord=5
+
+# sent_id = 085_49-49
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 184709, 187634
+# morphemic_text = ã Ø- brik -Ø -i tV Ø- -er -wa =hãʔ vara , ã pẽʔh kãra .
+# text = ã briki tera hãʔ bara , ã pẽʔh kãra .
+# text_en = She folded it, they say, the rod, the long stick.
+# text_phrase-gls-es = dicen que lo envolvió con su vara larga
+# text_phrase-gls-pro = || ˈmã̀ːˈβɾíkí ˈtɾàɾa hã̀mˈβāɾà. || ja pɛ̃̀n kàˈɾáʔ. (2.1s) ||
+# text_phrase-gls-it = ˈã̀βɾíkí tēˈɾà ã̀ˈβāɾà pɛ̃̀ kàˈɾáʔ
+# text_phrase-gls-wg = DEM.DIST cover:PST:3>3 say:PFV:3PL>3 =FOC SPA_rod DEM.DIST wood long
+# text_phrase-gls-de = Sucia_038_VG
+1	ã	ã	PRON	_	_	3	comp:obj	_	AlignBegin=184709|AlignEnd=185001|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=1|RX=[PRO]|TokenType=Root
+2	Ø-		PRON	_	_	3	comp:obj/m	_	AlignBegin=185001|AlignEnd=185074|GE=[O3SG]|Gloss=O3SG-|nWord=2|RX=[VT:ANY]|TokenType=Root
+3	brik	brik	VERB	_	_	5	comp:aux/m	_	AlignBegin=185074|AlignEnd=185147|GE=cover|Gloss=cover|nWord=2|RX=[VT]|TokenType=Root
+4	-Ø		PRON	_	_	5	subj/m	_	AlignBegin=185147|AlignEnd=185220|GE=[S3SG]|Gloss=-S3SG|nWord=2|RX=[V:ANY]|TokenType=InflAff
+5	-i		AUX	_	_	9	udep	_	AlignBegin=185220|AlignEnd=185293|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]|TokenType=InflAff
+6	tV	tV	VERB	_	_	9	comp:aux/m	_	AlignBegin=185293|AlignEnd=185366|GE=say|Gloss=say|nWord=3|RX=[VT]|TokenType=Root
+7	-Ø	Ø-	PRON	_	_	6	comp:obj/m	_	AlignBegin=185366|AlignEnd=185439|GE=[O3SG]|Gloss=O3SG-|nWord=3|RX=[VT:ANY]|TokenType=InflAff|wordform=Ø-
+8	-er		PRON	_	_	9	subj/m	_	AlignBegin=185439|AlignEnd=185512|GE=[S3PL]|Gloss=-S3PL|nWord=3|RX=[V:ANY]|TokenType=InflAff
+9	-wa		AUX	_	_	0	root	_	AlignBegin=185512|AlignEnd=185585|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff
+10	=hãʔ		PART	_	_	9	mod	_	AlignBegin=185585|AlignEnd=185877|GE=[FOC]|Gloss==FOC|nWord=4|RX=[PRT]|TokenType=Clit
+11	vara	vara	X	_	_	5	dislocated:obj	_	AlignBegin=185877|AlignEnd=186169|GE=[SPA_rod]|Gloss=SPA_rod|nWord=5|RX=[<NOT_SURE>]|TokenType=Root
+12	,		PUNCT	_	_	11	punct	_	AlignBegin=186169|AlignEnd=186461|nWord=6
+13	ã	ã	PRON	_	_	14	det	_	AlignBegin=186461|AlignEnd=186753|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=7|RX=[PRO]|TokenType=Root
+14	pẽʔh	pẽʔh	NOUN	_	_	11	parataxis	_	AlignBegin=186753|AlignEnd=187045|GE=wood|Gloss=wood|nWord=8|RX=[N]|TokenType=Root
+15	kãra	kãra	NOUN	_	_	14	mod	_	AlignBegin=187045|AlignEnd=187337|GE=long|Gloss=long|nWord=9|RX=[N]|TokenType=Root
+16	.		PUNCT	_	_	9	punct	_	AlignBegin=187337|AlignEnd=187634|Gloss=.|nWord=10
+
+# sent_id = 085_50-50
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 189759, 190949
+# morphemic_text = Ø- pa ta- õʃ -Ø -i tV Ø- -er -wa =pra .
+# text = patõʃi terum pra .
+# text_en = She took him forever they say.
+# text_phrase-gls-es = y se perdió
+# text_phrase-gls-pro = || ˈpɛ́ʔtȭʃí °ˈtɘ̄ɾùmpɾàh°. (0.3s) ||
+# text_phrase-gls-it = ˈpɛ́ʔtȭʃí ˈtɘ̄ɾùmpɾà
+# text_phrase-gls-wg = take+lose:MID:PST:3>3 say:PFV:3PL>3 EMPH
+# text_phrase-gls-de = Sucia_038b_VG
+1	Ø-		PRON	_	_	2	comp:obj/m	_	AlignBegin=189759|AlignEnd=189809|GE=[O3SG]|Gloss=O3SG-|nWord=1|RX=[VT:ANY]|TokenType=Root
+2	pa	pa	VERB	_	_	4	compound:svc	_	AlignBegin=189809|AlignEnd=189859|GE=take|Gloss=take|nWord=1|RX=[VT]|TokenType=Root
+3	ta-		AUX	_	Voice=Mid	4	comp/m	_	AlignBegin=189859|AlignEnd=189909|GE=[MID]|Gloss=MID-|nWord=1|RX=[VT>VI]|TokenType=DerAff
+4	õʃ	õʃ	VERB	_	_	6	comp:aux/m	_	AlignBegin=189909|AlignEnd=189959|GE=lose|Gloss=lose|nWord=1|RX=[VT]|TokenType=Root
+5	-Ø		PRON	_	_	6	subj/m	_	AlignBegin=189959|AlignEnd=190009|GE=[S3SG]|Gloss=-S3SG|nWord=1|RX=[V:ANY]|TokenType=InflAff
+6	-i		AUX	_	_	7	udep	_	AlignBegin=190009|AlignEnd=190057|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]|TokenType=InflAff
+7	tV	tV	VERB	_	_	10	comp:aux/m	_	AlignBegin=190057|AlignEnd=190131|GE=say|Gloss=say|nWord=2|RX=[VT]|TokenType=Root
+8	-Ø	Ø-	PRON	_	_	7	comp:obj/m	_	AlignBegin=190131|AlignEnd=190205|GE=[O3SG]|Gloss=O3SG-|nWord=2|RX=[VT:ANY]|TokenType=InflAff|wordform=Ø-
+9	-er		PRON	_	_	10	subj/m	_	AlignBegin=190205|AlignEnd=190279|GE=[S3PL]|Gloss=-S3PL|nWord=2|RX=[V:ANY]|TokenType=InflAff
+10	-wa		AUX	_	_	0	root	_	AlignBegin=190279|AlignEnd=190355|GE=[PFV]|Gloss=-PFV|nWord=2|RX=[V:ANY]|TokenType=InflAff
+11	=pra		PART	_	_	10	mod	_	AlignBegin=190355|AlignEnd=190653|GE=[EMPH]|Gloss==EMPH|nWord=3|RX=[PRT]|TokenType=Clit
+12	.		PUNCT	_	_	10	punct	_	AlignBegin=190653|AlignEnd=190949|Gloss=.|nWord=4
+
+# sent_id = 085_51-51
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 191276, 192806
+# morphemic_text = vaya Ø- pak -Ø -wa =ʃonwa .
+# text = baya paku ʃonwa .
+# text_en = "Wow, she took him, you see.
+# text_phrase-gls-es = vaya, no ves que se lo llevó,
+# text_phrase-gls-pro = || ˈβaʝa!. (0.3s) || pàkùˈʃónoʔ. (0.7s) ||| ˈpɛ́ʔtȭʃí °ˈtɘ̄ɾùmpɾàh°. (0.3s) ||
+# text_phrase-gls-it = ˈβaʝa pàkùˈʃóʔnʷà
+# text_phrase-gls-wg = SPA_wow take:PFV:3>3 =HEM
+# text_phrase-gls-de = Sucia_039_VG
+1	vaya	vaya	X	_	_	3	discourse	_	AlignBegin=191276|AlignEnd=191658|GE=[SPA_wow]|Gloss=SPA_wow|nWord=1|RX=[<NOT_SURE>]|TokenType=Root
+2	Ø-		PRON	_	_	3	comp:obj/m	_	AlignBegin=191658|AlignEnd=191754|GE=[O3SG]|Gloss=O3SG-|nWord=2|RX=[VT:ANY]|TokenType=Root
+3	pak	pak	VERB	_	_	5	comp:aux/m	_	AlignBegin=191754|AlignEnd=191850|GE=take|Gloss=take|nWord=2|RX=[VT]|TokenType=Root
+4	-Ø		PRON	_	_	5	subj/m	_	AlignBegin=191850|AlignEnd=191946|GE=[S3SG]|Gloss=-S3SG|nWord=2|RX=[V:ANY]|TokenType=InflAff
+5	-wa		AUX	_	_	0	root	_	AlignBegin=191946|AlignEnd=192040|GE=[PFV]|Gloss=-PFV|nWord=2|RX=[V:ANY]|TokenType=InflAff
+6	=ʃonwa		PART	_	_	5	mod	_	AlignBegin=192040|AlignEnd=192422|GE=[HEM]|Gloss==HEM|nWord=3|RX=[PRT]|TokenType=Clit
+7	.		PUNCT	_	_	5	punct	_	AlignBegin=192422|AlignEnd=192806|Gloss=.|nWord=4
+
+# sent_id = 085_52-52
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 193538, 195029
+# morphemic_text = tV ka- -ber -wa Ø- weʃ -Ø -tW -i .
+# text = takabra weʃti .
+# text_en = We told them, he did not listen."
+# text_phrase-gls-es = les dijimos  no escuchó
+# text_phrase-gls-pro = || °ˈtáʔkāβɾà ˈwéʃtì ʔehʔ°. ||
+# text_phrase-gls-it = ˈtáʔkāβɾà ˈwéʃtì
+# text_phrase-gls-wg = say:PFV:EXCL.PL hear:NEG:PST:3>3
+# text_phrase-gls-de = Sucia_039b_VG
+1	tV	tV	VERB	_	_	4	comp:aux/m	_	AlignBegin=193538|AlignEnd=193662|GE=say|Gloss=say|nWord=1|RX=[VT]|TokenType=Root
+2	-ka	ka-	PRON	_	_	1	comp:obj/m	_	AlignBegin=193662|AlignEnd=193786|GE=[O3PL]|Gloss=O3PL-|nWord=1|RX=[V:ANY]|TokenType=InflAff|wordform=ka-
+3	-ber		PRON	_	Clusivity=Ex	4	subj/m	_	AlignBegin=193786|AlignEnd=193910|GE=[S1PL].[EXCL]|Gloss=-S1PL.EXCL|nWord=1|RX=[V:ANY]|TokenType=InflAff
+4	-wa		AUX	_	_	0	root	_	AlignBegin=193910|AlignEnd=194035|GE=[PFV]|Gloss=-PFV|nWord=1|RX=[V:ANY]|TokenType=InflAff
+5	Ø-		PRON	_	_	6	comp:obj/m	_	AlignBegin=194035|AlignEnd=194134|GE=[O3SG]|Gloss=O3SG-|nWord=2|RX=[VT:ANY]|TokenType=Root
+6	weʃ	weʃ	VERB	_	_	8	comp:aux/m	_	AlignBegin=194134|AlignEnd=194233|GE=hear|Gloss=hear|nWord=2|RX=[VT]|TokenType=Root
+7	-Ø		PRON	_	_	8	subj/m	_	AlignBegin=194233|AlignEnd=194332|GE=[S3SG]|Gloss=-S3SG|nWord=2|RX=[V:ANY]|TokenType=InflAff
+8	-tV		AUX	_	_	9	comp:aux/m	_	AlignBegin=194332|AlignEnd=194431|GE=[NEG]|Gloss=-NEG|nWord=2|RX=[V:ANY]|TokenType=InflAff|wordform=-tW
+9	-i		AUX	_	_	4	parataxis	_	AlignBegin=194431|AlignEnd=194532|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]|TokenType=InflAff
+10	.		PUNCT	_	_	4	punct	_	AlignBegin=194532|AlignEnd=195029|Gloss=.|nWord=3
+
+# sent_id = 085_53-53
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 195037, 197137
+# morphemic_text = ta- r- oʔk -Ø -i teʃ teʔk -er -i ke .
+# text = troʔki teʃ teʔkri ke .
+# text_en = He fled and they arrived after a while. (AM laughs)
+# text_phrase-gls-es = huyeron, se fueron y vinieron
+# text_phrase-gls-pro = || ˈtɾóʔki ˈtéʃtèɣɾīke. (( AM; || @@@ (0.1s) || @@ (0.2s) || )) ||
+# text_phrase-gls-it = ˈtɾóʔkɘ̀ ˈtéʃtèɣèɾī
+# text_phrase-gls-wg = run:MID:APPL:PST:3 get.away(BARE) come:PST:3PL already
+# text_phrase-gls-de = Sucia_040_VG
+1	ta-		AUX	_	Voice=Mid	2	udep	_	AlignBegin=195037|AlignEnd=195121|GE=[MID]|Gloss=MID-|nWord=1|RX=[VT>VI]|TokenType=DerAff
+2	r-		AUX	_	Voice=Appl	5	comp:aux/m	_	AlignBegin=195121|AlignEnd=195205|GE=[APPL].[P]|Gloss=APPL.P-|nWord=1|RX=[V:ANY]|TokenType=DerAff
+3	oʔk	oʔk	VERB	_	_	2	comp:aux/m	_	AlignBegin=195205|AlignEnd=195289|GE=run|Gloss=run|nWord=1|RX=[V]|TokenType=Root
+4	-Ø		PRON	_	_	5	subj/m	_	AlignBegin=195289|AlignEnd=195373|GE=[S3SG]|Gloss=-S3SG|nWord=1|RX=[V:ANY]|TokenType=InflAff
+5	-i		AUX	_	_	0	root	_	AlignBegin=195373|AlignEnd=195457|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]|TokenType=InflAff
+6	teʃ	teʃ	VERB	_	_	7	mod:tmod	_	AlignBegin=195457|AlignEnd=195877|GE=get.away|Gloss=get.away|nWord=2|RX=[VI]|TokenType=Root
+7	teʔk	teʔk	VERB	_	_	9	comp:aux/m	_	AlignBegin=195877|AlignEnd=196017|GE=come|Gloss=come|nWord=3|RX=[VI]|TokenType=Root
+8	-er		PRON	_	_	9	subj/m	_	AlignBegin=196017|AlignEnd=196157|GE=[S3PL]|Gloss=-S3PL|nWord=3|RX=[V:ANY]|TokenType=InflAff
+9	-i		AUX	_	_	5	parataxis	_	AlignBegin=196157|AlignEnd=196297|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]|TokenType=InflAff
+10	ke	ke	ADV	_	_	9	mod	_	AlignBegin=196297|AlignEnd=196717|GE=already|Gloss=already|nWord=4|RX=[ADV]|TokenType=Root
+11	.		PUNCT	_	_	5	punct	_	AlignBegin=196717|AlignEnd=197137|Gloss=.|nWord=5
+
+# sent_id = 085_54-54
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 197303, 201179
+# morphemic_text = a- arki uria =ma ta- r- oʔk -Ø -i teʃ teʔk -er -t -i .
+# text = aarki uria ma troʔki teʃ teʔkerti .
+# text_en = The brothers (AM aknowledges), fled and arrived after a while.
+# text_phrase-gls-es = el grupo de hermanos huyeron, se fueron,
+# text_phrase-gls-pro = || ʔaʔɑ-- || ˈʔaʔáɾkíwɾjáʔmàʔ. (0.1s) (( AM; || ʔɔʔɔw (0.2s) || )) || ˈtɾóʔkìˈtēʃtéɣéhtíʔ. (0.3s) (( AM; || ʔmʔm (0.3s) || )) ||
+# text_phrase-gls-it = ˈáɾkíʷɾʲáʔmà ˈtɾóʔkìˈtēʃtéɣétʰíʔ
+# text_phrase-gls-wg = brother:3 COLL TOP_SV run:MID:APPL:PST:3 get.away(BARE) come:DUR:PST:3PL
+# text_phrase-gls-de = Sucia_041_VG
+1	a-		PRON	_	_	2	udep:poss/m	_	AlignBegin=197303|AlignEnd=197580|GE=[POSS3SG]|Gloss=POSS3SG-|nWord=1|RX=[N:ANY]|TokenType=Root
+2	arki	arki	NOUN	_	_	4	comp:obj	_	AlignBegin=197580|AlignEnd=197857|GE=brother|Gloss=brother|nWord=1|RX=[N]|TokenType=Root
+3	uria	uria	PART	_	_	2	mod	_	AlignBegin=197857|AlignEnd=198411|GE=various|Gloss=various|nWord=2|RX=[<NOT_SURE>]|TokenType=Root
+4	=ma		PART	_	_	6	subj	_	AlignBegin=198411|AlignEnd=198965|GE=[TOP]|Gloss==TOP|nWord=3|RX=[PRT]|TokenType=Clit
+5	ta-		AUX	_	Voice=Mid	6	udep	_	AlignBegin=198965|AlignEnd=199076|GE=[MID]|Gloss=MID-|nWord=4|RX=[VT>VI]|TokenType=DerAff
+6	r-		AUX	_	Voice=Appl	9	comp:aux/m	_	AlignBegin=199076|AlignEnd=199187|GE=[APPL].[P]|Gloss=APPL.P-|nWord=4|RX=[V:ANY]|TokenType=DerAff
+7	oʔk	oʔk	VERB	_	_	6	comp:aux/m	_	AlignBegin=199187|AlignEnd=199298|GE=run|Gloss=run|nWord=4|RX=[V]|TokenType=Root
+8	-Ø		PRON	_	_	9	subj/m	_	AlignBegin=199298|AlignEnd=199409|GE=[S3SG]|Gloss=-S3SG|nWord=4|RX=[V:ANY]|TokenType=InflAff
+9	-i		AUX	_	_	0	root	_	AlignBegin=199409|AlignEnd=199519|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]|TokenType=InflAff
+10	teʃ	teʃ	VERB	_	_	11	mod:tmod	_	AlignBegin=199519|AlignEnd=200073|GE=get.away|Gloss=get.away|nWord=5|RX=[VI]|TokenType=Root
+11	teʔk	teʔk	VERB	_	_	13	comp:aux/m	_	AlignBegin=200073|AlignEnd=200211|GE=come|Gloss=come|nWord=6|RX=[VI]|TokenType=Root
+12	-er		PRON	_	_	13	subj/m	_	AlignBegin=200211|AlignEnd=200349|GE=[S3PL]|Gloss=-S3PL|nWord=6|RX=[V:ANY]|TokenType=InflAff
+13	-t		AUX	_	_	14	comp:aux/m	_	AlignBegin=200349|AlignEnd=200487|GE=[DUR]|Gloss=-DUR|nWord=6|RX=[N>???]|TokenType=InflAff
+14	-i		AUX	_	_	9	parataxis	_	AlignBegin=200487|AlignEnd=200627|GE=[PST]|Gloss=-PST|nWord=6|RX=[V:ANY]|TokenType=InflAff
+15	.		PUNCT	_	_	9	punct	_	AlignBegin=200627|AlignEnd=201179|Gloss=.|nWord=7
+
+# sent_id = 085_55-55
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 201523, 203572
+# morphemic_text = teʔ te teweh na -er -i mãyh =pes Ø- ka -i -wa .
+# text = teʔtetweneri mãyh pes kiwa .
+# text_en = They were coming up, just three of them.
+# text_phrase-gls-es = vinieron y subieron, hacia solamente tres
+# text_phrase-gls-pro = || téʔ tèˈtwéneɾìʔ, || ˈméjhpés kìˈwáʔ. ||
+# text_phrase-gls-it = téʔ tèˈtʷénɘ̀ɾìʔ ˈméʲpés kìˈwáʔ
+# text_phrase-gls-wg = come+come+go.up+go:PST:3PL three =only make:PFV:3>3
+# text_phrase-gls-de = Sucia_041b_VG
+1	teʔ	teʔ	VERB	_	_	2	compoud:svc	_	AlignBegin=201523|AlignEnd=201591|GE=come|Gloss=come|nWord=1|RX=[VI]|TokenType=Root
+2	te	te	VERB	_	_	3	compoud:svc	_	AlignBegin=201591|AlignEnd=201659|GE=come|Gloss=come|nWord=1|RX=[VI]|TokenType=Root
+3	teweh	teweh	VERB	_	_	4	compoud:svc	_	AlignBegin=201659|AlignEnd=201727|GE=go.up|Gloss=go.up|nWord=1|RX=[VI]|TokenType=Root
+4	na	na	VERB	_	_	6	comp:aux/m	_	AlignBegin=201727|AlignEnd=201795|GE=go|Gloss=go|nWord=1|RX=[VI]|TokenType=Root
+5	-er		PRON	_	_	6	subj/m	_	AlignBegin=201795|AlignEnd=201863|GE=[S3PL]|Gloss=-S3PL|nWord=1|RX=[V:ANY]|TokenType=InflAff
+6	-i		AUX	_	_	0	root	_	AlignBegin=201863|AlignEnd=201933|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]|TokenType=InflAff
+7	mãyh	mãyh	NUM	_	_	10	subj	_	AlignBegin=201933|AlignEnd=202343|GE=three|Gloss=three|nWord=2|RX=[N]|TokenType=Root
+8	=pes		PART	_	_	7	mod	_	AlignBegin=202343|AlignEnd=202753|GE=only|Gloss==only|nWord=3|RX=[PRT]|TokenType=Clit
+9	Ø-		PRON	_	_	10	comp:obj/m	_	AlignBegin=202753|AlignEnd=202855|GE=[O3SG]|Gloss=O3SG-|nWord=4|RX=[VT:ANY]|TokenType=Root
+10	ka	ka	VERB	_	_	12	comp:aux/m	_	AlignBegin=202855|AlignEnd=202957|GE=make|Gloss=make|nWord=4|RX=[VT]|TokenType=Root
+11	-i		PRON	_	_	12	subj/m	_	AlignBegin=202957|AlignEnd=203059|GE=[S3SG]|Gloss=-S3SG|nWord=4|RX=[V:ANY]|TokenType=InflAff
+12	-wa		AUX	_	_	6	parataxis	_	AlignBegin=203059|AlignEnd=203163|GE=[PFV]|Gloss=-PFV|nWord=4|RX=[V:ANY]|TokenType=InflAff
+13	.		PUNCT	_	_	6	punct	_	AlignBegin=203163|AlignEnd=203572|Gloss=.|nWord=5
+
+# sent_id = 085_56-56
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 203579, 205786
+# morphemic_text = teʔ teweh -er -wa =hãʔ , Ø- yãh puk -er -i toʔ =yã .
+# text = teʔtewerea hãʔ , ɲãhpukri toʔ ɲã .
+# text_en = VG: They came up and spread the news there.
+# text_phrase-gls-es = vinieron y subieron y dieron la noticia allí, sólo a mi hermano, mientras clavó a la mamá
+# text_phrase-gls-pro = || ˈtɛ́ʔtèwéɾéáʔa̤h. (0.2s) || ˈɲáhpùkɾì ˈtóʔɲàʔ. (0.8s) ||
+# text_phrase-gls-it = ˈtɛ́ʔtèwéɾéá ˈɲáʰpùkɾì (ˈtóʔɲàʔ) ˈtàːɾkìˈpéɾó ã̀ˈkákíɾí ˈpɔ̀ɾkʷá
+# text_phrase-gls-wg = come+go.up:PFV:3PL =FOC say+spread:PST:3PL>3 DEM.MED LOC
+# text_phrase-gls-de = Sucia_043_VG
+1	teʔ	teʔ	VERB	_	_	2	compoud:svc	_	AlignBegin=203579|AlignEnd=203658|GE=come|Gloss=come|nWord=1|RX=[VI]|TokenType=Root
+2	teweh	teweh	VERB	_	_	4	comp:aux/m	_	AlignBegin=203658|AlignEnd=203737|GE=go.up|Gloss=go.up|nWord=1|RX=[VI]|TokenType=Root
+3	-er		PRON	_	_	4	subj/m	_	AlignBegin=203737|AlignEnd=203816|GE=[S3PL]|Gloss=-S3PL|nWord=1|RX=[V:ANY]|TokenType=InflAff
+4	-wa		AUX	_	_	0	root	_	AlignBegin=203816|AlignEnd=203894|GE=[PFV]|Gloss=-PFV|nWord=1|RX=[V:ANY]|TokenType=InflAff
+5	=hãʔ		PART	_	_	4	mod	_	AlignBegin=203894|AlignEnd=204209|GE=[FOC]|Gloss==FOC|nWord=2|RX=[PRT]|TokenType=Clit
+6	,		PUNCT	_	_	5	punct	_	AlignBegin=204209|AlignEnd=204524|nWord=3
+7	Ø-		PRON	_	_	8	comp:obj/m	_	AlignBegin=204524|AlignEnd=204587|GE=[O3SG]|Gloss=O3SG-|nWord=4|RX=[VT:ANY]|TokenType=Root
+8	yãh	yãh	VERB	_	_	9	compoud:svc	_	AlignBegin=204587|AlignEnd=204650|GE=say|Gloss=say|nWord=4|RX=[VT]|TokenType=Root
+9	puk	puk	VERB	_	_	11	comp:aux/m	_	AlignBegin=204650|AlignEnd=204713|GE=spread|Gloss=spread|nWord=4|RX=[V]|TokenType=Root
+10	-er		PRON	_	_	11	subj/m	_	AlignBegin=204713|AlignEnd=204776|GE=[S3PL]|Gloss=-S3PL|nWord=4|RX=[V:ANY]|TokenType=InflAff
+11	-i		AUX	_	_	4	parataxis	_	AlignBegin=204776|AlignEnd=204839|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]|TokenType=InflAff
+12	toʔ	toʔ	PRON	_	_	13	comp:obj	_	AlignBegin=204839|AlignEnd=205154|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=5|RX=[PRO]|TokenType=Root
+13	=yã		ADP	_	_	11	mod:lmod	_	AlignBegin=205154|AlignEnd=205469|GE=[LOC]|Gloss==LOC|nWord=6|RX=[POST]|TokenType=Clit
+14	.		PUNCT	_	_	4	punct	_	AlignBegin=205469|AlignEnd=205786|Gloss=.|nWord=7
+
+# sent_id = 085_57-57
+# text = taarki pero , akaki ri porkwa , asawa mastiʃkwa , peʔtoʃkutʃi wa .
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 206558, 212926
+# morphemic_text = ta- arki =pero , a- kaki =ra Ø- pork -Ø -wa , a- sawa Ø- mas -tiʃk -Ø -wa , Ø- peʔ ta- oʃk -u–tʃi wa .
+# text_en = "Only my brother speared the mother, his hand almost killed her, she took him forever."
+# text_phrase-gls-es = su mano casi la mata, se alocó (la trajo, la perdió, chifló),
+# text_phrase-gls-pro = || ˈtàʔaɾkìˈpéɾõː, (0.6s) || ã̀ˈkáʔkíɾí ˈpɔ̀ɾkwáː, (0.2s) || àˈsɔ̀wà ˈmáskíʃkwā, (0.2s) || ˈpɛ́ʔtóʃkùʧˈɨwá. (0.4s) (( AM; || @@@ || )) ||
+# text_phrase-gls-it = àˈsɔ̀ʷà ˈmástíʃkɔ̄ā ˈpɛ́ʔtóʃkùʧˈìwá
+# text_phrase-gls-wg = brother:1 only mother:3 =ABS sink.in:PFV:3>3 hand:3 kill:almost:PFV:3>3 bring+lose:MID:PX.PST:3>3 also
+# text_phrase-gls-de = Sucia_044_VG
+1	ta-		PRON	_	_	2	udep:poss/m	_	AlignBegin=206558|AlignEnd=206803|GE=[POSS1]|Gloss=POSS1-|nWord=1|RX=[N:ANY]|TokenType=Root
+2	arki	arki	NOUN	_	_	9	dislocated:subj	_	AlignBegin=206803|AlignEnd=207048|GE=brother|Gloss=brother|nWord=1|RX=[N]|TokenType=Root
+3	=pero		PART	_	_	2	mod	_	AlignBegin=207048|AlignEnd=207538|GE=only|Gloss==only|nWord=2|RX=[PRT]|TokenType=Clit
+4	,		PUNCT	_	_	3	punct	_	AlignBegin=207538|AlignEnd=208028|nWord=3
+5	a-		PRON	_	_	6	udep:poss/m	_	AlignBegin=208028|AlignEnd=208273|GE=[POSS3SG]|Gloss=POSS3SG-|nWord=4|RX=[N:ANY]|TokenType=Root
+6	kaki	kaki	NOUN	_	_	7	comp:obj	_	AlignBegin=208273|AlignEnd=208518|GE=mother|Gloss=mother|nWord=4|RX=[N]|TokenType=Root
+7	=ra		ADP	_	Case=Abs	9	comp:obj	_	AlignBegin=208518|AlignEnd=209008|GE=[ABS]|Gloss==ABS|nWord=5|RX=[PRT]|TokenType=Clit
+8	Ø-		PRON	_	_	9	comp:obj/m	_	AlignBegin=209008|AlignEnd=209130|GE=[O3SG]|Gloss=O3SG-|nWord=6|RX=[VT:ANY]|TokenType=Root
+9	pork	pork	VERB	_	_	11	comp:aux/m	_	AlignBegin=209130|AlignEnd=209252|GE=sink.in|Gloss=sink.in|nWord=6|RX=[VT]|TokenType=Root
+10	-Ø		PRON	_	_	11	subj/m	_	AlignBegin=209252|AlignEnd=209374|GE=[S3SG]|Gloss=-S3SG|nWord=6|RX=[V:ANY]|TokenType=InflAff
+11	-wa		AUX	_	_	0	root	_	AlignBegin=209374|AlignEnd=209498|GE=[PFV]|Gloss=-PFV|nWord=6|RX=[V:ANY]|TokenType=InflAff
+12	,		PUNCT	_	_	11	punct	_	AlignBegin=209498|AlignEnd=209988|nWord=7
+13	a-		PRON	_	_	14	udep:poss/m	_	AlignBegin=209988|AlignEnd=210233|GE=[POSS3SG]|Gloss=POSS3SG-|nWord=8|RX=[N:ANY]|TokenType=Root
+14	sawa	sawa	NOUN	_	_	16	subj	_	AlignBegin=210233|AlignEnd=210478|GE=hand|Gloss=hand|nWord=8|RX=[N]|TokenType=Root
+15	Ø-		PRON	_	_	16	comp:obj/m	_	AlignBegin=210478|AlignEnd=210576|GE=[O3SG]|Gloss=O3SG-|nWord=9|RX=[VT:ANY]|TokenType=Root
+16	mas	mas	VERB	_	_	19	comp:aux/m	_	AlignBegin=210576|AlignEnd=210674|GE=kill|Gloss=kill|nWord=9|RX=[VT]|TokenType=Root
+17	-tiʃk		AUX	_	_	16	mod	_	AlignBegin=210674|AlignEnd=210772|GE=almost|Gloss=almost|nWord=9|RX=[V:ANY]|TokenType=InflAff
+18	-Ø		PRON	_	_	19	subj/m	_	AlignBegin=210772|AlignEnd=210870|GE=[S3SG]|Gloss=-S3SG|nWord=9|RX=[V:ANY]|TokenType=InflAff
+19	-wa		AUX	_	_	11	parataxis	_	AlignBegin=210870|AlignEnd=210968|GE=[PFV]|Gloss=-PFV|nWord=9|RX=[V:ANY]|TokenType=InflAff
+20	,		PUNCT	_	_	19	punct	_	AlignBegin=210968|AlignEnd=211458|nWord=10
+21	Ø-		PRON	_	_	22	comp:obj/m	_	AlignBegin=211458|AlignEnd=211556|GE=[O3SG]|Gloss=O3SG-|nWord=11|RX=[VT:ANY]|TokenType=Root
+22	peʔ	peʔ	VERB	_	_	24	compound:svc	_	AlignBegin=211556|AlignEnd=211654|GE=bring|Gloss=bring|nWord=11|RX=[VT]|TokenType=Root
+23	ta-		AUX	_	Voice=Mid	24	comp/m	_	AlignBegin=211654|AlignEnd=211752|GE=[MID]|Gloss=MID-|nWord=11|RX=[VT>VI]|TokenType=DerAff
+24	oʃk	oʃk	VERB	_	_	26	comp:aux/m	_	AlignBegin=211752|AlignEnd=211850|GE=lose|Gloss=lose|nWord=11|RX=[VT]|TokenType=Root
+25	-u	-u	PRON	_	_	26	subj/m	_	AlignBegin=211850|AlignEnd=211948|GE=[-S3SG-PROX].[PST]|Gloss=-S3SG|nWord=11|RX=[V:ANY]|TokenType=InflAff
+26	-tʃi	-tʃi	AUX	_	_	19	parataxis	_	AlignBegin=211850|AlignEnd=211948|GE=[-PROX].[PST]|Gloss=-PROX.PST|nWord=11|RX=[V:ANY]|TokenType=InflAff
+27	wa	wa	ADV	_	_	26	mod	_	AlignBegin=211948|AlignEnd=212438|GE=also|Gloss=also|nWord=12|RX=[ADV]|TokenType=Root
+28	.		PUNCT	_	_	11	punct	_	AlignBegin=212438|AlignEnd=212926|Gloss=.|nWord=13
+
+# sent_id = 085_58-58
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 212938, 215958
+# morphemic_text = ĩ =kan =riʃ -ka Ø- pork -Ø -i =sa , loco =hãʔ , tV ka- -er -t -i .
+# text = ĩk riʃka porki sa , loko hãʔ , tikelerti .
+# text_en = "How come he speared her, crazy," they say (AM agrees).
+# text_phrase-gls-es = por qué la clavó, se alocó.
+# text_phrase-gls-pro = || ĩ́ˈkɾiʃkà ˈpóɾkɨsɨ °ˈloku haʔ°!. (0.1s) || ˈtíʔkélétíʔ. (0.1s) (( AM; || ʔɔʔɔw (0.7s) || )) ||
+# text_phrase-gls-it = ˈĩ́ʃkà ˈpóɾkìsɘ̄ ˈloko
+# text_phrase-gls-wg = DEM.PROX=SIM =REAS+make sink.in:PST:3>3 C.Q crazy.ESP =FOC say:DUR:PST:3PL>3PL
+# text_phrase-gls-de = Sucia_044b_VG
+1	ĩ	ĩ	PRON	_	_	2	comp:obj	_	AlignBegin=212938|AlignEnd=213089|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=1|RX=[PRO]|TokenType=Root
+2	=kan		PART	_	_	3	comp:obj	_	AlignBegin=213089|AlignEnd=213240|GE=[SIM]|Gloss==SIM|nWord=1|RX=[PRT]|TokenType=Clit
+3	=riʃ		PART	_	_	6	mod	_	AlignBegin=213240|AlignEnd=213391|GE=[REAS]|Gloss==REAS|nWord=2|RX=[PRT]|TokenType=Clit
+4	-ka		PART	_	_	3	mod	_	AlignBegin=213391|AlignEnd=213542|GE=[make].[S1:2]|Gloss=make.S1:2|nWord=2|RX=[PRT:ANY]|TokenType=InflAff
+5	Ø-		PRON	_	_	6	comp:obj/m	_	AlignBegin=213542|AlignEnd=213618|GE=[O3SG]|Gloss=O3SG-|nWord=3|RX=[VT:ANY]|TokenType=Root
+6	pork	pork	VERB	_	_	8	comp:aux/m	_	AlignBegin=213618|AlignEnd=213694|GE=sink.in|Gloss=sink.in|nWord=3|RX=[VT]|TokenType=Root
+7	-Ø		PRON	_	_	8	subj/m	_	AlignBegin=213694|AlignEnd=213770|GE=[S3SG]|Gloss=-S3SG|nWord=3|RX=[V:ANY]|TokenType=InflAff
+8	-i		AUX	_	_	0	root	_	AlignBegin=213770|AlignEnd=213844|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]|TokenType=InflAff
+9	=sa		PART	_	_	3	mod	_	AlignBegin=213844|AlignEnd=214146|GE=[C].[Q]|Gloss==C.Q|nWord=4|RX=[PRT]|TokenType=Clit
+10	,		PUNCT	_	_	9	punct	_	AlignBegin=214146|AlignEnd=214448|nWord=5
+11	loco	loco	NOUN	_	_	14	comp:pred	_	AlignBegin=214448|AlignEnd=214750|GE=[SPA_crazy]|Gloss=SPA_crazy|nWord=6|RX=[N]|TokenType=Root
+12	=hãʔ		PART	_	_	11	mod	_	AlignBegin=214750|AlignEnd=215052|GE=[FOC]|Gloss==FOC|nWord=7|RX=[PRT]|TokenType=Clit
+13	,		PUNCT	_	_	12	punct	_	AlignBegin=215052|AlignEnd=215354|nWord=8
+14	tV	tV	VERB	_	_	17	comp:aux/m	_	AlignBegin=215354|AlignEnd=215414|GE=say|Gloss=say|nWord=9|RX=[VT]|TokenType=Root
+15	-ka	ka-	PRON	_	_	14	comp:obj/m	_	AlignBegin=215414|AlignEnd=215474|GE=[O3PL]|Gloss=O3PL-|nWord=9|RX=[V:ANY]|TokenType=InflAff|wordform=ka-
+16	-er		PRON	_	_	17	subj/m	_	AlignBegin=215474|AlignEnd=215534|GE=[S3PL]|Gloss=-S3PL|nWord=9|RX=[V:ANY]|TokenType=InflAff
+17	-t		AUX	_	_	18	comp:aux/m	_	AlignBegin=215534|AlignEnd=215594|GE=[DUR]|Gloss=-DUR|nWord=9|RX=[N>???]|TokenType=InflAff
+18	-i		AUX	_	_	8	parataxis	_	AlignBegin=215594|AlignEnd=215656|GE=[PST]|Gloss=-PST|nWord=9|RX=[V:ANY]|TokenType=InflAff
+19	.		PUNCT	_	_	8	punct	_	AlignBegin=215656|AlignEnd=215958|Gloss=.|nWord=10
+
+# sent_id = 085_59-59
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 216683, 220115
+# morphemic_text = pikalow ʔeʔentima , seatus =ʃona ã =pera =wi Ø- ʃa -Ø -i .
+# text = pikalow ʔeʔentima , seatus ʃona ã pera wi ʃei .
+# text_en = ### the prankster, you see, only he saw it.
+# text_phrase-gls-es = ves que sólo el bromista la vió, el se lo llevó, le dijeron
+# text_phrase-gls-pro = || pikalow ʔeʔentima. (0.3s) || ˈséàtùˈʃóʔnà. || ˈʔà °péɾɘ̄ wi ʃej°. (0.1s) ||
+# text_phrase-gls-it = ˈtíʔkélétíʔ ˈséàtùˈʃóʔnà ˈàpéɾɘ̄ ʃeʲ tóʔmɘ̄ ˈpàːkʷẽ̀
+# text_phrase-gls-wg = prankster HEM DEM.DIST only long.time see:PST:3>3
+# text_phrase-gls-de = Sucia_045_VG
+1	pikalow	pikalow	X	_	_	10	udep	_	AlignBegin=216683|AlignEnd=217026|nWord=1
+2	ʔeʔentima	ʔeʔentima	X	_	_	1	udep	_	AlignBegin=217026|AlignEnd=217369|nWord=2
+3	,		PUNCT	_	_	2	punct	_	AlignBegin=217369|AlignEnd=217712|nWord=3
+4	seatus	seatus	NOUN	_	_	10	dislocated:subj	_	AlignBegin=217712|AlignEnd=218055|GE=prankster|Gloss=prankster|nWord=4|RX=[N]|TokenType=Root
+5	=ʃona		PART	_	_	4	mod	_	AlignBegin=218055|AlignEnd=218398|GE=[HEM]|Gloss==HEM|nWord=5|RX=[PRT]|TokenType=Clit
+6	ã	ã	PRON	_	_	4	parataxis	_	AlignBegin=218398|AlignEnd=218741|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=6|RX=[PRO]|TokenType=Root
+7	=pera		PART	_	_	6	mod	_	AlignBegin=218741|AlignEnd=219084|GE=only|Gloss==only|nWord=7|RX=[PRT]|TokenType=Clit
+8	=wi		PART	_	_	6	udep	_	AlignBegin=219084|AlignEnd=219427|GE=long.time|Gloss==long.time|nWord=8|RX=[PRT]|TokenType=Clit
+9	Ø-		PRON	_	_	10	comp:obj/m	_	AlignBegin=219427|AlignEnd=219513|GE=[O3SG]|Gloss=O3SG-|nWord=9|RX=[VT:ANY]|TokenType=Root
+10	ʃa	ʃa	VERB	_	_	12	comp:aux/m	_	AlignBegin=219513|AlignEnd=219599|GE=see|Gloss=see|nWord=9|RX=[VT]|TokenType=Root
+11	-Ø		PRON	_	_	12	subj/m	_	AlignBegin=219599|AlignEnd=219685|GE=[S3SG]|Gloss=-S3SG|nWord=9|RX=[V:ANY]|TokenType=InflAff
+12	-i		AUX	_	_	0	root	_	AlignBegin=219685|AlignEnd=219770|GE=[PST]|Gloss=-PST|nWord=9|RX=[V:ANY]|TokenType=InflAff
+13	.		PUNCT	_	_	12	punct	_	AlignBegin=219770|AlignEnd=220115|Gloss=.|nWord=10
+
+# sent_id = 085_60-60
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 220255, 223668
+# morphemic_text = toʔ =ma Ø- pak -Ø -wa =ʔĩ , a- kaʔo Ø- pa a- kas- tok -Ø -wa =wĩ , tV ka- -er -t -i .
+# text = toʔ ma pakwa ʔĩ , akaʔo pakastokwa wĩ , tikelerti .
+# text_en = She took him, and she put him in her house immediately, they say.
+# text_phrase-gls-es = lo llevo, y lo metio a su casa inmeditamente, dijeron
+# text_phrase-gls-pro = || taʔmɘ̄ ˈpàʔkwẽ̀ʔɨ̃. || ˈã̀kɔ̀ʔɔ ˈpàɣāstɔ̀kwã̀ʔwɛ̃. || °ˈtíkèlɘ̄tʰíʔ°. (0.9s) ||
+# text_phrase-gls-it = ˈã̀kɔ̀ʰ ˈpàɣāstɔ̀kʷã̀wɘ̃́ ˈtíkèlɘ̄tʰíʔ
+# text_phrase-gls-wg = DEM.MED TOP take:PFV:3>3 =FOC house:3 take+enter:APPL:PFV:3>3 IMDP say:DUR:PST:3PL>3PL
+# text_phrase-gls-de = Sucia_046_VG
+1	toʔ	toʔ	PRON	_	_	2	comp:obj	_	AlignBegin=220255|AlignEnd=220565|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=1|RX=[PRO]|TokenType=Root
+2	=ma		PART	_	_	4	comp:obj	_	AlignBegin=220565|AlignEnd=220875|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit
+3	Ø-		PRON	_	_	4	comp:obj/m	_	AlignBegin=220875|AlignEnd=220953|GE=[O3SG]|Gloss=O3SG-|nWord=3|RX=[VT:ANY]|TokenType=Root
+4	pak	pak	VERB	_	_	6	comp:aux/m	_	AlignBegin=220953|AlignEnd=221031|GE=take|Gloss=take|nWord=3|RX=[VT]|TokenType=Root
+5	-Ø		PRON	_	_	6	subj/m	_	AlignBegin=221031|AlignEnd=221109|GE=[S3SG]|Gloss=-S3SG|nWord=3|RX=[V:ANY]|TokenType=InflAff
+6	-wa		AUX	_	_	20	udep	_	AlignBegin=221109|AlignEnd=221185|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff
+7	=ʔĩ		PART	_	_	6	mod	_	AlignBegin=221185|AlignEnd=221495|GE=[FOC]|Gloss==FOC|nWord=4|RX=[PRT]|TokenType=Clit
+8	,		PUNCT	_	_	7	punct	_	AlignBegin=221495|AlignEnd=221805|nWord=5
+9	a-		PRON	_	_	10	udep:poss/m	_	AlignBegin=221805|AlignEnd=221960|GE=[POSS3SG]|Gloss=POSS3SG-|nWord=6|RX=[N:ANY]|TokenType=Root
+10	kaʔo	kaʔo	NOUN	_	_	12	mod:lmod	_	AlignBegin=221960|AlignEnd=222115|GE=house|Gloss=house|nWord=6|RX=[N]|TokenType=Root
+11	Ø-		PRON	_	_	12	comp:obj/m	_	AlignBegin=222115|AlignEnd=222159|GE=[O3SG]|Gloss=O3SG-|nWord=7|RX=[VT:ANY]|TokenType=Root
+12	pa	pa	VERB	_	_	14	compound:svc	_	AlignBegin=222159|AlignEnd=222203|GE=take|Gloss=take|nWord=7|RX=[VT]|TokenType=Root
+13	a-		PRON	_	_	14	comp:obj@appl/m	_	AlignBegin=222203|AlignEnd=222247|GE=[O3SG]|Gloss=O3SG-|nWord=7|RX=[VT:ANY]|TokenType=Root
+14	kas-		AUX	_	Voice=Appl	17	comp:aux/m	_	AlignBegin=222247|AlignEnd=222291|GE=[APPL].[R]|Gloss=APPL.R-|nWord=7|RX=[V>VT]|TokenType=DerAff
+15	tok	tok	VERB	_	_	14	comp:aux/m	_	AlignBegin=222291|AlignEnd=222335|GE=enter|Gloss=enter|nWord=7|RX=[V]|TokenType=Root
+16	-Ø		PRON	_	_	17	subj/m	_	AlignBegin=222335|AlignEnd=222379|GE=[S3SG]|Gloss=-S3SG|nWord=7|RX=[V:ANY]|TokenType=InflAff
+17	-wa		AUX	_	_	6	conj:coord	_	AlignBegin=222379|AlignEnd=222425|GE=[PFV]|Gloss=-PFV|nWord=7|RX=[V:ANY]|TokenType=InflAff
+18	=wĩ		PART	_	_	17	mod	_	AlignBegin=222425|AlignEnd=222735|GE=[IMDP]|Gloss==IMDP|nWord=8|RX=[PRT]|TokenType=Clit
+19	,		PUNCT	_	_	18	punct	_	AlignBegin=222735|AlignEnd=223045|nWord=9
+20	tV	tV	VERB	_	_	23	comp:aux/m	_	AlignBegin=223045|AlignEnd=223107|GE=say|Gloss=say|nWord=10|RX=[VT]|TokenType=Root
+21	-ka	ka-	PRON	_	_	20	comp:obj/m	_	AlignBegin=223107|AlignEnd=223169|GE=[O3PL]|Gloss=O3PL-|nWord=10|RX=[V:ANY]|TokenType=InflAff|wordform=ka-
+22	-er		PRON	_	_	23	subj/m	_	AlignBegin=223169|AlignEnd=223231|GE=[S3PL]|Gloss=-S3PL|nWord=10|RX=[V:ANY]|TokenType=InflAff
+23	-t		AUX	_	_	24	comp:aux/m	_	AlignBegin=223231|AlignEnd=223293|GE=[DUR]|Gloss=-DUR|nWord=10|RX=[N>???]|TokenType=InflAff
+24	-i		AUX	_	_	0	root	_	AlignBegin=223293|AlignEnd=223355|GE=[PST]|Gloss=-PST|nWord=10|RX=[V:ANY]|TokenType=InflAff
+25	.		PUNCT	_	_	24	punct	_	AlignBegin=223355|AlignEnd=223668|Gloss=.|nWord=11
+
+# sent_id = 085_61-61
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 224599, 225510
+# morphemic_text = yar -ta =r -Ø -i ãma .
+# text = yarta ri ãma .
+# text_en = That was true.
+# text_phrase-gls-es = eso es cierto,
+# text_phrase-gls-pro = || ˈʝàɾtáɾjˈàmàʔ. (0.1s) ||
+# text_phrase-gls-it = ˈʝàɾtáɾɘ̀ ˈàmà
+# text_phrase-gls-wg = true:IT COP:PST:3 HES
+# text_phrase-gls-de = Sucia_047_VG
+1	yar	yar	ADV	_	_	2	comp:aux/m	_	AlignBegin=224599|AlignEnd=224713|GE=true|Gloss=true|nWord=1|RX=[<NOT_SURE>]|TokenType=Root
+2	-ta		AUX	_	_	3	comp:pred	_	AlignBegin=224713|AlignEnd=224827|GE=[IT]|Gloss=-IT|nWord=1|RX=[N>???]|TokenType=InflAff
+3	=r		AUX	_	_	5	comp:aux/m	_	AlignBegin=224827|AlignEnd=224903|GE=[COP]|Gloss==COP|nWord=2|RX=[COP]|TokenType=Clit
+4	-Ø		PRON	_	_	5	subj/m	_	AlignBegin=224903|AlignEnd=224979|GE=[S3SG]|Gloss=-S3SG|nWord=2|RX=[V:ANY]|TokenType=InflAff
+5	-i		AUX	_	_	0	root	_	AlignBegin=224979|AlignEnd=225055|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]|TokenType=InflAff
+6	ãma	ãma	PART	_	_	5	discourse	_	AlignBegin=225055|AlignEnd=225283|GE=[HES]|Gloss=HES|nWord=3|RX=[PRT]|TokenType=Root
+7	.		PUNCT	_	_	5	punct	_	AlignBegin=225283|AlignEnd=225510|Gloss=.|nWord=4
+
+# sent_id = 085_62-62
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 225655, 227351
+# morphemic_text = Ø- pa Ø- kas- tok -t -i -hi .
+# text = pakastoktihi .
+# text_en = She took him and put him away (AM agrees).
+# text_phrase-gls-es = se lo llevó y lo guardó
+# text_phrase-gls-pro = || ˈpàqāstɔ̀ktīhíʔ. (0.3s) (( AM; || ʔɔʔɔw (0.8s) || )) ||
+# text_phrase-gls-it = ˈpàɣāstɔ̀ktīɾíʔ
+# text_phrase-gls-wg = take+enter:APPL:DUR:PST:3>3
+# text_phrase-gls-de = Sucia_047b_VG
+1	Ø-		PRON	_	_	2	comp:obj/m	_	AlignBegin=225655|AlignEnd=225761|GE=[O3SG]|Gloss=O3SG-|nWord=1|RX=[VT:ANY]|TokenType=Root
+2	pa	pa	VERB	_	_	4	compound:svc	_	AlignBegin=225761|AlignEnd=225867|GE=take|Gloss=take|nWord=1|RX=[VT]|TokenType=Root
+3	Ø-		PRON	_	_	4	comp:obj@appl/m	_	AlignBegin=225867|AlignEnd=225973|GE=[O3SG]|Gloss=O3SG-|nWord=1|RX=[VT:ANY]|TokenType=Root
+4	kas-		AUX	_	Voice=Appl	6	comp:aux/m	_	AlignBegin=225973|AlignEnd=226079|GE=[APPL].[R]|Gloss=APPL.R-|nWord=1|RX=[V>VT]|TokenType=DerAff
+5	tok	tok	VERB	_	_	4	comp:aux/m	_	AlignBegin=226079|AlignEnd=226185|GE=enter|Gloss=enter|nWord=1|RX=[V]|TokenType=Root
+6	-t		AUX	_	_	8	comp:aux/m	_	AlignBegin=226185|AlignEnd=226291|GE=[DUR]|Gloss=-DUR|nWord=1|RX=[N>???]|TokenType=InflAff
+7	-i		PRON	_	_	8	subj/m	_	AlignBegin=226291|AlignEnd=226397|GE=[S3SG]|Gloss=-S3SG|nWord=1|RX=[V:ANY]|TokenType=InflAff
+8	-hi		AUX	_	_	0	root	_	AlignBegin=226397|AlignEnd=226503|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]|TokenType=InflAff
+9	.		PUNCT	_	_	8	punct	_	AlignBegin=226503|AlignEnd=227351|Gloss=.|nWord=2
+
+# sent_id = 085_63-63
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 228182, 235372
+# morphemic_text = to wira ʃa -Ø -wa wa tV Ø- -er -wa =pra , pak tʃoʔ =wa , wara -ha ʃa -Ø -wa =yã , sa -ʔa =yã , ### ta- õʃ -Ø -wa ke .
+# text = to wira ʃu wa terum pra , pak tʃok wa , waraha ʃu ɲã , saʔa ɲã , ### tõʃwa ke .
+# text_en = They say he is also there ###, the lake is the hill, where it is blue, inside, ### getting lost already (AM utters a hm after each precision).
+# text_phrase-gls-es = dicen que vive ahí, dentro de aquel cerro
+# text_phrase-gls-pro = || ˈtòwiɾá ʃùˈwáʔ tèˈɾūmpɾà!. (0.2s) || °pak ʧóʔ kwə°. (( AM; || ʔmhmːːːːːːː || )) || waraˈháʃjùɲáʔ. (( AM; || mːːːːʔm || )) || ˈsāʔàʔˈɲá. (0.2s) (( AM; || ʔmʔm (0.3s) || )) || °##° ˈtóʃwā ke. (( AM; || ʔmh (0.5s) || )) ||
+# text_phrase-gls-it = ˈtòʝá ʃùˈwá tèˈɾūmpɾà ʧóʔ ˈáʃʲùɲá ˈsāʔàɲá ˈtóʃʷā
+# text_phrase-gls-wg = DEM.MED be.there:PFV:3 also say:PFV:3PL>3 EMPH lake hill COP:PFV:3 blue:NMLZ be.there:PFV:3 LOC in:NMLZ LOC lose:MID:PFV already
+# text_phrase-gls-de = Sucia_048_VG
+1	to	to	PRON	_	_	3	subj	_	AlignBegin=228182|AlignEnd=228509|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=1|RX=[PRO]|TokenType=Root
+2	wira	wira	X	_	_	1	udep	_	AlignBegin=228509|AlignEnd=228836|nWord=2
+3	ʃa	ʃa	VERB	_	_	5	comp:aux/m	_	AlignBegin=228836|AlignEnd=228945|GE=be.there|Gloss=be.there|nWord=3|RX=[VI]|TokenType=Root
+4	-Ø		PRON	_	_	5	subj/m	_	AlignBegin=228945|AlignEnd=229054|GE=[S3SG]|Gloss=-S3SG|nWord=3|RX=[V:ANY]|TokenType=InflAff
+5	-wa		AUX	_	_	7	udep	_	AlignBegin=229054|AlignEnd=229163|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff
+6	wa	wa	ADV	_	_	5	mod	_	AlignBegin=229163|AlignEnd=229490|GE=also|Gloss=also|nWord=4|RX=[ADV]|TokenType=Root
+7	tV	tV	VERB	_	_	10	comp:aux/m	_	AlignBegin=229490|AlignEnd=229572|GE=say|Gloss=say|nWord=5|RX=[VT]|TokenType=Root
+8	-Ø	Ø-	PRON	_	_	7	comp:obj/m	_	AlignBegin=229572|AlignEnd=229654|GE=[O3SG]|Gloss=O3SG-|nWord=5|RX=[VT:ANY]|TokenType=InflAff|wordform=Ø-
+9	-er		PRON	_	_	10	subj/m	_	AlignBegin=229654|AlignEnd=229736|GE=[S3PL]|Gloss=-S3PL|nWord=5|RX=[V:ANY]|TokenType=InflAff
+10	-wa		AUX	_	_	0	root	_	AlignBegin=229736|AlignEnd=229817|GE=[PFV]|Gloss=-PFV|nWord=5|RX=[V:ANY]|TokenType=InflAff
+11	=pra		PART	_	_	10	mod	_	AlignBegin=229817|AlignEnd=230144|GE=[EMPH]|Gloss==EMPH|nWord=6|RX=[PRT]|TokenType=Clit
+12	,		PUNCT	_	_	11	punct	_	AlignBegin=230144|AlignEnd=230471|nWord=7
+13	pak	pak	NOUN	_	_	15	subj	_	AlignBegin=230471|AlignEnd=230798|GE=lake|Gloss=lake|nWord=8|RX=[N]|TokenType=Root
+14	tʃoʔ	tʃoʔ	NOUN	_	_	15	comp:pred	_	AlignBegin=230798|AlignEnd=231125|GE=hill|Gloss=hill|nWord=9|RX=[N]|TokenType=Root
+15	=wa		AUX	_	_	10	parataxis	_	AlignBegin=231125|AlignEnd=231452|GE=[COP:S3SG:PFV]|Gloss==COP:S3SG:PFV|nWord=10|RX=[COP]|TokenType=Clit
+16	,		PUNCT	_	_	15	punct	_	AlignBegin=231452|AlignEnd=231779|nWord=11
+17	wara	wara	NOUN	_	_	18	comp/m	_	AlignBegin=231779|AlignEnd=231943|GE=blue|Gloss=blue|nWord=12|RX=[<NOT_SURE>]|TokenType=Root
+18	-ha		AUX	_	_	19	subj	_	AlignBegin=231943|AlignEnd=232106|GE=[NMLZ]|Gloss=-NMLZ|nWord=12|RX=[V>N]|TokenType=InflAff
+19	ʃa	ʃa	VERB	_	_	21	comp:aux/m	_	AlignBegin=232106|AlignEnd=232215|GE=be.there|Gloss=be.there|nWord=13|RX=[VI]|TokenType=Root
+20	-Ø		PRON	_	_	21	subj/m	_	AlignBegin=232215|AlignEnd=232324|GE=[S3SG]|Gloss=-S3SG|nWord=13|RX=[V:ANY]|TokenType=InflAff
+21	-wa		AUX	_	_	22	comp:obj	_	AlignBegin=232324|AlignEnd=232433|GE=[PFV]|Gloss=-PFV|nWord=13|RX=[V:ANY]|TokenType=InflAff
+22	=yã		SCONJ	_	_	15	mod:lmod	_	AlignBegin=232433|AlignEnd=232760|GE=[LOC]|Gloss==LOC|nWord=14|RX=[POST]|TokenType=Clit
+23	,		PUNCT	_	_	24	comp:obj	_	AlignBegin=232760|AlignEnd=233087|nWord=15
+24	sa	sa	NOUN	_	_	25	comp/m	_	AlignBegin=233087|AlignEnd=233251|GE=in|Gloss=in|nWord=16|RX=[POST]|TokenType=Root
+25	-ʔa		AUX	_	_	26	comp:obj	_	AlignBegin=233251|AlignEnd=233414|GE=[NMLZ]|Gloss=-NMLZ|nWord=16|RX=[V>N]|TokenType=InflAff
+26	=yã		ADP	_	_	15	mod:lmod	_	AlignBegin=233414|AlignEnd=233741|GE=[LOC]|Gloss==LOC|nWord=17|RX=[POST]|TokenType=Clit
+27	,		PUNCT	_	_	26	punct	_	AlignBegin=233741|AlignEnd=234068|nWord=18
+28	###		X	_	_	30	udep	_	AlignBegin=234068|AlignEnd=234395|nWord=19
+29	ta-		AUX	_	Voice=Mid	30	comp/m	_	AlignBegin=234395|AlignEnd=234477|GE=[MID]|Gloss=MID-|nWord=20|RX=[VT>VI]|TokenType=DerAff
+30	õʃ	õʃ	VERB	_	_	32	comp:aux/m	_	AlignBegin=234477|AlignEnd=234559|GE=lose|Gloss=lose|nWord=20|RX=[VT]|TokenType=Root
+31	-Ø		PRON	_	_	32	subj/m	_	AlignBegin=234559|AlignEnd=234641|GE=[S3SG]|Gloss=-S3SG|nWord=20|RX=[V:ANY]|TokenType=InflAff
+32	-wa		AUX	_	_	15	parataxis	_	AlignBegin=234641|AlignEnd=234722|GE=[PFV]|Gloss=-PFV|nWord=20|RX=[V:ANY]|TokenType=InflAff
+33	ke	ke	ADV	_	_	32	mod	_	AlignBegin=234722|AlignEnd=235049|GE=already|Gloss=already|nWord=21|RX=[ADV]|TokenType=Root
+34	.		PUNCT	_	_	10	punct	_	AlignBegin=235049|AlignEnd=235372|Gloss=.|nWord=22
+
+# sent_id = 085_64-64
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 235900, 239823
+# morphemic_text = Ø- peʔ pok -Ø -i =ʔĩ , ah , wã a- kaki =ya tV Ø- -t -Ø -i .
+# text = peʔpoki ʔĩ , aa , wã akaki ya titi .
+# text_en = The mother of the bobo mullet brought him inside, it is said.
+# text_phrase-gls-es = la madre lo trajo a meter,
+# text_phrase-gls-pro = || ˈpɛ̄pɔ́kiʔɨ, (0.2s) || ʔãːːː, (0.9s) || mwã́ʔã́ˈkáɣíjā ˈtíʔtìʔ. (0.3s) ||
+# text_phrase-gls-it = ˈpɛ̄pɔ́kɾi wã́ ã́ˈkáɣíjā (ˈtíʔtìʔ)
+# text_phrase-gls-wg = bring+put.in:PST:3>3 =FOC INTERJ fish.sp mother:3 ERG say:IT:PST:3>3
+# text_phrase-gls-de = Sucia_049_VG
+1	Ø-		PRON	_	_	2	comp:obj/m	_	AlignBegin=235900|AlignEnd=235978|GE=[O3SG]|Gloss=O3SG-|nWord=1|RX=[VT:ANY]|TokenType=Root
+2	peʔ	peʔ	VERB	_	_	3	compoud:svc	_	AlignBegin=235978|AlignEnd=236056|GE=bring|Gloss=bring|nWord=1|RX=[VT]|TokenType=Root
+3	pok	pok	VERB	_	_	5	comp:aux/m	_	AlignBegin=236056|AlignEnd=236134|GE=put.in|Gloss=put.in|nWord=1|RX=[VT]|TokenType=Root
+4	-Ø		PRON	_	_	5	subj/m	_	AlignBegin=236134|AlignEnd=236212|GE=[S3SG]|Gloss=-S3SG|nWord=1|RX=[V:ANY]|TokenType=InflAff
+5	-i		AUX	_	_	14	udep	_	AlignBegin=236212|AlignEnd=236292|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]|TokenType=InflAff
+6	=ʔĩ		PART	_	_	5	mod	_	AlignBegin=236292|AlignEnd=236684|GE=[FOC]|Gloss==FOC|nWord=2|RX=[PRT]|TokenType=Clit
+7	,		PUNCT	_	_	6	punct	_	AlignBegin=236684|AlignEnd=237076|nWord=3
+8	ah	ah	INTJ	_	_	5	discourse	_	AlignBegin=237076|AlignEnd=237468|GE=[INTERJ]|Gloss=INTERJ|nWord=4|RX=[INTERJ]|TokenType=Root
+9	,		PUNCT	_	_	8	punct	_	AlignBegin=237468|AlignEnd=237860|nWord=5
+10	wã	wã	NOUN	_	_	12	udep:poss	_	AlignBegin=237860|AlignEnd=238252|GE=bobo.mullet|Gloss=bobo.mullet|nWord=6|RX=[N]|TokenType=Root
+11	a-		PRON	_	_	12	udep:poss/m	_	AlignBegin=238252|AlignEnd=238448|GE=[POSS3SG]|Gloss=POSS3SG-|nWord=7|RX=[N:ANY]|TokenType=Root
+12	kaki	kaki	NOUN	_	_	13	comp:obj	_	AlignBegin=238448|AlignEnd=238644|GE=mother|Gloss=mother|nWord=7|RX=[N]|TokenType=Root
+13	=ya		ADP	_	Case=Erg	5	dislocated:subj	_	AlignBegin=238644|AlignEnd=239036|GE=[ERG]|Gloss==ERG|nWord=8|RX=[PRT]|TokenType=Clit
+14	tV	tV	VERB	_	_	16	comp:aux/m	_	AlignBegin=239036|AlignEnd=239114|GE=say|Gloss=say|nWord=9|RX=[VT]|TokenType=Root
+15	-Ø	Ø-	PRON	_	_	14	comp:obj/m	_	AlignBegin=239114|AlignEnd=239192|GE=[O3SG]|Gloss=O3SG-|nWord=9|RX=[VT:ANY]|TokenType=InflAff|wordform=Ø-
+16	-t		AUX	_	_	18	comp:aux/m	_	AlignBegin=239192|AlignEnd=239270|GE=[IT]|Gloss=-IT|nWord=9|RX=[N>???]|TokenType=InflAff
+17	-Ø		PRON	_	_	18	subj/m	_	AlignBegin=239270|AlignEnd=239348|GE=[S3SG]|Gloss=-S3SG|nWord=9|RX=[V:ANY]|TokenType=InflAff
+18	-i		AUX	_	_	0	root	_	AlignBegin=239348|AlignEnd=239428|GE=[PST]|Gloss=-PST|nWord=9|RX=[V:ANY]|TokenType=InflAff
+19	.		PUNCT	_	_	18	punct	_	AlignBegin=239428|AlignEnd=239823|Gloss=.|nWord=10
+
+# sent_id = 085_65-65
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 240168, 244464
+# morphemic_text = pa =ma ta- ye tʃa -na ta- iʃk -u -pi =hã , tVk Ø- -Ø -i .
+# text = pa ma taye tʃanã tiʃkupẽ , tiki .
+# text_en = "You, you will become the care taker of my children", she said.
+# text_phrase-gls-es = le dijo “tu, te haras el cuidador de mis hijos, de los cuyameles”
+# text_phrase-gls-pro = || ˈpã́màː, (0.6s) || tàˈjèʔ ˈʃánã̀ ˈtìʃkɔ̀pɛ́ʔ. || °ˈtíkìʔ°. (0.3s) (( AM; || hm (0.3s) || ### (0.4s) || )) ||
+# text_phrase-gls-it = ˈpã́mà tàˈʝèʔ ˈʃánã̀ ˈtìʃkɔ̀pɛ́ʔ ˈtíkìʔ
+# text_phrase-gls-wg = PRO2 TOP_SV child:1 see:AG make:MID:FUT:2=FOC say:PST:3>3
+# text_phrase-gls-de = Sucia_049b_VG
+1	pa	pa	PRON	_	_	2	comp:obj	_	AlignBegin=240168|AlignEnd=240705|GE=[PRO2]|Gloss=PRO2|nWord=1|RX=[PRO]|TokenType=Root
+2	=ma		PART	_	_	8	subj	_	AlignBegin=240705|AlignEnd=241242|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit
+3	ta-		PRON	_	_	4	udep:poss/m	_	AlignBegin=241242|AlignEnd=241510|GE=[POSS1]|Gloss=POSS1-|nWord=3|RX=[N:ANY]|TokenType=Root
+4	ye	ye	NOUN	_	_	6	udep:poss	_	AlignBegin=241510|AlignEnd=241779|GE=small|Gloss=small|nWord=3|RX=[N]|TokenType=Root
+5	tʃa	tʃa	VERB	_	_	6	comp/m	_	AlignBegin=241779|AlignEnd=242047|GE=see|Gloss=see|nWord=4|RX=[VT]|TokenType=Root
+6	-na		SCONJ	_	DerPos=NOUN	8	comp:pred	_	AlignBegin=242047|AlignEnd=242316|GE=[AG].[NMLZ]|Gloss=-AG.NMLZ|nWord=4|RX=[V>N]|TokenType=DerAff
+7	ta-		AUX	_	Voice=Mid	8	comp/m	_	AlignBegin=242316|AlignEnd=242423|GE=[MID]|Gloss=MID-|nWord=5|RX=[VT>VI]|TokenType=DerAff
+8	iʃk	iʃk	VERB	_	_	10	comp:aux/m	_	AlignBegin=242423|AlignEnd=242530|GE=make|Gloss=make|nWord=5|RX=[VT]|TokenType=Root
+9	-u		PRON	_	_	10	subj/m	_	AlignBegin=242530|AlignEnd=242637|GE=[S2]|Gloss=-S2|nWord=5|RX=[V:ANY]|TokenType=InflAff
+10	-pi		AUX	_	_	13	udep	_	AlignBegin=242637|AlignEnd=242744|GE=[FUT]|Gloss=-FUT|nWord=5|RX=[V:ANY]|TokenType=InflAff
+11	=hã		PART	_	_	10	mod	_	AlignBegin=242744|AlignEnd=242853|GE=[FOC]|Gloss==FOC|nWord=5|RX=[PRT]|TokenType=Clit
+12	,		PUNCT	_	_	11	punct	_	AlignBegin=242853|AlignEnd=243390|nWord=6
+13	tVk	tV	VERB	_	_	16	comp:aux/m	_	AlignBegin=243390|AlignEnd=243524|GE=say|Gloss=say|nWord=7|RX=[VT]|TokenType=Root
+14	-Ø	Ø-	PRON	_	_	13	comp:obj/m	_	AlignBegin=243524|AlignEnd=243658|GE=[O3SG]|Gloss=O3SG-|nWord=7|RX=[VT:ANY]|TokenType=InflAff|wordform=Ø-
+15	-Ø		PRON	_	_	16	subj/m	_	AlignBegin=243658|AlignEnd=243792|GE=[S3SG]|Gloss=-S3SG|nWord=7|RX=[V:ANY]|TokenType=InflAff
+16	-i		AUX	_	_	0	root	_	AlignBegin=243792|AlignEnd=243927|GE=[PST]|Gloss=-PST|nWord=7|RX=[V:ANY]|TokenType=InflAff
+17	.		PUNCT	_	_	16	punct	_	AlignBegin=243927|AlignEnd=244464|Gloss=.|nWord=8
+
+# sent_id = 085_66-66
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 244902, 246089
+# morphemic_text = tVk Ø- -Ø -i =ʔi tV Ø- -er -wa =pra .
+# text = tiki ʔi terum pra .
+# text_en = She said so, they say.
+# text_phrase-gls-es = le dijo, lo dijeron
+# text_phrase-gls-pro = || ˈtíʔkĩ̀ʔĩ́ʔ téɾùmpɾàʔ. (( AM; || ʔeʔ || )) (0.2s) ||
+# text_phrase-gls-it = ˈtíʔkĩ̀ĩ́ʔ (téɾùmpɾàʔ)
+# text_phrase-gls-wg = say:PST:3>3 COP:PFV:3 say:PFV:3PL>3 EMPH
+# text_phrase-gls-de = Sucia_050_VG
+1	tVk	tV	VERB	_	_	4	comp:aux/m	_	AlignBegin=244902|AlignEnd=244961|GE=say|Gloss=say|nWord=1|RX=[VT]|TokenType=Root
+2	-Ø	Ø-	PRON	_	_	1	comp:obj/m	_	AlignBegin=244961|AlignEnd=245020|GE=[O3SG]|Gloss=O3SG-|nWord=1|RX=[VT:ANY]|TokenType=InflAff|wordform=Ø-
+3	-Ø		PRON	_	_	4	subj/m	_	AlignBegin=245020|AlignEnd=245079|GE=[S3SG]|Gloss=-S3SG|nWord=1|RX=[V:ANY]|TokenType=InflAff
+4	-i		AUX	_	_	6	udep	_	AlignBegin=245079|AlignEnd=245139|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]|TokenType=InflAff
+5	=ʔi	=r	PART	_	_	4	discourse	_	AlignBegin=245139|AlignEnd=245376|GE=[COP:S3SG:PFV]|Gloss==COP:S3SG:PFV|nWord=2|RX=[COP]|TokenType=Clit
+6	tV	tV	VERB	_	_	9	comp:aux/m	_	AlignBegin=245376|AlignEnd=245435|GE=say|Gloss=say|nWord=3|RX=[VT]|TokenType=Root
+7	-Ø	Ø-	PRON	_	_	6	comp:obj/m	_	AlignBegin=245435|AlignEnd=245494|GE=[O3SG]|Gloss=O3SG-|nWord=3|RX=[VT:ANY]|TokenType=InflAff|wordform=Ø-
+8	-er		PRON	_	_	9	subj/m	_	AlignBegin=245494|AlignEnd=245553|GE=[S3PL]|Gloss=-S3PL|nWord=3|RX=[V:ANY]|TokenType=InflAff
+9	-wa		AUX	_	_	0	root	_	AlignBegin=245553|AlignEnd=245613|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff
+10	=pra		PART	_	_	9	mod	_	AlignBegin=245613|AlignEnd=245850|GE=[EMPH]|Gloss==EMPH|nWord=4|RX=[PRT]|TokenType=Clit
+11	.		PUNCT	_	_	9	punct	_	AlignBegin=245850|AlignEnd=246089|Gloss=.|nWord=5
+
+# sent_id = 085_67-67
+# speaker_id = @AM
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 246243, 248057
+# morphemic_text = eɲã =i , eɲã =i =pra , eɲẽ =hi , eɲẽ =ʔi .
+# text = eɲã =i , eɲã =i =pra , eɲẽ =hi , eɲẽ =ʔi .
+# text_en = AM: It is good, it is good.
+# text_phrase-gls-es = está bien, está bien
+# text_phrase-gls-pro = AM; || ˈʔéɲì || ˈéɲìpɾà || ˈèɲèhĩ̄ʔ (0.2s) || ˈèɲèʔĩ̄ʔ (0.4s) ||
+# text_phrase-gls-it = ˈéɲìpɾà ˈèɲèĩ̄ʔ
+# text_phrase-gls-wg = well COP:PFV:3 well COP:PFV:3 EMPH well COP:PFV:3 well =FOC
+# text_phrase-gls-de = Sucia_051_AMT
+1	eɲã	eɲã	NOUN	_	_	2	comp:pred	_	AlignBegin=246243|AlignEnd=246383|GE=well|Gloss=well|nWord=1|RX=[N]|TokenType=Root
+2	=i	=r	AUX	_	_	0	root	_	AlignBegin=246383|AlignEnd=246523|GE=[COP:S3SG:PFV]|Gloss==COP:S3SG:PFV|nWord=2|RX=[COP]|TokenType=Clit
+3	,		PUNCT	_	_	2	punct	_	AlignBegin=246523|AlignEnd=246663|nWord=3
+4	eɲã	eɲã	NOUN	_	_	5	comp:pred	_	AlignBegin=246663|AlignEnd=246803|GE=well|Gloss=well|nWord=4|RX=[N]|TokenType=Root
+5	=i	=r	AUX	_	_	2	mod	_	AlignBegin=246803|AlignEnd=246943|GE=[COP:S3SG:PFV]|Gloss==COP:S3SG:PFV|nWord=5|RX=[COP]|TokenType=Clit
+6	=pra		PART	_	_	5	mod	_	AlignBegin=246943|AlignEnd=247083|GE=[EMPH]|Gloss==EMPH|nWord=6|RX=[PRT]|TokenType=Clit
+7	,		PUNCT	_	_	6	punct	_	AlignBegin=247083|AlignEnd=247223|nWord=7
+8	eɲẽ	eɲẽ	NOUN	_	_	9	comp:pred	_	AlignBegin=247223|AlignEnd=247363|GE=well|Gloss=well|nWord=8|RX=[N]|TokenType=Root
+9	=hi	=r	AUX	_	_	5	mod	_	AlignBegin=247363|AlignEnd=247503|GE=[COP:S3SG:PFV]|Gloss==COP:S3SG:PFV|nWord=9|RX=[COP]|TokenType=Clit
+10	,		PUNCT	_	_	9	punct	_	AlignBegin=247503|AlignEnd=247643|nWord=10
+11	eɲẽ	eɲẽ	NOUN	_	_	12	comp:pred	_	AlignBegin=247643|AlignEnd=247783|GE=well|Gloss=well|nWord=11|RX=[N]|TokenType=Root
+12	=ʔi	=r	PART	_	_	9	mod	_	AlignBegin=247783|AlignEnd=247923|GE=[FOC]|Gloss==COP:S3SG:PFV|nWord=12|RX=[PRT]|TokenType=Clit
+13	.		PUNCT	_	_	2	punct	_	AlignBegin=247923|AlignEnd=248057|Gloss=.|nWord=13
+
+# sent_id = 085_68-68
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/085/WAV/085_Flex2Conllu.WAV
+# sent_timecode = 248473, 255230
+# morphemic_text = akes ã yãh -a , aka teʃk -Ø -i ã yãh -a =ma , ak -Ø -i teʃk -Ø -i , ã =ma =ha .
+# text = akes ã ɲãh , aka teʃki ã ɲãh ma , aki teʃki , mmaʔa .
+# text_en = VG: Thus is the story. ### his story, that is it, he was there for a long time (AM says "it is good, yes" to stop the recording), that is it.
+# text_phrase-gls-es = dejo el kesh (ceremonia), ahí
+# text_phrase-gls-pro = VG; || àˈkés, || ã̀ˈɲã́ʔ, (0.3s) || àkàˈtɛ̄ʃkī. || *ã̀ɲã́mã̀. (( AM; || ʔm || )) || ʔmʔmhm. (( AM; || ʔɔʔɔw (0.1s) || )) || ʔmaʔa. (0.6s) || àkɨˈtɛ̄ʃkī. (( AM; || ʔéɲéĩ̄ʔ (0.2s) || ʔɔʔɔw || )) || ʔmaʔa. ||
+# text_phrase-gls-it = àˈkéːs ã̀ˈʝã́ʔ àkàˈtɛ̄ʃkī ã̀ɲã́mã̀
+# text_phrase-gls-wg = thus DEM.DIST say:NMLZ big get.away:PST:3 DEM.DIST say:NMLZ TOP_lgge be:PST:3 get.away:PST:3 DIST.DEM=TOP=FOC_that.is.it
+# text_phrase-gls-de = Sucia_052_VG
+1	akes	akes	PART	_	_	4	mod	_	AlignBegin=248473|AlignEnd=248923|GE=thus|Gloss=thus|nWord=1|RX=[<NOT_SURE>]|TokenType=Root
+2	ã	ã	PRON	_	_	4	det	_	AlignBegin=248923|AlignEnd=249373|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=2|RX=[PRO]|TokenType=Root
+3	yãh	yãh	VERB	_	_	4	comp/m	_	AlignBegin=249373|AlignEnd=249598|GE=say|Gloss=say|nWord=3|RX=[VT]|TokenType=Root
+4	-a		SCONJ	_	DerPos=NOUN	17	udep	_	AlignBegin=249598|AlignEnd=249823|GE=[NMLZ]|Gloss=-NMLZ|nWord=3|RX=[V>N]|TokenType=DerAff
+5	,		PUNCT	_	_	4	punct	_	AlignBegin=249823|AlignEnd=250273|nWord=4
+6	aka	aka	NOUN	_	_	7	udep	_	AlignBegin=250273|AlignEnd=250723|GE=big|Gloss=big|nWord=5|RX=[N]|TokenType=Root
+7	teʃk	teʃk	VERB	_	_	9	comp:aux/m	_	AlignBegin=250723|AlignEnd=250873|GE=get.away|Gloss=get.away|nWord=6|RX=[VI]|TokenType=Root
+8	-Ø		PRON	_	_	9	subj/m	_	AlignBegin=250873|AlignEnd=251023|GE=[S3SG]|Gloss=-S3SG|nWord=6|RX=[V:ANY]|TokenType=InflAff
+9	-i		AUX	_	_	17	udep	_	AlignBegin=251023|AlignEnd=251173|GE=[PST]|Gloss=-PST|nWord=6|RX=[V:ANY]|TokenType=InflAff
+10	ã	ã	PRON	_	_	12	det	_	AlignBegin=251173|AlignEnd=251623|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=7|RX=[PRO]|TokenType=Root
+11	yãh	yãh	VERB	_	_	12	comp/m	_	AlignBegin=251623|AlignEnd=251848|GE=say|Gloss=say|nWord=8|RX=[VT]|TokenType=Root
+12	-a		SCONJ	_	DerPos=NOUN	13	comp:obj	_	AlignBegin=251848|AlignEnd=252073|GE=[NMLZ]|Gloss=-NMLZ|nWord=8|RX=[V>N]|TokenType=DerAff
+13	=ma		PART	_	_	7	udep	_	AlignBegin=252073|AlignEnd=252523|GE=[TOP]|Gloss==TOP|nWord=9|RX=[PRT]|TokenType=Clit
+14	,		PUNCT	_	_	13	punct	_	AlignBegin=252523|AlignEnd=252973|nWord=10
+15	ak	ak	VERB	_	_	17	comp:aux/m	_	AlignBegin=252973|AlignEnd=253123|GE=be.in.state|Gloss=be.in.state|nWord=11|RX=[VI]|TokenType=Root
+16	-Ø		PRON	_	_	17	subj/m	_	AlignBegin=253123|AlignEnd=253273|GE=[S3SG]|Gloss=-S3SG|nWord=11|RX=[V:ANY]|TokenType=InflAff
+17	-i		AUX	_	_	0	root	_	AlignBegin=253273|AlignEnd=253423|GE=[PST]|Gloss=-PST|nWord=11|RX=[V:ANY]|TokenType=InflAff
+18	teʃk	teʃk	VERB	_	_	20	comp:aux/m	_	AlignBegin=253423|AlignEnd=253573|GE=get.away|Gloss=get.away|nWord=12|RX=[VI]|TokenType=Root
+19	-Ø		PRON	_	_	20	subj/m	_	AlignBegin=253573|AlignEnd=253723|GE=[S3SG]|Gloss=-S3SG|nWord=12|RX=[V:ANY]|TokenType=InflAff
+20	-i		AUX	_	_	17	mod:tmod	_	AlignBegin=253723|AlignEnd=253873|GE=[PST]|Gloss=-PST|nWord=12|RX=[V:ANY]|TokenType=InflAff
+21	,		PUNCT	_	_	20	punct	_	AlignBegin=253873|AlignEnd=254323|nWord=13
+22	ã	ã	PRON	_	_	23	comp:obj	_	AlignBegin=254323|AlignEnd=254473|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=14|RX=[PRO]|TokenType=Root
+23	=ma		PART	_	_	17	discourse	_	AlignBegin=254473|AlignEnd=254623|GE=[TOP]|Gloss==TOP|nWord=14|RX=[PRT]|TokenType=Clit
+24	=ha		PART	_	_	23	discourse	_	AlignBegin=254623|AlignEnd=254773|GE=[FOC]|Gloss==FOC|nWord=14|RX=[PRT]|TokenType=Clit
+25	.		PUNCT	_	_	17	punct	_	AlignBegin=254773|AlignEnd=255230|Gloss=.|nWord=15
+

@@ -324,7 +324,7 @@
 5	ĩ	ĩ	PRON	PRO	_	6	comp:obj	_	AlignBegin=93277|AlignEnd=94098|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=5|RX=[PRO]|TokenType=Root|Word=ĩ
 6	=kan	=kan	PART	PRT	_	10	mod	_	AlignBegin=94098|AlignEnd=94919|Gloss==SIM|MGloss==SIM|MSeg==kan|nWord=6|RX=[PRT]|TokenType=Clit|Word=kan
 7	ũtas	tas	PRON	PRO	Clusivity=Ex	8	comp	_	AlignBegin=94919|AlignEnd=95740|Gloss=PRO1|MGloss=EXCL- PRO1|MSeg=ũ-tas|nWord=7|RX=[PRO]|TokenType=Root|Word=ũtãs|wordform=ũ-tas
-8	=mã	=mã	PART	PRT	_	10	dislocated:subj	_	AlignBegin=95740|AlignEnd=96561|Gloss==TOP|MGloss==TOP|MSeg==mã|nWord=8|RX=[PRT]|TokenType=Clit|Word=mã
+8	=mã	=mã	PART	PRT	_	10	dislocated:obj	_	AlignBegin=95740|AlignEnd=96561|Gloss==TOP|MGloss==TOP|MSeg==mã|nWord=8|RX=[PRT]|TokenType=Clit|Word=mã
 9	nĩhã	nĩhã	PART	PRT	_	8	discourse	_	AlignBegin=96561|AlignEnd=97382|Gloss=HES|MGloss=HES|MSeg=nĩhã|nWord=9|RX=[PRT]|TokenType=Root|Word=nĩhã
 10	ũtatũheri	tũh	VERB	V:ANY	Clusivity=Ex	0	root	_	AlignBegin=97382|AlignEnd=98200|Gloss=send|MGloss=EXCL- O1- send -S3PL -PST|MSeg=ũ-ta-tũh-er-i|nWord=10|RX=[VT]|TokenType=Root|Word=ũtatõhri|wordform=ũ-ta-tũh-er-i
 11	ĩ	ĩ	PRON	PRO	_	13	comp:obj	_	AlignBegin=98886|AlignEnd=99244|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=11|RX=[PRO]|TokenType=Root|Word=ĩ
