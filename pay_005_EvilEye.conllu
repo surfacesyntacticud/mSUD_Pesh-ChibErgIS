@@ -333,7 +333,7 @@
 2	sã	sã	NOUN	_	_	3	comp:obj	_	AlignBegin=173938|AlignEnd=174166|GE=head|Gloss=head|nWord=1|RX=[N]|TokenType=Root
 3	yeta	yeta	ADP	_	_	5	mod:lmod	_	AlignBegin=174166|AlignEnd=174622|GE=until.now|Gloss=until.now|nWord=2|RX=[<NOT_SURE>]|TokenType=Root
 4	Ø-		PRON	_	_	5	comp:obj/m	_	AlignBegin=174622|AlignEnd=174713|GE=[O3SG]|Gloss=O3SG-|nWord=3|RX=[VT:ANY]|TokenType=Root
-5	pak	pak	VERB	_	_	7	compoud:svc	_	AlignBegin=174713|AlignEnd=174804|GE=take|Gloss=take|nWord=3|RX=[VT]|TokenType=Root
+5	pak	pak	VERB	_	_	7	compound:svc	_	AlignBegin=174713|AlignEnd=174804|GE=take|Gloss=take|nWord=3|RX=[VT]|TokenType=Root
 6	-a		PRON	_	_	5	subj/m	_	AlignBegin=174804|AlignEnd=174895|GE=[S1SG]|Gloss=-S1SG|nWord=3|RX=[PRO:ANY]|TokenType=InflAff
 7	pah	pah	VERB	_	_	8	comp:aux/m	_	AlignBegin=174895|AlignEnd=174986|GE=move|Gloss=move|nWord=3|RX=[VT]|TokenType=Root
 8	-pa		AUX	_	Person=1	0	root	_	AlignBegin=174986|AlignEnd=175078|GE=[S1SG:FUT]|Gloss=-S1SG:FUT|nWord=3|RX=[V:ANY]|TokenType=InflAff
