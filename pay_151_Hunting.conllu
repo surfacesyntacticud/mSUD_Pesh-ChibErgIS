@@ -1850,7 +1850,7 @@
 19	ã	ã	PRON	_	_	20	comp:obj	_	AlignBegin=265495|AlignEnd=265850|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=16|RX=[PRO]|TokenType=Root
 20	=yã		ADP	_	_	18	parataxis	_	AlignBegin=265850|AlignEnd=266205|GE=[LOC]|Gloss==LOC|nWord=17|RX=[POST]|TokenType=Clit
 21	tah	tah	NOUN	_	_	22	comp/m	_	AlignBegin=266205|AlignEnd=266383|GE=foot|Gloss=foot|nWord=18|RX=[N]|TokenType=Root
-22	-a		AUX	_	_	16	subj@scrap	_	AlignBegin=266383|AlignEnd=266560|GE=[NMLZ]|Gloss=-NMLZ|nWord=18|RX=[V>N]|TokenType=InflAff
+22	-a		AUX	_	_	16	subj	_	AlignBegin=266383|AlignEnd=266560|GE=[NMLZ]|Gloss=-NMLZ|nWord=18|RX=[V>N]|Scrap=Yes|TokenType=InflAff
 23	a-		PRON	_	_	24	udep:poss/m	_	AlignBegin=266560|AlignEnd=266738|GE=[POSS3SG]|Gloss=POSS3SG-|nWord=19|RX=[N:ANY]|TokenType=InflAff
 24	tah	tah	NOUN	_	_	25	comp:obj	_	AlignBegin=266738|AlignEnd=266915|GE=foot|Gloss=foot|nWord=19|RX=[N]|TokenType=Root
 25	=ma		PART	_	_	22	conj:dicto	_	AlignBegin=266915|AlignEnd=267270|GE=[TOP]|Gloss==TOP|nWord=20|RX=[PRT]|TokenType=Clit

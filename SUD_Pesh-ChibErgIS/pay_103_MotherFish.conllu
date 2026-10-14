@@ -196,7 +196,7 @@
 # text_phrase-gls-wg = DEM.MED TOP tail:3 only see:PST:3PL>3 REP
 # text_phrase-gls-de = Madre_peces_008_DL
 1	toʔ	toʔ	PRON	_	_	2	comp:obj	_	AlignBegin=52315|AlignEnd=52525|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=toʔ|nWord=1|RX=[PRO]|TokenType=Root|Word=toʔ
-2	=ma	=ma	PART	_	_	3	det	_	AlignBegin=52525|AlignEnd=52735|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
+2	=ma	=ma	PART	_	_	5	subj	_	AlignBegin=52525|AlignEnd=52735|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
 3	apar	par	NOUN	_	_	5	comp:obj	_	AlignBegin=52735|AlignEnd=52945|Gloss=tail|MGloss=POSS3SG- tail|MSeg=a-par|nWord=3|RX=[N]|TokenType=Root|Word=apar|wordform=a-par
 4	=pero	=pero	PART	_	_	3	mod	_	AlignBegin=52945|AlignEnd=53155|Gloss==only|MGloss==only|MSeg==pero|nWord=4|RX=[PRT]|TokenType=Clit|Word=pero
 5	ʃãeri	ʃã	VERB	_	_	6	comp:obj	_	AlignBegin=53155|AlignEnd=53365|Gloss=see|MGloss=O3SG- see -S3PL -PST|MSeg=Ø-ʃã-er-i|nWord=5|RX=[VT]|TokenType=Root|Word=ʃẽri|wordform=Ø-ʃã-er-i
@@ -370,20 +370,20 @@
 8	.	_	PUNCT	_	_	7	punct	_	AlignBegin=85684|AlignEnd=85926|Gloss=.|MGloss=.|MSeg=.|nWord=8|Word=.
 
 # sent_id = 103_16-16
+# text = toʔ ma wiʃã , wiʃã akaki riʔ , pataɲãh yo ma , pataa .
 # speaker_id = @DL
 # sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
 # sent_timecode = 86023, 95404
 # morphemic_text = toʔ =ma wiʃã , wiʃã a- kaki =r -Ø -iʔ , pa- ta- yãh -a =yo =ma , pataa .
-# text = toʔ ma wiʃã , wiʃã akaki riʔ , pataɲãh yo ma , pataa .
-# text_en = That fish was the Mother of the fish, in our language.
+# text_en = That one was the Mother of the fish, in our language.
 # text_phrase-gls-es = Era la mamá de los peces
 # text_phrase-gls-pro = || ˈtóʔmà ˈwìtʃã̀ːˈʔa (2.0s) || ˈwìtʃã̀ˈʔa kàˈkàʔkīˈɾíʔ (1.3s) || pàˈtàːɲāhˈjómàːː (1.6s) || pàˈtàːːː (0.4s) ||
 # text_phrase-gls-it = tóʔmà wìtʃã̀ wìtʃã̀ àkàkīɾíʔ pàtàːɲāyómàː pàtàː
 # text_phrase-gls-wg = DEM.MED TOP fish fish mother:3 COP:PST:3 say:NMLZ:INCL INS TOP HES
 # text_phrase-gls-de = Madre_peces_017_DL
 1	toʔ	toʔ	PRON	_	_	2	comp:obj	_	AlignBegin=86023|AlignEnd=86693|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=toʔ|nWord=1|RX=[PRO]|TokenType=Root|Word=toʔ
-2	=ma	=ma	PART	_	_	3	det	_	AlignBegin=86693|AlignEnd=87363|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
-3	wiʃã	wiʃã	NOUN	_	_	7	subj	_	AlignBegin=87363|AlignEnd=88033|Gloss=fish|MGloss=fish|MSeg=wiʃã|nWord=3|RX=[N]|TokenType=Root|Word=wiʃã
+2	=ma	=ma	PART	_	_	7	subj	_	AlignBegin=86693|AlignEnd=87363|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
+3	wiʃã	wiʃã	NOUN	_	_	5	conj:dicto	_	AlignBegin=87363|AlignEnd=88033|Gloss=fish|MGloss=fish|MSeg=wiʃã|nWord=3|RX=[N]|TokenType=Root|Word=wiʃã
 4	,	_	PUNCT	_	_	3	punct	_	AlignBegin=88033|AlignEnd=88703|MSeg=,|nWord=4|Word=,
 5	wiʃã	wiʃã	NOUN	_	_	6	mod:poss	_	AlignBegin=88703|AlignEnd=89373|Gloss=fish|MGloss=fish|MSeg=wiʃã|nWord=5|RX=[N]|TokenType=Root|Word=wiʃã
 6	akaki	kaki	NOUN	_	_	7	comp:pred	_	AlignBegin=89373|AlignEnd=90043|Gloss=mother|MGloss=POSS3SG- mother|MSeg=a-kaki|nWord=6|RX=[N]|TokenType=Root|Word=akaki|wordform=a-kaki
@@ -646,7 +646,7 @@
 14	=na	=na	PART	_	_	0	root	_	AlignBegin=135451|AlignEnd=135774|Gloss==REP|MGloss==REP|MSeg==na|nWord=13|RX=[PRT]|TokenType=Clit|Word=na
 15	toʔ	toʔ	PRON	_	_	18	det	_	AlignBegin=135774|AlignEnd=136097|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=toʔ|nWord=14|RX=[PRO]|TokenType=Root|Word=toʔ
 16	,	_	PUNCT	_	_	15	punct	_	AlignBegin=136097|AlignEnd=136420|MSeg=,|nWord=15|Word=,
-17	wiʃã	wiʃã	NOUN	_	_	18	mod	_	AlignBegin=136420|AlignEnd=136743|Gloss=fish|MGloss=fish|MSeg=wiʃã|nWord=16|RX=[N]|TokenType=Root|Word=wiʃã
+17	wiʃã	wiʃã	NOUN	_	_	18	udep:poss	_	AlignBegin=136420|AlignEnd=136743|Gloss=fish|MGloss=fish|MSeg=wiʃã|nWord=16|RX=[N]|TokenType=Root|Word=wiʃã
 18	akaki	kaki	NOUN	_	_	19	comp:obj	_	AlignBegin=136743|AlignEnd=137066|Gloss=mother|MGloss=POSS3SG- mother|MSeg=a-kaki|nWord=17|RX=[N]|TokenType=Root|Word=akaki|wordform=a-kaki
 19	=ya	=ya	ADP	_	Case=Erg	12	subj	_	AlignBegin=137066|AlignEnd=137389|Gloss==ERG|MGloss==ERG|MSeg==ya|nWord=18|RX=[PRT]|TokenType=Clit|Word=ɲa
 20	.	_	PUNCT	_	_	14	punct	_	AlignBegin=137389|AlignEnd=137705|Gloss=.|MGloss=.|MSeg=.|nWord=19|Word=.

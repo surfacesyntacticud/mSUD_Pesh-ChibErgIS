@@ -509,7 +509,7 @@
 1	ta-	_	PRON	N:ANY	_	2	det:poss	_	AlignBegin=124106|AlignEnd=124311|GE=[POSS1]|Gloss=POSS1-|nWord=1|RX=[N:ANY]|TokenType=InflAff|Word=takaki
 2	kaki	kaki	NOUN	N	_	3	comp:obj	_	AlignBegin=124311|AlignEnd=124516|GE=mother|Gloss=mother|nWord=1|RX=[N]|TokenType=Root|Word=takaki
 3	=mã	=mã	PART	PRT	_	7	conj:dicto	_	AlignBegin=124516|AlignEnd=124926|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit|Word=mã
-4	ausiʔ	ausiʔ	NOUN	N	_	2	comp:pred@scrap	_	AlignBegin=124926|AlignEnd=125336|GE=poor|Gloss=poor|nWord=3|RX=[N]|TokenType=Root|Word=ausiʔ
+4	ausiʔ	ausiʔ	NOUN	N	_	2	comp:pred	_	AlignBegin=124926|AlignEnd=125336|GE=poor|Gloss=poor|nWord=3|RX=[N]|Scrap=Yes|TokenType=Root|Word=ausiʔ
 5	ta-	_	PRON	N:ANY	_	6	det:poss	_	AlignBegin=125336|AlignEnd=125541|GE=[POSS1]|Gloss=POSS1-|nWord=4|RX=[N:ANY]|TokenType=InflAff|Word=tatus
 6	tus	tus	NOUN	N	_	7	comp:obj	_	AlignBegin=125541|AlignEnd=125746|GE=father|Gloss=father|nWord=4|RX=[N]|TokenType=Root|Word=tatus
 7	=mã	=mã	PART	PRT	_	9	conj:dicto	_	AlignBegin=125746|AlignEnd=126156|GE=[TOP]|Gloss==TOP|nWord=5|RX=[PRT]|TokenType=Clit|Word=man
@@ -984,7 +984,7 @@
 3	-a	_	PRON	PRO:ANY	_	4	subj/m	_	AlignBegin=212441|AlignEnd=212595|GE=[S1SG]|Gloss=-S1SG|nWord=1|RX=[PRO:ANY]|TokenType=InflAff|Word=ameʃkari
 4	-ri	_	AUX	V:ANY	_	0	root	_	AlignBegin=212595|AlignEnd=212748|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=ameʃkari
 5	tas	tas	PRON	PRO	_	11	subj	_	AlignBegin=212748|AlignEnd=213363|GE=[PRO1]|Gloss=PRO1|nWord=2|RX=[PRO]|TokenType=Root|Word=tas
-6	tis	tis	NOUN	<NOT_SURE>	_	5	mod@scrap	_	AlignBegin=213363|AlignEnd=213978|GE=a.little|Gloss=a.little|nWord=3|RX=[<NOT_SURE>]|TokenType=Root|Word=tis
+6	tis	tis	NOUN	<NOT_SURE>	_	5	mod	_	AlignBegin=213363|AlignEnd=213978|GE=a.little|Gloss=a.little|nWord=3|RX=[<NOT_SURE>]|Scrap=Yes|TokenType=Root|Word=tis
 7	ĩ	ĩ	PRON	PRO	_	11	comp:obj	_	AlignBegin=213978|AlignEnd=214593|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=4|RX=[PRO]|TokenType=Root|Word=ĩ
 8	=ɲa	=ɲa	DET	PRT	_	7	compound	_	AlignBegin=214593|AlignEnd=215208|GE=[INDF]|Gloss==INDF|nWord=5|RX=[PRT]|TokenType=Clit|Word=ɲãh
 9	a-	_	PRON	VT:ANY	_	10	comp:obj@appl/m	_	AlignBegin=215208|AlignEnd=215362|GE=[O3SG]|Gloss=O3SG-|nWord=6|RX=[VT:ANY]|TokenType=InflAff|Word=artʃuiʃpã
@@ -1448,7 +1448,7 @@
 2	=kan	=kan	PART	PRT	_	14	mod	_	AlignBegin=293806|AlignEnd=294439|GE=[SIM]|Gloss==SIM|nWord=2|RX=[PRT]|TokenType=Clit|Word=kãn
 3	ʔãã	ʔãã	INTJ	<NOT_SURE>	_	14	discourse	_	AlignBegin=294439|AlignEnd=295072|GE=[HES]|Gloss=HES|nWord=3|RX=[<NOT_SURE>]|TokenType=Root|Word=ʔãã
 4	ʔãã	ʔãã	INTJ	<NOT_SURE>	_	14	discourse	_	AlignBegin=295072|AlignEnd=295705|GE=[HES]|Gloss=HES|nWord=4|RX=[<NOT_SURE>]|TokenType=Root|Word=ʔãã
-5	ĩ	ĩ	PRON	PRO	_	6	det@scrap	_	AlignBegin=295705|AlignEnd=296338|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=5|RX=[PRO]|TokenType=Root|Word=ĩ
+5	ĩ	ĩ	PRON	PRO	_	6	det	_	AlignBegin=295705|AlignEnd=296338|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=5|RX=[PRO]|Scrap=Yes|TokenType=Root|Word=ĩ
 6	ã	ã	PRON	PRO	_	7	comp:obj	_	AlignBegin=296338|AlignEnd=296971|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=6|RX=[PRO]|TokenType=Root|Word=ã
 7	=yã	=yã	ADP	POST	_	14	mod:tmod	_	AlignBegin=296971|AlignEnd=297604|GE=[LOC]|Gloss==LOC|nWord=7|RX=[POST]|TokenType=Clit|Word=ɲã
 8	tʃena	tʃena	NOUN	N	_	11	subj	_	AlignBegin=297604|AlignEnd=298237|GE=disease|Gloss=disease|nWord=8|RX=[N]|TokenType=Root|Word=tʃẽnã
@@ -1592,7 +1592,7 @@
 3	=ras	=ras	PART	PRT	_	23	mod	_	AlignBegin=321790|AlignEnd=322302|GE=[REAS]|Gloss==REAS|nWord=3|RX=[PRT]|TokenType=Clit|Word=rãs
 4	ukwã	ukwã	PART	PRT	_	23	discourse	_	AlignBegin=322302|AlignEnd=322814|GE=[CFM]|Gloss=CFM|nWord=4|RX=[PRT]|TokenType=Root|Word=ukwã
 5	tewa	tewa	ADV	ADV	_	23	mod	_	AlignBegin=322814|AlignEnd=323326|GE=still|Gloss=still|nWord=5|RX=[ADV]|TokenType=Root|Word=tẽwa
-6	tas	tas	PRON	PRO	_	7	subj@scrap	_	AlignBegin=323326|AlignEnd=323838|GE=[PRO1]|Gloss=PRO1|nWord=6|RX=[PRO]|TokenType=Root|Word=tas
+6	tas	tas	PRON	PRO	_	7	subj	_	AlignBegin=323326|AlignEnd=323838|GE=[PRO1]|Gloss=PRO1|nWord=6|RX=[PRO]|Scrap=Yes|TokenType=Root|Word=tas
 7	ã	ã	PRON	PRO	_	8	det	_	AlignBegin=323838|AlignEnd=324350|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=7|RX=[PRO]|TokenType=Root|Word=ã
 8	ĩsi	ĩsi	NOUN	N	_	12	comp:obj	_	AlignBegin=324350|AlignEnd=324862|GE=medicine|Gloss=medicine|nWord=8|RX=[N]|TokenType=Root|Word=ĩsi
 9	ĩsi	ĩsi	NOUN	N	_	8	conj:dicto	_	AlignBegin=324862|AlignEnd=325374|GE=medicine|Gloss=medicine|nWord=9|RX=[N]|TokenType=Root|Word=ĩsi
@@ -1850,7 +1850,7 @@
 # text_phrase-gls-pro = || kāˈtɾóòmã́ʰ (1.5s) || àˈwáˀ (0.1s) || ˈtèʃkĩ̀ kàˈkìùˈkã́njã̀ (0.9s) ||
 # text_phrase-gls-wg = herb TOP also fever make:PST:3>3PL make:CAUS:PFV =LOC
 1	katru	katru	NOUN	N	_	2	comp:obj	_	AlignBegin=369033|AlignEnd=369607|GE=herb|Gloss=herb|nWord=1|RX=[N]|TokenType=Root|Word=katru
-2	=mã	=mã	PART	PRT	_	8	comp:obl@scrap	_	AlignBegin=369607|AlignEnd=370181|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit|Word=mã
+2	=mã	=mã	PART	PRT	_	8	comp:obl	_	AlignBegin=369607|AlignEnd=370181|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|Scrap=Yes|TokenType=Clit|Word=mã
 3	awah	awah	ADV	ADV	_	8	mod	_	AlignBegin=370181|AlignEnd=370755|GE=also|Gloss=also|nWord=3|RX=[ADV]|TokenType=Root|Word=awah
 4	teʃki	teʃki	NOUN	N	_	6	subj	_	AlignBegin=370755|AlignEnd=371329|GE=fever|Gloss=fever|nWord=4|RX=[N]|TokenType=Root|Word=teʃkĩ
 5	ka-	_	PRON	V:ANY	_	6	comp:obj/m	_	AlignBegin=371329|AlignEnd=371473|GE=[O3PL]|Gloss=O3PL-|nWord=5|RX=[V:ANY]|TokenType=InflAff|Word=kaki
@@ -1874,7 +1874,7 @@
 # text_phrase-gls-it = ã̀ (pɨ̀) péjà pàʰnõ̀kìùkã́njã̀
 # text_phrase-gls-pro = || ˈã̀ pɨ̀ ˈpéjà pàʰˈnõ̀kìùˈkã́njã̀ (0.9s) ||
 # text_phrase-gls-wg = DEM.DIST belly:3PL hurt:NMLZbad make:PST:3>3 make:CAUS:PFV =LOC
-1	ã	ã	PRON	PRO	_	2	det@scrap	_	AlignBegin=373960|AlignEnd=374279|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=ã
+1	ã	ã	PRON	PRO	_	2	det	_	AlignBegin=373960|AlignEnd=374279|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=1|RX=[PRO]|Scrap=Yes|TokenType=Root|Word=ã
 2	peʃ-	_	PRON	N:ANY	_	3	det:poss	_	AlignBegin=374279|AlignEnd=374439|GE=[POSS3PL]|Gloss=POSS3PL|nWord=2|RX=[N:ANY]|TokenType=InflAff|Word=peʃya
 3	ya	ya	NOUN	N	_	7	subj	_	AlignBegin=374439|AlignEnd=374598|GE=belly|Gloss=belly|nWord=2|RX=[N]|TokenType=Root|Word=peʃya
 4	pah	pah	VERB	V	_	5	comp/m	_	AlignBegin=374598|AlignEnd=374758|GE=hurt|Gloss=hurt|nWord=3|RX=[V]|TokenType=Root|Word=pahnõ
@@ -1985,7 +1985,7 @@
 2	=yã	=yã	ADP	POST	_	13	mod:tmod	_	AlignBegin=395037|AlignEnd=395828|GE=[LOC]|Gloss==LOC|nWord=2|RX=[POST]|TokenType=Clit|Word=yã
 3	ĩ	ĩ	PRON	PRO	_	4	comp:obj	_	AlignBegin=395828|AlignEnd=396619|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=3|RX=[PRO]|TokenType=Root|Word=ĩ
 4	=kan	=kan	PART	PRT	_	13	mod	_	AlignBegin=396619|AlignEnd=397410|GE=[SIM]|Gloss==SIM|nWord=4|RX=[PRT]|TokenType=Clit|Word=kã
-5	ĩ	ĩ	PRON	PRO	_	6	det@scrap	_	AlignBegin=397410|AlignEnd=398201|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=5|RX=[PRO]|TokenType=Root|Word=ĩ
+5	ĩ	ĩ	PRON	PRO	_	6	det	_	AlignBegin=397410|AlignEnd=398201|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=5|RX=[PRO]|Scrap=Yes|TokenType=Root|Word=ĩ
 6	ũ-	_	PRON	PRO:ANY	Clusivity=Ex	7	mod/m	_	AlignBegin=398201|AlignEnd=398399|GE=[EXCL]|Gloss=EXCL-|nWord=6|RX=[PRO:ANY]|TokenType=InflAff|Word=ũtaoryaha
 7	ta-	_	PRON	N:ANY	_	8	det:poss	_	AlignBegin=398399|AlignEnd=398597|GE=[POSS1]|Gloss=POSS1-|nWord=6|RX=[N:ANY]|TokenType=InflAff|Word=ũtaoryaha
 8	oryah	oryah	NOUN	N	_	9	comp/m	_	AlignBegin=398597|AlignEnd=398795|GE=culture|Gloss=culture|nWord=6|RX=[N]|TokenType=Root|Word=ũtaoryaha

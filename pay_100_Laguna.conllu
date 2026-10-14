@@ -59,7 +59,7 @@
 12	pa-		PRON	_	Clusivity=In	13	mod/m	_	AlignBegin=16837|AlignEnd=16924|GE=[INCL]|Gloss=INCL-|nWord=9|RX=[N:ANY]|TokenType=InflAff
 13	ta-		PRON	_	_	14	det:poss/m	_	AlignBegin=16924|AlignEnd=17011|GE=[POSS1]|Gloss=POSS1-|nWord=9|RX=[N:ANY]|TokenType=InflAff
 14	ka	ka	VERB	_	_	15	comp/m	_	AlignBegin=17011|AlignEnd=17098|GE=make|Gloss=make|nWord=9|RX=[VT]|TokenType=Root
-15	-tah		SCONJ	_	_	10	subj@scrap	_	AlignBegin=17098|AlignEnd=17186|DerPos=NOUN|GE=[AG].[NMLZ]|Gloss=-AG.NMLZ|nWord=9|RX=[V>N]|TokenType=DerAff
+15	-tah		SCONJ	_	_	10	subj	_	AlignBegin=17098|AlignEnd=17186|DerPos=NOUN|GE=[AG].[NMLZ]|Gloss=-AG.NMLZ|nWord=9|RX=[V>N]|Scrap=Yes|TokenType=DerAff
 16	ke	ke	ADV	_	_	15	mod	_	AlignBegin=17186|AlignEnd=17535|GE=already|Gloss=already|nWord=10|RX=[ADV]|TokenType=Root
 17	,		PUNCT	_	_	16	punct	_	AlignBegin=17535|AlignEnd=17884|nWord=11
 18	ah	ah	INTJ	_	_	21	conj:dicto	_	AlignBegin=17884|AlignEnd=18233|GE=[INTERJ]|Gloss=INTERJ|nWord=12|RX=[INTERJ]|TokenType=Root

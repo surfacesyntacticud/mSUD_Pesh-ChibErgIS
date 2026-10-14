@@ -1578,7 +1578,7 @@
 2	tigre	tigre	X	_	_	1	mod	_	AlignBegin=161062|AlignEnd=161386|GE=[SPA_tiger]|Gloss=SPA_tiger|nWord=2|RX=[<NOT_SURE>]|TokenType=Root|Word=tigre
 3	,	_	PUNCT	_	_	2	punct	_	AlignBegin=161386|AlignEnd=161710|nWord=3|Word=,
 4	ah	ah	INTJ	_	_	8	discourse	_	AlignBegin=161710|AlignEnd=162034|GE=[INTERJ]|Gloss=INTERJ|nWord=4|RX=[INTERJ]|TokenType=Root|Word=aa
-5	ẽketa	ẽketa	NOUN	_	_	8	mod:tmod@scrap	_	AlignBegin=162034|AlignEnd=162358|GE=now|Gloss=now|nWord=5|RX=[N]|TokenType=Root|Word=ẽketa
+5	ẽketa	ẽketa	NOUN	_	_	8	mod:tmod	_	AlignBegin=162034|AlignEnd=162358|GE=now|Gloss=now|nWord=5|RX=[N]|Scrap=Yes|TokenType=Root|Word=ẽketa
 6	,	_	PUNCT	_	_	5	punct	_	AlignBegin=162358|AlignEnd=162682|nWord=6|Word=,
 7	ta-	_	PRON	_	_	8	det:poss/m	_	AlignBegin=162682|AlignEnd=162844|GE=[POSS1]|Gloss=POSS1-|nWord=7|RX=[N:ANY]|TokenType=InflAff|Word=tauku
 8	uku	uku	NOUN	_	_	11	comp:obj	_	AlignBegin=162844|AlignEnd=163006|GE=father.in.law|Gloss=father.in.law|nWord=7|RX=[N]|TokenType=Root|Word=tauku

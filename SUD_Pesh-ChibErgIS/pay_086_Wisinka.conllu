@@ -1168,7 +1168,7 @@
 5	=pe	=pe	PART	PRT	_	4	mod	_	AlignBegin=273542|AlignEnd=274213|Gloss==only|MGloss==only|MSeg==pe|nWord=3|RX=[PRT]|TokenType=Clit|Word=me
 6	ʃereeri	ʃere	VERB	V:ANY	_	0	root	_	AlignBegin=274213|AlignEnd=274884|Gloss=go.down|MGloss=go.down -S3PL -PST|MSeg=ʃere-er-i|nWord=4|RX=[VI]|TokenType=Root|Word=ʃeleri|wordform=ʃere-er-i
 7	ata	ata	NOUN	N	_	8	comp:obj	_	AlignBegin=274884|AlignEnd=275555|Gloss=other.side|MGloss=other.side|MSeg=ata|nWord=5|RX=[N]|TokenType=Root|Word=ata
-8	=ma	=ma	PART	PRT	_	6	mod:tmod	_	AlignBegin=275555|AlignEnd=276226|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=6|RX=[PRT]|TokenType=Clit|Word=ma
+8	=ma	=ma	PART	PRT	_	6	mod:lmod	_	AlignBegin=275555|AlignEnd=276226|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=6|RX=[PRT]|TokenType=Clit|Word=ma
 9	teweh	teweh	VERB	VI	_	10	compound:svc	_	AlignBegin=276226|AlignEnd=276361|Gloss=go.up|MGloss=go.up|MSeg=teweh|nWord=7|RX=[VI]|TokenType=Root|Word=twẽtapehĩ
 10	tapehi	peh	VERB	V:ANY	Voice=Mid	6	conj:coord	_	AlignBegin=276361|AlignEnd=276900|Gloss=hang|MGloss=MID- hang -S3SG -PST|MSeg=ta-peh-Ø-i|nWord=7|RX=[V]|TokenType=Root|Word=twẽtapehĩ|wordform=ta-peh-Ø-i
 

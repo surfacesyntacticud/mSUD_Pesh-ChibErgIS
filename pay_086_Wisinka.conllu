@@ -409,7 +409,7 @@
 4	teʃk	teʃk	VERB	VI	_	6	comp:aux/m	_	AlignBegin=75550|AlignEnd=75626|GE=get.away|Gloss=get.away|nWord=3|RX=[VI]|TokenType=Root|Word=nẽteʃkira
 5	-ir	_	PRON	V:ANY	_	6	subj/m	_	AlignBegin=75626|AlignEnd=75702|GE=[S3PL]|Gloss=-S3PL|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=nẽteʃkira
 6	-wa	_	AUX	V:ANY	_	0	root	_	AlignBegin=75702|AlignEnd=75776|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=nẽteʃkira
-7	###	###	X	_	_	6	mod@scrap	_	AlignBegin=75776|AlignEnd=76080|nWord=4|TokenType=Root|Word=###
+7	###	###	X	_	_	6	mod	_	AlignBegin=75776|AlignEnd=76080|nWord=4|Scrap=Yes|TokenType=Root|Word=###
 8	.	.	PUNCT	_	_	6	punct	_	AlignBegin=75776|AlignEnd=76080|nWord=5|Word=.
 
 # sent_id = 086_20-20
@@ -478,7 +478,7 @@
 11	-Øwa	_	AUX	V:ANY	_	6	conj:coord	_	AlignBegin=101282|AlignEnd=101434|GE=[PFV]|Gloss=-PFV|nWord=4|RX=[V:ANY]|TokenType=InflAff|Word=ʃãʃãbra
 12	to	to	PRON	PRO	_	13	det	_	AlignBegin=101434|AlignEnd=102190|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=5|RX=[PRO]|TokenType=Root|Word=to
 13	pak	pak	NOUN	N	_	8	comp:obj	_	AlignBegin=102190|AlignEnd=102946|GE=lake|Gloss=lake|nWord=6|RX=[N]|TokenType=Root|Word=pak
-14	ĩ	ĩ	PRON	PRO	_	13	det@scrap	_	AlignBegin=102946|AlignEnd=103702|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=7|RX=[PRO]|TokenType=Root|Word=ĩ
+14	ĩ	ĩ	PRON	PRO	_	13	det	_	AlignBegin=102946|AlignEnd=103702|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=7|RX=[PRO]|Scrap=Yes|TokenType=Root|Word=ĩ
 15	tV	tV	VERB	VT	_	18	comp:aux/m	_	AlignBegin=103702|AlignEnd=103854|GE=say|Gloss=say|nWord=8|RX=[VT]|TokenType=Root|Word=tikelerti
 16	-ka	_	PRON	V:ANY	_	15	comp:obj/m	_	AffLemma=ka-|AlignBegin=103854|AlignEnd=104006|GE=[O3PL]|Gloss=O3PL-|nWord=8|RX=[V:ANY]|TokenType=InflAff|Word=tikelerti|wordform=ka-
 17	-er	_	PRON	V:ANY	_	18	subj/m	_	AlignBegin=104006|AlignEnd=104158|GE=[S3PL]|Gloss=-S3PL|nWord=8|RX=[V:ANY]|TokenType=InflAff|Word=tikelerti
