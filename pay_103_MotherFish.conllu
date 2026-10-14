@@ -789,7 +789,7 @@
 21	=na	=na	PART	_	_	0	root	_	AlignBegin=135451|AlignEnd=135774|GE=[REP]|Gloss==REP|nWord=13|RX=[PRT]|TokenType=Clit|Word=na
 22	toʔ	toʔ	PRON	_	_	26	det	_	AlignBegin=135774|AlignEnd=136097|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=14|RX=[PRO]|TokenType=Root|Word=toʔ
 23	,	_	PUNCT	_	_	22	punct	_	AlignBegin=136097|AlignEnd=136420|nWord=15|Word=,
-24	wiʃã	wiʃã	NOUN	_	_	26	mod	_	AlignBegin=136420|AlignEnd=136743|GE=fish|Gloss=fish|nWord=16|RX=[N]|TokenType=Root|Word=wiʃã
+24	wiʃã	wiʃã	NOUN	_	_	26	udep:poss	_	AlignBegin=136420|AlignEnd=136743|GE=fish|Gloss=fish|nWord=16|RX=[N]|TokenType=Root|Word=wiʃã
 25	a-	_	PRON	_	_	26	det:poss/m	_	AlignBegin=136743|AlignEnd=136905|GE=[POSS3SG]|Gloss=POSS3SG-|nWord=17|RX=[N:ANY]|TokenType=InflAff|Word=akaki
 26	kaki	kaki	NOUN	_	_	27	comp:obj	_	AlignBegin=136905|AlignEnd=137066|GE=mother|Gloss=mother|nWord=17|RX=[N]|TokenType=Root|Word=akaki
 27	=ya	=ya	ADP	_	Case=Erg	16	subj	_	AlignBegin=137066|AlignEnd=137389|GE=[ERG]|Gloss==ERG|nWord=18|RX=[PRT]|TokenType=Clit|Word=ɲa
