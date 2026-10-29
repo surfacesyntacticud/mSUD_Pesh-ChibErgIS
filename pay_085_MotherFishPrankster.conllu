@@ -542,7 +542,7 @@
 4	kara	kara	NOUN	_	_	3	mod	_	AlignBegin=84649|AlignEnd=84877|GE=long|Gloss=long|nWord=4|RX=[N]|TokenType=Root
 5	as	as	DET	_	_	3	det	_	AlignBegin=84877|AlignEnd=85105|GE=[INDF].[ART]|Gloss=INDF.ART|nWord=5|RX=[DET]|TokenType=Root
 6	a-		PRON	_	_	7	comp:obj/m	_	AlignBegin=85105|AlignEnd=85151|GE=[O3SG]|Gloss=O3SG-|nWord=6|RX=[VT:ANY]|TokenType=InflAff
-7	ka-		PRON	_	_	10	comp:aux/m	_	AlignBegin=85151|AlignEnd=85197|GE=[O3PL]|Gloss=O3PL-|nWord=6|RX=[V:ANY]|TokenType=InflAff
+7	ka-		AUX	_	_	10	comp:aux/m	_	AlignBegin=85151|AlignEnd=85197|GE=[O3PL]|Gloss=APPL.R-|nWord=6|RX=[V:ANY]|TokenType=InflAff
 8	ʃa	tʃa	VERB	_	_	7	comp:aux/m	_	AlignBegin=85197|AlignEnd=85243|GE=be.there|Gloss=be.there|nWord=6|RX=[VI]|TokenType=Root
 9	-Ø		PRON	_	_	10	subj/m	_	AlignBegin=85243|AlignEnd=85289|GE=[S3SG]|Gloss=-S3SG|nWord=6|RX=[V:ANY]|TokenType=InflAff
 10	-i		AUX	_	_	0	root	_	AlignBegin=85289|AlignEnd=85333|GE=[PST]|Gloss=-PST|nWord=6|RX=[V:ANY]|TokenType=InflAff
@@ -826,7 +826,7 @@
 12	=yã		ADP	_	_	7	mod:lmod	_	AlignBegin=123188|AlignEnd=123503|GE=[LOC]|Gloss==LOC|nWord=6|RX=[POST]|TokenType=Clit
 13	=hã		PART	_	_	12	mod	_	AlignBegin=123503|AlignEnd=123818|GE=[FOC]|Gloss==FOC|nWord=7|RX=[PRT]|TokenType=Clit
 14	,		PUNCT	_	_	13	punct	_	AlignBegin=123818|AlignEnd=124133|nWord=8
-15	ĩ	ĩ	PRON	_	_	16	det	_	AlignBegin=124133|AlignEnd=124448|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=9|RX=[PRO]|TokenType=Root
+15	ĩ	ĩ	PRON	_	ExtPos=DET	16	det	_	AlignBegin=124133|AlignEnd=124448|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=9|RX=[PRO]|TokenType=Root
 16	aso	aso	NOUN	_	_	17	udep:poss	_	AlignBegin=124448|AlignEnd=124606|GE=water|Gloss=water|nWord=10|RX=[N]|TokenType=Root
 17	wa	wa	NOUN	_	_	18	comp:obj	_	AlignBegin=124606|AlignEnd=124763|GE=eye|Gloss=eye|nWord=10|RX=[N]|TokenType=Root
 18	=ken		ADP	_	_	7	mod:lmod	_	AlignBegin=124763|AlignEnd=125078|GE=[LOC]|Gloss==LOC|nWord=11|RX=[POST]|TokenType=Clit
@@ -1046,7 +1046,7 @@
 2	,		PUNCT	_	_	1	punct	_	AlignBegin=153027|AlignEnd=153378|nWord=2
 3	tas	tas	PRON	_	_	4	comp:obj	_	AlignBegin=153378|AlignEnd=153729|GE=[PRO1]|Gloss=PRO1|nWord=3|RX=[PRO]|TokenType=Root
 4	=ma		PART	_	_	11	subj	_	AlignBegin=153729|AlignEnd=154080|GE=[TOP]|Gloss==TOP|nWord=4|RX=[PRT]|TokenType=Clit
-5	to	to	PRON	_	_	7	det	_	AlignBegin=154080|AlignEnd=154431|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=5|RX=[PRO]|TokenType=Root
+5	to	to	PRON	_	ExtPos=DET	7	det	_	AlignBegin=154080|AlignEnd=154431|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=5|RX=[PRO]|TokenType=Root
 6	a-		PRON	_	_	7	udep:poss/m	_	AlignBegin=154431|AlignEnd=154607|GE=[POSS3SG]|Gloss=POSS3SG-|nWord=6|RX=[N:ANY]|TokenType=InflAff
 7	kaki	kaki	NOUN	_	_	8	comp:obj	_	AlignBegin=154607|AlignEnd=154782|GE=mother|Gloss=mother|nWord=6|RX=[N]|TokenType=Root
 8	=ra		ADP	_	Case=Abs	10	comp:obj	_	AlignBegin=154782|AlignEnd=155133|GE=[ABS]|Gloss==ABS|nWord=7|RX=[PRT]|TokenType=Clit
@@ -1301,7 +1301,7 @@
 10	=hãʔ		PART	_	_	9	mod	_	AlignBegin=185585|AlignEnd=185877|GE=[FOC]|Gloss==FOC|nWord=4|RX=[PRT]|TokenType=Clit
 11	vara	vara	X	_	_	5	dislocated:obj	_	AlignBegin=185877|AlignEnd=186169|GE=[SPA_rod]|Gloss=SPA_rod|nWord=5|RX=[<NOT_SURE>]|TokenType=Root
 12	,		PUNCT	_	_	11	punct	_	AlignBegin=186169|AlignEnd=186461|nWord=6
-13	ã	ã	PRON	_	_	14	det	_	AlignBegin=186461|AlignEnd=186753|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=7|RX=[PRO]|TokenType=Root
+13	ã	ã	PRON	_	ExtPos=DET	14	det	_	AlignBegin=186461|AlignEnd=186753|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=7|RX=[PRO]|TokenType=Root
 14	pẽʔh	pẽʔh	NOUN	_	_	11	parataxis	_	AlignBegin=186753|AlignEnd=187045|GE=wood|Gloss=wood|nWord=8|RX=[N]|TokenType=Root
 15	kãra	kãra	NOUN	_	_	14	mod	_	AlignBegin=187045|AlignEnd=187337|GE=long|Gloss=long|nWord=9|RX=[N]|TokenType=Root
 16	.		PUNCT	_	_	9	punct	_	AlignBegin=187337|AlignEnd=187634|Gloss=.|nWord=10
