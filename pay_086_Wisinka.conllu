@@ -1560,7 +1560,7 @@
 8	laguna	laguna	X	<NOT_SURE>	_	11	conj:dicto	_	AlignBegin=282379|AlignEnd=283022|GE=[SPA_lake]|Gloss=SPA_lake|nWord=4|RX=[<NOT_SURE>]|TokenType=Root|Word=laguna
 9	ã	ã	PRON	PRO	_	10	det	_	AlignBegin=283022|AlignEnd=283665|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=5|RX=[PRO]|TokenType=Root|Word=ã
 10	laguna	laguna	X	<NOT_SURE>	_	11	comp:obj	_	AlignBegin=283665|AlignEnd=284308|GE=[SPA_lake]|Gloss=SPA_lake|nWord=6|RX=[<NOT_SURE>]|TokenType=Root|Word=laguna
-11	=ro	=ro	ADP	PRT	Case=Abs	3	comp:obj	_	AlignBegin=284308|AlignEnd=284953|GE=[ABS]|Gloss==ABS|nWord=7|RX=[PRT]|TokenType=Clit|Word=ro
+11	=ro	=ro	ADP	PRT	Case=Abs	3	dislocated:obj	_	AlignBegin=284308|AlignEnd=284953|GE=[ABS]|Gloss==ABS|nWord=7|RX=[PRT]|TokenType=Clit|Word=ro
 
 # sent_id = 086_69-69
 # speaker_id = @VG
